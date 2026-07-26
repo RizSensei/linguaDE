@@ -1,0 +1,733 @@
+{
+  "theme": "Asking for Directions",
+  "words": [
+    {
+      "de": "die Richtung",
+      "en": "direction",
+      "sentence_de": "Kannst du mir die Richtung zeigen?",
+      "sentence_en": "Can you show me the direction?"
+    },
+    {
+      "de": "der Weg",
+      "en": "way / path",
+      "sentence_de": "Ich suche den Weg zum Bahnhof.",
+      "sentence_en": "I'm looking for the way to the station."
+    },
+    {
+      "de": "die Straße",
+      "en": "street",
+      "sentence_de": "Welche Straße führt zum Marktplatz?",
+      "sentence_en": "Which street leads to the market square?"
+    },
+    {
+      "de": "die Kreuzung",
+      "en": "crossroads / intersection",
+      "sentence_de": "An der Kreuzung musst du links abbiegen.",
+      "sentence_en": "At the intersection you have to turn left."
+    },
+    {
+      "de": "die Ampel",
+      "en": "traffic light",
+      "sentence_de": "Gehe bis zur Ampel und dann rechts.",
+      "sentence_en": "Go to the traffic light and then right."
+    },
+    {
+      "de": "die Ecke",
+      "en": "corner",
+      "sentence_de": "Die Bank ist gleich um die Ecke.",
+      "sentence_en": "The bank is just around the corner."
+    },
+    {
+      "de": "die Brücke",
+      "en": "bridge",
+      "sentence_de": "Überquere die Brücke und gehe weiter geradeaus.",
+      "sentence_en": "Cross the bridge and keep going straight."
+    },
+    {
+      "de": "der Kreisel / der Kreisverkehr",
+      "en": "roundabout",
+      "sentence_de": "Am Kreisel nimmst du die dritte Ausfahrt.",
+      "sentence_en": "At the roundabout you take the third exit."
+    },
+    {
+      "de": "die Fußgängerzone",
+      "en": "pedestrian zone",
+      "sentence_de": "Die Fußgängerzone beginnt hinter dem Hotel.",
+      "sentence_en": "The pedestrian zone starts behind the hotel."
+    },
+    {
+      "de": "der Bürgersteig / der Gehweg",
+      "en": "sidewalk / pavement",
+      "sentence_de": "Geh auf dem Bürgersteig, das ist sicherer.",
+      "sentence_en": "Walk on the sidewalk, it's safer."
+    },
+    {
+      "de": "die Gasse",
+      "en": "alley / lane",
+      "sentence_de": "Durch diese kleine Gasse kommst du zum Markt.",
+      "sentence_en": "Through this small alley you get to the market."
+    },
+    {
+      "de": "die Hauptstraße",
+      "en": "main street",
+      "sentence_de": "Die Hauptstraße ist sehr breit und belebt.",
+      "sentence_en": "The main street is very wide and lively."
+    },
+    {
+      "de": "die Nebenstraße",
+      "en": "side street",
+      "sentence_de": "Die Nebenstraße ist ruhiger als die Hauptstraße.",
+      "sentence_en": "The side street is quieter than the main street."
+    },
+    {
+      "de": "der Platz",
+      "en": "square",
+      "sentence_de": "Der Marktplatz ist das Zentrum der Stadt.",
+      "sentence_en": "The market square is the center of the city."
+    },
+    {
+      "de": "das Gebäude",
+      "en": "building",
+      "sentence_de": "Das Gebäude mit dem roten Dach ist das Rathaus.",
+      "sentence_en": "The building with the red roof is the town hall."
+    },
+    {
+      "de": "das Denkmal",
+      "en": "monument",
+      "sentence_de": "Am Denkmal musst du rechts abbiegen.",
+      "sentence_en": "At the monument you have to turn right."
+    },
+    {
+      "de": "der Stadtplan",
+      "en": "city map",
+      "sentence_de": "Kann ich mir deinen Stadtplan kurz ansehen?",
+      "sentence_en": "Can I take a quick look at your city map?"
+    },
+    {
+      "de": "die Karte",
+      "en": "map",
+      "sentence_de": "Auf der Karte ist diese Straße nicht eingezeichnet.",
+      "sentence_en": "This street isn't marked on the map."
+    },
+    {
+      "de": "das GPS",
+      "en": "GPS",
+      "sentence_de": "Mein GPS hat mich leider in die falsche Richtung geschickt.",
+      "sentence_en": "Unfortunately my GPS sent me in the wrong direction."
+    },
+    {
+      "de": "die Wegbeschreibung",
+      "en": "directions (instructions)",
+      "sentence_de": "Gib mir bitte eine genaue Wegbeschreibung.",
+      "sentence_en": "Please give me precise directions."
+    },
+    {
+      "de": "die Orientierung",
+      "en": "orientation",
+      "sentence_de": "In dieser Stadt verliere ich schnell die Orientierung.",
+      "sentence_en": "I quickly lose orientation in this city."
+    },
+    {
+      "de": "der Norden",
+      "en": "north",
+      "sentence_de": "Der Bahnhof liegt im Norden der Stadt.",
+      "sentence_en": "The station lies in the north of the city."
+    },
+    {
+      "de": "der Süden",
+      "en": "south",
+      "sentence_de": "Der Fluss fließt nach Süden.",
+      "sentence_en": "The river flows southward."
+    },
+    {
+      "de": "der Osten",
+      "en": "east",
+      "sentence_de": "Die Sonne geht im Osten auf.",
+      "sentence_en": "The sun rises in the east."
+    },
+    {
+      "de": "der Westen",
+      "en": "west",
+      "sentence_de": "Das Restaurant liegt im Westen der Altstadt.",
+      "sentence_en": "The restaurant is in the west of the old town."
+    },
+    {
+      "de": "die Himmelsrichtung",
+      "en": "point of the compass",
+      "sentence_de": "Die vier Himmelsrichtungen sind Norden, Süden, Osten und Westen.",
+      "sentence_en": "The four points of the compass are north, south, east and west."
+    },
+    {
+      "de": "die Entfernung",
+      "en": "distance",
+      "sentence_de": "Die Entfernung zum Bahnhof beträgt etwa zwei Kilometer.",
+      "sentence_en": "The distance to the station is about two kilometers."
+    },
+    {
+      "de": "der Kilometer",
+      "en": "kilometer",
+      "sentence_de": "Es sind noch drei Kilometer bis zum Ziel.",
+      "sentence_en": "It's still three kilometers to the destination."
+    },
+    {
+      "de": "der Meter",
+      "en": "meter",
+      "sentence_de": "Gehe etwa 200 Meter geradeaus.",
+      "sentence_en": "Go straight for about 200 meters."
+    },
+    {
+      "de": "die Minute (zu Fuß)",
+      "en": "minute (on foot)",
+      "sentence_de": "Es dauert ungefähr fünf Minuten zu Fuß.",
+      "sentence_en": "It takes about five minutes on foot."
+    },
+    {
+      "de": "die Minute (mit dem Auto)",
+      "en": "minute (by car)",
+      "sentence_de": "Mit dem Auto sind es nur zwei Minuten.",
+      "sentence_en": "By car it's only two minutes."
+    },
+    {
+      "de": "der Orientierungspunkt",
+      "en": "landmark",
+      "sentence_de": "Der Turm ist ein guter Orientierungspunkt.",
+      "sentence_en": "The tower is a good landmark."
+    },
+    {
+      "de": "die Einbahnstraße",
+      "en": "one-way street",
+      "sentence_de": "Achtung, das ist eine Einbahnstraße!",
+      "sentence_en": "Careful, this is a one-way street!"
+    },
+    {
+      "de": "die Sackgasse",
+      "en": "dead end",
+      "sentence_de": "Diese Straße ist eine Sackgasse, du musst zurück.",
+      "sentence_en": "This street is a dead end, you have to go back."
+    },
+    {
+      "de": "die Abkürzung",
+      "en": "shortcut",
+      "sentence_de": "Kennst du eine Abkürzung zum Bahnhof?",
+      "sentence_en": "Do you know a shortcut to the station?"
+    },
+    {
+      "de": "die Umleitung",
+      "en": "detour",
+      "sentence_de": "Wegen der Baustelle gibt es eine Umleitung.",
+      "sentence_en": "There is a detour because of the construction site."
+    },
+    {
+      "de": "die Baustelle",
+      "en": "construction site",
+      "sentence_de": "Die Baustelle blockiert die gesamte Straße.",
+      "sentence_en": "The construction site blocks the entire street."
+    },
+    {
+      "de": "die Bushaltestelle",
+      "en": "bus stop",
+      "sentence_de": "Die Bushaltestelle ist direkt gegenüber.",
+      "sentence_en": "The bus stop is directly opposite."
+    },
+    {
+      "de": "die U-Bahnstation",
+      "en": "subway station",
+      "sentence_de": "Die U-Bahnstation ist unterirdisch.",
+      "sentence_en": "The subway station is underground."
+    },
+    {
+      "de": "die Tankstelle",
+      "en": "gas station",
+      "sentence_de": "Die Tankstelle ist an der nächsten Kreuzung.",
+      "sentence_en": "The gas station is at the next intersection."
+    },
+    {
+      "de": "das Parkhaus",
+      "en": "parking garage",
+      "sentence_de": "Das Parkhaus ist links neben dem Kaufhaus.",
+      "sentence_en": "The parking garage is to the left of the department store."
+    },
+    {
+      "de": "der Parkplatz",
+      "en": "parking lot",
+      "sentence_de": "Der Parkplatz ist hinter dem Gebäude.",
+      "sentence_en": "The parking lot is behind the building."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "sich verlaufen / sich verirren",
+      "en": "to get lost",
+      "sentence_de": "Ich habe mich in der Altstadt verlaufen.",
+      "sentence_en": "I got lost in the old town."
+    },
+    {
+      "de": "sich orientieren",
+      "en": "to orient oneself",
+      "sentence_de": "Mit der Karte kann ich mich gut orientieren.",
+      "sentence_en": "With the map I can orient myself well."
+    },
+    {
+      "de": "fragen (nach)",
+      "en": "to ask (for)",
+      "sentence_de": "Darf ich Sie nach dem Weg fragen?",
+      "sentence_en": "May I ask you for directions?"
+    },
+    {
+      "de": "zeigen",
+      "en": "to show",
+      "sentence_de": "Kannst du mir den Weg auf der Karte zeigen?",
+      "sentence_en": "Can you show me the way on the map?"
+    },
+    {
+      "de": "gehen (in Richtung)",
+      "en": "to go (in the direction of)",
+      "sentence_de": "Gehen Sie einfach geradeaus.",
+      "sentence_en": "Just go straight ahead."
+    },
+    {
+      "de": "laufen",
+      "en": "to walk",
+      "sentence_de": "Laufen Sie die Straße entlang.",
+      "sentence_en": "Walk along the street."
+    },
+    {
+      "de": "abbiegen",
+      "en": "to turn",
+      "sentence_de": "Biegen Sie an der nächsten Ampel rechts ab.",
+      "sentence_en": "Turn right at the next traffic light."
+    },
+    {
+      "de": "rechts abbiegen",
+      "en": "to turn right",
+      "sentence_de": "Hier musst du rechts abbiegen.",
+      "sentence_en": "You have to turn right here."
+    },
+    {
+      "de": "links abbiegen",
+      "en": "to turn left",
+      "sentence_de": "Nach der Brücke links abbiegen.",
+      "sentence_en": "Turn left after the bridge."
+    },
+    {
+      "de": "geradeaus gehen",
+      "en": "to go straight ahead",
+      "sentence_de": "Gehen Sie geradeaus, dann sehen Sie das Hotel.",
+      "sentence_en": "Go straight ahead, then you'll see the hotel."
+    },
+    {
+      "de": "überqueren",
+      "en": "to cross",
+      "sentence_de": "Überquere die Straße an der Ampel.",
+      "sentence_en": "Cross the street at the traffic light."
+    },
+    {
+      "de": "über die Brücke gehen",
+      "en": "to walk across the bridge",
+      "sentence_de": "Gehen Sie über die Brücke und dann weiter.",
+      "sentence_en": "Walk across the bridge and then continue."
+    },
+    {
+      "de": "folgen (der Straße)",
+      "en": "to follow (the street)",
+      "sentence_de": "Folgen Sie dieser Straße bis zum Ende.",
+      "sentence_en": "Follow this street to the end."
+    },
+    {
+      "de": "entlanggehen",
+      "en": "to walk along",
+      "sentence_de": "Gehen Sie den Fluss entlang.",
+      "sentence_en": "Walk along the river."
+    },
+    {
+      "de": "vorbeigehen (an)",
+      "en": "to pass (by)",
+      "sentence_de": "Gehen Sie an der Kirche vorbei.",
+      "sentence_en": "Walk past the church."
+    },
+    {
+      "de": "passieren (die Ampel)",
+      "en": "to pass (the traffic light)",
+      "sentence_de": "Passieren Sie die Ampel und dann links.",
+      "sentence_en": "Pass the traffic light and then left."
+    },
+    {
+      "de": "erreichen",
+      "en": "to reach",
+      "sentence_de": "Nach zehn Minuten erreichen Sie den Bahnhof.",
+      "sentence_en": "After ten minutes you reach the station."
+    },
+    {
+      "de": "finden",
+      "en": "to find",
+      "sentence_de": "Ich kann die Adresse einfach nicht finden.",
+      "sentence_en": "I just can't find the address."
+    },
+    {
+      "de": "suchen",
+      "en": "to look for / search",
+      "sentence_de": "Wir suchen das Rathaus.",
+      "sentence_en": "We are looking for the town hall."
+    },
+    {
+      "de": "zurückgehen",
+      "en": "to go back",
+      "sentence_de": "Wenn Sie die falsche Richtung nehmen, gehen Sie einfach zurück.",
+      "sentence_en": "If you go the wrong way, just go back."
+    },
+    {
+      "de": "zurückkehren",
+      "en": "to return",
+      "sentence_de": "Kehren Sie zum Kreisverkehr zurück.",
+      "sentence_en": "Return to the roundabout."
+    },
+    {
+      "de": "umkehren",
+      "en": "to turn around",
+      "sentence_de": "Hier müssen wir umkehren, das ist eine Sackgasse.",
+      "sentence_en": "We have to turn around here, this is a dead end."
+    },
+    {
+      "de": "weitergehen",
+      "en": "to continue walking",
+      "sentence_de": "Gehen Sie weiter, bis Sie den Brunnen sehen.",
+      "sentence_en": "Continue walking until you see the fountain."
+    },
+    {
+      "de": "halten (anhalten)",
+      "en": "to stop",
+      "sentence_de": "Halten Sie an der Kreuzung an.",
+      "sentence_en": "Stop at the intersection."
+    },
+    {
+      "de": "einbiegen (in)",
+      "en": "to turn into",
+      "sentence_de": "Biegen Sie in die nächste Straße ein.",
+      "sentence_en": "Turn into the next street."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "nah",
+      "en": "near / close",
+      "sentence_de": "Der Bahnhof ist ganz nah.",
+      "sentence_en": "The station is very close."
+    },
+    {
+      "de": "weit",
+      "en": "far",
+      "sentence_de": "Wie weit ist es bis zur nächsten Tankstelle?",
+      "sentence_en": "How far is it to the next gas station?"
+    },
+    {
+      "de": "entfernt",
+      "en": "distant",
+      "sentence_de": "Das Museum ist drei Kilometer entfernt.",
+      "sentence_en": "The museum is three kilometers away."
+    },
+    {
+      "de": "links",
+      "en": "left",
+      "sentence_de": "Das Hotel ist auf der linken Seite.",
+      "sentence_en": "The hotel is on the left side."
+    },
+    {
+      "de": "rechts",
+      "en": "right",
+      "sentence_de": "Der Supermarkt liegt rechts neben der Bank.",
+      "sentence_en": "The supermarket is to the right of the bank."
+    },
+    {
+      "de": "gerade",
+      "en": "straight",
+      "sentence_de": "Gehen Sie immer gerade aus.",
+      "sentence_en": "Go straight all the way."
+    },
+    {
+      "de": "nächste (die nächste Straße)",
+      "en": "next (the next street)",
+      "sentence_de": "Nehmen Sie die nächste Straße links.",
+      "sentence_en": "Take the next street on the left."
+    },
+    {
+      "de": "vorherige (die vorherige Straße)",
+      "en": "previous (the previous street)",
+      "sentence_de": "Das war die vorherige Ausfahrt.",
+      "sentence_en": "That was the previous exit."
+    },
+    {
+      "de": "erste (die erste Ampel)",
+      "en": "first (the first traffic light)",
+      "sentence_de": "An der ersten Ampel rechts abbiegen.",
+      "sentence_en": "Turn right at the first traffic light."
+    },
+    {
+      "de": "zweite (die zweite Kreuzung)",
+      "en": "second (the second intersection)",
+      "sentence_de": "An der zweiten Kreuzung links abbiegen.",
+      "sentence_en": "Turn left at the second intersection."
+    },
+    {
+      "de": "direkt",
+      "en": "direct",
+      "sentence_de": "Das ist der direkte Weg zum Hauptbahnhof.",
+      "sentence_en": "That is the direct way to the main station."
+    },
+    {
+      "de": "umliegend",
+      "en": "surrounding",
+      "sentence_de": "In den umliegenden Straßen gibt es viele Restaurants.",
+      "sentence_en": "In the surrounding streets there are many restaurants."
+    },
+    {
+      "de": "verkehrsberuhigt (Zone)",
+      "en": "traffic-calmed (zone)",
+      "sentence_de": "Die Altstadt ist eine verkehrsberuhigte Zone.",
+      "sentence_en": "The old town is a traffic-calmed zone."
+    },
+    {
+      "de": "befahrbar",
+      "en": "passable (for cars)",
+      "sentence_de": "Die Straße ist für Autos befahrbar.",
+      "sentence_en": "The street is passable for cars."
+    },
+    {
+      "de": "gesperrt",
+      "en": "closed / blocked",
+      "sentence_de": "Die Straße ist wegen Bauarbeiten gesperrt.",
+      "sentence_en": "The street is closed because of roadworks."
+    },
+    {
+      "de": "voll (von Autos)",
+      "en": "full (of cars)",
+      "sentence_de": "Die Straße ist heute sehr voll.",
+      "sentence_en": "The street is very busy today."
+    },
+    {
+      "de": "leer",
+      "en": "empty",
+      "sentence_de": "Die Nebenstraße ist zum Glück leer.",
+      "sentence_en": "The side street is luckily empty."
+    },
+    {
+      "de": "einspurig",
+      "en": "single-lane",
+      "sentence_de": "Die Brücke ist nur einspurig befahrbar.",
+      "sentence_en": "The bridge is only passable in one lane."
+    },
+    {
+      "de": "zweispurig",
+      "en": "two-lane",
+      "sentence_de": "Die Hauptstraße ist zweispurig.",
+      "sentence_en": "The main street is two-lane."
+    },
+    {
+      "de": "übersichtlich",
+      "en": "clear / easy to navigate",
+      "sentence_de": "Die Stadt ist übersichtlich und leicht zu finden.",
+      "sentence_en": "The city is clear and easy to navigate."
+    },
+    {
+      "de": "unübersichtlich",
+      "en": "confusing / hard to navigate",
+      "sentence_de": "Das Viertel ist sehr unübersichtlich.",
+      "sentence_en": "The neighborhood is very confusing."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "sentence_de": "Gehen Sie geradeaus bis zum Bahnhof.",
+      "sentence_en": "Go straight ahead to the station."
+    },
+    {
+      "de": "rechts",
+      "en": "to the right",
+      "sentence_de": "Biegen Sie hier rechts ab.",
+      "sentence_en": "Turn right here."
+    },
+    {
+      "de": "links",
+      "en": "to the left",
+      "sentence_de": "Das Museum ist links von der Kirche.",
+      "sentence_en": "The museum is to the left of the church."
+    },
+    {
+      "de": "danach",
+      "en": "after that",
+      "sentence_de": "Danach müssen Sie noch 200 Meter laufen.",
+      "sentence_en": "After that you have to walk another 200 meters."
+    },
+    {
+      "de": "davor",
+      "en": "before that",
+      "sentence_de": "Davor kommt noch eine Ampel.",
+      "sentence_en": "Before that there is another traffic light."
+    },
+    {
+      "de": "dann",
+      "en": "then",
+      "sentence_de": "Dann links abbiegen und Sie sind da.",
+      "sentence_en": "Then turn left and you're there."
+    },
+    {
+      "de": "zuerst",
+      "en": "first",
+      "sentence_de": "Zuerst gehen Sie geradeaus, dann rechts.",
+      "sentence_en": "First go straight, then right."
+    },
+    {
+      "de": "zurück",
+      "en": "back",
+      "sentence_de": "Gehen Sie zurück zur Kreuzung.",
+      "sentence_en": "Go back to the intersection."
+    },
+    {
+      "de": "weiter",
+      "en": "further / onward",
+      "sentence_de": "Gehen Sie weiter, bis Sie den Brunnen sehen.",
+      "sentence_en": "Go further until you see the fountain."
+    },
+    {
+      "de": "entlang",
+      "en": "along",
+      "sentence_de": "Gehen Sie den Fluss entlang.",
+      "sentence_en": "Walk along the river."
+    },
+    {
+      "de": "vorbei (an)",
+      "en": "past",
+      "sentence_de": "Gehen Sie an der Kirche vorbei.",
+      "sentence_en": "Walk past the church."
+    },
+    {
+      "de": "quer",
+      "en": "across / diagonally",
+      "sentence_de": "Gehen Sie quer über den Platz.",
+      "sentence_en": "Walk across the square diagonally."
+    },
+    {
+      "de": "genau",
+      "en": "exactly",
+      "sentence_de": "Die Adresse ist genau hier.",
+      "sentence_en": "The address is exactly here."
+    },
+    {
+      "de": "ungefähr",
+      "en": "approximately",
+      "sentence_de": "Es ist ungefähr zwei Kilometer entfernt.",
+      "sentence_en": "It is approximately two kilometers away."
+    },
+    {
+      "de": "weit (weg)",
+      "en": "far (away)",
+      "sentence_de": "Der Park ist nicht weit von hier.",
+      "sentence_en": "The park is not far from here."
+    },
+    {
+      "de": "nah",
+      "en": "near",
+      "sentence_de": "Das Rathaus ist nah am Marktplatz.",
+      "sentence_en": "The town hall is near the market square."
+    },
+    {
+      "de": "hier",
+      "en": "here",
+      "sentence_de": "Hier müssen Sie abbiegen.",
+      "sentence_en": "You have to turn here."
+    },
+    {
+      "de": "dort",
+      "en": "there",
+      "sentence_de": "Dort drüben ist die Bushaltestelle.",
+      "sentence_en": "Over there is the bus stop."
+    },
+    {
+      "de": "irgendwo",
+      "en": "somewhere",
+      "sentence_de": "Irgendwo hier muss die Straße sein.",
+      "sentence_en": "The street must be somewhere around here."
+    },
+    {
+      "de": "nirgendwo",
+      "en": "nowhere",
+      "sentence_de": "Das Gebäude ist nirgendwo zu sehen.",
+      "sentence_en": "The building is nowhere to be seen."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Kannst du mir schnell den Weg zeigen?",
+      "sentence_en": "Can you show me the way quickly?"
+    },
+    {
+      "de": "leicht",
+      "en": "easily",
+      "sentence_de": "Mit der Karte findest du es leicht.",
+      "sentence_en": "With the map you'll easily find it."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Entschuldigung, können Sie mir bitte sagen, wo der Bahnhof ist?",
+      "en": "Excuse me, can you please tell me where the train station is?"
+    },
+    {
+      "de": "Wie komme ich von hier aus zum Marktplatz?",
+      "en": "How do I get from here to the market square?"
+    },
+    {
+      "de": "Gehen Sie die Hauptstraße entlang, bis Sie eine Ampel sehen.",
+      "en": "Walk along the main street until you see a traffic light."
+    },
+    {
+      "de": "An der Kreuzung biegen Sie links ab und dann gleich rechts.",
+      "en": "At the intersection turn left and then immediately right."
+    },
+    {
+      "de": "Ich habe mich verlaufen – können Sie mir auf der Karte helfen?",
+      "en": "I'm lost – can you help me on the map?"
+    },
+    {
+      "de": "Das Hotel ist genau gegenüber dem Bahnhof.",
+      "en": "The hotel is directly opposite the station."
+    },
+    {
+      "de": "Nehmen Sie die zweite Straße rechts, dann sind Sie am Ziel.",
+      "en": "Take the second street on the right, then you've arrived."
+    },
+    {
+      "de": "Wie weit ist es bis zur nächsten U-Bahnstation?",
+      "en": "How far is it to the nearest subway station?"
+    },
+    {
+      "de": "Es sind ungefähr zehn Minuten zu Fuß.",
+      "en": "It's about ten minutes on foot."
+    },
+    {
+      "de": "Sie können auch den Bus nehmen – die Haltestelle ist dort drüben.",
+      "en": "You can also take the bus – the stop is over there."
+    },
+    {
+      "de": "Achtung, diese Straße ist eine Einbahnstraße!",
+      "en": "Careful, this street is a one-way street!"
+    },
+    {
+      "de": "Folgen Sie einfach den Schildern zum Hauptbahnhof.",
+      "en": "Just follow the signs to the main station."
+    },
+    {
+      "de": "Wenn Sie an der Kirche vorbeigehen, sehen Sie das Museum rechts.",
+      "en": "When you pass the church, you'll see the museum on the right."
+    },
+    {
+      "de": "Das Rathaus ist in der Fußgängerzone, nicht weit von hier.",
+      "en": "The town hall is in the pedestrian zone, not far from here."
+    },
+    {
+      "de": "Vielen Dank für die Wegbeschreibung – jetzt finde ich es!",
+      "en": "Thank you very much for the directions – now I'll find it!"
+    }
+  ]
+}

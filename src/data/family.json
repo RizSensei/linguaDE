@@ -1,0 +1,763 @@
+{
+  "theme": "Family",
+  "words": [
+    {
+      "de": "die Familie",
+      "en": "family",
+      "sentence_de": "Die Familie ist das Wichtigste im Leben.",
+      "sentence_en": "Family is the most important thing in life."
+    },
+    {
+      "de": "die Kernfamilie",
+      "en": "nuclear family",
+      "sentence_de": "Die Kernfamilie besteht aus Eltern und Kindern.",
+      "sentence_en": "The nuclear family consists of parents and children."
+    },
+    {
+      "de": "die Großfamilie",
+      "en": "extended family",
+      "sentence_de": "In unserer Großfamilie leben drei Generationen zusammen.",
+      "sentence_en": "Three generations live together in our extended family."
+    },
+    {
+      "de": "die Eltern",
+      "en": "parents",
+      "sentence_de": "Meine Eltern wohnen in einem kleinen Haus.",
+      "sentence_en": "My parents live in a small house."
+    },
+    {
+      "de": "der Vater",
+      "en": "father",
+      "sentence_de": "Mein Vater arbeitet als Ingenieur.",
+      "sentence_en": "My father works as an engineer."
+    },
+    {
+      "de": "die Mutter",
+      "en": "mother",
+      "sentence_de": "Meine Mutter kocht am liebsten italienisch.",
+      "sentence_en": "My mother loves to cook Italian food."
+    },
+    {
+      "de": "das Kind",
+      "en": "child",
+      "sentence_de": "Das Kind spielt im Garten.",
+      "sentence_en": "The child is playing in the garden."
+    },
+    {
+      "de": "der Sohn",
+      "en": "son",
+      "sentence_de": "Unser Sohn studiert in Berlin.",
+      "sentence_en": "Our son is studying in Berlin."
+    },
+    {
+      "de": "die Tochter",
+      "en": "daughter",
+      "sentence_de": "Meine Tochter hat gerade ihren Abschluss gemacht.",
+      "sentence_en": "My daughter just graduated."
+    },
+    {
+      "de": "der Bruder",
+      "en": "brother",
+      "sentence_de": "Mein Bruder ist zwei Jahre jünger als ich.",
+      "sentence_en": "My brother is two years younger than me."
+    },
+    {
+      "de": "die Schwester",
+      "en": "sister",
+      "sentence_de": "Sie ist meine kleine Schwester.",
+      "sentence_en": "She is my little sister."
+    },
+    {
+      "de": "das Geschwister",
+      "en": "sibling",
+      "sentence_de": "Ich habe zwei Geschwister: einen Bruder und eine Schwester.",
+      "sentence_en": "I have two siblings: a brother and a sister."
+    },
+    {
+      "de": "der Zwillingsbruder / die Zwillingsschwester",
+      "en": "twin brother / twin sister",
+      "sentence_de": "Meine Zwillingsschwester sieht mir sehr ähnlich.",
+      "sentence_en": "My twin sister looks a lot like me."
+    },
+    {
+      "de": "die Halbschwester / der Halbbruder",
+      "en": "half-sister / half-brother",
+      "sentence_de": "Sie ist meine Halbschwester von Vaters Seite.",
+      "sentence_en": "She is my half-sister on my father's side."
+    },
+    {
+      "de": "der Stiefvater / die Stiefmutter",
+      "en": "stepfather / stepmother",
+      "sentence_de": "Mein Stiefvater ist ein großartiger Mensch.",
+      "sentence_en": "My stepfather is a wonderful person."
+    },
+    {
+      "de": "der Stiefsohn / die Stieftochter",
+      "en": "stepson / stepdaughter",
+      "sentence_de": "Er ist mein Stiefsohn, aber ich liebe ihn wie mein eigenes Kind.",
+      "sentence_en": "He is my stepson, but I love him like my own child."
+    },
+    {
+      "de": "die Adoptivfamilie",
+      "en": "adoptive family",
+      "sentence_de": "Seine Adoptivfamilie hat ihn sehr liebevoll aufgenommen.",
+      "sentence_en": "His adoptive family welcomed him very lovingly."
+    },
+    {
+      "de": "der Pflegevater / die Pflegemutter",
+      "en": "foster father / foster mother",
+      "sentence_de": "Die Pflegemutter kümmert sich um mehrere Kinder.",
+      "sentence_en": "The foster mother takes care of several children."
+    },
+    {
+      "de": "die Großeltern",
+      "en": "grandparents",
+      "sentence_de": "Die Großeltern besuchen uns oft.",
+      "sentence_en": "Grandparents visit us often."
+    },
+    {
+      "de": "der Großvater / der Opa",
+      "en": "grandfather (formal/informal)",
+      "sentence_de": "Mein Opa erzählt immer tolle Geschichten.",
+      "sentence_en": "My grandpa always tells great stories."
+    },
+    {
+      "de": "die Großmutter / die Oma",
+      "en": "grandmother (formal/informal)",
+      "sentence_de": "Meine Oma backt den besten Kuchen.",
+      "sentence_en": "My grandma bakes the best cake."
+    },
+    {
+      "de": "der Enkel",
+      "en": "grandson",
+      "sentence_de": "Der Enkel hilft seinem Opa im Garten.",
+      "sentence_en": "The grandson helps his grandpa in the garden."
+    },
+    {
+      "de": "die Enkelin",
+      "en": "granddaughter",
+      "sentence_de": "Die Enkelin spielt gerne Klavier.",
+      "sentence_en": "The granddaughter likes to play piano."
+    },
+    {
+      "de": "der Onkel",
+      "en": "uncle",
+      "sentence_de": "Mein Onkel wohnt in München.",
+      "sentence_en": "My uncle lives in Munich."
+    },
+    {
+      "de": "die Tante",
+      "en": "aunt",
+      "sentence_de": "Meine Tante hat immer gute Ratschläge.",
+      "sentence_en": "My aunt always has good advice."
+    },
+    {
+      "de": "der Neffe",
+      "en": "nephew",
+      "sentence_de": "Ich gehe mit meinem Neffen ins Kino.",
+      "sentence_en": "I'm going to the cinema with my nephew."
+    },
+    {
+      "de": "die Nichte",
+      "en": "niece",
+      "sentence_de": "Meine Nichte ist fünf Jahre alt.",
+      "sentence_en": "My niece is five years old."
+    },
+    {
+      "de": "der Cousin",
+      "en": "cousin (male)",
+      "sentence_de": "Mein Cousin ist mein bester Freund.",
+      "sentence_en": "My cousin is my best friend."
+    },
+    {
+      "de": "die Cousine",
+      "en": "cousin (female)",
+      "sentence_de": "Sie ist meine Cousine und wir spielen oft zusammen.",
+      "sentence_en": "She is my cousin and we often play together."
+    },
+    {
+      "de": "der Schwiegervater / die Schwiegermutter",
+      "en": "father-in-law / mother-in-law",
+      "sentence_de": "Meine Schwiegermutter kocht ausgezeichnet.",
+      "sentence_en": "My mother-in-law is an excellent cook."
+    },
+    {
+      "de": "der Schwiegersohn / die Schwiegertochter",
+      "en": "son-in-law / daughter-in-law",
+      "sentence_de": "Mein Schwiegersohn hilft mir bei den Renovierungen.",
+      "sentence_en": "My son-in-law helps me with the renovations."
+    },
+    {
+      "de": "der Lebenspartner / die Lebenspartnerin",
+      "en": "life partner",
+      "sentence_de": "Wir sind seit zehn Jahren Lebenspartner.",
+      "sentence_en": "We have been life partners for ten years."
+    },
+    {
+      "de": "der Verlobte / die Verlobte",
+      "en": "fiancé / fiancée",
+      "sentence_de": "Mein Verlobter macht mich sehr glücklich.",
+      "sentence_en": "My fiancé makes me very happy."
+    },
+    {
+      "de": "die Hochzeit",
+      "en": "wedding",
+      "sentence_de": "Die Hochzeit findet im Garten statt.",
+      "sentence_en": "The wedding takes place in the garden."
+    },
+    {
+      "de": "die Ehe",
+      "en": "marriage",
+      "sentence_de": "Eine gute Ehe braucht Vertrauen.",
+      "sentence_en": "A good marriage needs trust."
+    },
+    {
+      "de": "der Ehepartner / die Ehepartnerin",
+      "en": "spouse",
+      "sentence_de": "Der Ehepartner ist auch ein Freund.",
+      "sentence_en": "The spouse is also a friend."
+    },
+    {
+      "de": "der Witwer / die Witwe",
+      "en": "widower / widow",
+      "sentence_de": "Mein Großvater ist seit fünf Jahren Witwer.",
+      "sentence_en": "My grandfather has been a widower for five years."
+    },
+    {
+      "de": "die Trennung",
+      "en": "separation",
+      "sentence_de": "Die Trennung war schwierig für alle.",
+      "sentence_en": "The separation was difficult for everyone."
+    },
+    {
+      "de": "die Scheidung",
+      "en": "divorce",
+      "sentence_de": "Die Scheidung wurde letzte Woche rechtskräftig.",
+      "sentence_en": "The divorce became final last week."
+    },
+    {
+      "de": "die Patin / der Pate",
+      "en": "godmother / godfather",
+      "sentence_de": "Meine Tante ist meine Patin.",
+      "sentence_en": "My aunt is my godmother."
+    },
+    {
+      "de": "der Stammbaum",
+      "en": "family tree",
+      "sentence_de": "Wir erforschen unseren Stammbaum.",
+      "sentence_en": "We are researching our family tree."
+    },
+    {
+      "de": "die Ahnen",
+      "en": "ancestors",
+      "sentence_de": "Die Ahnen kamen aus dem Norden.",
+      "sentence_en": "The ancestors came from the north."
+    },
+    {
+      "de": "die Verwandten",
+      "en": "relatives",
+      "sentence_de": "Die Verwandten kommen zu Weihnachten.",
+      "sentence_en": "The relatives come for Christmas."
+    },
+    {
+      "de": "die Verwandtschaft",
+      "en": "relatives / kinship",
+      "sentence_de": "Die Verwandtschaft ist sehr groß.",
+      "sentence_en": "The extended family is very large."
+    },
+    {
+      "de": "der Familienzusammenhalt",
+      "en": "family cohesion",
+      "sentence_de": "Der Familienzusammenhalt gibt uns Kraft.",
+      "sentence_en": "Family cohesion gives us strength."
+    },
+    {
+      "de": "die Familienfeier",
+      "en": "family celebration",
+      "sentence_de": "Die Familienfeier war sehr fröhlich.",
+      "sentence_en": "The family celebration was very joyful."
+    },
+    {
+      "de": "der Familienname",
+      "en": "family name / surname",
+      "sentence_de": "Unser Familienname ist Schmidt.",
+      "sentence_en": "Our family name is Schmidt."
+    },
+    {
+      "de": "die Familiengeschichte",
+      "en": "family history",
+      "sentence_de": "Ich interessiere mich für die Familiengeschichte.",
+      "sentence_en": "I'm interested in the family history."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "sich um die Familie kümmern",
+      "en": "to take care of the family",
+      "sentence_de": "Meine Mutter kümmert sich um die Familie.",
+      "sentence_en": "My mother takes care of the family."
+    },
+    {
+      "de": "erziehen",
+      "en": "to raise / educate",
+      "sentence_de": "Eltern erziehen ihre Kinder.",
+      "sentence_en": "Parents raise their children."
+    },
+    {
+      "de": "aufwachsen",
+      "en": "to grow up",
+      "sentence_de": "Ich bin in einer großen Familie aufgewachsen.",
+      "sentence_en": "I grew up in a large family."
+    },
+    {
+      "de": "sich versammeln",
+      "en": "to gather",
+      "sentence_de": "Die Familie versammelt sich zu Weihnachten.",
+      "sentence_en": "The family gathers at Christmas."
+    },
+    {
+      "de": "besuchen",
+      "en": "to visit",
+      "sentence_de": "Wir besuchen unsere Großeltern jedes Wochenende.",
+      "sentence_en": "We visit our grandparents every weekend."
+    },
+    {
+      "de": "helfen",
+      "en": "to help",
+      "sentence_de": "Wir helfen einander bei den Hausaufgaben.",
+      "sentence_en": "We help each other with homework."
+    },
+    {
+      "de": "unterstützen",
+      "en": "to support",
+      "sentence_de": "Meine Eltern unterstützen mich in allen Entscheidungen.",
+      "sentence_en": "My parents support me in all decisions."
+    },
+    {
+      "de": "lieben",
+      "en": "to love",
+      "sentence_de": "Ich liebe meine Familie über alles.",
+      "sentence_en": "I love my family above all else."
+    },
+    {
+      "de": "streiten",
+      "en": "to argue",
+      "sentence_de": "Manchmal streiten sich Geschwister, das ist normal.",
+      "sentence_en": "Siblings sometimes argue, that's normal."
+    },
+    {
+      "de": "sich vertragen",
+      "en": "to make up",
+      "sentence_de": "Nach dem Streit vertragen sie sich schnell wieder.",
+      "sentence_en": "After the argument they make up quickly."
+    },
+    {
+      "de": "feiern",
+      "en": "to celebrate",
+      "sentence_de": "Wir feiern jeden Geburtstag zusammen.",
+      "sentence_en": "We celebrate every birthday together."
+    },
+    {
+      "de": "erben",
+      "en": "to inherit",
+      "sentence_de": "Sie erbt das Haus ihrer Großmutter.",
+      "sentence_en": "She inherits her grandmother's house."
+    },
+    {
+      "de": "gebären (ein Kind)",
+      "en": "to give birth",
+      "sentence_de": "Meine Schwester hat gestern ein gesundes Baby geboren.",
+      "sentence_en": "My sister gave birth to a healthy baby yesterday."
+    },
+    {
+      "de": "adoptieren",
+      "en": "to adopt",
+      "sentence_de": "Das Paar adoptiert ein Kind aus dem Ausland.",
+      "sentence_en": "The couple is adopting a child from abroad."
+    },
+    {
+      "de": "heiraten",
+      "en": "to marry",
+      "sentence_de": "Meine Cousine heiratet im Juni.",
+      "sentence_en": "My cousin is getting married in June."
+    },
+    {
+      "de": "sich scheiden lassen",
+      "en": "to get divorced",
+      "sentence_de": "Nach zwanzig Jahren haben sie sich scheiden lassen.",
+      "sentence_en": "After twenty years they got divorced."
+    },
+    {
+      "de": "erziehen",
+      "en": "to raise / bring up",
+      "sentence_de": "Gemeinsam erziehen sie ihre drei Kinder.",
+      "sentence_en": "Together they raise their three children."
+    },
+    {
+      "de": "vermischen",
+      "en": "to mix (families)",
+      "sentence_de": "In unserer Familie vermischen sich viele Kulturen.",
+      "sentence_en": "In our family many cultures mix."
+    },
+    {
+      "de": "nachahmen",
+      "en": "to imitate",
+      "sentence_de": "Kinder ahmen ihre Eltern nach.",
+      "sentence_en": "Children imitate their parents."
+    },
+    {
+      "de": "verwandt sein",
+      "en": "to be related",
+      "sentence_de": "Wir sind mit der Familie Müller verwandt.",
+      "sentence_en": "We are related to the Müller family."
+    },
+    {
+      "de": "zusammenleben",
+      "en": "to live together",
+      "sentence_de": "Drei Generationen leben zusammen in einem Haus.",
+      "sentence_en": "Three generations live together in one house."
+    },
+    {
+      "de": "weitergeben",
+      "en": "to pass on",
+      "sentence_de": "Die Großmutter gibt ihr Wissen an die Enkel weiter.",
+      "sentence_en": "The grandmother passes on her knowledge to the grandchildren."
+    },
+    {
+      "de": "sich kümmern (um)",
+      "en": "to care (for)",
+      "sentence_de": "Er kümmert sich um seine alternden Eltern.",
+      "sentence_en": "He cares for his aging parents."
+    },
+    {
+      "de": "betreuen",
+      "en": "to look after / care",
+      "sentence_de": "Die Nachbarin betreut die Kinder nach der Schule.",
+      "sentence_en": "The neighbor looks after the children after school."
+    },
+    {
+      "de": "vermissen",
+      "en": "to miss",
+      "sentence_de": "Ich vermisse meine Familie, wenn ich auf Reisen bin.",
+      "sentence_en": "I miss my family when I'm traveling."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "groß (Familie)",
+      "en": "large (family)",
+      "sentence_de": "Meine Familie ist sehr groß.",
+      "sentence_en": "My family is very large."
+    },
+    {
+      "de": "klein (Familie)",
+      "en": "small (family)",
+      "sentence_de": "Wir sind eine kleine, aber glückliche Familie.",
+      "sentence_en": "We are a small but happy family."
+    },
+    {
+      "de": "eng (Familienbande)",
+      "en": "close (family ties)",
+      "sentence_de": "Wir haben enge Familienbande.",
+      "sentence_en": "We have close family ties."
+    },
+    {
+      "de": "liebevoll",
+      "en": "loving",
+      "sentence_de": "Sie ist eine liebevolle Mutter.",
+      "sentence_en": "She is a loving mother."
+    },
+    {
+      "de": "fürsorglich",
+      "en": "caring",
+      "sentence_de": "Er ist ein fürsorglicher Vater.",
+      "sentence_en": "He is a caring father."
+    },
+    {
+      "de": "verantwortungsvoll",
+      "en": "responsible",
+      "sentence_de": "Sie ist verantwortungsvoll gegenüber ihrer Familie.",
+      "sentence_en": "She is responsible towards her family."
+    },
+    {
+      "de": "vertraut",
+      "en": "familiar / close",
+      "sentence_de": "Ich fühle mich in der Familie meines Partners sehr vertraut.",
+      "sentence_en": "I feel very familiar with my partner's family."
+    },
+    {
+      "de": "herzlich",
+      "en": "warm / cordial",
+      "sentence_de": "Wir wurden herzlich von der Familie empfangen.",
+      "sentence_en": "We were warmly received by the family."
+    },
+    {
+      "de": "streitsüchtig",
+      "en": "argumentative",
+      "sentence_de": "Manche Familien sind sehr streitsüchtig.",
+      "sentence_en": "Some families are very argumentative."
+    },
+    {
+      "de": "harmonisch",
+      "en": "harmonious",
+      "sentence_de": "Wir haben eine harmonische Familie.",
+      "sentence_en": "We have a harmonious family."
+    },
+    {
+      "de": "traditionell",
+      "en": "traditional",
+      "sentence_de": "In einer traditionellen Familie gibt es klare Rollen.",
+      "sentence_en": "In a traditional family there are clear roles."
+    },
+    {
+      "de": "modern",
+      "en": "modern",
+      "sentence_de": "Moderne Familien haben oft wechselnde Modelle.",
+      "sentence_en": "Modern families often have changing models."
+    },
+    {
+      "de": "patchwork (Familie)",
+      "en": "blended / patchwork (family)",
+      "sentence_de": "Wir sind eine glückliche Patchwork-Familie.",
+      "sentence_en": "We are a happy blended family."
+    },
+    {
+      "de": "alleinerziehend",
+      "en": "single-parent",
+      "sentence_de": "Eine alleinerziehende Mutter hat es nicht leicht.",
+      "sentence_en": "A single mother doesn't have it easy."
+    },
+    {
+      "de": "getrennt (Eltern)",
+      "en": "separated (parents)",
+      "sentence_de": "Meine Eltern sind seit zehn Jahren getrennt.",
+      "sentence_en": "My parents have been separated for ten years."
+    },
+    {
+      "de": "geschieden",
+      "en": "divorced",
+      "sentence_de": "Meine Tante ist geschieden.",
+      "sentence_en": "My aunt is divorced."
+    },
+    {
+      "de": "verwitwet",
+      "en": "widowed",
+      "sentence_de": "Meine Großmutter ist verwitwet.",
+      "sentence_en": "My grandmother is widowed."
+    },
+    {
+      "de": "glücklich",
+      "en": "happy",
+      "sentence_de": "Ich bin mit meiner Familie sehr glücklich.",
+      "sentence_en": "I am very happy with my family."
+    },
+    {
+      "de": "unglücklich",
+      "en": "unhappy",
+      "sentence_de": "Sie war in ihrer Ehe sehr unglücklich.",
+      "sentence_en": "She was very unhappy in her marriage."
+    },
+    {
+      "de": "zusammenhaltend",
+      "en": "cohesive",
+      "sentence_de": "Eine zusammenhaltende Familie übersteht jede Krise.",
+      "sentence_en": "A cohesive family survives any crisis."
+    },
+    {
+      "de": "vielseitig",
+      "en": "diverse",
+      "sentence_de": "Unsere Familie ist sehr vielseitig.",
+      "sentence_en": "Our family is very diverse."
+    },
+    {
+      "de": "alt (die Ahnen)",
+      "en": "old (ancestral)",
+      "sentence_de": "Die alte Familie hat eine lange Tradition.",
+      "sentence_en": "The old family has a long tradition."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "zusammen",
+      "en": "together",
+      "sentence_de": "Wir essen immer zusammen zu Abend.",
+      "sentence_en": "We always have dinner together."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Wir telefonieren täglich mit unserer Tochter.",
+      "sentence_en": "We talk to our daughter daily."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Die Familie trifft sich wöchentlich zum Essen.",
+      "sentence_en": "The family gathers weekly for a meal."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Wir besuchen regelmäßig unsere Großeltern.",
+      "sentence_en": "We visit our grandparents regularly."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich denke oft an meine Familie.",
+      "sentence_en": "I often think of my family."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Wir sehen unsere entfernten Verwandten selten.",
+      "sentence_en": "We rarely see our distant relatives."
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "sentence_de": "Manchmal gibt es Streit in der Familie.",
+      "sentence_en": "Sometimes there are arguments in the family."
+    },
+    {
+      "de": "immer",
+      "en": "always",
+      "sentence_de": "Meine Eltern sind immer für mich da.",
+      "sentence_en": "My parents are always there for me."
+    },
+    {
+      "de": "nie / niemals",
+      "en": "never",
+      "sentence_de": "Nie würde ich meine Familie im Stich lassen.",
+      "sentence_en": "I would never let my family down."
+    },
+    {
+      "de": "liebevoll",
+      "en": "lovingly",
+      "sentence_de": "Die Mutter umarmt ihr Kind liebevoll.",
+      "sentence_en": "The mother embraces her child lovingly."
+    },
+    {
+      "de": "fürsorglich",
+      "en": "caringly",
+      "sentence_de": "Er kümmert sich fürsorglich um seine kranke Frau.",
+      "sentence_en": "He cares caringly for his sick wife."
+    },
+    {
+      "de": "verantwortungsvoll",
+      "en": "responsibly",
+      "sentence_de": "Die Eltern handeln verantwortungsvoll.",
+      "sentence_en": "The parents act responsibly."
+    },
+    {
+      "de": "eng (miteinander)",
+      "en": "closely (together)",
+      "sentence_de": "Die Geschwister stehen eng miteinander.",
+      "sentence_en": "The siblings stand closely together."
+    },
+    {
+      "de": "herzlich",
+      "en": "warmly",
+      "sentence_de": "Wir wurden herzlich von der Familie aufgenommen.",
+      "sentence_en": "We were warmly welcomed by the family."
+    },
+    {
+      "de": "fröhlich",
+      "en": "cheerfully",
+      "sentence_de": "Wir feiern fröhlich alle Feste zusammen.",
+      "sentence_en": "We cheerfully celebrate all holidays together."
+    },
+    {
+      "de": "in Ruhe",
+      "en": "peacefully",
+      "sentence_de": "Wir wollen in Ruhe unsere Familie genießen.",
+      "sentence_en": "We want to enjoy our family in peace."
+    },
+    {
+      "de": "gemeinsam",
+      "en": "together",
+      "sentence_de": "Gemeinsam schaffen wir alles.",
+      "sentence_en": "Together we can do anything."
+    },
+    {
+      "de": "getrennt",
+      "en": "separately",
+      "sentence_de": "Die Eltern leben getrennt, aber kümmern sich gemeinsam um die Kinder.",
+      "sentence_en": "The parents live separately but share responsibility for the children."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise sind alle Familienmitglieder gesund.",
+      "sentence_en": "Fortunately all family members are healthy."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider kann meine Schwester nicht zur Hochzeit kommen.",
+      "sentence_en": "Unfortunately my sister can't come to the wedding."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "In unserer Familie sind wir zu sechst: Mama, Papa, drei Brüder und ich.",
+      "en": "In our family there are six of us: Mom, Dad, three brothers and me."
+    },
+    {
+      "de": "Wir treffen uns jeden Sonntag zum gemeinsamen Abendessen bei den Großeltern.",
+      "en": "We meet every Sunday for a shared dinner at our grandparents' house."
+    },
+    {
+      "de": "Meine Schwester und ich sind zwar sehr unterschiedlich, aber wir verstehen uns gut.",
+      "en": "My sister and I are very different, but we get along well."
+    },
+    {
+      "de": "Unsere Familie ist multikulturell – mein Vater kommt aus Italien, meine Mutter aus Deutschland.",
+      "en": "Our family is multicultural – my father is from Italy, my mother from Germany."
+    },
+    {
+      "de": "Ich habe eine enge Beziehung zu meinen Cousins, wir sind fast wie Geschwister.",
+      "en": "I have a close relationship with my cousins; we're almost like siblings."
+    },
+    {
+      "de": "Meine Mutter hat sich nach der Scheidung wieder verliebt und jetzt habe ich einen Stiefvater.",
+      "en": "My mother fell in love again after the divorce and now I have a stepfather."
+    },
+    {
+      "de": "Die Großeltern passen oft auf die Enkel auf, wenn die Eltern arbeiten.",
+      "en": "The grandparents often look after the grandchildren when the parents are at work."
+    },
+    {
+      "de": "Familienfeiern sind bei uns immer sehr laut und fröhlich.",
+      "en": "Family celebrations are always very loud and joyful in our family."
+    },
+    {
+      "de": "Ich bin so dankbar für den Zusammenhalt und die Unterstützung meiner Familie.",
+      "en": "I am so grateful for the cohesion and support of my family."
+    },
+    {
+      "de": "Mein Bruder hat kürzlich geheiratet, und jetzt habe ich eine wunderbare Schwägerin.",
+      "en": "My brother recently got married, and now I have a wonderful sister-in-law."
+    },
+    {
+      "de": "Wir haben eine Tradition: Jedes Jahr fahren die ganze Familie zusammen in den Urlaub.",
+      "en": "We have a tradition: The whole family goes on vacation together every year."
+    },
+    {
+      "de": "Nach der Trennung meiner Eltern war es nicht einfach, aber wir haben uns neu arrangiert.",
+      "en": "After my parents' separation it wasn't easy, but we found a new arrangement."
+    },
+    {
+      "de": "Meine Cousine wohnt in Amerika, aber wir haben regelmäßigen Videokontakt.",
+      "en": "My cousin lives in America, but we have regular video contact."
+    },
+    {
+      "de": "In einer Patchwork-Familie gibt es viele Beziehungen, die gepflegt werden müssen.",
+      "en": "In a blended family there are many relationships that need to be nurtured."
+    },
+    {
+      "de": "Die Familie ist der Ort, wo man immer sich selbst sein kann und bedingungslos geliebt wird.",
+      "en": "Family is the place where you can always be yourself and are unconditionally loved."
+    }
+  ]
+}

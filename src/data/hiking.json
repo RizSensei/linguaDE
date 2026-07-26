@@ -1,0 +1,775 @@
+{
+  "theme": "Hiking",
+  "words": [
+    {
+      "de": "die Wanderung",
+      "en": "hike / hiking tour",
+      "sentence_de": "Die Wanderung durch den Nationalpark war atemberaubend.",
+      "sentence_en": "The hike through the national park was breathtaking."
+    },
+    {
+      "de": "der Wanderer / die Wanderin",
+      "en": "hiker",
+      "sentence_de": "Der Wanderer genießt die Ruhe der Natur.",
+      "sentence_en": "The hiker enjoys the peace of nature."
+    },
+    {
+      "de": "der Weg",
+      "en": "path / trail",
+      "sentence_de": "Der Weg führt durch den dichten Wald.",
+      "sentence_en": "The path leads through the dense forest."
+    },
+    {
+      "de": "der Wanderweg",
+      "en": "hiking trail",
+      "sentence_de": "Der Wanderweg ist gut ausgeschildert.",
+      "sentence_en": "The hiking trail is well signposted."
+    },
+    {
+      "de": "der Berg",
+      "en": "mountain",
+      "sentence_de": "Wir besteigen morgen den Berg.",
+      "sentence_en": "We're climbing the mountain tomorrow."
+    },
+    {
+      "de": "der Gipfel",
+      "en": "summit / peak",
+      "sentence_de": "Der Gipfel bietet eine fantastische Aussicht.",
+      "sentence_en": "The summit offers a fantastic view."
+    },
+    {
+      "de": "das Tal",
+      "en": "valley",
+      "sentence_de": "Das Tal liegt eingebettet zwischen den Bergen.",
+      "sentence_en": "The valley lies nestled between the mountains."
+    },
+    {
+      "de": "der Wald",
+      "en": "forest",
+      "sentence_de": "Der Wald ist kühl und schattig.",
+      "sentence_en": "The forest is cool and shady."
+    },
+    {
+      "de": "die Wiese",
+      "en": "meadow",
+      "sentence_de": "Die Wiese ist voller bunter Blumen.",
+      "sentence_en": "The meadow is full of colorful flowers."
+    },
+    {
+      "de": "der See",
+      "en": "lake",
+      "sentence_de": "Der See glitzert in der Sonne.",
+      "sentence_en": "The lake sparkles in the sun."
+    },
+    {
+      "de": "der Bach",
+      "en": "stream / brook",
+      "sentence_de": "Wir folgen dem Bach den Berg hinauf.",
+      "sentence_en": "We follow the stream up the mountain."
+    },
+    {
+      "de": "der Wasserfall",
+      "en": "waterfall",
+      "sentence_de": "Der Wasserfall stürzt über die Felsen.",
+      "sentence_en": "The waterfall cascades over the rocks."
+    },
+    {
+      "de": "der Fels / der Felsen",
+      "en": "rock / boulder",
+      "sentence_de": "Der Felsen ist sehr steil.",
+      "sentence_en": "The rock is very steep."
+    },
+    {
+      "de": "die Aussicht",
+      "en": "view",
+      "sentence_de": "Die Aussicht von oben ist atemberaubend.",
+      "sentence_en": "The view from the top is breathtaking."
+    },
+    {
+      "de": "die Landschaft",
+      "en": "landscape",
+      "sentence_de": "Die Landschaft ist malerisch und grün.",
+      "sentence_en": "The landscape is picturesque and green."
+    },
+    {
+      "de": "die Natur",
+      "en": "nature",
+      "sentence_de": "Die Natur ist die beste Erholung.",
+      "sentence_en": "Nature is the best relaxation."
+    },
+    {
+      "de": "der Rucksack",
+      "en": "backpack",
+      "sentence_de": "Der Rucksack ist schwer gefüllt.",
+      "sentence_en": "The backpack is heavily filled."
+    },
+    {
+      "de": "die Wanderkarte",
+      "en": "hiking map",
+      "sentence_de": "Die Wanderkarte zeigt alle Routen.",
+      "sentence_en": "The hiking map shows all routes."
+    },
+    {
+      "de": "die Markierung",
+      "en": "marking (trail marker)",
+      "sentence_de": "Die Markierungen führen uns sicher.",
+      "sentence_en": "The markings guide us safely."
+    },
+    {
+      "de": "der Wanderstock / Wanderstöcke",
+      "en": "hiking pole(s)",
+      "sentence_de": "Mit Wanderstöcken geht es bergauf leichter.",
+      "sentence_en": "Hiking poles make it easier to go uphill."
+    },
+    {
+      "de": "die Wanderkleidung",
+      "en": "hiking clothing",
+      "sentence_de": "Die Wanderkleidung sollte atmungsaktiv sein.",
+      "sentence_en": "Hiking clothing should be breathable."
+    },
+    {
+      "de": "der Wanderschuh",
+      "en": "hiking boot",
+      "sentence_de": "Gute Wanderschuhe sind das A und O.",
+      "sentence_en": "Good hiking boots are essential."
+    },
+    {
+      "de": "die Socken (Wandersocken)",
+      "en": "hiking socks",
+      "sentence_de": "Wandersocken schützen vor Blasen.",
+      "sentence_en": "Hiking socks protect against blisters."
+    },
+    {
+      "de": "die Regenjacke",
+      "en": "rain jacket",
+      "sentence_de": "Die Regenjacke schützt vor plötzlichem Regen.",
+      "sentence_en": "The rain jacket protects against sudden rain."
+    },
+    {
+      "de": "die Fleecejacke",
+      "en": "fleece jacket",
+      "sentence_de": "Bei Kälte ziehe ich eine Fleecejacke an.",
+      "sentence_en": "When it's cold, I put on a fleece jacket."
+    },
+    {
+      "de": "die Kopfbedeckung",
+      "en": "headwear",
+      "sentence_de": "Eine Kopfbedeckung schützt vor der Sonne.",
+      "sentence_en": "Headwear protects against the sun."
+    },
+    {
+      "de": "die Sonnencreme",
+      "en": "sunscreen",
+      "sentence_de": "Sonnencreme ist unverzichtbar bei Wanderungen.",
+      "sentence_en": "Sunscreen is indispensable on hikes."
+    },
+    {
+      "de": "die Brotzeit / das Picknick",
+      "en": "picnic / packed lunch",
+      "sentence_de": "Wir machen eine Brotzeit auf der Alm.",
+      "sentence_en": "We have a picnic on the alpine pasture."
+    },
+    {
+      "de": "die Trinkflasche",
+      "en": "water bottle",
+      "sentence_de": "Die Trinkflasche muss immer gefüllt sein.",
+      "sentence_en": "The water bottle must always be full."
+    },
+    {
+      "de": "die Proviant",
+      "en": "supplies / provisions",
+      "sentence_de": "Wir haben genügend Proviant für den ganzen Tag.",
+      "sentence_en": "We have enough provisions for the whole day."
+    },
+    {
+      "de": "der Kompass",
+      "en": "compass",
+      "sentence_de": "Der Kompass hilft bei der Orientierung.",
+      "sentence_en": "The compass helps with orientation."
+    },
+    {
+      "de": "das GPS-Gerät",
+      "en": "GPS device",
+      "sentence_de": "Ein GPS-Gerät ist praktisch im Nebel.",
+      "sentence_en": "A GPS device is useful in fog."
+    },
+    {
+      "de": "die Erste-Hilfe-Ausrüstung",
+      "en": "first aid kit",
+      "sentence_de": "Die Erste-Hilfe-Ausrüstung sollte immer dabei sein.",
+      "sentence_en": "The first aid kit should always be with you."
+    },
+    {
+      "de": "die Höhe",
+      "en": "altitude",
+      "sentence_de": "Die Höhe beträgt über 2000 Meter.",
+      "sentence_en": "The altitude is over 2000 meters."
+    },
+    {
+      "de": "der Höhenmeter",
+      "en": "elevation gain",
+      "sentence_de": "Wir haben heute 800 Höhenmeter geschafft.",
+      "sentence_en": "We managed 800 meters of elevation gain today."
+    },
+    {
+      "de": "das Gelände",
+      "en": "terrain",
+      "sentence_de": "Das Gelände ist hier sehr uneben.",
+      "sentence_en": "The terrain is very rough here."
+    },
+    {
+      "de": "die Steigung",
+      "en": "slope / ascent",
+      "sentence_de": "Die Steigung ist besonders anstrengend.",
+      "sentence_en": "The ascent is particularly strenuous."
+    },
+    {
+      "de": "die Abfahrt / der Abstieg",
+      "en": "descent",
+      "sentence_de": "Der Abstieg ist schwieriger als der Aufstieg.",
+      "sentence_en": "The descent is more difficult than the ascent."
+    },
+    {
+      "de": "die Hütte",
+      "en": "hut / mountain refuge",
+      "sentence_de": "Auf der Hütte gibt es warme Suppe.",
+      "sentence_en": "There's hot soup at the hut."
+    },
+    {
+      "de": "die Alm",
+      "en": "alpine pasture",
+      "sentence_de": "Die Kühe grasen auf der Alm.",
+      "sentence_en": "The cows graze on the alpine pasture."
+    },
+    {
+      "de": "das Gipfelkreuz",
+      "en": "summit cross",
+      "sentence_de": "Am Gipfelkreuz machen wir ein Foto.",
+      "sentence_en": "We take a photo at the summit cross."
+    },
+    {
+      "de": "das Panorama",
+      "en": "panorama",
+      "sentence_de": "Das Panorama ist spektakulär.",
+      "sentence_en": "The panorama is spectacular."
+    },
+    {
+      "de": "die Blase (am Fuß)",
+      "en": "blister (on foot)",
+      "sentence_de": "Ich habe eine Blase am linken Fuß.",
+      "sentence_en": "I have a blister on my left foot."
+    },
+    {
+      "de": "der Muskelkater",
+      "en": "muscle soreness",
+      "sentence_de": "Morgen werde ich sicher Muskelkater haben.",
+      "sentence_en": "I'll definitely have muscle soreness tomorrow."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "wandern",
+      "en": "to hike",
+      "sentence_de": "Wir wandern jede Woche im Schwarzwald.",
+      "sentence_en": "We hike every week in the Black Forest."
+    },
+    {
+      "de": "spazieren gehen",
+      "en": "to take a walk",
+      "sentence_de": "Wir gehen nach dem Essen spazieren.",
+      "sentence_en": "We go for a walk after dinner."
+    },
+    {
+      "de": "aufsteigen",
+      "en": "to ascend / climb up",
+      "sentence_de": "Wir steigen den Berg auf.",
+      "sentence_en": "We climb up the mountain."
+    },
+    {
+      "de": "absteigen",
+      "en": "to descend",
+      "sentence_de": "Vorsichtig steigen wir das Tal ab.",
+      "sentence_en": "We carefully descend into the valley."
+    },
+    {
+      "de": "erklimmen",
+      "en": "to climb (a peak)",
+      "sentence_de": "Wir erklimmen den Gipfel des Berges.",
+      "sentence_en": "We climb to the summit of the mountain."
+    },
+    {
+      "de": "sich orientieren",
+      "en": "to orient oneself",
+      "sentence_de": "Wir orientieren uns an der Karte.",
+      "sentence_en": "We orient ourselves by the map."
+    },
+    {
+      "de": "folgen (einem Weg)",
+      "en": "to follow (a path)",
+      "sentence_de": "Wir folgen dem Wanderweg bis zur Hütte.",
+      "sentence_en": "We follow the trail to the hut."
+    },
+    {
+      "de": "überqueren",
+      "en": "to cross",
+      "sentence_de": "Wir überqueren die Brücke über den Bach.",
+      "sentence_en": "We cross the bridge over the stream."
+    },
+    {
+      "de": "durchqueren",
+      "en": "to traverse",
+      "sentence_de": "Wir durchqueren den dichten Wald.",
+      "sentence_en": "We traverse the dense forest."
+    },
+    {
+      "de": "rasten",
+      "en": "to take a rest",
+      "sentence_de": "Wir rasten auf einer Bank unter einem Baum.",
+      "sentence_en": "We rest on a bench under a tree."
+    },
+    {
+      "de": "pausieren",
+      "en": "to take a break",
+      "sentence_de": "Wir pausieren für eine halbe Stunde.",
+      "sentence_en": "We take a break for half an hour."
+    },
+    {
+      "de": "genießen",
+      "en": "to enjoy",
+      "sentence_de": "Wir genießen die Ruhe der Natur.",
+      "sentence_en": "We enjoy the peace of nature."
+    },
+    {
+      "de": "fotografieren",
+      "en": "to photograph",
+      "sentence_de": "Ich fotografiere das wunderschöne Panorama.",
+      "sentence_en": "I photograph the beautiful panorama."
+    },
+    {
+      "de": "beobachten",
+      "en": "to observe",
+      "sentence_de": "Wir beobachten Vögel und Rehe.",
+      "sentence_en": "We observe birds and deer."
+    },
+    {
+      "de": "atmen",
+      "en": "to breathe",
+      "sentence_de": "Auf dem Gipfel atmen wir tief die klare Luft ein.",
+      "sentence_en": "On the summit we breathe in the clear air deeply."
+    },
+    {
+      "de": "schwitzen",
+      "en": "to sweat",
+      "sentence_de": "Bei der Steigung schwitzen wir stark.",
+      "sentence_en": "We sweat heavily on the ascent."
+    },
+    {
+      "de": "sich verirren",
+      "en": "to get lost",
+      "sentence_de": "Im dichten Nebel haben wir uns verirrt.",
+      "sentence_en": "In the thick fog we got lost."
+    },
+    {
+      "de": "umkehren",
+      "en": "to turn back",
+      "sentence_de": "Wir kehren um, weil es zu dunkel wird.",
+      "sentence_en": "We turn back because it's getting too dark."
+    },
+    {
+      "de": "weitergehen",
+      "en": "to keep going",
+      "sentence_de": "Trotz Müdigkeit gehen wir weiter.",
+      "sentence_en": "Despite fatigue, we keep going."
+    },
+    {
+      "de": "anhalten",
+      "en": "to stop",
+      "sentence_de": "Wir halten kurz an, um Wasser zu trinken.",
+      "sentence_en": "We stop briefly to drink water."
+    },
+    {
+      "de": "packen",
+      "en": "to pack",
+      "sentence_de": "Ich packe morgen früh meinen Rucksack.",
+      "sentence_en": "I pack my backpack tomorrow morning."
+    },
+    {
+      "de": "einpacken",
+      "en": "to pack up",
+      "sentence_de": "Wir packen unsere Sachen für die Wanderung ein.",
+      "sentence_en": "We pack our things for the hike."
+    },
+    {
+      "de": "festhalten (sich)",
+      "en": "to hold on",
+      "sentence_de": "In steilen Abschnitten halten wir uns an Seilen fest.",
+      "sentence_en": "In steep sections we hold on to ropes."
+    },
+    {
+      "de": "stolpern",
+      "en": "to stumble",
+      "sentence_de": "Ich bin über eine Wurzel gestolpert.",
+      "sentence_en": "I stumbled over a root."
+    },
+    {
+      "de": "ausruhen",
+      "en": "to rest",
+      "sentence_de": "Am Gipfel ruhen wir uns aus.",
+      "sentence_en": "We rest at the summit."
+    },
+    {
+      "de": "ankommen",
+      "en": "to arrive",
+      "sentence_de": "Wir kommen nach vier Stunden auf der Hütte an.",
+      "sentence_en": "We arrive at the hut after four hours."
+    },
+    {
+      "de": "zurückkehren",
+      "en": "to return",
+      "sentence_de": "Wir kehren am Abend erschöpft zurück.",
+      "sentence_en": "We return exhausted in the evening."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "steil",
+      "en": "steep",
+      "sentence_de": "Der Aufstieg ist sehr steil.",
+      "sentence_en": "The ascent is very steep."
+    },
+    {
+      "de": "flach",
+      "en": "flat",
+      "sentence_de": "Der Weg ist auf diesem Abschnitt flach.",
+      "sentence_en": "The trail is flat in this section."
+    },
+    {
+      "de": "bergauf",
+      "en": "uphill",
+      "sentence_de": "Der bergauf Abschnitt ist schweißtreibend.",
+      "sentence_en": "The uphill section is sweaty."
+    },
+    {
+      "de": "bergab",
+      "en": "downhill",
+      "sentence_de": "Der bergab Weg ist rutschig.",
+      "sentence_en": "The downhill path is slippery."
+    },
+    {
+      "de": "schwierig",
+      "en": "difficult",
+      "sentence_de": "Die Route ist anspruchsvoll und schwierig.",
+      "sentence_en": "The route is challenging and difficult."
+    },
+    {
+      "de": "einfach / leicht",
+      "en": "easy",
+      "sentence_de": "Die erste Etappe ist leicht.",
+      "sentence_en": "The first stage is easy."
+    },
+    {
+      "de": "unwegsam",
+      "en": "rough / rugged",
+      "sentence_de": "Das Gelände ist unwegsam.",
+      "sentence_en": "The terrain is rough."
+    },
+    {
+      "de": "schattig",
+      "en": "shady",
+      "sentence_de": "Im Wald ist es angenehm schattig.",
+      "sentence_en": "It's pleasantly shady in the forest."
+    },
+    {
+      "de": "sonnig",
+      "en": "sunny",
+      "sentence_de": "Auf dem offenen Feld ist es sehr sonnig.",
+      "sentence_en": "It's very sunny in the open field."
+    },
+    {
+      "de": "windig",
+      "en": "windy",
+      "sentence_de": "Auf dem Gipfel ist es sehr windig.",
+      "sentence_en": "It's very windy at the summit."
+    },
+    {
+      "de": "neblig",
+      "en": "foggy",
+      "sentence_de": "Bei nebligem Wetter sieht man kaum etwas.",
+      "sentence_en": "In foggy weather you can barely see anything."
+    },
+    {
+      "de": "müde",
+      "en": "tired",
+      "sentence_de": "Nach acht Stunden Wandern sind wir müde.",
+      "sentence_en": "After eight hours of hiking we are tired."
+    },
+    {
+      "de": "erschöpft",
+      "en": "exhausted",
+      "sentence_de": "Die Wanderung hat uns völlig erschöpft.",
+      "sentence_en": "The hike has left us completely exhausted."
+    },
+    {
+      "de": "ausgeruht",
+      "en": "rested",
+      "sentence_de": "Nach einer Pause sind wir wieder ausgeruht.",
+      "sentence_en": "After a break we are rested again."
+    },
+    {
+      "de": "malerisch",
+      "en": "picturesque",
+      "sentence_de": "Die Landschaft ist malerisch schön.",
+      "sentence_en": "The landscape is picturesquely beautiful."
+    },
+    {
+      "de": "atemberaubend",
+      "en": "breathtaking",
+      "sentence_de": "Die Aussicht ist atemberaubend.",
+      "sentence_en": "The view is breathtaking."
+    },
+    {
+      "de": "unvergesslich",
+      "en": "unforgettable",
+      "sentence_de": "Diese Wanderung war unvergesslich.",
+      "sentence_en": "This hike was unforgettable."
+    },
+    {
+      "de": "erholsam",
+      "en": "restorative / relaxing",
+      "sentence_de": "Ein Tag in der Natur ist sehr erholsam.",
+      "sentence_en": "A day in nature is very restorative."
+    },
+    {
+      "de": "anstrengend",
+      "en": "strenuous / tiring",
+      "sentence_de": "Die Wanderung war sehr anstrengend.",
+      "sentence_en": "The hike was very strenuous."
+    },
+    {
+      "de": "abenteuerlich",
+      "en": "adventurous",
+      "sentence_de": "Die Route führt über abenteuerliche Pfade.",
+      "sentence_en": "The route leads over adventurous paths."
+    },
+    {
+      "de": "gut ausgezeichnet",
+      "en": "well-marked",
+      "sentence_de": "Der Weg ist gut ausgezeichnet.",
+      "sentence_en": "The trail is well-marked."
+    },
+    {
+      "de": "rutschig",
+      "en": "slippery",
+      "sentence_de": "Nach dem Regen ist der Weg rutschig.",
+      "sentence_en": "After the rain the path is slippery."
+    },
+    {
+      "de": "trocken",
+      "en": "dry",
+      "sentence_de": "Der Boden ist heute trocken.",
+      "sentence_en": "The ground is dry today."
+    },
+    {
+      "de": "nass",
+      "en": "wet",
+      "sentence_de": "Der Grasweg ist nass vom Tau.",
+      "sentence_en": "The grassy path is wet from dew."
+    },
+    {
+      "de": "spektakulär",
+      "en": "spectacular",
+      "sentence_de": "Der Blick vom Gipfel ist spektakulär.",
+      "sentence_en": "The view from the summit is spectacular."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Wir gehen langsam, um die Natur zu genießen.",
+      "sentence_en": "We walk slowly to enjoy nature."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Die ersten 10 Kilometer haben wir schnell geschafft.",
+      "sentence_en": "We did the first 10 kilometers quickly."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Wir steigen vorsichtig über die glitschigen Steine.",
+      "sentence_en": "We carefully climb over the slippery stones."
+    },
+    {
+      "de": "gemütlich",
+      "en": "comfortably / leisurely",
+      "sentence_de": "Wir wandern gemütlich durch das Tal.",
+      "sentence_en": "We hike leisurely through the valley."
+    },
+    {
+      "de": "bergauf",
+      "en": "uphill",
+      "sentence_de": "Wir gehen bergauf und kommen ins Schwitzen.",
+      "sentence_en": "We're going uphill and starting to sweat."
+    },
+    {
+      "de": "bergab",
+      "en": "downhill",
+      "sentence_de": "Bergab geht es viel leichter.",
+      "sentence_en": "Downhill is much easier."
+    },
+    {
+      "de": "außer Atem",
+      "en": "out of breath",
+      "sentence_de": "Nach der Steigung bin ich außer Atem.",
+      "sentence_en": "After the ascent I'm out of breath."
+    },
+    {
+      "de": "stundenlang",
+      "en": "for hours",
+      "sentence_de": "Wir sind stundenlang durch den Wald gewandert.",
+      "sentence_en": "We hiked through the forest for hours."
+    },
+    {
+      "de": "den ganzen Tag",
+      "en": "all day",
+      "sentence_de": "Wir sind den ganzen Tag unterwegs gewesen.",
+      "sentence_en": "We were on the move all day."
+    },
+    {
+      "de": "früh",
+      "en": "early",
+      "sentence_de": "Wir brechen früh am Morgen auf.",
+      "sentence_en": "We set off early in the morning."
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "sentence_de": "Wir sind spät am Abend zurückgekehrt.",
+      "sentence_en": "We returned late in the evening."
+    },
+    {
+      "de": "weit",
+      "en": "far",
+      "sentence_de": "Wir sind heute 15 Kilometer weit gewandert.",
+      "sentence_en": "We hiked 15 kilometers far today."
+    },
+    {
+      "de": "nah",
+      "en": "near",
+      "sentence_de": "Die Hütte ist nicht weit, sie ist nah.",
+      "sentence_en": "The hut is not far, it's near."
+    },
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "sentence_de": "Gehen Sie einfach geradeaus, dann sehen Sie den Weg.",
+      "sentence_en": "Just go straight ahead, then you'll see the path."
+    },
+    {
+      "de": "rechts",
+      "en": "right",
+      "sentence_de": "Bei der Weggabelung gehen wir rechts.",
+      "sentence_en": "At the fork we go right."
+    },
+    {
+      "de": "links",
+      "en": "left",
+      "sentence_de": "Der Weg links führt zum Wasserfall.",
+      "sentence_en": "The path on the left leads to the waterfall."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Überall blühen die wilden Blumen.",
+      "sentence_en": "Wildflowers are blooming everywhere."
+    },
+    {
+      "de": "nirgendwo",
+      "en": "nowhere",
+      "sentence_de": "Nirgendwo ist es schöner als in den Bergen.",
+      "sentence_en": "Nowhere is more beautiful than in the mountains."
+    },
+    {
+      "de": "endlich",
+      "en": "finally",
+      "sentence_de": "Endlich erreichen wir den Gipfel.",
+      "sentence_en": "Finally we reach the summit."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise hat es nicht geregnet.",
+      "sentence_en": "Fortunately it didn't rain."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider mussten wir wegen Nebels umkehren.",
+      "sentence_en": "Unfortunately we had to turn back because of fog."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Wir machen morgen eine Wanderung durch den Nationalpark.",
+      "en": "We're going on a hike through the national park tomorrow."
+    },
+    {
+      "de": "Der Aufstieg war steil, aber die Aussicht von oben entschädigt für alles.",
+      "en": "The ascent was steep, but the view from the top makes up for everything."
+    },
+    {
+      "de": "Vergiss nicht, deine Wanderschuhe gut einzulaufen, bevor du losgehst.",
+      "en": "Don't forget to break in your hiking boots properly before you set off."
+    },
+    {
+      "de": "Wir wandern heute 20 Kilometer und machen zwischendurch ein Picknick.",
+      "en": "We're hiking 20 kilometers today and having a picnic in between."
+    },
+    {
+      "de": "Die Wanderwege sind sehr gut markiert, sodass man sich nicht verirren kann.",
+      "en": "The hiking trails are very well marked so you can't get lost."
+    },
+    {
+      "de": "Am Gipfelkreuz machen wir eine Pause und genießen die Ruhe.",
+      "en": "We take a break at the summit cross and enjoy the peace."
+    },
+    {
+      "de": "Es ist wichtig, genügend Wasser und Proviant für die Tour mitzunehmen.",
+      "en": "It's important to take enough water and supplies for the tour."
+    },
+    {
+      "de": "Der Bach ist nach dem Regen angeschwollen, wir müssen ihn vorsichtig überqueren.",
+      "en": "The stream has swollen after the rain; we have to cross it carefully."
+    },
+    {
+      "de": "Im dichten Wald ist es schattig und kühl – eine angenehme Abwechslung.",
+      "en": "In the dense forest it's shady and cool – a pleasant change."
+    },
+    {
+      "de": "Die Blumenwiesen im Tal sind ein Farbenmeer und wunderschön anzusehen.",
+      "en": "The flower meadows in the valley are a sea of colors and beautiful to look at."
+    },
+    {
+      "de": "Wir steigen durch den steilen Felsweg hinauf zur Bergspitze.",
+      "en": "We climb up the steep rocky path to the mountaintop."
+    },
+    {
+      "de": "Eine Wanderkarte und ein Kompass sind immer noch nützlich, auch wenn man ein Handy hat.",
+      "en": "A hiking map and a compass are still useful, even if you have a mobile phone."
+    },
+    {
+      "de": "Auf der Almhütte gibt es frische Milch und hausgemachten Käse.",
+      "en": "At the alpine hut there's fresh milk and homemade cheese."
+    },
+    {
+      "de": "Die Wanderung war anstrengend, aber die Naturerlebnisse waren die Mühe wert.",
+      "en": "The hike was strenuous, but the nature experiences were worth the effort."
+    },
+    {
+      "de": "Wir steigen die letzten 500 Höhenmeter hinab ins Tal und kehren zum Parkplatz zurück.",
+      "en": "We descend the last 500 meters of elevation gain into the valley and return to the car park."
+    }
+  ]
+}

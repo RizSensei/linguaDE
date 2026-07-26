@@ -1,0 +1,751 @@
+{
+  "theme": "Pets",
+  "words": [
+    {
+      "de": "das Haustier",
+      "en": "pet",
+      "sentence_de": "Ein Haustier bringt Freude ins Haus.",
+      "sentence_en": "A pet brings joy into the home."
+    },
+    {
+      "de": "der Hund",
+      "en": "dog",
+      "sentence_de": "Der Hund bellt laut.",
+      "sentence_en": "The dog is barking loudly."
+    },
+    {
+      "de": "die Katze",
+      "en": "cat",
+      "sentence_de": "Die Katze schläft auf dem Sofa.",
+      "sentence_en": "The cat is sleeping on the sofa."
+    },
+    {
+      "de": "der Vogel",
+      "en": "bird",
+      "sentence_de": "Der Vogel singt jeden Morgen.",
+      "sentence_en": "The bird sings every morning."
+    },
+    {
+      "de": "der Fisch",
+      "en": "fish",
+      "sentence_de": "Die Fische schwimmen im Aquarium.",
+      "sentence_en": "The fish are swimming in the aquarium."
+    },
+    {
+      "de": "das Meerschweinchen",
+      "en": "guinea pig",
+      "sentence_de": "Das Meerschweinchen frisst gerne Gurke.",
+      "sentence_en": "The guinea pig likes to eat cucumber."
+    },
+    {
+      "de": "der Hamster",
+      "en": "hamster",
+      "sentence_de": "Der Hamster läuft im Laufrad.",
+      "sentence_en": "The hamster is running on its wheel."
+    },
+    {
+      "de": "das Kaninchen",
+      "en": "rabbit",
+      "sentence_de": "Das Kaninchen hoppelt durch den Garten.",
+      "sentence_en": "The rabbit hops through the garden."
+    },
+    {
+      "de": "die Maus",
+      "en": "mouse",
+      "sentence_de": "Die Maus knabbert an einem Stück Käse.",
+      "sentence_en": "The mouse is nibbling on a piece of cheese."
+    },
+    {
+      "de": "die Ratte",
+      "en": "rat",
+      "sentence_de": "Die Ratte ist sehr intelligent.",
+      "sentence_en": "The rat is very intelligent."
+    },
+    {
+      "de": "die Schildkröte",
+      "en": "turtle / tortoise",
+      "sentence_de": "Die Schildkröte bewegt sich langsam.",
+      "sentence_en": "The turtle moves slowly."
+    },
+    {
+      "de": "der Papagei",
+      "en": "parrot",
+      "sentence_de": "Der Papagei kann Wörter nachsprechen.",
+      "sentence_en": "The parrot can repeat words."
+    },
+    {
+      "de": "der Wellensittich",
+      "en": "budgerigar / budgie",
+      "sentence_de": "Der Wellensittich zwitschert fröhlich.",
+      "sentence_en": "The budgie chirps happily."
+    },
+    {
+      "de": "die Schlange",
+      "en": "snake",
+      "sentence_de": "Die Schlange ist ein exotisches Haustier.",
+      "sentence_en": "The snake is an exotic pet."
+    },
+    {
+      "de": "die Spinne",
+      "en": "spider",
+      "sentence_de": "Die Spinne lebt in einem Terrarium.",
+      "sentence_en": "The spider lives in a terrarium."
+    },
+    {
+      "de": "der Tierarzt",
+      "en": "vet / veterinarian",
+      "sentence_de": "Wir gehen morgen zum Tierarzt.",
+      "sentence_en": "We are going to the vet tomorrow."
+    },
+    {
+      "de": "die Tierarztpraxis",
+      "en": "veterinary practice",
+      "sentence_de": "Die Tierarztpraxis ist gleich um die Ecke.",
+      "sentence_en": "The veterinary practice is just around the corner."
+    },
+    {
+      "de": "das Futter",
+      "en": "food (pet food)",
+      "sentence_de": "Das Futter ist für Hunde und Katzen.",
+      "sentence_en": "The food is for dogs and cats."
+    },
+    {
+      "de": "das Trockenfutter",
+      "en": "dry food",
+      "sentence_de": "Meine Katze mag Trockenfutter.",
+      "sentence_en": "My cat likes dry food."
+    },
+    {
+      "de": "das Nassfutter",
+      "en": "wet food",
+      "sentence_de": "Der Hund bekommt einmal am Tag Nassfutter.",
+      "sentence_en": "The dog gets wet food once a day."
+    },
+    {
+      "de": "der Napf",
+      "en": "food bowl",
+      "sentence_de": "Füll den Napf mit frischem Wasser.",
+      "sentence_en": "Fill the bowl with fresh water."
+    },
+    {
+      "de": "die Tränke / der Wasserbehälter",
+      "en": "water dispenser / bottle",
+      "sentence_de": "Der Hamster trinkt aus der Tränke.",
+      "sentence_en": "The hamster drinks from the water bottle."
+    },
+    {
+      "de": "das Hundehalsband",
+      "en": "dog collar",
+      "sentence_de": "Das Halsband hat einen Namensschild.",
+      "sentence_en": "The collar has a name tag."
+    },
+    {
+      "de": "die Leine",
+      "en": "leash",
+      "sentence_de": "In der Stadt muss der Hund an der Leine sein.",
+      "sentence_en": "In the city, the dog must be on a leash."
+    },
+    {
+      "de": "das Körbchen",
+      "en": "pet basket / bed",
+      "sentence_de": "Die Katze schläft in ihrem Körbchen.",
+      "sentence_en": "The cat sleeps in her basket."
+    },
+    {
+      "de": "das Katzenklo",
+      "en": "litter box",
+      "sentence_de": "Das Katzenklo muss täglich gereinigt werden.",
+      "sentence_en": "The litter box needs to be cleaned daily."
+    },
+    {
+      "de": "das Streu",
+      "en": "litter",
+      "sentence_de": "Wir brauchen neues Streu für die Katze.",
+      "sentence_en": "We need new litter for the cat."
+    },
+    {
+      "de": "der Käfig",
+      "en": "cage",
+      "sentence_de": "Der Vogel fliegt im Käfig hin und her.",
+      "sentence_en": "The bird flies back and forth in the cage."
+    },
+    {
+      "de": "das Aquarium",
+      "en": "aquarium",
+      "sentence_de": "Das Aquarium ist 100 Liter groß.",
+      "sentence_en": "The aquarium is 100 liters in size."
+    },
+    {
+      "de": "das Terrarium",
+      "en": "terrarium",
+      "sentence_de": "Die Schlange lebt in einem Terrarium.",
+      "sentence_en": "The snake lives in a terrarium."
+    },
+    {
+      "de": "das Spielzeug",
+      "en": "toy",
+      "sentence_de": "Der Hund spielt gern mit seinem Spielzeug.",
+      "sentence_en": "The dog likes to play with his toy."
+    },
+    {
+      "de": "der Spielball",
+      "en": "play ball",
+      "sentence_de": "Wirf den Ball, und der Hund holt ihn.",
+      "sentence_en": "Throw the ball, and the dog will fetch it."
+    },
+    {
+      "de": "die Pfote",
+      "en": "paw",
+      "sentence_de": "Der Hund gibt mir die Pfote.",
+      "sentence_en": "The dog gives me his paw."
+    },
+    {
+      "de": "die Kralle / die Klaue",
+      "en": "claw",
+      "sentence_de": "Die Katze schärft ihre Krallen am Kratzbaum.",
+      "sentence_en": "The cat sharpens her claws on the scratching post."
+    },
+    {
+      "de": "der Kratzbaum",
+      "en": "scratching post",
+      "sentence_de": "Der Kratzbaum ist zwei Meter hoch.",
+      "sentence_en": "The scratching post is two meters high."
+    },
+    {
+      "de": "die Hündin",
+      "en": "female dog",
+      "sentence_de": "Unsere Hündin hat drei Welpen bekommen.",
+      "sentence_en": "Our female dog had three puppies."
+    },
+    {
+      "de": "der Welpe",
+      "en": "puppy",
+      "sentence_de": "Der Welpe ist erst acht Wochen alt.",
+      "sentence_en": "The puppy is only eight weeks old."
+    },
+    {
+      "de": "das Kätzchen",
+      "en": "kitten",
+      "sentence_de": "Das Kätzchen spielt mit einem Wollknäuel.",
+      "sentence_en": "The kitten plays with a ball of wool."
+    },
+    {
+      "de": "die Rasse",
+      "en": "breed",
+      "sentence_de": "Welche Rasse ist dein Hund?",
+      "sentence_en": "What breed is your dog?"
+    },
+    {
+      "de": "der Mischling",
+      "en": "mixed breed",
+      "sentence_de": "Unser Hund ist ein Mischling.",
+      "sentence_en": "Our dog is a mixed breed."
+    },
+    {
+      "de": "die Haltung",
+      "en": "keeping / care (of pets)",
+      "sentence_de": "Die Haltung von Haustieren ist nicht immer einfach.",
+      "sentence_en": "The keeping of pets is not always easy."
+    },
+    {
+      "de": "die Pflege",
+      "en": "grooming / care",
+      "sentence_de": "Die Pflege des Fells ist wichtig.",
+      "sentence_en": "Grooming the fur is important."
+    },
+    {
+      "de": "die Impfung",
+      "en": "vaccination",
+      "sentence_de": "Die Impfung schützt den Hund vor Krankheiten.",
+      "sentence_en": "The vaccination protects the dog from diseases."
+    },
+    {
+      "de": "das Tierheim",
+      "en": "animal shelter",
+      "sentence_de": "Wir haben unseren Hund aus dem Tierheim geholt.",
+      "sentence_en": "We got our dog from the animal shelter."
+    },
+    {
+      "de": "der Tierhändler",
+      "en": "pet dealer / pet shop owner",
+      "sentence_de": "Der Tierhändler verkauft Fische und Vögel.",
+      "sentence_en": "The pet dealer sells fish and birds."
+    },
+    {
+      "de": "das Zubehör",
+      "en": "accessories",
+      "sentence_de": "Für Haustiere gibt es viel Zubehör.",
+      "sentence_en": "There is a lot of accessories for pets."
+    },
+    {
+      "de": "der Hundekotbeutel",
+      "en": "poop bag",
+      "sentence_de": "Vergiss die Hundekotbeutel beim Spaziergang nicht.",
+      "sentence_en": "Don't forget the poop bags on the walk."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "streicheln",
+      "en": "to pet / stroke",
+      "sentence_de": "Ich streichle meiner Katze über den Rücken.",
+      "sentence_en": "I stroke my cat's back."
+    },
+    {
+      "de": "füttern",
+      "en": "to feed",
+      "sentence_de": "Du musst die Fische zweimal am Tag füttern.",
+      "sentence_en": "You need to feed the fish twice a day."
+    },
+    {
+      "de": "ausführen",
+      "en": "to walk (dog)",
+      "sentence_de": "Ich führe den Hund jeden Morgen aus.",
+      "sentence_en": "I walk the dog every morning."
+    },
+    {
+      "de": "spielen",
+      "en": "to play",
+      "sentence_de": "Die Kinder spielen mit dem Welpen.",
+      "sentence_en": "The children play with the puppy."
+    },
+    {
+      "de": "bellen",
+      "en": "to bark",
+      "sentence_de": "Der Hund bellt den Postboten an.",
+      "sentence_en": "The dog barks at the postman."
+    },
+    {
+      "de": "miauen",
+      "en": "to meow",
+      "sentence_de": "Die Katze miaut, weil sie Hunger hat.",
+      "sentence_en": "The cat meows because she's hungry."
+    },
+    {
+      "de": "zwitschern",
+      "en": "to chirp / tweet",
+      "sentence_de": "Die Vögel zwitschern im Garten.",
+      "sentence_en": "The birds chirp in the garden."
+    },
+    {
+      "de": "schnurren",
+      "en": "to purr",
+      "sentence_de": "Die Katze schnurrt, wenn sie glücklich ist.",
+      "sentence_en": "The cat purrs when she is happy."
+    },
+    {
+      "de": "knabbern",
+      "en": "to nibble",
+      "sentence_de": "Der Hamster knabbert an einem Stück Apfel.",
+      "sentence_en": "The hamster nibbles on a piece of apple."
+    },
+    {
+      "de": "schläft (schlafen)",
+      "en": "to sleep",
+      "sentence_de": "Die Katze schläft auf der Fensterbank.",
+      "sentence_en": "The cat sleeps on the windowsill."
+    },
+    {
+      "de": "apportieren",
+      "en": "to fetch",
+      "sentence_de": "Der Hund apportiert den Stock.",
+      "sentence_en": "The dog fetches the stick."
+    },
+    {
+      "de": "befolgen",
+      "en": "to obey",
+      "sentence_de": "Der Hund befolgt alle Kommandos.",
+      "sentence_en": "The dog obeys all commands."
+    },
+    {
+      "de": "trainieren",
+      "en": "to train",
+      "sentence_de": "Wir trainieren den Hund in der Hundeschule.",
+      "sentence_en": "We train the dog at the dog school."
+    },
+    {
+      "de": "erziehen",
+      "en": "to train / educate (a pet)",
+      "sentence_de": "Man muss seinen Hund konsequent erziehen.",
+      "sentence_en": "You need to train your dog consistently."
+    },
+    {
+      "de": "bürsten",
+      "en": "to brush",
+      "sentence_de": "Ich bürste das Fell meines Hundes.",
+      "sentence_en": "I brush my dog's fur."
+    },
+    {
+      "de": "baden",
+      "en": "to bathe",
+      "sentence_de": "Nach dem Spaziergang muss ich den Hund baden.",
+      "sentence_en": "After the walk I have to bathe the dog."
+    },
+    {
+      "de": "kratzen",
+      "en": "to scratch",
+      "sentence_de": "Die Katze kratzt am Kratzbaum.",
+      "sentence_en": "The cat scratches the scratching post."
+    },
+    {
+      "de": "beißen",
+      "en": "to bite",
+      "sentence_de": "Der Welpe beißt in das Spielzeug.",
+      "sentence_en": "The puppy bites into the toy."
+    },
+    {
+      "de": "lecken",
+      "en": "to lick",
+      "sentence_de": "Der Hund leckt mir die Hand ab.",
+      "sentence_en": "The dog licks my hand."
+    },
+    {
+      "de": "sich (an)schmiegen",
+      "en": "to snuggle up",
+      "sentence_de": "Die Katze schmiegt sich an mich an.",
+      "sentence_en": "The cat snuggles up to me."
+    },
+    {
+      "de": "kämpfen",
+      "en": "to fight",
+      "sentence_de": "Die zwei Hunde kämpfen um den Ball.",
+      "sentence_en": "The two dogs fight over the ball."
+    },
+    {
+      "de": "adoptieren",
+      "en": "to adopt",
+      "sentence_de": "Wir adoptieren einen Hund aus dem Tierheim.",
+      "sentence_en": "We are adopting a dog from the shelter."
+    },
+    {
+      "de": "vermissen",
+      "en": "to miss",
+      "sentence_de": "Ich vermisse meine Katze, wenn ich reise.",
+      "sentence_en": "I miss my cat when I travel."
+    },
+    {
+      "de": "sich um (etwas) kümmern",
+      "en": "to take care of",
+      "sentence_de": "Kümmerst du dich um das Meerschweinchen?",
+      "sentence_en": "Are you taking care of the guinea pig?"
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "süß",
+      "en": "cute",
+      "sentence_de": "Der Welpe ist so süß!",
+      "sentence_en": "The puppy is so cute!"
+    },
+    {
+      "de": "flauschig",
+      "en": "fluffy",
+      "sentence_de": "Die Katze hat ein flauschiges Fell.",
+      "sentence_en": "The cat has fluffy fur."
+    },
+    {
+      "de": "treu",
+      "en": "loyal",
+      "sentence_de": "Der Hund ist ein treuer Begleiter.",
+      "sentence_en": "The dog is a loyal companion."
+    },
+    {
+      "de": "gehorsam",
+      "en": "obedient",
+      "sentence_de": "Mein Hund ist sehr gehorsam.",
+      "sentence_en": "My dog is very obedient."
+    },
+    {
+      "de": "verspielt",
+      "en": "playful",
+      "sentence_de": "Das Kätzchen ist sehr verspielt.",
+      "sentence_en": "The kitten is very playful."
+    },
+    {
+      "de": "ruhig",
+      "en": "calm / quiet",
+      "sentence_de": "Die Schildkröte ist ein ruhiges Tier.",
+      "sentence_en": "The turtle is a calm animal."
+    },
+    {
+      "de": "lebhaft",
+      "en": "lively / energetic",
+      "sentence_de": "Der Hamster ist sehr lebhaft.",
+      "sentence_en": "The hamster is very lively."
+    },
+    {
+      "de": "zutraulich",
+      "en": "trusting / friendly",
+      "sentence_de": "Der Hund ist zutraulich zu Fremden.",
+      "sentence_en": "The dog is friendly to strangers."
+    },
+    {
+      "de": "scheu",
+      "en": "shy",
+      "sentence_de": "Das Kaninchen ist noch etwas scheu.",
+      "sentence_en": "The rabbit is still a bit shy."
+    },
+    {
+      "de": "aggressiv",
+      "en": "aggressive",
+      "sentence_de": "Der böse Hund kann aggressiv sein.",
+      "sentence_en": "The mean dog can be aggressive."
+    },
+    {
+      "de": "krank",
+      "en": "sick / ill",
+      "sentence_de": "Der kranke Vogel sitzt still im Käfig.",
+      "sentence_en": "The sick bird sits quietly in the cage."
+    },
+    {
+      "de": "gesund",
+      "en": "healthy",
+      "sentence_de": "Ein gesunder Hund hat ein glänzendes Fell.",
+      "sentence_en": "A healthy dog has a shiny coat."
+    },
+    {
+      "de": "klein",
+      "en": "small",
+      "sentence_de": "Der Welpe ist noch sehr klein.",
+      "sentence_en": "The puppy is still very small."
+    },
+    {
+      "de": "groß",
+      "en": "big / large",
+      "sentence_de": "Diese Hunderasse wird sehr groß.",
+      "sentence_en": "This dog breed gets very big."
+    },
+    {
+      "de": "dick",
+      "en": "fat / chubby",
+      "sentence_de": "Der Kater ist etwas dick geworden.",
+      "sentence_en": "The tomcat has gotten a bit fat."
+    },
+    {
+      "de": "dünn",
+      "en": "thin",
+      "sentence_de": "Der streunende Hund ist sehr dünn.",
+      "sentence_en": "The stray dog is very thin."
+    },
+    {
+      "de": "exotisch",
+      "en": "exotic",
+      "sentence_de": "Schlangen sind exotische Haustiere.",
+      "sentence_en": "Snakes are exotic pets."
+    },
+    {
+      "de": "brav",
+      "en": "well-behaved / good",
+      "sentence_de": "Der Hund war heute sehr brav.",
+      "sentence_en": "The dog was very well-behaved today."
+    },
+    {
+      "de": "ungezogen",
+      "en": "naughty",
+      "sentence_de": "Das ungezogene Kätzchen hat die Gardinen zerkratzt.",
+      "sentence_en": "The naughty kitten scratched the curtains."
+    },
+    {
+      "de": "pflegeleicht",
+      "en": "low-maintenance",
+      "sentence_de": "Fische sind pflegeleichte Haustiere.",
+      "sentence_en": "Fish are low-maintenance pets."
+    },
+    {
+      "de": "allergisch",
+      "en": "allergic",
+      "sentence_de": "Ich bin gegen Katzenhaare allergisch.",
+      "sentence_en": "I am allergic to cat fur."
+    },
+    {
+      "de": "glücklich",
+      "en": "happy",
+      "sentence_de": "Der Hund wedelt mit dem Schwanz – er ist glücklich.",
+      "sentence_en": "The dog wags his tail – he is happy."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "leise",
+      "en": "quietly",
+      "sentence_de": "Die Katze schleicht leise durchs Zimmer.",
+      "sentence_en": "The cat creeps quietly through the room."
+    },
+    {
+      "de": "laut",
+      "en": "loudly",
+      "sentence_de": "Der Hund bellt laut, wenn jemand klingelt.",
+      "sentence_en": "The dog barks loudly when someone rings the bell."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly / fast",
+      "sentence_de": "Der Hamster läuft schnell im Laufrad.",
+      "sentence_en": "The hamster runs quickly in the wheel."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Die Schildkröte bewegt sich langsam.",
+      "sentence_en": "The turtle moves slowly."
+    },
+    {
+      "de": "gern / gerne",
+      "en": "gladly / with pleasure",
+      "sentence_de": "Die Katze spielt gerne mit Bällen.",
+      "sentence_en": "The cat likes to play with balls."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Der Hund geht ungern zum Tierarzt.",
+      "sentence_en": "The dog reluctantly goes to the vet."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Wir gehen oft mit dem Hund spazieren.",
+      "sentence_en": "We often walk the dog."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Meine Katze trinkt selten aus dem Napf.",
+      "sentence_en": "My cat rarely drinks from the bowl."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Er streichelt den verängstigten Hund vorsichtig.",
+      "sentence_en": "He carefully strokes the frightened dog."
+    },
+    {
+      "de": "fest",
+      "en": "firmly",
+      "sentence_de": "Er hält die Leine fest.",
+      "sentence_en": "He holds the leash firmly."
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "sentence_de": "Der Hund spielt draußen im Garten.",
+      "sentence_en": "The dog plays outside in the garden."
+    },
+    {
+      "de": "drinnen",
+      "en": "inside",
+      "sentence_de": "Die Katze bleibt drinnen, weil es regnet.",
+      "sentence_en": "The cat stays inside because it's raining."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Wir füttern die Fische täglich.",
+      "sentence_en": "We feed the fish daily."
+    },
+    {
+      "de": "morgens",
+      "en": "in the morning",
+      "sentence_de": "Morgens gehe ich mit dem Hund.",
+      "sentence_en": "In the morning I walk the dog."
+    },
+    {
+      "de": "abends",
+      "en": "in the evening",
+      "sentence_de": "Abends spiele ich mit der Katze.",
+      "sentence_en": "In the evening I play with the cat."
+    },
+    {
+      "de": "immer",
+      "en": "always",
+      "sentence_de": "Mein Hund wedelt immer mit dem Schwanz, wenn ich komme.",
+      "sentence_en": "My dog always wags his tail when I come."
+    },
+    {
+      "de": "nie",
+      "en": "never",
+      "sentence_de": "Der Vogel hat nie den Käfig verlassen.",
+      "sentence_en": "The bird has never left the cage."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Der Hund kann nicht lange alleine bleiben.",
+      "sentence_en": "The dog cannot stay alone for long."
+    },
+    {
+      "de": "zusammen",
+      "en": "together",
+      "sentence_de": "Die zwei Katzen schlafen zusammen im Körbchen.",
+      "sentence_en": "The two cats sleep together in the basket."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise ist der Hund wieder gesund.",
+      "sentence_en": "Fortunately the dog is healthy again."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich habe einen Hund, eine Katze und zwei Meerschweinchen zu Hause.",
+      "en": "I have a dog, a cat and two guinea pigs at home."
+    },
+    {
+      "de": "Du musst den Hund mindestens zweimal am Tag ausführen.",
+      "en": "You have to walk the dog at least twice a day."
+    },
+    {
+      "de": "Die Katze schläft den ganzen Tag auf dem Sofa.",
+      "en": "The cat sleeps all day on the sofa."
+    },
+    {
+      "de": "Wir füttern unsere Fische einmal täglich mit speziellem Futter.",
+      "en": "We feed our fish once a day with special food."
+    },
+    {
+      "de": "Der Welpe ist noch sehr jung und muss viel lernen.",
+      "en": "The puppy is still very young and needs to learn a lot."
+    },
+    {
+      "de": "Vergiss nicht, das Katzenklo zu reinigen und frisches Streu einzufüllen.",
+      "en": "Don't forget to clean the litter box and add fresh litter."
+    },
+    {
+      "de": "Mein Hamster liebt es, nachts im Laufrad zu rennen.",
+      "en": "My hamster loves running in the wheel at night."
+    },
+    {
+      "de": "Wir haben unseren Hund aus dem Tierheim adoptiert.",
+      "en": "We adopted our dog from the animal shelter."
+    },
+    {
+      "de": "Der Tierarzt sagt, dass die Schildkröte eine spezielle Diät braucht.",
+      "en": "The vet says that the turtle needs a special diet."
+    },
+    {
+      "de": "Kinder sollten lernen, wie man Tiere richtig streichelt und respektiert.",
+      "en": "Children should learn how to properly pet and respect animals."
+    },
+    {
+      "de": "Das Aquarium muss alle zwei Wochen gereinigt werden.",
+      "en": "The aquarium must be cleaned every two weeks."
+    },
+    {
+      "de": "Unser Papagei kann schon zehn verschiedene Wörter sagen.",
+      "en": "Our parrot can already say ten different words."
+    },
+    {
+      "de": "Wenn du eine Katze hast, brauchst du einen Kratzbaum, damit sie ihre Krallen wetzen kann.",
+      "en": "If you have a cat, you need a scratching post so she can sharpen her claws."
+    },
+    {
+      "de": "Manche Haustiere sind sehr teuer in der Haltung und Pflege.",
+      "en": "Some pets are very expensive to keep and care for."
+    },
+    {
+      "de": "Ich möchte mir gerne ein Kaninchen kaufen, aber meine Wohnung ist zu klein.",
+      "en": "I'd like to buy a rabbit, but my apartment is too small."
+    }
+  ]
+}

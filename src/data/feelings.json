@@ -1,0 +1,751 @@
+{
+  "theme": "Feelings",
+  "words": [
+    {
+      "de": "das Gefühl",
+      "en": "feeling",
+      "sentence_de": "Ein Gefühl ist schwer in Worte zu fassen.",
+      "sentence_en": "A feeling is hard to put into words."
+    },
+    {
+      "de": "die Emotion",
+      "en": "emotion",
+      "sentence_de": "Emotionen sind ein wichtiger Teil des Lebens.",
+      "sentence_en": "Emotions are an important part of life."
+    },
+    {
+      "de": "die Freude",
+      "en": "joy",
+      "sentence_de": "Die Freude über den Erfolg war riesig.",
+      "sentence_en": "The joy about the success was huge."
+    },
+    {
+      "de": "das Glück",
+      "en": "happiness",
+      "sentence_de": "Glück ist, wenn man zufrieden ist.",
+      "sentence_en": "Happiness is when you are content."
+    },
+    {
+      "de": "die Liebe",
+      "en": "love",
+      "sentence_de": "Liebe ist das stärkste Gefühl.",
+      "sentence_en": "Love is the strongest feeling."
+    },
+    {
+      "de": "die Trauer",
+      "en": "sadness / grief",
+      "sentence_de": "Trauer ist ein natürlicher Teil des Lebens.",
+      "sentence_en": "Sadness is a natural part of life."
+    },
+    {
+      "de": "die Wut",
+      "en": "anger",
+      "sentence_de": "Wut kann manchmal hilfreich sein, um Grenzen zu setzen.",
+      "sentence_en": "Anger can sometimes be helpful to set boundaries."
+    },
+    {
+      "de": "der Zorn",
+      "en": "rage / fury",
+      "sentence_de": "Sein Zorn war unkontrollierbar.",
+      "sentence_en": "His rage was uncontrollable."
+    },
+    {
+      "de": "die Angst",
+      "en": "fear",
+      "sentence_de": "Angst vor dem Unbekannten ist normal.",
+      "sentence_en": "Fear of the unknown is normal."
+    },
+    {
+      "de": "die Furcht",
+      "en": "dread / fright",
+      "sentence_de": "Furcht lähmte sie in diesem Moment.",
+      "sentence_en": "Fright paralyzed her in that moment."
+    },
+    {
+      "de": "die Panik",
+      "en": "panic",
+      "sentence_de": "Panik erfasste die Menschenmenge.",
+      "sentence_en": "Panic seized the crowd."
+    },
+    {
+      "de": "die Überraschung",
+      "en": "surprise",
+      "sentence_de": "Die Überraschung war ihr ins Gesicht geschrieben.",
+      "sentence_en": "Surprise was written all over her face."
+    },
+    {
+      "de": "die Verwirrung",
+      "en": "confusion",
+      "sentence_de": "Seine Erklärung sorgte für große Verwirrung.",
+      "sentence_en": "His explanation caused great confusion."
+    },
+    {
+      "de": "die Scham",
+      "en": "shame",
+      "sentence_de": "Scham ist ein unangenehmes Gefühl.",
+      "sentence_en": "Shame is an uncomfortable feeling."
+    },
+    {
+      "de": "die Schuld",
+      "en": "guilt",
+      "sentence_de": "Ein schlechtes Gewissen ist ein Zeichen von Schuld.",
+      "sentence_en": "A guilty conscience is a sign of guilt."
+    },
+    {
+      "de": "die Reue",
+      "en": "regret",
+      "sentence_de": "Reue kann einem helfen, aus Fehlern zu lernen.",
+      "sentence_en": "Regret can help you learn from mistakes."
+    },
+    {
+      "de": "die Sehnsucht",
+      "en": "longing",
+      "sentence_de": "Sehnsucht nach der Heimat überkam ihn.",
+      "sentence_en": "Longing for home overcame him."
+    },
+    {
+      "de": "die Hoffnung",
+      "en": "hope",
+      "sentence_de": "Hoffnung ist das, was uns weitermachen lässt.",
+      "sentence_en": "Hope is what keeps us going."
+    },
+    {
+      "de": "die Enttäuschung",
+      "en": "disappointment",
+      "sentence_de": "Die Enttäuschung war groß, als er nicht kam.",
+      "sentence_en": "The disappointment was great when he didn't come."
+    },
+    {
+      "de": "die Erleichterung",
+      "en": "relief",
+      "sentence_de": "Als sie die gute Nachricht hörte, war die Erleichterung spürbar.",
+      "sentence_en": "When she heard the good news, the relief was palpable."
+    },
+    {
+      "de": "die Dankbarkeit",
+      "en": "gratitude",
+      "sentence_de": "Dankbarkeit ist ein schönes Gefühl.",
+      "sentence_en": "Gratitude is a beautiful feeling."
+    },
+    {
+      "de": "die Zufriedenheit",
+      "en": "contentment",
+      "sentence_de": "Zufriedenheit ist mehr als nur Glück.",
+      "sentence_en": "Contentment is more than just happiness."
+    },
+    {
+      "de": "die Stolz",
+      "en": "pride",
+      "sentence_de": "Stolz auf die Leistungen der Kinder ist natürlich.",
+      "sentence_en": "Pride in the children's achievements is natural."
+    },
+    {
+      "de": "die Eifersucht",
+      "en": "jealousy",
+      "sentence_de": "Eifersucht kann eine Beziehung zerstören.",
+      "sentence_en": "Jealousy can destroy a relationship."
+    },
+    {
+      "de": "der Neid",
+      "en": "envy",
+      "sentence_de": "Neid ist eine unschöne Eigenschaft.",
+      "sentence_en": "Envy is an unpleasant trait."
+    },
+    {
+      "de": "die Begeisterung",
+      "en": "enthusiasm",
+      "sentence_de": "Die Begeisterung der Kinder war ansteckend.",
+      "sentence_en": "The children's enthusiasm was contagious."
+    },
+    {
+      "de": "die Aufregung",
+      "en": "excitement",
+      "sentence_de": "Die Aufregung vor dem Konzert war groß.",
+      "sentence_en": "The excitement before the concert was great."
+    },
+    {
+      "de": "die Nervosität",
+      "en": "nervousness",
+      "sentence_de": "Ihre Nervosität war deutlich zu spüren.",
+      "sentence_en": "Her nervousness was clearly noticeable."
+    },
+    {
+      "de": "die Verlegenheit",
+      "en": "embarrassment",
+      "sentence_de": "Er wurde rot vor Verlegenheit.",
+      "sentence_en": "He blushed with embarrassment."
+    },
+    {
+      "de": "die Langeweile",
+      "en": "boredom",
+      "sentence_de": "Langeweile ist ein Zeichen von Unterforderung.",
+      "sentence_en": "Boredom is a sign of understimulation."
+    },
+    {
+      "de": "die Einsamkeit",
+      "en": "loneliness",
+      "sentence_de": "Einsamkeit kann sehr schmerzhaft sein.",
+      "sentence_en": "Loneliness can be very painful."
+    },
+    {
+      "de": "die Melancholie",
+      "en": "melancholy",
+      "sentence_de": "Melancholie ist eine tiefe, wehmütige Stimmung.",
+      "sentence_en": "Melancholy is a deep, wistful mood."
+    },
+    {
+      "de": "die Euphorie",
+      "en": "euphoria",
+      "sentence_de": "Euphorie erfasste die Menge nach dem Sieg.",
+      "sentence_en": "Euphoria seized the crowd after the victory."
+    },
+    {
+      "de": "die Sympathie",
+      "en": "sympathy / liking",
+      "sentence_de": "Ich empfinde große Sympathie für ihn.",
+      "sentence_en": "I feel great sympathy for him."
+    },
+    {
+      "de": "die Antipathie",
+      "en": "antipathy",
+      "sentence_de": "Zwischen den beiden herrschte sofort Antipathie.",
+      "sentence_en": "There was immediate antipathy between the two."
+    },
+    {
+      "de": "die Gleichgültigkeit",
+      "en": "indifference",
+      "sentence_de": "Seine Gleichgültigkeit verletzte sie.",
+      "sentence_en": "His indifference hurt her."
+    },
+    {
+      "de": "die Faszination",
+      "en": "fascination",
+      "sentence_de": "Die Faszination für das Unbekannte treibt uns an.",
+      "sentence_en": "Fascination for the unknown drives us."
+    },
+    {
+      "de": "die Zuneigung",
+      "en": "affection",
+      "sentence_de": "Zuneigung zeigt man durch kleine Gesten.",
+      "sentence_en": "Affection is shown through small gestures."
+    },
+    {
+      "de": "die Abneigung",
+      "en": "aversion",
+      "sentence_de": "Er hat eine starke Abneigung gegen laute Musik.",
+      "sentence_en": "He has a strong aversion to loud music."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "fühlen",
+      "en": "to feel",
+      "sentence_de": "Ich fühle mich heute sehr glücklich.",
+      "sentence_en": "I feel very happy today."
+    },
+    {
+      "de": "lieben",
+      "en": "to love",
+      "sentence_de": "Ich liebe meine Familie und Freunde.",
+      "sentence_en": "I love my family and friends."
+    },
+    {
+      "de": "hassen",
+      "en": "to hate",
+      "sentence_de": "Er hasst es, wenn man ihn anlügt.",
+      "sentence_en": "He hates it when people lie to him."
+    },
+    {
+      "de": "fürchten / sich fürchten (vor)",
+      "en": "to fear / to be afraid (of)",
+      "sentence_de": "Ich fürchte mich vor Spinnen.",
+      "sentence_en": "I am afraid of spiders."
+    },
+    {
+      "de": "Angst haben (vor)",
+      "en": "to be scared (of)",
+      "sentence_de": "Sie hat Angst vor der Dunkelheit.",
+      "sentence_en": "She is scared of the dark."
+    },
+    {
+      "de": "sich freuen (über / auf)",
+      "en": "to be happy (about / looking forward to)",
+      "sentence_de": "Ich freue mich auf das Wochenende.",
+      "sentence_en": "I'm looking forward to the weekend."
+    },
+    {
+      "de": "sich ärgern (über)",
+      "en": "to be annoyed (about)",
+      "sentence_de": "Er ärgert sich über den Stau.",
+      "sentence_en": "He is annoyed about the traffic jam."
+    },
+    {
+      "de": "wütend sein",
+      "en": "to be angry",
+      "sentence_de": "Sie ist wütend auf ihren Bruder.",
+      "sentence_en": "She is angry with her brother."
+    },
+    {
+      "de": "traurig sein",
+      "en": "to be sad",
+      "sentence_de": "Er ist traurig über den Verlust seines Hundes.",
+      "sentence_en": "He is sad about the loss of his dog."
+    },
+    {
+      "de": "weinen",
+      "en": "to cry",
+      "sentence_de": "Sie weint vor Glück.",
+      "sentence_en": "She is crying with joy."
+    },
+    {
+      "de": "lachen",
+      "en": "to laugh",
+      "sentence_de": "Wir lachen über den lustigen Film.",
+      "sentence_en": "We laugh at the funny movie."
+    },
+    {
+      "de": "lächeln",
+      "en": "to smile",
+      "sentence_de": "Sie lächelt mich freundlich an.",
+      "sentence_en": "She smiles at me kindly."
+    },
+    {
+      "de": "sich schämen",
+      "en": "to be ashamed",
+      "sentence_de": "Ich schäme mich für mein Verhalten.",
+      "sentence_en": "I am ashamed of my behavior."
+    },
+    {
+      "de": "sich wundern",
+      "en": "to wonder / be surprised",
+      "sentence_de": "Ich wundere mich über seine Reaktion.",
+      "sentence_en": "I wonder about his reaction."
+    },
+    {
+      "de": "überraschen",
+      "en": "to surprise",
+      "sentence_de": "Sein Besuch hat mich sehr überrascht.",
+      "sentence_en": "His visit surprised me a lot."
+    },
+    {
+      "de": "enttäuschen",
+      "en": "to disappoint",
+      "sentence_de": "Ich möchte meine Eltern nicht enttäuschen.",
+      "sentence_en": "I don't want to disappoint my parents."
+    },
+    {
+      "de": "sich aufregen",
+      "en": "to get upset",
+      "sentence_de": "Reg dich nicht so auf!",
+      "sentence_en": "Don't get so upset!"
+    },
+    {
+      "de": "beruhigen",
+      "en": "to calm down",
+      "sentence_de": "Atme tief durch, um dich zu beruhigen.",
+      "sentence_en": "Breathe deeply to calm down."
+    },
+    {
+      "de": "sich sorgen (um)",
+      "en": "to worry (about)",
+      "sentence_de": "Sie sorgt sich um ihre kranke Mutter.",
+      "sentence_en": "She worries about her sick mother."
+    },
+    {
+      "de": "verzweifeln",
+      "en": "to despair",
+      "sentence_de": "In dieser Situation verzweifle ich fast.",
+      "sentence_en": "I almost despair in this situation."
+    },
+    {
+      "de": "hoffen",
+      "en": "to hope",
+      "sentence_de": "Ich hoffe, dass es morgen nicht regnet.",
+      "sentence_en": "I hope it doesn't rain tomorrow."
+    },
+    {
+      "de": "glauben",
+      "en": "to believe",
+      "sentence_de": "Ich glaube an das Gute im Menschen.",
+      "sentence_en": "I believe in the good in people."
+    },
+    {
+      "de": "vermuten",
+      "en": "to suspect",
+      "sentence_de": "Ich vermute, dass er lügt.",
+      "sentence_en": "I suspect he is lying."
+    },
+    {
+      "de": "sich einsam fühlen",
+      "en": "to feel lonely",
+      "sentence_de": "In der neuen Stadt fühle ich mich einsam.",
+      "sentence_en": "In the new city I feel lonely."
+    },
+    {
+      "de": "genießen",
+      "en": "to enjoy",
+      "sentence_de": "Ich genieße die Ruhe am Abend.",
+      "sentence_en": "I enjoy the peace in the evening."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "glücklich",
+      "en": "happy",
+      "sentence_de": "Ich bin heute so glücklich!",
+      "sentence_en": "I am so happy today!"
+    },
+    {
+      "de": "traurig",
+      "en": "sad",
+      "sentence_de": "Der traurige Film hat mich berührt.",
+      "sentence_en": "The sad movie moved me."
+    },
+    {
+      "de": "wütend",
+      "en": "angry",
+      "sentence_de": "Er war wütend über die Verspätung.",
+      "sentence_en": "He was angry about the delay."
+    },
+    {
+      "de": "verärgert",
+      "en": "annoyed",
+      "sentence_de": "Sie ist verärgert über sein Verhalten.",
+      "sentence_en": "She is annoyed about his behavior."
+    },
+    {
+      "de": "ängstlich",
+      "en": "anxious / scared",
+      "sentence_de": "Das Kind ist ängstlich im Dunkeln.",
+      "sentence_en": "The child is scared in the dark."
+    },
+    {
+      "de": "verängstigt",
+      "en": "frightened",
+      "sentence_de": "Der verängstigte Hund zitterte.",
+      "sentence_en": "The frightened dog was trembling."
+    },
+    {
+      "de": "überrascht",
+      "en": "surprised",
+      "sentence_de": "Sie war überrascht von dem Geschenk.",
+      "sentence_en": "She was surprised by the gift."
+    },
+    {
+      "de": "entsetzt",
+      "en": "horrified / shocked",
+      "sentence_de": "Ich war entsetzt über die Nachricht.",
+      "sentence_en": "I was horrified by the news."
+    },
+    {
+      "de": "erleichtert",
+      "en": "relieved",
+      "sentence_de": "Nach der Prüfung war ich sehr erleichtert.",
+      "sentence_en": "After the exam I was very relieved."
+    },
+    {
+      "de": "dankbar",
+      "en": "grateful",
+      "sentence_de": "Ich bin dir so dankbar für deine Hilfe.",
+      "sentence_en": "I am so grateful for your help."
+    },
+    {
+      "de": "stolz",
+      "en": "proud",
+      "sentence_de": "Sie ist stolz auf ihre Tochter.",
+      "sentence_en": "She is proud of her daughter."
+    },
+    {
+      "de": "zufrieden",
+      "en": "content / satisfied",
+      "sentence_de": "Ich bin zufrieden mit meinem Leben.",
+      "sentence_en": "I am content with my life."
+    },
+    {
+      "de": "unzufrieden",
+      "en": "dissatisfied",
+      "sentence_de": "Er ist unzufrieden mit seiner Arbeit.",
+      "sentence_en": "He is dissatisfied with his work."
+    },
+    {
+      "de": "nervös",
+      "en": "nervous",
+      "sentence_de": "Vor dem Vortrag bin ich immer nervös.",
+      "sentence_en": "I'm always nervous before the presentation."
+    },
+    {
+      "de": "aufgeregt",
+      "en": "excited",
+      "sentence_de": "Die Kinder sind aufgeregt vor dem Ausflug.",
+      "sentence_en": "The children are excited before the trip."
+    },
+    {
+      "de": "verwirrt",
+      "en": "confused",
+      "sentence_de": "Die komplizierte Erklärung hat mich verwirrt.",
+      "sentence_en": "The complicated explanation confused me."
+    },
+    {
+      "de": "verlegen",
+      "en": "embarrassed",
+      "sentence_de": "Er wurde rot und wirkte verlegen.",
+      "sentence_en": "He blushed and seemed embarrassed."
+    },
+    {
+      "de": "eifersüchtig",
+      "en": "jealous",
+      "sentence_de": "Sie ist eifersüchtig auf ihre Schwester.",
+      "sentence_en": "She is jealous of her sister."
+    },
+    {
+      "de": "neidisch",
+      "en": "envious",
+      "sentence_de": "Ich bin neidisch auf sein neues Auto.",
+      "sentence_en": "I am envious of his new car."
+    },
+    {
+      "de": "gelangweilt",
+      "en": "bored",
+      "sentence_de": "Der langweilige Vortrag macht mich gelangweilt.",
+      "sentence_en": "The boring lecture makes me bored."
+    },
+    {
+      "de": "einsam",
+      "en": "lonely",
+      "sentence_de": "In der großen Stadt fühlt man sich oft einsam.",
+      "sentence_en": "In a big city you often feel lonely."
+    },
+    {
+      "de": "verliebt",
+      "en": "in love",
+      "sentence_de": "Sie ist Hals über Kopf verliebt.",
+      "sentence_en": "She is head over heels in love."
+    },
+    {
+      "de": "begeistert",
+      "en": "enthusiastic",
+      "sentence_de": "Das Publikum war begeistert von der Show.",
+      "sentence_en": "The audience was enthusiastic about the show."
+    },
+    {
+      "de": "enttäuscht",
+      "en": "disappointed",
+      "sentence_de": "Ich bin enttäuscht von meiner Note.",
+      "sentence_en": "I am disappointed with my grade."
+    },
+    {
+      "de": "berührt",
+      "en": "moved / touched",
+      "sentence_de": "Der Film hat mich sehr berührt.",
+      "sentence_en": "The movie moved me a lot."
+    },
+    {
+      "de": "unwohl",
+      "en": "uncomfortable",
+      "sentence_de": "In dieser Situation fühle ich mich unwohl.",
+      "sentence_en": "I feel uncomfortable in this situation."
+    },
+    {
+      "de": "zuversichtlich",
+      "en": "confident / optimistic",
+      "sentence_de": "Ich bin zuversichtlich, dass wir es schaffen.",
+      "sentence_en": "I am confident that we can do it."
+    },
+    {
+      "de": "deprimiert",
+      "en": "depressed",
+      "sentence_de": "Nach dem Unfall war er längere Zeit deprimiert.",
+      "sentence_en": "After the accident he was depressed for a while."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "glücklich",
+      "en": "happily",
+      "sentence_de": "Sie lächelte glücklich.",
+      "sentence_en": "She smiled happily."
+    },
+    {
+      "de": "traurig",
+      "en": "sadly",
+      "sentence_de": "Er schaute traurig aus dem Fenster.",
+      "sentence_en": "He looked sadly out of the window."
+    },
+    {
+      "de": "wütend",
+      "en": "angrily",
+      "sentence_de": "Sie reagierte wütend auf die Kritik.",
+      "sentence_en": "She reacted angrily to the criticism."
+    },
+    {
+      "de": "überrascht",
+      "en": "surprisedly",
+      "sentence_de": "Er starrte mich überrascht an.",
+      "sentence_en": "He stared at me with surprise."
+    },
+    {
+      "de": "erleichtert",
+      "en": "with relief",
+      "sentence_de": "Sie atmete erleichtert auf.",
+      "sentence_en": "She sighed with relief."
+    },
+    {
+      "de": "dankbar",
+      "en": "gratefully",
+      "sentence_de": "Sie nahm die Hilfe dankbar an.",
+      "sentence_en": "She gratefully accepted the help."
+    },
+    {
+      "de": "stolz",
+      "en": "proudly",
+      "sentence_de": "Er präsentierte stolz seine Arbeit.",
+      "sentence_en": "He proudly presented his work."
+    },
+    {
+      "de": "nervös",
+      "en": "nervously",
+      "sentence_de": "Sie wartete nervös auf die Antwort.",
+      "sentence_en": "She waited nervously for the answer."
+    },
+    {
+      "de": "aufgeregt",
+      "en": "excitedly",
+      "sentence_de": "Die Kinder redeten aufgeregt durcheinander.",
+      "sentence_en": "The children talked excitedly over each other."
+    },
+    {
+      "de": "verlegen",
+      "en": "embarrassedly",
+      "sentence_de": "Er kratzte sich verlegen am Kopf.",
+      "sentence_en": "He scratched his head embarrassedly."
+    },
+    {
+      "de": "eifersüchtig",
+      "en": "jealously",
+      "sentence_de": "Er beobachtete eifersüchtig das Paar.",
+      "sentence_en": "He jealously watched the couple."
+    },
+    {
+      "de": "hoffnungsvoll",
+      "en": "hopefully",
+      "sentence_de": "Sie blickte hoffnungsvoll in die Zukunft.",
+      "sentence_en": "She looked hopefully into the future."
+    },
+    {
+      "de": "ängstlich",
+      "en": "anxiously",
+      "sentence_de": "Das Kind klammerte sich ängstlich an seine Mutter.",
+      "sentence_en": "The child clung anxiously to its mother."
+    },
+    {
+      "de": "begeistert",
+      "en": "enthusiastically",
+      "sentence_de": "Das Publikum applaudierte begeistert.",
+      "sentence_en": "The audience applauded enthusiastically."
+    },
+    {
+      "de": "enttäuscht",
+      "en": "disappointedly",
+      "sentence_de": "Er zuckte enttäuscht die Achseln.",
+      "sentence_en": "He shrugged disappointedly."
+    },
+    {
+      "de": "zufrieden",
+      "en": "contentedly",
+      "sentence_de": "Sie seufzte zufrieden und lehnte sich zurück.",
+      "sentence_en": "She sighed contentedly and leaned back."
+    },
+    {
+      "de": "verwirrt",
+      "en": "confusedly",
+      "sentence_de": "Er schaute verwirrt um sich.",
+      "sentence_en": "He looked around confusedly."
+    },
+    {
+      "de": "beruhigt",
+      "en": "calmly / reassuredly",
+      "sentence_de": "Nach der Erklärung war sie beruhigt.",
+      "sentence_en": "After the explanation she was reassured."
+    },
+    {
+      "de": "ungeduldig",
+      "en": "impatiently",
+      "sentence_de": "Die Kinder warteten ungeduldig auf den Ausflug.",
+      "sentence_en": "The children waited impatiently for the trip."
+    },
+    {
+      "de": "leidenschaftlich",
+      "en": "passionately",
+      "sentence_de": "Sie verteidigte leidenschaftlich ihre Meinung.",
+      "sentence_en": "She passionately defended her opinion."
+    },
+    {
+      "de": "gleichgültig",
+      "en": "indifferently",
+      "sentence_de": "Er zuckte gleichgültig mit den Schultern.",
+      "sentence_en": "He shrugged indifferently."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich fühle mich heute so glücklich und voller Energie!",
+      "en": "I feel so happy and full of energy today!"
+    },
+    {
+      "de": "Sie war tief getroffen von der traurigen Nachricht.",
+      "en": "She was deeply affected by the sad news."
+    },
+    {
+      "de": "Wut kann manchmal auch eine positive Kraft sein, wenn sie richtig kanalisiert wird.",
+      "en": "Anger can sometimes be a positive force when channeled correctly."
+    },
+    {
+      "de": "Ich habe solche Angst vor der morgigen Prüfung.",
+      "en": "I'm so scared of tomorrow's exam."
+    },
+    {
+      "de": "Seine Worte haben mich wirklich berührt und bewegt.",
+      "en": "His words really touched me and moved me."
+    },
+    {
+      "de": "Die Dankbarkeit meiner Freunde hat mich sehr überwältigt.",
+      "en": "My friends' gratitude really overwhelmed me."
+    },
+    {
+      "de": "Ich bin so stolz auf das, was du erreicht hast!",
+      "en": "I'm so proud of what you have achieved!"
+    },
+    {
+      "de": "Sie kann ihre Eifersucht leider nicht gut kontrollieren.",
+      "en": "Unfortunately she can't control her jealousy well."
+    },
+    {
+      "de": "Nach der langen Reise war die Erleichterung zu Hause zu sein riesig.",
+      "en": "After the long journey, the relief of being home was immense."
+    },
+    {
+      "de": "Ich bin zutiefst enttäuscht von deinem Verhalten.",
+      "en": "I am deeply disappointed by your behavior."
+    },
+    {
+      "de": "Die Aufregung vor dem Konzert war kaum auszuhalten.",
+      "en": "The excitement before the concert was almost unbearable."
+    },
+    {
+      "de": "Einsamkeit ist ein Gefühl, das viele Menschen kennen, aber nicht gerne zugeben.",
+      "en": "Loneliness is a feeling that many people know but don't like to admit."
+    },
+    {
+      "de": "Seine Hoffnung auf eine bessere Zukunft hat ihn nie verlassen.",
+      "en": "His hope for a better future never left him."
+    },
+    {
+      "de": "Als ich den Fehler bemerkte, überkam mich sofort Scham.",
+      "en": "When I noticed the mistake, shame immediately overcame me."
+    },
+    {
+      "de": "Es ist wichtig, seine Gefühle zu zeigen und nicht immer zu unterdrücken.",
+      "en": "It's important to show your feelings and not always suppress them."
+    }
+  ]
+}

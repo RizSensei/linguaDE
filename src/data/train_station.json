@@ -1,0 +1,727 @@
+{
+  "theme": "Train Station",
+  "words": [
+    {
+      "de": "der Bahnhof",
+      "en": "train station",
+      "sentence_de": "Der Bahnhof ist das Zentrum der Stadt.",
+      "sentence_en": "The train station is the center of the city."
+    },
+    {
+      "de": "der Hauptbahnhof (Hbf)",
+      "en": "main / central station",
+      "sentence_de": "Der Hauptbahnhof ist sehr groß und modern.",
+      "sentence_en": "The main station is very large and modern."
+    },
+    {
+      "de": "das Gleis",
+      "en": "platform / track",
+      "sentence_de": "Unser Zug fährt von Gleis 7 ab.",
+      "sentence_en": "Our train departs from track 7."
+    },
+    {
+      "de": "der Zug",
+      "en": "train",
+      "sentence_de": "Der Zug kommt pünktlich um 10:15 Uhr an.",
+      "sentence_en": "The train arrives punctually at 10:15 AM."
+    },
+    {
+      "de": "der Regionalzug",
+      "en": "regional train",
+      "sentence_de": "Der Regionalzug hält an jedem kleinen Bahnhof.",
+      "sentence_en": "The regional train stops at every small station."
+    },
+    {
+      "de": "der Fernzug",
+      "en": "long-distance train",
+      "sentence_de": "Der Fernzug verbindet Berlin mit München.",
+      "sentence_en": "The long-distance train connects Berlin with Munich."
+    },
+    {
+      "de": "der ICE",
+      "en": "Intercity-Express (high-speed train)",
+      "sentence_de": "Der ICE erreicht Geschwindigkeiten bis zu 300 km/h.",
+      "sentence_en": "The ICE reaches speeds up to 300 km/h."
+    },
+    {
+      "de": "der EC",
+      "en": "EuroCity train",
+      "sentence_de": "Der EC fährt ins benachbarte Ausland.",
+      "sentence_en": "The EuroCity train goes to the neighboring country."
+    },
+    {
+      "de": "die S-Bahn",
+      "en": "suburban / commuter train",
+      "sentence_de": "Die S-Bahn bringt mich in die Innenstadt.",
+      "sentence_en": "The S-Bahn takes me to the city center."
+    },
+    {
+      "de": "die U-Bahn",
+      "en": "subway / underground",
+      "sentence_de": "Die U-Bahn fährt unterirdisch durch die Stadt.",
+      "sentence_en": "The subway runs underground through the city."
+    },
+    {
+      "de": "der Fahrplan",
+      "en": "timetable / schedule",
+      "sentence_de": "Der Fahrplan hängt am schwarzen Brett.",
+      "sentence_en": "The timetable is posted on the bulletin board."
+    },
+    {
+      "de": "die Fahrkarte / das Ticket",
+      "en": "ticket",
+      "sentence_de": "Ich kaufe meine Fahrkarte am Automaten.",
+      "sentence_en": "I buy my ticket at the machine."
+    },
+    {
+      "de": "der Fahrschein",
+      "en": "ticket (validated)",
+      "sentence_de": "Den Fahrschein muss man vor der Fahrt entwerten.",
+      "sentence_en": "You have to validate the ticket before the journey."
+    },
+    {
+      "de": "die Bahncard",
+      "en": "rail discount card",
+      "sentence_de": "Mit der Bahncard bekomme ich 25% Rabatt.",
+      "sentence_en": "With the Bahncard I get 25% discount."
+    },
+    {
+      "de": "der Automat",
+      "en": "ticket machine",
+      "sentence_de": "Der Automat akzeptiert nur Münzen und Karten.",
+      "sentence_en": "The machine only accepts coins and cards."
+    },
+    {
+      "de": "das Bahnsteig",
+      "en": "platform (area)",
+      "sentence_de": "Das Bahnsteig ist überfüllt mit Reisenden.",
+      "sentence_en": "The platform is crowded with travelers."
+    },
+    {
+      "de": "der Abgang",
+      "en": "exit / way down",
+      "sentence_de": "Der Abgang zu Gleis 3 ist links.",
+      "sentence_en": "The way down to platform 3 is on the left."
+    },
+    {
+      "de": "der Aufgang",
+      "en": "way up / stairs up",
+      "sentence_de": "Der Aufgang zur Brücke ist im hinteren Teil.",
+      "sentence_en": "The way up to the bridge is at the rear."
+    },
+    {
+      "de": "die Rolltreppe",
+      "en": "escalator",
+      "sentence_de": "Die Rolltreppe ist leider außer Betrieb.",
+      "sentence_en": "The escalator is unfortunately out of order."
+    },
+    {
+      "de": "der Aufzug",
+      "en": "elevator / lift",
+      "sentence_de": "Der Aufzug ist für Rollstuhlfahrer geeignet.",
+      "sentence_en": "The elevator is suitable for wheelchair users."
+    },
+    {
+      "de": "die Treppe",
+      "en": "stairs",
+      "sentence_de": "Die Treppe führt hinunter zu den Gleisen.",
+      "sentence_en": "The stairs lead down to the tracks."
+    },
+    {
+      "de": "das Wartezimmer",
+      "en": "waiting room",
+      "sentence_de": "Im Wartezimmer sitzen viele Fahrgäste.",
+      "sentence_en": "There are many passengers sitting in the waiting room."
+    },
+    {
+      "de": "die Wartehalle",
+      "en": "waiting hall",
+      "sentence_de": "Die Wartehalle hat eine hohe Decke.",
+      "sentence_en": "The waiting hall has a high ceiling."
+    },
+    {
+      "de": "die Schalterhalle",
+      "en": "ticket hall / concourse",
+      "sentence_de": "In der Schalterhalle gibt es Reisebüros.",
+      "sentence_en": "In the ticket hall there are travel agencies."
+    },
+    {
+      "de": "der Fahrkartenschalter",
+      "en": "ticket counter / window",
+      "sentence_de": "Der Fahrkartenschalter ist bis 22 Uhr geöffnet.",
+      "sentence_en": "The ticket counter is open until 10 PM."
+    },
+    {
+      "de": "der Reisende / der Fahrgast",
+      "en": "passenger / traveler",
+      "sentence_de": "Der Fahrgast fragt nach dem nächsten Zug.",
+      "sentence_en": "The passenger asks about the next train."
+    },
+    {
+      "de": "das Gepäck",
+      "en": "luggage / baggage",
+      "sentence_de": "Mein Gepäck ist zu schwer.",
+      "sentence_en": "My luggage is too heavy."
+    },
+    {
+      "de": "der Koffer",
+      "en": "suitcase",
+      "sentence_de": "Der Koffer rollt leicht über den Boden.",
+      "sentence_en": "The suitcase rolls easily over the floor."
+    },
+    {
+      "de": "der Rucksack",
+      "en": "backpack",
+      "sentence_de": "Ich trage meinen Rucksack auf dem Rücken.",
+      "sentence_en": "I carry my backpack on my back."
+    },
+    {
+      "de": "die Durchsage",
+      "en": "announcement",
+      "sentence_de": "Die Durchsage meldet eine Verspätung.",
+      "sentence_en": "The announcement reports a delay."
+    },
+    {
+      "de": "die Verspätung",
+      "en": "delay",
+      "sentence_de": "Die Verspätung beträgt 20 Minuten.",
+      "sentence_en": "The delay is 20 minutes."
+    },
+    {
+      "de": "die Abfahrt",
+      "en": "departure",
+      "sentence_de": "Die Abfahrt erfolgt von Gleis 5.",
+      "sentence_en": "Departure is from platform 5."
+    },
+    {
+      "de": "die Ankunft",
+      "en": "arrival",
+      "sentence_de": "Die Ankunft ist für 18:45 Uhr geplant.",
+      "sentence_en": "Arrival is scheduled for 6:45 PM."
+    },
+    {
+      "de": "der Bahnsteig",
+      "en": "platform (edge)",
+      "sentence_de": "Bleiben Sie hinter der Sicherheitslinie auf dem Bahnsteig.",
+      "sentence_en": "Stay behind the safety line on the platform."
+    },
+    {
+      "de": "das Signal",
+      "en": "signal",
+      "sentence_de": "Das Signal zeigt grün – der Zug darf fahren.",
+      "sentence_en": "The signal shows green – the train may proceed."
+    },
+    {
+      "de": "die Schiene",
+      "en": "rail / track",
+      "sentence_de": "Die Schienen glänzen im Sonnenlicht.",
+      "sentence_en": "The rails gleam in the sunlight."
+    },
+    {
+      "de": "der Zugbegleiter / der Schaffner",
+      "en": "train conductor / attendant",
+      "sentence_de": "Der Zugbegleiter kontrolliert die Tickets.",
+      "sentence_en": "The conductor checks the tickets."
+    },
+    {
+      "de": "der Lokführer",
+      "en": "train driver / engineer",
+      "sentence_de": "Der Lokführer gibt ein Signal mit der Pfeife.",
+      "sentence_en": "The train driver gives a signal with the whistle."
+    },
+    {
+      "de": "das Abteil",
+      "en": "compartment",
+      "sentence_de": "Das Abteil ist leider schon besetzt.",
+      "sentence_en": "The compartment is unfortunately already occupied."
+    },
+    {
+      "de": "der Wagen",
+      "en": "carriage / coach",
+      "sentence_de": "Der Wagen hat eine Klimaanlage.",
+      "sentence_en": "The carriage has air conditioning."
+    },
+    {
+      "de": "der Speisewagen",
+      "en": "dining car / restaurant car",
+      "sentence_de": "Im Speisewagen gibt es heiße Getränke.",
+      "sentence_en": "There are hot drinks in the dining car."
+    },
+    {
+      "de": "die Toilette",
+      "en": "restroom / toilet",
+      "sentence_de": "Die Toilette im Zug ist sauber.",
+      "sentence_en": "The toilet on the train is clean."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "fahren",
+      "en": "to go / to drive / to travel by train",
+      "sentence_de": "Der Zug fährt nach Frankfurt.",
+      "sentence_en": "The train goes to Frankfurt."
+    },
+    {
+      "de": "abfahren",
+      "en": "to depart",
+      "sentence_de": "Der Zug fährt pünktlich um 10 Uhr ab.",
+      "sentence_en": "The train departs punctually at 10 o'clock."
+    },
+    {
+      "de": "ankommen",
+      "en": "to arrive",
+      "sentence_de": "Wir kommen um 12:30 Uhr am Hauptbahnhof an.",
+      "sentence_en": "We arrive at the main station at 12:30 PM."
+    },
+    {
+      "de": "umsteigen",
+      "en": "to transfer / change trains",
+      "sentence_de": "Sie müssen in Köln umsteigen.",
+      "sentence_en": "You have to transfer in Cologne."
+    },
+    {
+      "de": "einsteigen",
+      "en": "to board / get on",
+      "sentence_de": "Wir steigen in den ICE nach Berlin ein.",
+      "sentence_en": "We board the ICE to Berlin."
+    },
+    {
+      "de": "aussteigen",
+      "en": "to get off / alight",
+      "sentence_de": "Wir steigen an der nächsten Haltestelle aus.",
+      "sentence_en": "We get off at the next stop."
+    },
+    {
+      "de": "warten",
+      "en": "to wait",
+      "sentence_de": "Wir warten auf den verspäteten Zug.",
+      "sentence_en": "We're waiting for the delayed train."
+    },
+    {
+      "de": "buchen / reservieren",
+      "en": "to book / reserve",
+      "sentence_de": "Ich buche meine Sitzplätze online.",
+      "sentence_en": "I book my seats online."
+    },
+    {
+      "de": "kaufen",
+      "en": "to buy",
+      "sentence_de": "Ich kaufe ein Ticket am Automaten.",
+      "sentence_en": "I buy a ticket at the machine."
+    },
+    {
+      "de": "entwerten",
+      "en": "to validate (stamp)",
+      "sentence_de": "Vergiss nicht, dein Ticket zu entwerten!",
+      "sentence_en": "Don't forget to validate your ticket!"
+    },
+    {
+      "de": "abfertigen",
+      "en": "to dispatch / process",
+      "sentence_de": "Der Schaffner fertigt die Fahrgäste ab.",
+      "sentence_en": "The conductor processes the passengers."
+    },
+    {
+      "de": "ansagen",
+      "en": "to announce",
+      "sentence_de": "Die Lautsprecher sagen die Abfahrt an.",
+      "sentence_en": "The loudspeakers announce the departure."
+    },
+    {
+      "de": "durchsagen",
+      "en": "to make an announcement",
+      "sentence_de": "Der Bahnhofsvorsteher sagt eine Verspätung durch.",
+      "sentence_en": "The station master announces a delay."
+    },
+    {
+      "de": "bremsen",
+      "en": "to brake",
+      "sentence_de": "Der Zug bremst vor der Einfahrt.",
+      "sentence_en": "The train brakes before entering."
+    },
+    {
+      "de": "beschleunigen",
+      "en": "to accelerate",
+      "sentence_de": "Der ICE beschleunigt schnell auf 250 km/h.",
+      "sentence_en": "The ICE accelerates quickly to 250 km/h."
+    },
+    {
+      "de": "halten",
+      "en": "to stop",
+      "sentence_de": "Der Zug hält nur in großen Städten.",
+      "sentence_en": "The train only stops in big cities."
+    },
+    {
+      "de": "überqueren",
+      "en": "to cross",
+      "sentence_de": "Wir überqueren die Gleise über die Brücke.",
+      "sentence_en": "We cross the tracks via the bridge."
+    },
+    {
+      "de": "begleiten",
+      "en": "to accompany",
+      "sentence_de": "Ich begleite meine Oma zum Bahnhof.",
+      "sentence_en": "I accompany my grandma to the station."
+    },
+    {
+      "de": "abholen",
+      "en": "to pick up",
+      "sentence_de": "Ich hole meine Freundin vom Bahnhof ab.",
+      "sentence_en": "I pick up my girlfriend from the station."
+    },
+    {
+      "de": "verpassen",
+      "en": "to miss",
+      "sentence_de": "Ich habe den Zug leider verpasst.",
+      "sentence_en": "Unfortunately I missed the train."
+    },
+    {
+      "de": "sich verspäten",
+      "en": "to be delayed",
+      "sentence_de": "Der Zug verspätet sich wegen eines Unfalls.",
+      "sentence_en": "The train is delayed due to an accident."
+    },
+    {
+      "de": "anschließen (an)",
+      "en": "to connect (to)",
+      "sentence_de": "Dieser Zug schließt an den EuroCity an.",
+      "sentence_en": "This train connects to the EuroCity."
+    },
+    {
+      "de": "auskunft geben",
+      "en": "to give information",
+      "sentence_de": "Die Mitarbeiterin gibt Auskunft über die Verbindung.",
+      "sentence_en": "The staff member gives information about the connection."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "pünktlich",
+      "en": "punctual / on time",
+      "sentence_de": "Der Zug ist heute pünktlich.",
+      "sentence_en": "The train is on time today."
+    },
+    {
+      "de": "verspätet",
+      "en": "delayed / late",
+      "sentence_de": "Der verspätete Zug kommt erst in einer Stunde.",
+      "sentence_en": "The delayed train arrives in an hour."
+    },
+    {
+      "de": "überfüllt",
+      "en": "crowded / packed",
+      "sentence_de": "Der Zug ist am Wochenende überfüllt.",
+      "sentence_en": "The train is packed on weekends."
+    },
+    {
+      "de": "leer",
+      "en": "empty",
+      "sentence_de": "Der Wagen ist am frühen Morgen noch leer.",
+      "sentence_en": "The carriage is still empty early in the morning."
+    },
+    {
+      "de": "schnell",
+      "en": "fast",
+      "sentence_de": "Der ICE ist ein sehr schneller Zug.",
+      "sentence_en": "The ICE is a very fast train."
+    },
+    {
+      "de": "langsam",
+      "en": "slow",
+      "sentence_de": "Der Regionalzug ist langsam, aber günstig.",
+      "sentence_en": "The regional train is slow but cheap."
+    },
+    {
+      "de": "bequem",
+      "en": "comfortable",
+      "sentence_de": "Die Sitze im Abteil sind bequem.",
+      "sentence_en": "The seats in the compartment are comfortable."
+    },
+    {
+      "de": "unbequem",
+      "en": "uncomfortable",
+      "sentence_de": "Die Holzbänke sind sehr unbequem.",
+      "sentence_en": "The wooden benches are very uncomfortable."
+    },
+    {
+      "de": "modern",
+      "en": "modern",
+      "sentence_de": "Der Bahnhof wurde modern renoviert.",
+      "sentence_en": "The station was modernly renovated."
+    },
+    {
+      "de": "alt",
+      "en": "old",
+      "sentence_de": "Das alte Bahnhofsgebäude hat Charme.",
+      "sentence_en": "The old station building has charm."
+    },
+    {
+      "de": "laut",
+      "en": "loud",
+      "sentence_de": "Die Durchsage ist sehr laut.",
+      "sentence_en": "The announcement is very loud."
+    },
+    {
+      "de": "ruhig",
+      "en": "quiet",
+      "sentence_de": "Im Ruheabteil ist es ruhig.",
+      "sentence_en": "It's quiet in the quiet carriage."
+    },
+    {
+      "de": "sauber",
+      "en": "clean",
+      "sentence_de": "Die Toiletten sind erstaunlich sauber.",
+      "sentence_en": "The toilets are surprisingly clean."
+    },
+    {
+      "de": "schmutzig",
+      "en": "dirty",
+      "sentence_de": "Die Fenster sind schmutzig von der langen Fahrt.",
+      "sentence_en": "The windows are dirty from the long journey."
+    },
+    {
+      "de": "direkt",
+      "en": "direct",
+      "sentence_de": "Es gibt eine direkte Verbindung nach München.",
+      "sentence_en": "There is a direct connection to Munich."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regular",
+      "sentence_de": "Der Zug verkehrt regelmäßig alle 30 Minuten.",
+      "sentence_en": "The train runs regularly every 30 minutes."
+    },
+    {
+      "de": "verlässlich",
+      "en": "reliable",
+      "sentence_de": "Die Deutsche Bahn ist nicht immer verlässlich.",
+      "sentence_en": "The German railway is not always reliable."
+    },
+    {
+      "de": "kostenlos",
+      "en": "free (of charge)",
+      "sentence_de": "Die Toilette ist für Fahrgäste kostenlos.",
+      "sentence_en": "The toilet is free for passengers."
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "sentence_de": "Ein ICE-Ticket ist oft teuer.",
+      "sentence_en": "An ICE ticket is often expensive."
+    },
+    {
+      "de": "günstig",
+      "en": "cheap / affordable",
+      "sentence_de": "Sparpreise sind günstiger.",
+      "sentence_en": "Savings fares are cheaper."
+    },
+    {
+      "de": "barrierefrei",
+      "en": "barrier-free / accessible",
+      "sentence_de": "Der Bahnhof ist barrierefrei mit Rampen.",
+      "sentence_en": "The station is barrier-free with ramps."
+    },
+    {
+      "de": "nächst (der nächste Zug)",
+      "en": "next",
+      "sentence_de": "Der nächste Zug fährt in 10 Minuten.",
+      "sentence_en": "The next train departs in 10 minutes."
+    },
+    {
+      "de": "letzte (der letzte Zug)",
+      "en": "last",
+      "sentence_de": "Der letzte Zug fährt um Mitternacht.",
+      "sentence_en": "The last train leaves at midnight."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "pünktlich",
+      "en": "punctually / on time",
+      "sentence_de": "Der Zug kommt pünktlich an.",
+      "sentence_en": "The train arrives punctually."
+    },
+    {
+      "de": "verspätet",
+      "en": "late / with delay",
+      "sentence_de": "Der Zug kommt verspätet an.",
+      "sentence_en": "The train arrives late."
+    },
+    {
+      "de": "rechtzeitig",
+      "en": "in time",
+      "sentence_de": "Wir sind rechtzeitig am Bahnhof angekommen.",
+      "sentence_en": "We arrived at the station in time."
+    },
+    {
+      "de": "früh",
+      "en": "early",
+      "sentence_de": "Wir sind früh am Bahnhof, um einen Sitzplatz zu bekommen.",
+      "sentence_en": "We're at the station early to get a seat."
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "sentence_de": "Der Zug fährt heute Abend spät ab.",
+      "sentence_en": "The train departs late tonight."
+    },
+    {
+      "de": "direkt",
+      "en": "directly",
+      "sentence_de": "Der Zug fährt direkt nach Berlin ohne Umsteigen.",
+      "sentence_en": "The train goes directly to Berlin without transferring."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly / fast",
+      "sentence_de": "Der ICE fährt sehr schnell.",
+      "sentence_en": "The ICE travels very fast."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Der Zug fährt langsam durch den Tunnel.",
+      "sentence_en": "The train moves slowly through the tunnel."
+    },
+    {
+      "de": "laut",
+      "en": "loudly",
+      "sentence_de": "Die Ansage wird laut übertragen.",
+      "sentence_en": "The announcement is transmitted loudly."
+    },
+    {
+      "de": "leise",
+      "en": "quietly",
+      "sentence_de": "Im Ruheabteil spricht man leise.",
+      "sentence_en": "In the quiet carriage people speak quietly."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Die Züge fahren regelmäßig im 30-Minuten-Takt.",
+      "sentence_en": "The trains run regularly every 30 minutes."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Der Bahnhof ist täglich von 5 bis 1 Uhr geöffnet.",
+      "sentence_en": "The station is open daily from 5 AM to 1 AM."
+    },
+    {
+      "de": "stündlich",
+      "en": "every hour / hourly",
+      "sentence_de": "Der Zug verkehrt stündlich.",
+      "sentence_en": "The train runs hourly."
+    },
+    {
+      "de": "barrierefrei",
+      "en": "in a barrier-free way",
+      "sentence_de": "Der Bahnsteig ist barrierefrei zugänglich.",
+      "sentence_en": "The platform is accessible in a barrier-free way."
+    },
+    {
+      "de": "bequem",
+      "en": "comfortably",
+      "sentence_de": "Wir sitzen bequem in der ersten Klasse.",
+      "sentence_en": "We sit comfortably in first class."
+    },
+    {
+      "de": "einfach",
+      "en": "easily / simply",
+      "sentence_de": "Sie können einfach am Automaten zahlen.",
+      "sentence_en": "You can simply pay at the machine."
+    },
+    {
+      "de": "sicher",
+      "en": "safely / securely",
+      "sentence_de": "Bewegen Sie sich sicher auf dem Bahnsteig.",
+      "sentence_en": "Move safely on the platform."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider hat der Zug Verspätung.",
+      "sentence_en": "Unfortunately the train is delayed."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Überall im Bahnhof gibt es Anzeigetafeln.",
+      "sentence_en": "There are display boards everywhere in the station."
+    },
+    {
+      "de": "vorher",
+      "en": "beforehand",
+      "sentence_de": "Kaufen Sie Ihr Ticket vorher online.",
+      "sentence_en": "Buy your ticket online beforehand."
+    },
+    {
+      "de": "nachher",
+      "en": "afterwards",
+      "sentence_de": "Nachher treffen wir uns vor dem Haupteingang.",
+      "sentence_en": "Afterwards we'll meet in front of the main entrance."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Der Zug von Gleis 3 nach Hamburg hat 15 Minuten Verspätung.",
+      "en": "The train from platform 3 to Hamburg has a 15-minute delay."
+    },
+    {
+      "de": "Ich muss am Hauptbahnhof in den ICE nach München umsteigen.",
+      "en": "I have to transfer to the ICE to Munich at the main station."
+    },
+    {
+      "de": "Bitte haben Sie Ihr Ticket und Ihren Ausweis bereit zur Kontrolle.",
+      "en": "Please have your ticket and ID ready for inspection."
+    },
+    {
+      "de": "Die Durchsage informiert über die Änderung des Gleises.",
+      "en": "The announcement informs about the change of platform."
+    },
+    {
+      "de": "Wir warten auf dem Bahnsteig, bis der Zug einfährt.",
+      "en": "We're waiting on the platform until the train pulls in."
+    },
+    {
+      "de": "Vergiss nicht, dein Ticket vor dem Einsteigen zu entwerten.",
+      "en": "Don't forget to validate your ticket before boarding."
+    },
+    {
+      "de": "Der Fahrkartenautomat nimmt nur Bargeld oder Girocard.",
+      "en": "The ticket machine only accepts cash or debit card."
+    },
+    {
+      "de": "Der Bahnhof hat ein großes gastronomisches Angebot.",
+      "en": "The station has a wide range of food and drink options."
+    },
+    {
+      "de": "Mein Gepäck ist zu schwer, ich nehme den Aufzug zum Gleis.",
+      "en": "My luggage is too heavy – I'll take the elevator to the platform."
+    },
+    {
+      "de": "Der Zugbegleiter kontrolliert die Fahrkarten im Abteil.",
+      "en": "The conductor checks the tickets in the compartment."
+    },
+    {
+      "de": "Bei Gleis 5 gibt es eine Treppe und eine Rolltreppe.",
+      "en": "At platform 5 there are stairs and an escalator."
+    },
+    {
+      "de": "Ich hole meine Eltern vom Bahnhof ab – sie kommen aus Frankfurt.",
+      "en": "I'm picking up my parents from the station – they're coming from Frankfurt."
+    },
+    {
+      "de": "Der Speisewagen serviert warme Mahlzeiten und Getränke.",
+      "en": "The dining car serves hot meals and drinks."
+    },
+    {
+      "de": "Bitte achten Sie auf die Sicherheitslinie am Bahnsteigrand.",
+      "en": "Please mind the safety line at the edge of the platform."
+    },
+    {
+      "de": "Ich habe meinen Anschlusszug verpasst und muss jetzt eine Stunde warten.",
+      "en": "I missed my connecting train and now I have to wait an hour."
+    }
+  ]
+}

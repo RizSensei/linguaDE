@@ -1,0 +1,805 @@
+{
+  "theme": "Relationships",
+  "words": [
+    {
+      "de": "die Beziehung",
+      "en": "relationship",
+      "sentence_de": "Eine gesunde Beziehung braucht Arbeit und Kommunikation.",
+      "sentence_en": "A healthy relationship needs work and communication."
+    },
+    {
+      "de": "die Liebe",
+      "en": "love",
+      "sentence_de": "Liebe ist das stärkste Gefühl, das wir kennen.",
+      "sentence_en": "Love is the strongest feeling we know."
+    },
+    {
+      "de": "der Partner / die Partnerin",
+      "en": "partner",
+      "sentence_de": "Mein Partner und ich sind seit fünf Jahren zusammen.",
+      "sentence_en": "My partner and I have been together for five years."
+    },
+    {
+      "de": "der Freund / die Freundin",
+      "en": "boyfriend / girlfriend",
+      "sentence_de": "Sie ist meine Freundin seit zwei Jahren.",
+      "sentence_en": "She has been my girlfriend for two years."
+    },
+    {
+      "de": "der Verlobte / die Verlobte",
+      "en": "fiancé / fiancée",
+      "sentence_de": "Mein Verlobter hat mir gestern einen Antrag gemacht.",
+      "sentence_en": "My fiancé proposed to me yesterday."
+    },
+    {
+      "de": "der Ehemann / die Ehefrau",
+      "en": "husband / wife",
+      "sentence_de": "Sie ist meine Ehefrau seit 2010.",
+      "sentence_en": "She has been my wife since 2010."
+    },
+    {
+      "de": "der Ehepartner / die Ehepartnerin",
+      "en": "spouse",
+      "sentence_de": "Der Ehepartner sollte der beste Freund sein.",
+      "sentence_en": "A spouse should be the best friend."
+    },
+    {
+      "de": "der Lebenspartner / die Lebenspartnerin",
+      "en": "life partner",
+      "sentence_de": "Sie ist meine Lebenspartnerin fürs Leben.",
+      "sentence_en": "She is my life partner for life."
+    },
+    {
+      "de": "der Seelenverwandte / die Seelenverwandte",
+      "en": "soulmate",
+      "sentence_de": "Ich habe endlich meinen Seelenverwandten gefunden.",
+      "sentence_en": "I finally found my soulmate."
+    },
+    {
+      "de": "die Ehe",
+      "en": "marriage",
+      "sentence_de": "Die Ehe ist ein wichtiger Schritt im Leben.",
+      "sentence_en": "Marriage is an important step in life."
+    },
+    {
+      "de": "die Hochzeit",
+      "en": "wedding",
+      "sentence_de": "Die Hochzeit findet im Sommer statt.",
+      "sentence_en": "The wedding takes place in summer."
+    },
+    {
+      "de": "die Verlobung",
+      "en": "engagement",
+      "sentence_de": "Die Verlobung haben wir im engsten Familienkreis gefeiert.",
+      "sentence_en": "We celebrated our engagement with our closest family."
+    },
+    {
+      "de": "das Date",
+      "en": "date",
+      "sentence_de": "Wir haben unser erstes Date in einem Café gehabt.",
+      "sentence_en": "We had our first date at a café."
+    },
+    {
+      "de": "die Begegnung",
+      "en": "encounter / meeting",
+      "sentence_de": "Unsere Begegnung war völlig zufällig.",
+      "sentence_en": "Our encounter was completely by chance."
+    },
+    {
+      "de": "die Anziehungskraft",
+      "en": "attraction",
+      "sentence_de": "Die gegenseitige Anziehungskraft war sofort da.",
+      "sentence_en": "The mutual attraction was there immediately."
+    },
+    {
+      "de": "das Vertrauen",
+      "en": "trust",
+      "sentence_de": "Vertrauen ist das Fundament jeder Beziehung.",
+      "sentence_en": "Trust is the foundation of every relationship."
+    },
+    {
+      "de": "die Zuneigung",
+      "en": "affection",
+      "sentence_de": "Zuneigung zeigt man durch kleine Gesten.",
+      "sentence_en": "Affection is shown through small gestures."
+    },
+    {
+      "de": "die Leidenschaft",
+      "en": "passion",
+      "sentence_de": "Die Leidenschaft in einer Beziehung sollte nicht erlöschen.",
+      "sentence_en": "Passion in a relationship should not fade."
+    },
+    {
+      "de": "die Intimität",
+      "en": "intimacy",
+      "sentence_de": "Intimität ist ein wichtiger Teil einer Partnerschaft.",
+      "sentence_en": "Intimacy is an important part of a partnership."
+    },
+    {
+      "de": "die Hingabe",
+      "en": "devotion",
+      "sentence_de": "Sie liebt ihn mit ganzer Hingabe.",
+      "sentence_en": "She loves him with complete devotion."
+    },
+    {
+      "de": "das Engagement",
+      "en": "commitment",
+      "sentence_de": "Beide müssen Engagement für die Beziehung zeigen.",
+      "sentence_en": "Both must show commitment to the relationship."
+    },
+    {
+      "de": "die Rücksichtnahme",
+      "en": "consideration",
+      "sentence_de": "Rücksichtnahme ist in einer Beziehung sehr wichtig.",
+      "sentence_en": "Consideration is very important in a relationship."
+    },
+    {
+      "de": "die Toleranz",
+      "en": "tolerance",
+      "sentence_de": "Toleranz gegenüber dem Partner ist essenziell.",
+      "sentence_en": "Tolerance towards the partner is essential."
+    },
+    {
+      "de": "der Kompromiss",
+      "en": "compromise",
+      "sentence_de": "Ohne Kompromisse funktioniert keine Beziehung.",
+      "sentence_en": "No relationship works without compromises."
+    },
+    {
+      "de": "die Kommunikation",
+      "en": "communication",
+      "sentence_de": "Gute Kommunikation löst viele Probleme.",
+      "sentence_en": "Good communication solves many problems."
+    },
+    {
+      "de": "das Gespräch",
+      "en": "conversation / talk",
+      "sentence_de": "Wir führen oft tiefgründige Gespräche.",
+      "sentence_en": "We often have deep conversations."
+    },
+    {
+      "de": "die Harmonie",
+      "en": "harmony",
+      "sentence_de": "Harmonie ist erstrebenswert, aber nicht immer möglich.",
+      "sentence_en": "Harmony is desirable, but not always possible."
+    },
+    {
+      "de": "die Eifersucht",
+      "en": "jealousy",
+      "sentence_de": "Eifersucht kann eine Beziehung zerstören.",
+      "sentence_en": "Jealousy can destroy a relationship."
+    },
+    {
+      "de": "der Streit",
+      "en": "argument",
+      "sentence_de": "Jeder Streit lässt sich mit Geduld lösen.",
+      "sentence_en": "Every argument can be resolved with patience."
+    },
+    {
+      "de": "die Versöhnung",
+      "en": "reconciliation",
+      "sentence_de": "Die Versöhnung war sehr emotional.",
+      "sentence_en": "The reconciliation was very emotional."
+    },
+    {
+      "de": "das Missverständnis",
+      "en": "misunderstanding",
+      "sentence_de": "Das war ein großes Missverständnis zwischen uns.",
+      "sentence_en": "That was a big misunderstanding between us."
+    },
+    {
+      "de": "die Trennung",
+      "en": "separation / breakup",
+      "sentence_de": "Die Trennung hat mich sehr mitgenommen.",
+      "sentence_en": "The breakup really affected me."
+    },
+    {
+      "de": "der Liebeskummer",
+      "en": "heartbreak",
+      "sentence_de": "Liebeskummer ist sehr schmerzhaft.",
+      "sentence_en": "Heartbreak is very painful."
+    },
+    {
+      "de": "die Scheidung",
+      "en": "divorce",
+      "sentence_de": "Die Scheidung war für beide schwer.",
+      "sentence_en": "The divorce was difficult for both."
+    },
+    {
+      "de": "die Distanz",
+      "en": "distance",
+      "sentence_de": "Die räumliche Distanz ist eine Herausforderung.",
+      "sentence_en": "The physical distance is a challenge."
+    },
+    {
+      "de": "die Fernbeziehung",
+      "en": "long-distance relationship",
+      "sentence_de": "Eine Fernbeziehung erfordert viel Vertrauen.",
+      "sentence_en": "A long-distance relationship requires a lot of trust."
+    },
+    {
+      "de": "das Zusammenleben",
+      "en": "living together",
+      "sentence_de": "Das Zusammenleben ist ein großer Schritt.",
+      "sentence_en": "Living together is a big step."
+    },
+    {
+      "de": "die Familie",
+      "en": "family",
+      "sentence_de": "Die Familie spielt in unserer Beziehung eine große Rolle.",
+      "sentence_en": "Family plays a big role in our relationship."
+    },
+    {
+      "de": "der Heiratsantrag",
+      "en": "marriage proposal",
+      "sentence_de": "Der Heiratsantrag war sehr romantisch.",
+      "sentence_en": "The marriage proposal was very romantic."
+    },
+    {
+      "de": "der Ring",
+      "en": "ring",
+      "sentence_de": "Er hat ihr einen Verlobungsring geschenkt.",
+      "sentence_en": "He gave her an engagement ring."
+    },
+    {
+      "de": "das Liebesgeständnis",
+      "en": "declaration of love",
+      "sentence_de": "Sein Liebesgeständnis hat mich überrascht.",
+      "sentence_en": "His declaration of love surprised me."
+    },
+    {
+      "de": "die Umarmung",
+      "en": "hug / embrace",
+      "sentence_de": "Eine herzliche Umarmung sagt mehr als Worte.",
+      "sentence_en": "A warm hug says more than words."
+    },
+    {
+      "de": "der Kuss",
+      "en": "kiss",
+      "sentence_de": "Der erste Kuss war magisch.",
+      "sentence_en": "The first kiss was magical."
+    },
+    {
+      "de": "die Romantik",
+      "en": "romance",
+      "sentence_de": "Romantik ist im Alltag manchmal schwer zu finden.",
+      "sentence_en": "Romance is sometimes hard to find in everyday life."
+    },
+    {
+      "de": "die Zweisamkeit",
+      "en": "togetherness / time for two",
+      "sentence_de": "Zweisamkeit ist wichtig für eine gesunde Beziehung.",
+      "sentence_en": "Togetherness is important for a healthy relationship."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "sich verlieben (in)",
+      "en": "to fall in love (with)",
+      "sentence_de": "Ich habe mich in ihn verliebt.",
+      "sentence_en": "I fell in love with him."
+    },
+    {
+      "de": "lieben",
+      "en": "to love",
+      "sentence_de": "Ich liebe meine Partnerin über alles.",
+      "sentence_en": "I love my partner above all else."
+    },
+    {
+      "de": "sich kümmern (um)",
+      "en": "to care (about)",
+      "sentence_de": "Sie kümmert sich liebevoll um ihn.",
+      "sentence_en": "She cares lovingly for him."
+    },
+    {
+      "de": "vertrauen",
+      "en": "to trust",
+      "sentence_de": "Ich vertraue meinem Partner vollkommen.",
+      "sentence_en": "I completely trust my partner."
+    },
+    {
+      "de": "sich verlassen (auf)",
+      "en": "to rely (on)",
+      "sentence_de": "Ich kann mich auf meinen Partner verlassen.",
+      "sentence_en": "I can rely on my partner."
+    },
+    {
+      "de": "respektieren",
+      "en": "to respect",
+      "sentence_de": "Wir respektieren einander und unsere Meinungen.",
+      "sentence_en": "We respect each other and our opinions."
+    },
+    {
+      "de": "akzeptieren",
+      "en": "to accept",
+      "sentence_de": "Wir akzeptieren unsere Unterschiede.",
+      "sentence_en": "We accept our differences."
+    },
+    {
+      "de": "schätzen",
+      "en": "to appreciate",
+      "sentence_de": "Ich schätze ihre Ehrlichkeit und Offenheit.",
+      "sentence_en": "I appreciate her honesty and openness."
+    },
+    {
+      "de": "sich kennenlernen",
+      "en": "to get to know each other",
+      "sentence_de": "Wir haben uns auf einer Party kennengelernt.",
+      "sentence_en": "We met at a party."
+    },
+    {
+      "de": "sich treffen",
+      "en": "to meet up / date",
+      "sentence_de": "Wir treffen uns heute Abend zum Abendessen.",
+      "sentence_en": "We're meeting tonight for dinner."
+    },
+    {
+      "de": "ausgehen",
+      "en": "to go out (on a date)",
+      "sentence_de": "Wir gehen morgen Abend zusammen aus.",
+      "sentence_en": "We're going out together tomorrow evening."
+    },
+    {
+      "de": "sich entscheiden (für)",
+      "en": "to decide (for)",
+      "sentence_de": "Ich habe mich für ihn entschieden.",
+      "sentence_en": "I decided for him."
+    },
+    {
+      "de": "sich binden",
+      "en": "to commit",
+      "sentence_de": "Er möchte sich noch nicht binden.",
+      "sentence_en": "He doesn't want to commit yet."
+    },
+    {
+      "de": "sich verloben",
+      "en": "to get engaged",
+      "sentence_de": "Wir haben uns letzte Woche verlobt.",
+      "sentence_en": "We got engaged last week."
+    },
+    {
+      "de": "heiraten",
+      "en": "to get married",
+      "sentence_de": "Wir heiraten nächstes Jahr im Mai.",
+      "sentence_en": "We're getting married next year in May."
+    },
+    {
+      "de": "zusammenziehen",
+      "en": "to move in together",
+      "sentence_de": "Wir sind vor zwei Monaten zusammengezogen.",
+      "sentence_en": "We moved in together two months ago."
+    },
+    {
+      "de": "sich streiten",
+      "en": "to argue",
+      "sentence_de": "Wir streiten uns manchmal, aber wir vertragen uns immer wieder.",
+      "sentence_en": "We argue sometimes, but we always make up again."
+    },
+    {
+      "de": "sich vertragen",
+      "en": "to make up / get along",
+      "sentence_de": "Nach dem Streit vertragen wir uns schnell.",
+      "sentence_en": "After an argument we make up quickly."
+    },
+    {
+      "de": "sich versöhnen",
+      "en": "to reconcile",
+      "sentence_de": "Sie haben sich nach langem Streit endlich versöhnt.",
+      "sentence_en": "They finally reconciled after a long argument."
+    },
+    {
+      "de": "verzeihen",
+      "en": "to forgive",
+      "sentence_de": "Kannst du mir verzeihen?",
+      "sentence_en": "Can you forgive me?"
+    },
+    {
+      "de": "sich entschuldigen",
+      "en": "to apologize",
+      "sentence_de": "Ich habe mich bei meiner Partnerin entschuldigt.",
+      "sentence_en": "I apologized to my partner."
+    },
+    {
+      "de": "trennen (sich von)",
+      "en": "to separate / break up (from)",
+      "sentence_de": "Wir haben uns nach drei Jahren getrennt.",
+      "sentence_en": "We broke up after three years."
+    },
+    {
+      "de": "verlassen",
+      "en": "to leave (someone)",
+      "sentence_de": "Sie hat ihn wegen eines anderen verlassen.",
+      "sentence_en": "She left him for someone else."
+    },
+    {
+      "de": "betrügen",
+      "en": "to cheat on",
+      "sentence_de": "Er hat seine Freundin betrogen.",
+      "sentence_en": "He cheated on his girlfriend."
+    },
+    {
+      "de": "sich scheiden lassen",
+      "en": "to divorce",
+      "sentence_de": "Meine Eltern lassen sich scheiden.",
+      "sentence_en": "My parents are getting divorced."
+    },
+    {
+      "de": "sich umarmen",
+      "en": "to hug / embrace",
+      "sentence_de": "Wir umarmten uns nach langer Zeit wieder.",
+      "sentence_en": "We hugged again after a long time."
+    },
+    {
+      "de": "küssen",
+      "en": "to kiss",
+      "sentence_de": "Sie küssten sich unter dem Sternenhimmel.",
+      "sentence_en": "They kissed under the starry sky."
+    },
+    {
+      "de": "flirten",
+      "en": "to flirt",
+      "sentence_de": "Sie haben den ganzen Abend miteinander geflirtet.",
+      "sentence_en": "They flirted with each other all evening."
+    },
+    {
+      "de": "verführen",
+      "en": "to seduce",
+      "sentence_de": "Er versuchte, sie mit Charme zu verführen.",
+      "sentence_en": "He tried to seduce her with charm."
+    },
+    {
+      "de": "sich begehren",
+      "en": "to desire each other",
+      "sentence_de": "Sie begehren sich schon lange.",
+      "sentence_en": "They have desired each other for a long time."
+    },
+    {
+      "de": "sich hingeben",
+      "en": "to surrender (to love)",
+      "sentence_de": "Sie gab sich ganz der Liebe hin.",
+      "sentence_en": "She surrendered completely to love."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "liebevoll",
+      "en": "loving",
+      "sentence_de": "Er ist ein sehr liebevoller Partner.",
+      "sentence_en": "He is a very loving partner."
+    },
+    {
+      "de": "romantisch",
+      "en": "romantic",
+      "sentence_de": "Er hat mir einen romantischen Abend bereitet.",
+      "sentence_en": "He prepared a romantic evening for me."
+    },
+    {
+      "de": "treu",
+      "en": "faithful",
+      "sentence_de": "Ein treuer Partner ist wichtig.",
+      "sentence_en": "A faithful partner is important."
+    },
+    {
+      "de": "untreu",
+      "en": "unfaithful",
+      "sentence_de": "Untreue ist ein schwerer Vertrauensbruch.",
+      "sentence_en": "Unfaithfulness is a serious breach of trust."
+    },
+    {
+      "de": "eifersüchtig",
+      "en": "jealous",
+      "sentence_de": "Sie ist sehr eifersüchtig auf seine Kollegin.",
+      "sentence_en": "She is very jealous of his colleague."
+    },
+    {
+      "de": "vertrauensvoll",
+      "en": "trusting",
+      "sentence_de": "Eine vertrauensvolle Beziehung ist sehr wertvoll.",
+      "sentence_en": "A trusting relationship is very valuable."
+    },
+    {
+      "de": "verständnisvoll",
+      "en": "understanding",
+      "sentence_de": "Mein Partner ist sehr verständnisvoll.",
+      "sentence_en": "My partner is very understanding."
+    },
+    {
+      "de": "fürsorglich",
+      "en": "caring",
+      "sentence_de": "Sie ist eine fürsorgliche Ehefrau.",
+      "sentence_en": "She is a caring wife."
+    },
+    {
+      "de": "leidenschaftlich",
+      "en": "passionate",
+      "sentence_de": "Ihre Liebe ist leidenschaftlich und intensiv.",
+      "sentence_en": "Their love is passionate and intense."
+    },
+    {
+      "de": "zärtlich",
+      "en": "tender",
+      "sentence_de": "Er gab ihr einen zärtlichen Kuss.",
+      "sentence_en": "He gave her a tender kiss."
+    },
+    {
+      "de": "einfühlsam",
+      "en": "empathetic",
+      "sentence_de": "Sie ist sehr einfühlsam und versteht meine Gefühle.",
+      "sentence_en": "She is very empathetic and understands my feelings."
+    },
+    {
+      "de": "selbstlos",
+      "en": "selfless",
+      "sentence_de": "Er liebt sie auf eine selbstlose Weise.",
+      "sentence_en": "He loves her in a selfless way."
+    },
+    {
+      "de": "egoistisch",
+      "en": "selfish",
+      "sentence_de": "Egoistisches Verhalten schadet einer Beziehung.",
+      "sentence_en": "Selfish behavior harms a relationship."
+    },
+    {
+      "de": "unsicher",
+      "en": "insecure",
+      "sentence_de": "Ihre Unsicherheit belastet die Beziehung.",
+      "sentence_en": "Her insecurity burdens the relationship."
+    },
+    {
+      "de": "stabil",
+      "en": "stable",
+      "sentence_de": "Eine stabile Beziehung gibt Sicherheit.",
+      "sentence_en": "A stable relationship provides security."
+    },
+    {
+      "de": "instabil",
+      "en": "unstable",
+      "sentence_de": "Die Beziehung war von Anfang an instabil.",
+      "sentence_en": "The relationship was unstable from the start."
+    },
+    {
+      "de": "harmonisch",
+      "en": "harmonious",
+      "sentence_de": "Wir führen eine harmonische Beziehung.",
+      "sentence_en": "We have a harmonious relationship."
+    },
+    {
+      "de": "konfliktreich",
+      "en": "conflict-ridden",
+      "sentence_de": "Die ersten Jahre waren sehr konfliktreich.",
+      "sentence_en": "The first years were very conflict-ridden."
+    },
+    {
+      "de": "emotional",
+      "en": "emotional",
+      "sentence_de": "Das war ein sehr emotionaler Moment.",
+      "sentence_en": "That was a very emotional moment."
+    },
+    {
+      "de": "intim",
+      "en": "intimate",
+      "sentence_de": "Intime Momente sind wichtig in einer Partnerschaft.",
+      "sentence_en": "Intimate moments are important in a partnership."
+    },
+    {
+      "de": "verbindlich",
+      "en": "committed",
+      "sentence_de": "Sie wünscht sich eine verbindliche Beziehung.",
+      "sentence_en": "She wants a committed relationship."
+    },
+    {
+      "de": "unverbindlich",
+      "en": "casual / non-committal",
+      "sentence_de": "Er sucht nur eine unverbindliche Affäre.",
+      "sentence_en": "He's only looking for a casual affair."
+    },
+    {
+      "de": "glücklich",
+      "en": "happy",
+      "sentence_de": "Ich bin glücklich in meiner Beziehung.",
+      "sentence_en": "I am happy in my relationship."
+    },
+    {
+      "de": "unglücklich",
+      "en": "unhappy",
+      "sentence_de": "Sie war lange unglücklich in ihrer Ehe.",
+      "sentence_en": "She was unhappy in her marriage for a long time."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "innig",
+      "en": "intimately / deeply",
+      "sentence_de": "Sie umarmten sich innig.",
+      "sentence_en": "They embraced intimately."
+    },
+    {
+      "de": "leidenschaftlich",
+      "en": "passionately",
+      "sentence_de": "Sie küssten sich leidenschaftlich.",
+      "sentence_en": "They kissed passionately."
+    },
+    {
+      "de": "zärtlich",
+      "en": "tenderly",
+      "sentence_de": "Er streichelte zärtlich ihren Arm.",
+      "sentence_en": "He tenderly stroked her arm."
+    },
+    {
+      "de": "liebevoll",
+      "en": "lovingly",
+      "sentence_de": "Sie kümmerte sich liebevoll um ihren kranken Partner.",
+      "sentence_en": "She lovingly cared for her sick partner."
+    },
+    {
+      "de": "eifersüchtig",
+      "en": "jealously",
+      "sentence_de": "Er beobachtete eifersüchtig ihr Gespräch.",
+      "sentence_en": "He jealously watched her conversation."
+    },
+    {
+      "de": "vertrauensvoll",
+      "en": "trustingly",
+      "sentence_de": "Sie sah ihn vertrauensvoll an.",
+      "sentence_en": "She looked at him trustingly."
+    },
+    {
+      "de": "offen",
+      "en": "openly",
+      "sentence_de": "Wir reden offen über unsere Wünsche und Ängste.",
+      "sentence_en": "We talk openly about our desires and fears."
+    },
+    {
+      "de": "ehrlich",
+      "en": "honestly",
+      "sentence_de": "Wir sagen einander ehrlich, was wir fühlen.",
+      "sentence_en": "We honestly tell each other what we feel."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Wir telefonieren regelmäßig, wenn wir getrennt sind.",
+      "sentence_en": "We talk on the phone regularly when we're apart."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Wir streiten uns selten.",
+      "sentence_en": "We rarely argue."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Wir unternehmen oft etwas gemeinsam.",
+      "sentence_en": "We often do things together."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich verbringe gerne Zeit mit meinem Partner.",
+      "sentence_en": "I gladly spend time with my partner."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Wir trennen uns ungern, auch nur für ein paar Tage.",
+      "sentence_en": "We reluctantly separate, even for a few days."
+    },
+    {
+      "de": "füreinander",
+      "en": "for each other",
+      "sentence_de": "Wir sind füreinander da, egal was passiert.",
+      "sentence_en": "We are there for each other, no matter what happens."
+    },
+    {
+      "de": "miteinander",
+      "en": "with each other",
+      "sentence_de": "Wir verbringen gerne Zeit miteinander.",
+      "sentence_en": "We like to spend time with each other."
+    },
+    {
+      "de": "ineinander",
+      "en": "in each other",
+      "sentence_de": "Sie sind ineinander verliebt.",
+      "sentence_en": "They are in love with each other."
+    },
+    {
+      "de": "aufeinander",
+      "en": "on each other",
+      "sentence_de": "Wir können uns aufeinander verlassen.",
+      "sentence_en": "We can rely on each other."
+    },
+    {
+      "de": "unzertrennlich",
+      "en": "inseparably",
+      "sentence_de": "Das Paar ist unzertrennlich.",
+      "sentence_en": "The couple is inseparable."
+    },
+    {
+      "de": "dauerhaft",
+      "en": "permanently",
+      "sentence_de": "Sie möchten dauerhaft zusammenbleiben.",
+      "sentence_en": "They want to stay together permanently."
+    },
+    {
+      "de": "vorerst",
+      "en": "for now",
+      "sentence_de": "Wir bleiben vorerst getrennt.",
+      "sentence_en": "We're staying apart for now."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise hat die Beziehung den Streit überstanden.",
+      "sentence_en": "Fortunately, the relationship survived the argument."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider hat es zwischen uns nicht funktioniert.",
+      "sentence_en": "Unfortunately it didn't work out between us."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Eine gesunde Beziehung basiert auf Vertrauen, Respekt und Ehrlichkeit.",
+      "en": "A healthy relationship is based on trust, respect and honesty."
+    },
+    {
+      "de": "Wir haben uns vor drei Jahren auf einer Party kennengelernt.",
+      "en": "We met at a party three years ago."
+    },
+    {
+      "de": "Sie ist nicht nur meine Partnerin, sondern auch meine beste Freundin.",
+      "en": "She is not only my partner but also my best friend."
+    },
+    {
+      "de": "Ich möchte ihr morgen einen Heiratsantrag machen.",
+      "en": "I want to propose to her tomorrow."
+    },
+    {
+      "de": "Eine Fernbeziehung ist eine große Herausforderung für beide Seiten.",
+      "en": "A long-distance relationship is a big challenge for both sides."
+    },
+    {
+      "de": "Wir haben beschlossen, zusammenzuziehen und einen gemeinsamen Haushalt zu gründen.",
+      "en": "We have decided to move in together and set up a shared household."
+    },
+    {
+      "de": "Eifersucht und Misstrauen können selbst die schönste Liebe zerstören.",
+      "en": "Jealousy and distrust can destroy even the most beautiful love."
+    },
+    {
+      "de": "Nach einem heftigen Streit haben wir beschlossen, an unserer Beziehung zu arbeiten.",
+      "en": "After a heated argument, we decided to work on our relationship."
+    },
+    {
+      "de": "Die ersten Monate unserer Beziehung waren wie im Märchen.",
+      "en": "The first months of our relationship were like a fairy tale."
+    },
+    {
+      "de": "Wir haben uns leider getrennt, aber wir sind immer noch Freunde.",
+      "en": "We unfortunately broke up, but we're still friends."
+    },
+    {
+      "de": "Kommunikation ist der Schlüssel, um Missverständnisse zu vermeiden.",
+      "en": "Communication is the key to avoiding misunderstandings."
+    },
+    {
+      "de": "Sie hat mich mit einem romantischen Candle-Light-Dinner überrascht.",
+      "en": "She surprised me with a romantic candlelight dinner."
+    },
+    {
+      "de": "Nach zehn Jahren Ehe lieben wir uns heute mehr denn je.",
+      "en": "After ten years of marriage, we love each other more than ever."
+    },
+    {
+      "de": "Eine Beziehung erfordert Arbeit, Kompromisse und Geduld von beiden Partnern.",
+      "en": "A relationship requires work, compromises and patience from both partners."
+    },
+    {
+      "de": "Sie ist der Mensch, mit dem ich mein ganzes Leben verbringen möchte.",
+      "en": "She is the person I want to spend my whole life with."
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "theme": "Friendship",
+  "words": [
+    {
+      "de": "die Freundschaft",
+      "en": "friendship",
+      "sentence_de": "Eine gute Freundschaft hält ein Leben lang.",
+      "sentence_en": "A good friendship lasts a lifetime."
+    },
+    {
+      "de": "der Freund / die Freundin",
+      "en": "friend (male/female)",
+      "sentence_de": "Er ist mein bester Freund.",
+      "sentence_en": "He is my best friend."
+    },
+    {
+      "de": "der beste Freund / die beste Freundin",
+      "en": "best friend",
+      "sentence_de": "Sie ist meine beste Freundin seit der Kindheit.",
+      "sentence_en": "She is my best friend since childhood."
+    },
+    {
+      "de": "der Jugendfreund / die Jugendfreundin",
+      "en": "childhood friend",
+      "sentence_de": "Er ist ein alter Jugendfreund von mir.",
+      "sentence_en": "He is an old childhood friend of mine."
+    },
+    {
+      "de": "der Kollege / die Kollegin",
+      "en": "colleague",
+      "sentence_de": "Mein Kollege ist auch ein guter Freund geworden.",
+      "sentence_en": "My colleague has also become a good friend."
+    },
+    {
+      "de": "der Nachbar / die Nachbarin",
+      "en": "neighbor",
+      "sentence_de": "Meine Nachbarin ist eine enge Freundin.",
+      "sentence_en": "My neighbor is a close friend."
+    },
+    {
+      "de": "der Bekannte / die Bekannte",
+      "en": "acquaintance",
+      "sentence_de": "Er ist eher ein Bekannter als ein enger Freund.",
+      "sentence_en": "He is more of an acquaintance than a close friend."
+    },
+    {
+      "de": "der Kumpel",
+      "en": "buddy / mate (informal)",
+      "sentence_de": "Wir treffen uns heute mit ein paar Kumpels.",
+      "sentence_en": "We're meeting up with a few buddies today."
+    },
+    {
+      "de": "die Clique",
+      "en": "clique / group of friends",
+      "sentence_de": "Unsere Clique besteht aus sechs Leuten.",
+      "sentence_en": "Our group of friends consists of six people."
+    },
+    {
+      "de": "der Freundeskreis",
+      "en": "circle of friends",
+      "sentence_de": "Mein Freundeskreis ist sehr international.",
+      "sentence_en": "My circle of friends is very international."
+    },
+    {
+      "de": "der Vertraute / die Vertraute",
+      "en": "confidant",
+      "sentence_de": "Er ist mein engster Vertrauter.",
+      "sentence_en": "He is my closest confidant."
+    },
+    {
+      "de": "der Seelenverwandte / die Seelenverwandte",
+      "en": "soulmate",
+      "sentence_de": "Sie ist nicht nur meine Partnerin, sondern auch meine Seelenverwandte.",
+      "sentence_en": "She is not only my partner, but also my soulmate."
+    },
+    {
+      "de": "der Partner / die Partnerin",
+      "en": "partner (romantic)",
+      "sentence_de": "Mein Partner ist auch mein bester Freund.",
+      "sentence_en": "My partner is also my best friend."
+    },
+    {
+      "de": "das Vertrauen",
+      "en": "trust",
+      "sentence_de": "Vertrauen ist die Basis jeder Freundschaft.",
+      "sentence_en": "Trust is the foundation of every friendship."
+    },
+    {
+      "de": "die Loyalität",
+      "en": "loyalty",
+      "sentence_de": "Loyalität ist mir in einer Freundschaft sehr wichtig.",
+      "sentence_en": "Loyalty is very important to me in a friendship."
+    },
+    {
+      "de": "die Ehrlichkeit",
+      "en": "honesty",
+      "sentence_de": "Ehrlichkeit schafft eine tiefe Verbindung.",
+      "sentence_en": "Honesty creates a deep connection."
+    },
+    {
+      "de": "die Offenheit",
+      "en": "openness",
+      "sentence_de": "Offenheit ist der Schlüssel zu einer guten Freundschaft.",
+      "sentence_en": "Openness is the key to a good friendship."
+    },
+    {
+      "de": "die Unterstützung",
+      "en": "support",
+      "sentence_de": "In schweren Zeiten braucht man die Unterstützung seiner Freunde.",
+      "sentence_en": "In difficult times you need the support of your friends."
+    },
+    {
+      "de": "die Hilfe",
+      "en": "help",
+      "sentence_de": "Freunde helfen sich gegenseitig.",
+      "sentence_en": "Friends help each other."
+    },
+    {
+      "de": "die Verbindung",
+      "en": "connection",
+      "sentence_de": "Zwischen uns besteht eine besondere Verbindung.",
+      "sentence_en": "There is a special connection between us."
+    },
+    {
+      "de": "das Verständnis",
+      "en": "understanding",
+      "sentence_de": "Gegenseitiges Verständnis ist sehr wichtig.",
+      "sentence_en": "Mutual understanding is very important."
+    },
+    {
+      "de": "das Geheimnis",
+      "en": "secret",
+      "sentence_de": "Ich kann ihr alle meine Geheimnisse anvertrauen.",
+      "sentence_en": "I can trust her with all my secrets."
+    },
+    {
+      "de": "die gemeinsame Zeit",
+      "en": "shared time",
+      "sentence_de": "Die gemeinsame Zeit mit Freunden ist unbezahlbar.",
+      "sentence_en": "Shared time with friends is priceless."
+    },
+    {
+      "de": "das Treffen",
+      "en": "meeting / get-together",
+      "sentence_de": "Das Treffen mit meinen Freunden war wunderschön.",
+      "sentence_en": "The get-together with my friends was wonderful."
+    },
+    {
+      "de": "der Geburtstag",
+      "en": "birthday",
+      "sentence_de": "Wir feiern den Geburtstag unserer Freundin.",
+      "sentence_en": "We're celebrating our friend's birthday."
+    },
+    {
+      "de": "die Feier",
+      "en": "party / celebration",
+      "sentence_de": "Die Feier war ein voller Erfolg.",
+      "sentence_en": "The party was a complete success."
+    },
+    {
+      "de": "das Geschenk",
+      "en": "gift",
+      "sentence_de": "Ich habe ihr ein persönliches Geschenk gemacht.",
+      "sentence_en": "I gave her a personal gift."
+    },
+    {
+      "de": "die Einladung",
+      "en": "invitation",
+      "sentence_de": "Ich habe eine Einladung zu ihrer Party bekommen.",
+      "sentence_en": "I received an invitation to her party."
+    },
+    {
+      "de": "die Überraschung",
+      "en": "surprise",
+      "sentence_de": "Wir haben eine Überraschung für sie vorbereitet.",
+      "sentence_en": "We've prepared a surprise for her."
+    },
+    {
+      "de": "das Lachen",
+      "en": "laughter",
+      "sentence_de": "Das gemeinsame Lachen verbindet uns.",
+      "sentence_en": "Shared laughter connects us."
+    },
+    {
+      "de": "die Freude",
+      "en": "joy",
+      "sentence_de": "Die Freude, Zeit mit Freunden zu verbringen, ist groß.",
+      "sentence_en": "The joy of spending time with friends is immense."
+    },
+    {
+      "de": "der Spaß",
+      "en": "fun",
+      "sentence_de": "Mit meinen Freunden habe ich immer Spaß.",
+      "sentence_en": "I always have fun with my friends."
+    },
+    {
+      "de": "das Abenteuer",
+      "en": "adventure",
+      "sentence_de": "Wir erleben gemeinsam viele Abenteuer.",
+      "sentence_en": "We experience many adventures together."
+    },
+    {
+      "de": "die Erinnerung",
+      "en": "memory",
+      "sentence_de": "Die schönsten Erinnerungen habe ich mit meinen Freunden.",
+      "sentence_en": "My best memories are with my friends."
+    },
+    {
+      "de": "der Streit",
+      "en": "argument / fight",
+      "sentence_de": "Jede Freundschaft hat mal einen kleinen Streit.",
+      "sentence_en": "Every friendship has a little argument sometimes."
+    },
+    {
+      "de": "die Versöhnung",
+      "en": "reconciliation",
+      "sentence_de": "Die Versöhnung hat unsere Freundschaft sogar gestärkt.",
+      "sentence_en": "The reconciliation even strengthened our friendship."
+    },
+    {
+      "de": "die Enttäuschung",
+      "en": "disappointment",
+      "sentence_de": "Die Enttäuschung war groß, als er mich nicht besuchte.",
+      "sentence_en": "The disappointment was great when he didn't visit me."
+    },
+    {
+      "de": "der Verrat",
+      "en": "betrayal",
+      "sentence_de": "Vertrauensbruch kann zum Ende einer Freundschaft führen.",
+      "sentence_en": "Betrayal of trust can lead to the end of a friendship."
+    },
+    {
+      "de": "die Entfernung",
+      "en": "distance",
+      "sentence_de": "Die räumliche Entfernung macht unsere Freundschaft nicht kaputt.",
+      "sentence_en": "The physical distance doesn't destroy our friendship."
+    },
+    {
+      "de": "die Fernbeziehung (Freundschaft)",
+      "en": "long-distance friendship",
+      "sentence_de": "Eine Fernbeziehung zwischen Freunden erfordert Einsatz.",
+      "sentence_en": "A long-distance friendship requires effort."
+    },
+    {
+      "de": "der Kontakt",
+      "en": "contact",
+      "sentence_de": "Wir halten regelmäßig Kontakt über WhatsApp.",
+      "sentence_en": "We keep in regular contact via WhatsApp."
+    },
+    {
+      "de": "der Anruf",
+      "en": "phone call",
+      "sentence_de": "Ein Anruf von einem alten Freund macht mich glücklich.",
+      "sentence_en": "A phone call from an old friend makes me happy."
+    },
+    {
+      "de": "die Nachricht",
+      "en": "message",
+      "sentence_de": "Ich schicke ihr täglich eine Nachricht.",
+      "sentence_en": "I send her a message every day."
+    },
+    {
+      "de": "das Wiedersehen",
+      "en": "reunion",
+      "sentence_de": "Das Wiedersehen nach so langer Zeit war sehr emotional.",
+      "sentence_en": "The reunion after such a long time was very emotional."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "sich befreunden (mit)",
+      "en": "to become friends (with)",
+      "sentence_de": "Ich habe mich mit meinem neuen Kollegen befreundet.",
+      "sentence_en": "I became friends with my new colleague."
+    },
+    {
+      "de": "sich verstehen (mit)",
+      "en": "to get along (with)",
+      "sentence_de": "Wir verstehen uns großartig.",
+      "sentence_en": "We get along great."
+    },
+    {
+      "de": "sich treffen",
+      "en": "to meet up",
+      "sentence_de": "Wir treffen uns morgen im Café.",
+      "sentence_en": "We're meeting up at the café tomorrow."
+    },
+    {
+      "de": "sich unterhalten",
+      "en": "to talk / chat",
+      "sentence_de": "Wir unterhalten uns stundenlang.",
+      "sentence_en": "We talk for hours."
+    },
+    {
+      "de": "telefonieren",
+      "en": "to talk on the phone",
+      "sentence_de": "Ich telefoniere jeden Sonntag mit meiner Freundin.",
+      "sentence_en": "I talk on the phone with my friend every Sunday."
+    },
+    {
+      "de": "schreiben",
+      "en": "to write",
+      "sentence_de": "Ich schreibe ihr eine Nachricht.",
+      "sentence_en": "I write her a message."
+    },
+    {
+      "de": "sich austauschen",
+      "en": "to exchange ideas / share",
+      "sentence_de": "Wir tauschen uns regelmäßig über unsere Probleme aus.",
+      "sentence_en": "We regularly share our problems with each other."
+    },
+    {
+      "de": "zuhören",
+      "en": "to listen",
+      "sentence_de": "Ein guter Freund hört zu, wenn es dir schlecht geht.",
+      "sentence_en": "A good friend listens when you're feeling down."
+    },
+    {
+      "de": "helfen",
+      "en": "to help",
+      "sentence_de": "Ich helfe meinem Freund beim Umzug.",
+      "sentence_en": "I'm helping my friend with the move."
+    },
+    {
+      "de": "unterstützen",
+      "en": "to support",
+      "sentence_de": "Meine Freunde unterstützen mich in jeder Lebenslage.",
+      "sentence_en": "My friends support me in every situation in life."
+    },
+    {
+      "de": "vertrauen",
+      "en": "to trust",
+      "sentence_de": "Ich vertraue meiner besten Freundin blind.",
+      "sentence_en": "I trust my best friend blindly."
+    },
+    {
+      "de": "sich anvertrauen",
+      "en": "to confide in",
+      "sentence_de": "Sie vertraut sich mir mit ihren Sorgen an.",
+      "sentence_en": "She confides her worries to me."
+    },
+    {
+      "de": "teilen",
+      "en": "to share",
+      "sentence_de": "Wir teilen alles miteinander.",
+      "sentence_en": "We share everything with each other."
+    },
+    {
+      "de": "feiern",
+      "en": "to celebrate",
+      "sentence_de": "Wir feiern den Erfolg unserer Freundin.",
+      "sentence_en": "We celebrate our friend's success."
+    },
+    {
+      "de": "lachen",
+      "en": "to laugh",
+      "sentence_de": "Wir lachen oft zusammen über alte Geschichten.",
+      "sentence_en": "We often laugh together about old stories."
+    },
+    {
+      "de": "weinen",
+      "en": "to cry",
+      "sentence_de": "Manchmal weinen wir auch zusammen bei traurigen Filmen.",
+      "sentence_en": "Sometimes we also cry together at sad movies."
+    },
+    {
+      "de": "sich vermissen",
+      "en": "to miss each other",
+      "sentence_de": "Wir vermissen uns sehr, wenn wir uns nicht sehen.",
+      "sentence_en": "We miss each other a lot when we don't see each other."
+    },
+    {
+      "de": "sich freuen (auf / über)",
+      "en": "to look forward to / be happy about",
+      "sentence_de": "Ich freue mich auf unser nächstes Treffen.",
+      "sentence_en": "I'm looking forward to our next meeting."
+    },
+    {
+      "de": "sich ärgern (über)",
+      "en": "to be annoyed (about)",
+      "sentence_de": "Ich ärgere mich über sein unzuverlässiges Verhalten.",
+      "sentence_en": "I'm annoyed about his unreliable behavior."
+    },
+    {
+      "de": "sich streiten",
+      "en": "to argue / fight",
+      "sentence_de": "Wir haben uns gestern gestritten, aber heute ist alles wieder gut.",
+      "sentence_en": "We argued yesterday, but today everything is fine again."
+    },
+    {
+      "de": "sich versöhnen",
+      "en": "to reconcile",
+      "sentence_de": "Nach dem Streit haben wir uns schnell versöhnt.",
+      "sentence_en": "After the argument we reconciled quickly."
+    },
+    {
+      "de": "verzeihen",
+      "en": "to forgive",
+      "sentence_de": "Freunde verzeihen einander Fehler.",
+      "sentence_en": "Friends forgive each other's mistakes."
+    },
+    {
+      "de": "enttäuschen",
+      "en": "to disappoint",
+      "sentence_de": "Ich möchte meine Freunde nicht enttäuschen.",
+      "sentence_en": "I don't want to disappoint my friends."
+    },
+    {
+      "de": "verraten",
+      "en": "to betray",
+      "sentence_de": "Er würde mich niemals verraten.",
+      "sentence_en": "He would never betray me."
+    },
+    {
+      "de": "begleiten",
+      "en": "to accompany",
+      "sentence_de": "Ich begleite meinen Freund zum Arzt.",
+      "sentence_en": "I accompany my friend to the doctor."
+    },
+    {
+      "de": "besuchen",
+      "en": "to visit",
+      "sentence_de": "Ich besuche meinen alten Freund in Berlin.",
+      "sentence_en": "I visit my old friend in Berlin."
+    },
+    {
+      "de": "einladen",
+      "en": "to invite",
+      "sentence_de": "Ich lade meine Freunde zum Abendessen ein.",
+      "sentence_en": "I invite my friends to dinner."
+    },
+    {
+      "de": "überraschen",
+      "en": "to surprise",
+      "sentence_de": "Wir wollen sie mit einem Geschenk überraschen.",
+      "sentence_en": "We want to surprise her with a gift."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "gut",
+      "en": "good",
+      "sentence_de": "Er ist ein guter Freund.",
+      "sentence_en": "He is a good friend."
+    },
+    {
+      "de": "bester",
+      "en": "best",
+      "sentence_de": "Sie ist meine beste Freundin.",
+      "sentence_en": "She is my best friend."
+    },
+    {
+      "de": "eng / nahe",
+      "en": "close",
+      "sentence_de": "Wir haben eine enge Freundschaft.",
+      "sentence_en": "We have a close friendship."
+    },
+    {
+      "de": "treu / loyal",
+      "en": "loyal",
+      "sentence_de": "Ein treuer Freund steht immer zu dir.",
+      "sentence_en": "A loyal friend always stands by you."
+    },
+    {
+      "de": "ehrlich",
+      "en": "honest",
+      "sentence_de": "Er ist immer ehrlich zu mir.",
+      "sentence_en": "He is always honest with me."
+    },
+    {
+      "de": "offen",
+      "en": "open",
+      "sentence_de": "Wir sind sehr offen miteinander.",
+      "sentence_en": "We are very open with each other."
+    },
+    {
+      "de": "zuverlässig",
+      "en": "reliable",
+      "sentence_de": "Sie ist eine zuverlässige Freundin.",
+      "sentence_en": "She is a reliable friend."
+    },
+    {
+      "de": "unzuverlässig",
+      "en": "unreliable",
+      "sentence_de": "Sein unzuverlässiges Verhalten nervt mich.",
+      "sentence_en": "His unreliable behavior annoys me."
+    },
+    {
+      "de": "hilfsbereit",
+      "en": "helpful",
+      "sentence_de": "Meine Freunde sind alle sehr hilfsbereit.",
+      "sentence_en": "My friends are all very helpful."
+    },
+    {
+      "de": "verständnisvoll",
+      "en": "understanding",
+      "sentence_de": "Sie ist sehr verständnisvoll in schwierigen Situationen.",
+      "sentence_en": "She is very understanding in difficult situations."
+    },
+    {
+      "de": "einfühlsam",
+      "en": "empathetic",
+      "sentence_de": "Er ist ein einfühlsamer Zuhörer.",
+      "sentence_en": "He is an empathetic listener."
+    },
+    {
+      "de": "lustig",
+      "en": "funny",
+      "sentence_de": "Mein bester Freund ist sehr lustig.",
+      "sentence_en": "My best friend is very funny."
+    },
+    {
+      "de": "ernst",
+      "en": "serious",
+      "sentence_de": "Wenn es sein muss, können wir auch ernst reden.",
+      "sentence_en": "When necessary, we can also talk seriously."
+    },
+    {
+      "de": "alt (Freundschaft)",
+      "en": "old (friendship)",
+      "sentence_de": "Wir sind alte Freunde aus der Schulzeit.",
+      "sentence_en": "We are old friends from school."
+    },
+    {
+      "de": "neu",
+      "en": "new",
+      "sentence_de": "Ich habe einen neuen Freund im Sprachkurs gefunden.",
+      "sentence_en": "I found a new friend in the language course."
+    },
+    {
+      "de": "echt",
+      "en": "real / genuine",
+      "sentence_de": "Unsere Freundschaft ist echt und aufrichtig.",
+      "sentence_en": "Our friendship is real and sincere."
+    },
+    {
+      "de": "oberflächlich",
+      "en": "superficial",
+      "sentence_de": "Eine oberflächliche Bekanntschaft ist nicht wie eine echte Freundschaft.",
+      "sentence_en": "A superficial acquaintance is not like a real friendship."
+    },
+    {
+      "de": "unvergesslich",
+      "en": "unforgettable",
+      "sentence_de": "Unsere gemeinsame Reise war unvergesslich.",
+      "sentence_en": "Our trip together was unforgettable."
+    },
+    {
+      "de": "unzertrennlich",
+      "en": "inseparable",
+      "sentence_de": "Die beiden sind unzertrennlich.",
+      "sentence_en": "The two are inseparable."
+    },
+    {
+      "de": "distanziert",
+      "en": "distant",
+      "sentence_de": "Nach dem Umzug wurde die Freundschaft etwas distanzierter.",
+      "sentence_en": "After the move, the friendship became a bit more distant."
+    },
+    {
+      "de": "kostbar",
+      "en": "precious",
+      "sentence_de": "Eine gute Freundschaft ist etwas Kostbares.",
+      "sentence_en": "A good friendship is something precious."
+    },
+    {
+      "de": "selten",
+      "en": "rare",
+      "sentence_de": "Wahre Freunde sind selten.",
+      "sentence_en": "True friends are rare."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Wir treffen uns oft am Wochenende.",
+      "sentence_en": "We often meet on the weekends."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Selten streiten wir uns.",
+      "sentence_en": "We rarely argue."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Wir telefonieren regelmäßig.",
+      "sentence_en": "We talk on the phone regularly."
+    },
+    {
+      "de": "jeden Tag",
+      "en": "every day",
+      "sentence_de": "Wir schreiben uns jeden Tag.",
+      "sentence_en": "We text each other every day."
+    },
+    {
+      "de": "immer",
+      "en": "always",
+      "sentence_de": "Ich kann immer auf sie zählen.",
+      "sentence_en": "I can always count on her."
+    },
+    {
+      "de": "nie / niemals",
+      "en": "never",
+      "sentence_de": "Ein wahrer Freund würde dich niemals im Stich lassen.",
+      "sentence_en": "A true friend would never let you down."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich helfe gerne meinen Freunden.",
+      "sentence_en": "I gladly help my friends."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Ich sage ungern Termine mit Freunden ab.",
+      "sentence_en": "I reluctantly cancel plans with friends."
+    },
+    {
+      "de": "offen",
+      "en": "openly",
+      "sentence_de": "Wir reden offen über alles.",
+      "sentence_en": "We talk openly about everything."
+    },
+    {
+      "de": "ehrlich",
+      "en": "honestly",
+      "sentence_de": "Ich sage dir ehrlich, was ich denke.",
+      "sentence_en": "I honestly tell you what I think."
+    },
+    {
+      "de": "herzlich",
+      "en": "warmly",
+      "sentence_de": "Sie hat mich herzlich begrüßt.",
+      "sentence_en": "She welcomed me warmly."
+    },
+    {
+      "de": "freundschaftlich",
+      "en": "in a friendly way",
+      "sentence_de": "Wir haben uns freundschaftlich verabschiedet.",
+      "sentence_en": "We said goodbye in a friendly way."
+    },
+    {
+      "de": "zusammen",
+      "en": "together",
+      "sentence_de": "Wir machen zusammen Urlaub.",
+      "sentence_en": "We go on vacation together."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Manchmal möchte ich auch alleine sein, aber ich vermisse meine Freunde.",
+      "sentence_en": "Sometimes I want to be alone too, but I miss my friends."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Wir haben überall gemeinsam Spaß.",
+      "sentence_en": "We have fun everywhere together."
+    },
+    {
+      "de": "unterwegs",
+      "en": "on the way",
+      "sentence_de": "Wir sind oft unterwegs und erleben Abenteuer.",
+      "sentence_en": "We're often on the road and have adventures."
+    },
+    {
+      "de": "einfach",
+      "en": "simply",
+      "sentence_de": "Mit ihm kann man einfach über alles reden.",
+      "sentence_en": "With him, you can simply talk about everything."
+    },
+    {
+      "de": "besonders",
+      "en": "especially",
+      "sentence_de": "Mir sind besonders die ehrlichen Freunde wichtig.",
+      "sentence_en": "Honest friends are especially important to me."
+    },
+    {
+      "de": "trotzdem",
+      "en": "nevertheless",
+      "sentence_de": "Trotzdem bleiben wir Freunde.",
+      "sentence_en": "Nevertheless, we remain friends."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider wohnen meine besten Freunde jetzt weit weg.",
+      "sentence_en": "Unfortunately my best friends now live far away."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise haben wir uns nie wirklich zerstritten.",
+      "sentence_en": "Fortunately we've never really fallen out."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Meine beste Freundin kennt mich besser als jeder andere.",
+      "en": "My best friend knows me better than anyone else."
+    },
+    {
+      "de": "Ein wahrer Freund ist für dich da, auch in den schwierigsten Zeiten.",
+      "en": "A true friend is there for you, even in the most difficult times."
+    },
+    {
+      "de": "Wir haben uns in der Schule kennengelernt und sind seit über zwanzig Jahren befreundet.",
+      "en": "We met at school and have been friends for over twenty years."
+    },
+    {
+      "de": "Vertrauen und Ehrlichkeit sind die Grundpfeiler unserer Freundschaft.",
+      "en": "Trust and honesty are the cornerstones of our friendship."
+    },
+    {
+      "de": "Ich kann mit ihr über alles reden, auch über meine tiefsten Ängste.",
+      "en": "I can talk to her about anything, even my deepest fears."
+    },
+    {
+      "de": "Wir treffen uns jeden Freitag zum Kaffee und Plausch.",
+      "en": "We meet every Friday for coffee and a chat."
+    },
+    {
+      "de": "Lass uns doch mal wieder gemeinsam in den Urlaub fahren!",
+      "en": "Let's go on vacation together again sometime!"
+    },
+    {
+      "de": "Auch wenn wir uns selten sehen, ist unsere Freundschaft immer noch genauso stark.",
+      "en": "Even though we rarely see each other, our friendship is still just as strong."
+    },
+    {
+      "de": "Ein guter Freund hört nicht nur zu, sondern gibt auch ehrlichen Rat.",
+      "en": "A good friend not only listens, but also gives honest advice."
+    },
+    {
+      "de": "Nach einem heftigen Streit haben wir uns wieder versöhnt.",
+      "en": "After a heated argument, we made up again."
+    },
+    {
+      "de": "Ich schätze ihre Loyalität und ihre Hilfsbereitschaft sehr.",
+      "en": "I really appreciate her loyalty and helpfulness."
+    },
+    {
+      "de": "Wir haben schon so viele lustige und verrückte Abenteuer zusammen erlebt.",
+      "en": "We have already experienced so many funny and crazy adventures together."
+    },
+    {
+      "de": "Ein Leben ohne Freunde wäre sehr einsam.",
+      "en": "A life without friends would be very lonely."
+    },
+    {
+      "de": "Wir feiern dieses Jahr das zehnjährige Jubiläum unserer Freundschaft.",
+      "en": "We're celebrating the tenth anniversary of our friendship this year."
+    },
+    {
+      "de": "Freunde sind die Familie, die wir uns selbst aussuchen.",
+      "en": "Friends are the family we choose for ourselves."
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "theme": "Gym",
+  "words": [
+    {
+      "de": "das Fitnessstudio",
+      "en": "gym / fitness studio",
+      "sentence_de": "Das Fitnessstudio ist bis 22 Uhr geöffnet.",
+      "sentence_en": "The gym is open until 10 PM."
+    },
+    {
+      "de": "das Training",
+      "en": "workout / training",
+      "sentence_de": "Mein Training heute dauert eine Stunde.",
+      "sentence_en": "My workout today lasts one hour."
+    },
+    {
+      "de": "das Krafttraining",
+      "en": "strength training",
+      "sentence_de": "Krafttraining hilft beim Muskelaufbau.",
+      "sentence_en": "Strength training helps with muscle building."
+    },
+    {
+      "de": "das Ausdauertraining",
+      "en": "endurance / cardio training",
+      "sentence_de": "Ausdauertraining ist gut für das Herz.",
+      "sentence_en": "Cardio training is good for the heart."
+    },
+    {
+      "de": "die Hantel",
+      "en": "dumbbell",
+      "sentence_de": "Ich nehme eine Hantel mit 10 Kilogramm.",
+      "sentence_en": "I take a dumbbell with 10 kilograms."
+    },
+    {
+      "de": "die Langhantel",
+      "en": "barbell",
+      "sentence_de": "Die Langhantel ist für schwere Übungen.",
+      "sentence_en": "The barbell is for heavy exercises."
+    },
+    {
+      "de": "die Kurzhantel",
+      "en": "dumbbell (single)",
+      "sentence_de": "Mit der Kurzhantel trainiere ich meine Arme.",
+      "sentence_en": "With the dumbbell I train my arms."
+    },
+    {
+      "de": "die Kettlebell",
+      "en": "kettlebell",
+      "sentence_de": "Die Kettlebell eignet sich für Schwungübungen.",
+      "sentence_en": "The kettlebell is good for swing exercises."
+    },
+    {
+      "de": "die Bank",
+      "en": "bench",
+      "sentence_de": "Ich lege mich auf die Bank für das Bankdrücken.",
+      "sentence_en": "I lie on the bench for the bench press."
+    },
+    {
+      "de": "das Laufband",
+      "en": "treadmill",
+      "sentence_de": "Auf dem Laufband laufe ich 5 Kilometer.",
+      "sentence_en": "On the treadmill I run 5 kilometers."
+    },
+    {
+      "de": "das Ergometer",
+      "en": "exercise bike / ergometer",
+      "sentence_de": "Das Ergometer zeigt meine Trittfrequenz an.",
+      "sentence_en": "The exercise bike shows my cadence."
+    },
+    {
+      "de": "das Kabelzug",
+      "en": "cable machine",
+      "sentence_de": "Am Kabelzug mache ich Trizepsübungen.",
+      "sentence_en": "On the cable machine I do triceps exercises."
+    },
+    {
+      "de": "der Latzug",
+      "en": "lat pulldown machine",
+      "sentence_de": "Der Latzug trainiert den breiten Rückenmuskel.",
+      "sentence_en": "The lat pulldown trains the latissimus dorsi."
+    },
+    {
+      "de": "die Beinpresse",
+      "en": "leg press",
+      "sentence_de": "Die Beinpresse stärkt meine Oberschenkel.",
+      "sentence_en": "The leg press strengthens my thighs."
+    },
+    {
+      "de": "die Klimmzugstange",
+      "en": "pull-up bar",
+      "sentence_de": "An der Klimmzugstange schaffe ich 8 Wiederholungen.",
+      "sentence_en": "On the pull-up bar I manage 8 repetitions."
+    },
+    {
+      "de": "die Matte",
+      "en": "mat",
+      "sentence_de": "Ich rolle die Matte für Bauchübungen aus.",
+      "sentence_en": "I unroll the mat for abdominal exercises."
+    },
+    {
+      "de": "der Spiegel",
+      "en": "mirror",
+      "sentence_de": "Im Spiegel kontrolliere ich meine Haltung.",
+      "sentence_en": "In the mirror I check my posture."
+    },
+    {
+      "de": "das Gewicht",
+      "en": "weight",
+      "sentence_de": "Das Gewicht ist in Kilogramm angegeben.",
+      "sentence_en": "The weight is given in kilograms."
+    },
+    {
+      "de": "der Satz",
+      "en": "set",
+      "sentence_de": "Ich mache noch einen Satz von 15 Wiederholungen.",
+      "sentence_en": "I'll do one more set of 15 reps."
+    },
+    {
+      "de": "die Wiederholung (Wdhlg.)",
+      "en": "repetition / rep",
+      "sentence_de": "Bei der letzten Wiederholung zittert mein Arm.",
+      "sentence_en": "On the last rep my arm is shaking."
+    },
+    {
+      "de": "die Pause",
+      "en": "rest / break",
+      "sentence_de": "Die Pause zwischen den Sätzen beträgt 90 Sekunden.",
+      "sentence_en": "The rest between sets is 90 seconds."
+    },
+    {
+      "de": "die Dehnung",
+      "en": "stretch",
+      "sentence_de": "Die Dehnung der Beine beugt Verletzungen vor.",
+      "sentence_en": "Stretching the legs prevents injuries."
+    },
+    {
+      "de": "das Aufwärmen",
+      "en": "warm-up",
+      "sentence_de": "Das Aufwärmen besteht aus 10 Minuten Laufen.",
+      "sentence_en": "The warm-up consists of 10 minutes of running."
+    },
+    {
+      "de": "das Abkühlen",
+      "en": "cool-down",
+      "sentence_de": "Das Abkühlen hilft mir, zur Ruhe zu kommen.",
+      "sentence_en": "The cool-down helps me to calm down."
+    },
+    {
+      "de": "der Muskelkater",
+      "en": "muscle soreness",
+      "sentence_de": "Der Muskelkater in den Beinen ist heftig.",
+      "sentence_en": "The muscle soreness in my legs is intense."
+    },
+    {
+      "de": "die Verletzung",
+      "en": "injury",
+      "sentence_de": "Eine Verletzung kann durch falsche Technik entstehen.",
+      "sentence_en": "An injury can result from incorrect technique."
+    },
+    {
+      "de": "der Trainingsplan",
+      "en": "training plan",
+      "sentence_de": "Mein Trainingsplan umfasst 4 Einheiten pro Woche.",
+      "sentence_en": "My training plan includes 4 sessions per week."
+    },
+    {
+      "de": "die Umkleide",
+      "en": "locker room",
+      "sentence_de": "Die Umkleide ist sauber und geräumig.",
+      "sentence_en": "The locker room is clean and spacious."
+    },
+    {
+      "de": "das Schließfach",
+      "en": "locker",
+      "sentence_de": "Ich lege meine Wertsachen ins Schließfach.",
+      "sentence_en": "I put my valuables in the locker."
+    },
+    {
+      "de": "das Handtuch",
+      "en": "towel",
+      "sentence_de": "Ohne Handtuch darf man die Geräte nicht nutzen.",
+      "sentence_en": "Without a towel you're not allowed to use the equipment."
+    },
+    {
+      "de": "die Trinkflasche",
+      "en": "water bottle",
+      "sentence_de": "Meine Trinkflasche ist aus Edelstahl.",
+      "sentence_en": "My water bottle is made of stainless steel."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "trainieren",
+      "en": "to work out / to train",
+      "sentence_de": "Ich trainiere drei Mal pro Woche.",
+      "sentence_en": "I work out three times a week."
+    },
+    {
+      "de": "heben",
+      "en": "to lift",
+      "sentence_de": "Er hebt 120 Kilogramm beim Kreuzheben.",
+      "sentence_en": "He lifts 120 kilograms on the deadlift."
+    },
+    {
+      "de": "drücken",
+      "en": "to press / to push",
+      "sentence_de": "Beim Bankdrücken drücke ich die Stange nach oben.",
+      "sentence_en": "On the bench press I push the bar upward."
+    },
+    {
+      "de": "ziehen",
+      "en": "to pull",
+      "sentence_de": "Am Kabelzug ziehe ich den Griff zur Brust.",
+      "sentence_en": "On the cable machine I pull the handle to my chest."
+    },
+    {
+      "de": "beugen",
+      "en": "to bend / to curl",
+      "sentence_de": "Ich beuge meine Arme mit der Kurzhantel.",
+      "sentence_en": "I bend my arms with the dumbbell (curl)."
+    },
+    {
+      "de": "strecken",
+      "en": "to extend / to stretch",
+      "sentence_de": "Nach dem Training strecke ich meine Beine.",
+      "sentence_en": "After training I stretch my legs."
+    },
+    {
+      "de": "schwitzen",
+      "en": "to sweat",
+      "sentence_de": "Bei intensivem Training schwitze ich viel.",
+      "sentence_en": "During intense training I sweat a lot."
+    },
+    {
+      "de": "sich aufwärmen",
+      "en": "to warm up",
+      "sentence_de": "Wir wärmen uns mit leichtem Joggen auf.",
+      "sentence_en": "We warm up with light jogging."
+    },
+    {
+      "de": "sich abkühlen",
+      "en": "to cool down",
+      "sentence_de": "Nach dem Lauf kühle ich mich mit Gehen ab.",
+      "sentence_en": "After the run I cool down by walking."
+    },
+    {
+      "de": "sich dehnen",
+      "en": "to stretch (oneself)",
+      "sentence_de": "Ich dehne mich nach jeder Einheit.",
+      "sentence_en": "I stretch after every session."
+    },
+    {
+      "de": "pumpen",
+      "en": "to pump (iron)",
+      "sentence_de": "Er pumpt fleißig im Kraftbereich.",
+      "sentence_en": "He's pumping iron diligently in the weight area."
+    },
+    {
+      "de": "steigern",
+      "en": "to increase (weight/intensity)",
+      "sentence_de": "Ich steigere das Gewicht jede Woche um 2 kg.",
+      "sentence_en": "I increase the weight by 2 kg every week."
+    },
+    {
+      "de": "reduzieren",
+      "en": "to reduce (weight)",
+      "sentence_de": "Bei Schmerzen reduziere ich das Gewicht sofort.",
+      "sentence_en": "If I feel pain, I reduce the weight immediately."
+    },
+    {
+      "de": "wiederholen",
+      "en": "to repeat",
+      "sentence_de": "Ich wiederhole jede Übung 12 Mal.",
+      "sentence_en": "I repeat each exercise 12 times."
+    },
+    {
+      "de": "pausieren",
+      "en": "to take a break",
+      "sentence_de": "Zwischen den Übungen pausiere ich kurz.",
+      "sentence_en": "I take a short break between exercises."
+    },
+    {
+      "de": "beobachten (die Form)",
+      "en": "to watch (form)",
+      "sentence_de": "Der Trainer beobachtet meine Kniebeuge-Form.",
+      "sentence_en": "The trainer watches my squat form."
+    },
+    {
+      "de": "korrigieren",
+      "en": "to correct",
+      "sentence_de": "Ich korrigiere meine Haltung im Spiegel.",
+      "sentence_en": "I correct my posture in the mirror."
+    },
+    {
+      "de": "belasten",
+      "en": "to load / to strain",
+      "sentence_de": "Du solltest deine Gelenke nicht zu stark belasten.",
+      "sentence_en": "You shouldn't strain your joints too much."
+    },
+    {
+      "de": "entspannen",
+      "en": "to relax",
+      "sentence_de": "In der Pause entspanne ich meine Schultern.",
+      "sentence_en": "During the break I relax my shoulders."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "stark",
+      "en": "strong",
+      "sentence_de": "Er ist stark genug, um 150 kg zu drücken.",
+      "sentence_en": "He is strong enough to press 150 kg."
+    },
+    {
+      "de": "schwach",
+      "en": "weak",
+      "sentence_de": "Nach der Verletzung fühle ich mich noch schwach.",
+      "sentence_en": "After the injury I still feel weak."
+    },
+    {
+      "de": "muskulös",
+      "en": "muscular",
+      "sentence_de": "Sie hat muskulöse Arme vom Klettern.",
+      "sentence_en": "She has muscular arms from climbing."
+    },
+    {
+      "de": "schlank",
+      "en": "slim",
+      "sentence_de": "Ausdauertraining macht mich schlank.",
+      "sentence_en": "Cardio training makes me slim."
+    },
+    {
+      "de": "definiert",
+      "en": "defined / cut",
+      "sentence_de": "Seine Bauchmuskeln sind sehr definiert.",
+      "sentence_en": "His abs are very defined."
+    },
+    {
+      "de": "aufgepumpt",
+      "en": "pumped",
+      "sentence_de": "Nach dem Bizepstraining sind meine Arme aufgepumpt.",
+      "sentence_en": "After bicep training my arms are pumped."
+    },
+    {
+      "de": "erschöpft",
+      "en": "exhausted",
+      "sentence_de": "Nach dem intensiven Workout bin ich völlig erschöpft.",
+      "sentence_en": "After the intense workout I'm completely exhausted."
+    },
+    {
+      "de": "energetisch",
+      "en": "energetic",
+      "sentence_de": "Nach dem Training fühle ich mich energetisch.",
+      "sentence_en": "After training I feel energetic."
+    },
+    {
+      "de": "motiviert",
+      "en": "motivated",
+      "sentence_de": "Die Musik macht mich motiviert.",
+      "sentence_en": "The music makes me motivated."
+    },
+    {
+      "de": "diszipliniert",
+      "en": "disciplined",
+      "sentence_de": "Ein disziplinierter Sportler verpasst kein Training.",
+      "sentence_en": "A disciplined athlete never misses a workout."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regular",
+      "sentence_de": "Regelmäßiges Training bringt die besten Erfolge.",
+      "sentence_en": "Regular training brings the best results."
+    },
+    {
+      "de": "intensiv",
+      "en": "intense",
+      "sentence_de": "Das heutige Training war sehr intensiv.",
+      "sentence_en": "Today's workout was very intense."
+    },
+    {
+      "de": "leicht",
+      "en": "light (weight)",
+      "sentence_de": "Nimm zuerst ein leichtes Gewicht zum Aufwärmen.",
+      "sentence_en": "Take a light weight first for warming up."
+    },
+    {
+      "de": "schwer",
+      "en": "heavy (weight)",
+      "sentence_de": "Das schwere Gewicht erfordert Konzentration.",
+      "sentence_en": "The heavy weight requires concentration."
+    },
+    {
+      "de": "maximal",
+      "en": "maximum",
+      "sentence_de": "Das ist mein maximales Gewicht für eine Wiederholung.",
+      "sentence_en": "That's my maximum weight for one rep."
+    },
+    {
+      "de": "steif",
+      "en": "stiff",
+      "sentence_de": "Meine Beine sind steif vom gestrigen Lauf.",
+      "sentence_en": "My legs are stiff from yesterday's run."
+    },
+    {
+      "de": "flexibel",
+      "en": "flexible",
+      "sentence_de": "Dehnen macht mich flexibler.",
+      "sentence_en": "Stretching makes me more flexible."
+    },
+    {
+      "de": "verletzt",
+      "en": "injured",
+      "sentence_de": "Mit einem verletzten Schultergelenk sollte man pausieren.",
+      "sentence_en": "With an injured shoulder joint you should take a break."
+    },
+    {
+      "de": "hygienisch",
+      "en": "hygienic",
+      "sentence_de": "Desinfiziere die Geräte – das ist hygienisch.",
+      "sentence_en": "Disinfect the equipment – that's hygienic."
+    },
+    {
+      "de": "anstrengend",
+      "en": "strenuous / tough",
+      "sentence_de": "Kreuzheben ist sehr anstrengend.",
+      "sentence_en": "Deadlifting is very strenuous."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich trainiere regelmäßig, jeden Montag und Donnerstag.",
+      "sentence_en": "I train regularly, every Monday and Thursday."
+    },
+    {
+      "de": "intensiv",
+      "en": "intensely",
+      "sentence_de": "Er trainiert intensiv mit schweren Gewichten.",
+      "sentence_en": "He trains intensely with heavy weights."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Führe die Bewegung langsam und kontrolliert aus.",
+      "sentence_en": "Perform the movement slowly and in a controlled manner."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Wechsle nicht zu schnell zwischen den Übungen.",
+      "sentence_en": "Don't switch between exercises too quickly."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Setze die Langhantel vorsichtig auf die Ablage.",
+      "sentence_en": "Place the barbell carefully on the rack."
+    },
+    {
+      "de": "korrekt",
+      "en": "correctly",
+      "sentence_de": "Führe jede Übung korrekt aus, um Verletzungen zu vermeiden.",
+      "sentence_en": "Perform each exercise correctly to avoid injuries."
+    },
+    {
+      "de": "falsch",
+      "en": "incorrectly",
+      "sentence_de": "Wenn du falsch atmest, wird es schwieriger.",
+      "sentence_en": "If you breathe incorrectly, it gets harder."
+    },
+    {
+      "de": "schwer",
+      "en": "heavily",
+      "sentence_de": "Er atmet schwer nach dem Sprint.",
+      "sentence_en": "He breathes heavily after the sprint."
+    },
+    {
+      "de": "leicht",
+      "en": "lightly",
+      "sentence_de": "Ich laufe leicht auf dem Laufband ein.",
+      "sentence_en": "I jog lightly on the treadmill to warm up."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich dehne mich täglich für 10 Minuten.",
+      "sentence_en": "I stretch daily for 10 minutes."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Ich steigere wöchentlich mein Trainingsvolumen.",
+      "sentence_en": "I increase my training volume weekly."
+    },
+    {
+      "de": "morgens",
+      "en": "in the morning",
+      "sentence_de": "Morgens ist das Fitnessstudio am leersten.",
+      "sentence_en": "In the morning the gym is emptiest."
+    },
+    {
+      "de": "abends",
+      "en": "in the evening",
+      "sentence_de": "Abends gehe ich nach der Arbeit ins Gym.",
+      "sentence_en": "In the evening I go to the gym after work."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Ich trainiere lieber alleine ohne Ablenkung.",
+      "sentence_en": "I prefer to train alone without distractions."
+    },
+    {
+      "de": "zusammen (mit)",
+      "en": "together (with)",
+      "sentence_de": "Wir trainieren zusammen mit einem Partner.",
+      "sentence_en": "We train together with a partner."
+    },
+    {
+      "de": "genug",
+      "en": "enough",
+      "sentence_de": "Hast du genug Wasser für das ganze Training?",
+      "sentence_en": "Do you have enough water for the entire workout?"
+    },
+    {
+      "de": "weiter",
+      "en": "further / continue",
+      "sentence_de": "Mach weiter – du schaffst noch einen Satz!",
+      "sentence_en": "Keep going – you can do one more set!"
+    },
+    {
+      "de": "langsam aber sicher",
+      "en": "slowly but surely",
+      "sentence_de": "Langsam aber sicher werde ich stärker.",
+      "sentence_en": "Slowly but surely I'm getting stronger."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich gehe heute ins Fitnessstudio, um Krafttraining zu machen.",
+      "en": "I'm going to the gym today to do strength training."
+    },
+    {
+      "de": "Bitte vergiss nicht, dein Handtuch mitzubringen.",
+      "en": "Please don't forget to bring your towel."
+    },
+    {
+      "de": "Ich mache drei Sätze mit jeweils zwölf Wiederholungen.",
+      "en": "I do three sets of twelve reps each."
+    },
+    {
+      "de": "Du solltest dich vor dem Training immer aufwärmen.",
+      "en": "You should always warm up before training."
+    },
+    {
+      "de": "Nach dem Training dehne ich mich gründlich.",
+      "en": "After the workout, I stretch thoroughly."
+    },
+    {
+      "de": "Dieses Gewicht ist zu schwer für mich – ich nehme etwas leichteres.",
+      "en": "This weight is too heavy for me – I'll take something lighter."
+    },
+    {
+      "de": "Der Trainer korrigiert meine Haltung bei der Kniebeuge.",
+      "en": "The trainer corrects my posture during the squat."
+    },
+    {
+      "de": "Ich habe heute einen neuen Rekord aufgestellt!",
+      "en": "I set a new personal record today!"
+    },
+    {
+      "de": "Vergiss nicht, nach dem Training genug Wasser zu trinken.",
+      "en": "Don't forget to drink enough water after the workout."
+    },
+    {
+      "de": "Meine Arme haben Muskelkater von gestern.",
+      "en": "My arms are sore from yesterday."
+    },
+    {
+      "de": "Kannst du mich beim Bankdrücken spotten?",
+      "en": "Can you spot me on the bench press?"
+    },
+    {
+      "de": "Ich trainiere viermal pro Woche, um meine Ausdauer zu verbessern.",
+      "en": "I train four times a week to improve my endurance."
+    },
+    {
+      "de": "Achte auf deine Atmung – beim Drücken ausatmen, beim Senken einatmen.",
+      "en": "Watch your breathing – exhale when pressing, inhale when lowering."
+    },
+    {
+      "de": "Die Umkleide ist im Untergeschoss links.",
+      "en": "The locker room is in the basement on the left."
+    },
+    {
+      "de": "Ich pausiere zwei Minuten zwischen den Sätzen.",
+      "en": "I rest two minutes between sets."
+    }
+  ]
+}

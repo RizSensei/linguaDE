@@ -1,0 +1,607 @@
+{
+  "theme": "Festival",
+  "words": [
+    {
+      "de": "das Festival",
+      "en": "festival",
+      "sentence_de": "Das Festival findet dieses Wochenende statt.",
+      "sentence_en": "The festival takes place this weekend."
+    },
+    {
+      "de": "die Bühne",
+      "en": "stage",
+      "sentence_de": "Die Hauptband steht gleich auf der Bühne.",
+      "sentence_en": "The main band is about to go on stage."
+    },
+    {
+      "de": "die Band",
+      "en": "band",
+      "sentence_de": "Diese Band hat einen großartigen Sound.",
+      "sentence_en": "This band has a great sound."
+    },
+    {
+      "de": "der Künstler",
+      "en": "artist / performer",
+      "sentence_de": "Der Künstler begeistert mit seiner Stimme.",
+      "sentence_en": "The artist captivates with his voice."
+    },
+    {
+      "de": "das Konzert",
+      "en": "concert",
+      "sentence_de": "Das Konzert beginnt um 20 Uhr.",
+      "sentence_en": "The concert starts at 8 PM."
+    },
+    {
+      "de": "das Zelt",
+      "en": "tent",
+      "sentence_de": "Wir schlagen unser Zelt auf dem Campingplatz auf.",
+      "sentence_en": "We pitch our tent at the campsite."
+    },
+    {
+      "de": "der Campingplatz",
+      "en": "campsite",
+      "sentence_de": "Der Campingplatz ist direkt neben dem Festivalgelände.",
+      "sentence_en": "The campsite is right next to the festival grounds."
+    },
+    {
+      "de": "das Festivalgelände",
+      "en": "festival grounds",
+      "sentence_de": "Das Festivalgelände ist riesig.",
+      "sentence_en": "The festival grounds are huge."
+    },
+    {
+      "de": "die Karte",
+      "en": "ticket",
+      "sentence_de": "Ich habe meine Karte schon online gekauft.",
+      "sentence_en": "I already bought my ticket online."
+    },
+    {
+      "de": "der Besucher",
+      "en": "visitor / attendee",
+      "sentence_de": "Tausende Besucher strömen auf das Gelände.",
+      "sentence_en": "Thousands of attendees flood the grounds."
+    },
+    {
+      "de": "die Menschenmenge",
+      "en": "crowd",
+      "sentence_de": "Die Menschenmenge jubelt laut.",
+      "sentence_en": "The crowd cheers loudly."
+    },
+    {
+      "de": "die Musik",
+      "en": "music",
+      "sentence_de": "Die Musik ist laut und mitreißend.",
+      "sentence_en": "The music is loud and captivating."
+    },
+    {
+      "de": "der Rhythmus",
+      "en": "rhythm",
+      "sentence_de": "Der Rhythmus macht gute Laune.",
+      "sentence_en": "The rhythm puts everyone in a good mood."
+    },
+    {
+      "de": "der Song",
+      "en": "song",
+      "sentence_de": "Das ist mein Lieblingssong!",
+      "sentence_en": "That's my favorite song!"
+    },
+    {
+      "de": "das Headliner",
+      "en": "headliner",
+      "sentence_de": "Der Headliner spielt heute Abend als Letztes.",
+      "sentence_en": "The headliner plays last tonight."
+    },
+    {
+      "de": "die Vorband",
+      "en": "support act / opening band",
+      "sentence_de": "Die Vorband heizt dem Publikum ein.",
+      "sentence_en": "The support act gets the crowd going."
+    },
+    {
+      "de": "das Publikum",
+      "en": "audience",
+      "sentence_de": "Das Publikum singt lauthals mit.",
+      "sentence_en": "The audience sings along loudly."
+    },
+    {
+      "de": "die Stimmung",
+      "en": "atmosphere / vibe",
+      "sentence_de": "Die Stimmung ist elektrisierend.",
+      "sentence_en": "The atmosphere is electric."
+    },
+    {
+      "de": "die Feier",
+      "en": "celebration / party",
+      "sentence_de": "Die Feier dauert bis in die frühen Morgenstunden.",
+      "sentence_en": "The celebration lasts until the early morning hours."
+    },
+    {
+      "de": "das Bier",
+      "en": "beer",
+      "sentence_de": "Ein kühles Bier passt perfekt zum Festival.",
+      "sentence_en": "A cold beer is perfect for the festival."
+    },
+    {
+      "de": "das Essen",
+      "en": "food",
+      "sentence_de": "Das Essen am Food-Truck ist lecker.",
+      "sentence_en": "The food at the food truck is delicious."
+    },
+    {
+      "de": "der Food-Truck",
+      "en": "food truck",
+      "sentence_de": "Der Food-Truck verkauft Burger und Pommes.",
+      "sentence_en": "The food truck sells burgers and fries."
+    },
+    {
+      "de": "das Souvenir",
+      "en": "souvenir",
+      "sentence_de": "Ich kaufe ein Festival-T-Shirt als Souvenir.",
+      "sentence_en": "I buy a festival T-shirt as a souvenir."
+    },
+    {
+      "de": "der Merchandise-Stand",
+      "en": "merchandise booth",
+      "sentence_de": "Am Merchandise-Stand gibt es Poster und CDs.",
+      "sentence_en": "At the merch booth there are posters and CDs."
+    },
+    {
+      "de": "die Toilette",
+      "en": "toilet / porta-potty",
+      "sentence_de": "Die Schlange vor der Toilette ist lang.",
+      "sentence_en": "The line for the toilet is long."
+    },
+    {
+      "de": "die Security",
+      "en": "security",
+      "sentence_de": "Die Security kontrolliert die Einlässe.",
+      "sentence_en": "Security checks the entrances."
+    },
+    {
+      "de": "der Einlass",
+      "en": "entrance / gate",
+      "sentence_de": "Der Einlass öffnet um 14 Uhr.",
+      "sentence_en": "The gate opens at 2 PM."
+    },
+    {
+      "de": "der Ausgang",
+      "en": "exit",
+      "sentence_de": "Der Ausgang ist hinten links.",
+      "sentence_en": "The exit is at the back left."
+    },
+    {
+      "de": "die Setlist",
+      "en": "setlist",
+      "sentence_de": "Die Setlist enthält alle Hits der Band.",
+      "sentence_en": "The setlist includes all of the band's hits."
+    },
+    {
+      "de": "das Feuerwerk",
+      "en": "fireworks",
+      "sentence_de": "Zum Abschluss gibt es ein Feuerwerk.",
+      "sentence_en": "There are fireworks at the end."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "feiern",
+      "en": "to celebrate / to party",
+      "sentence_de": "Wir feiern die ganze Nacht.",
+      "sentence_en": "We party all night long."
+    },
+    {
+      "de": "tanzen",
+      "en": "to dance",
+      "sentence_de": "Alle tanzen zur Musik.",
+      "sentence_en": "Everyone dances to the music."
+    },
+    {
+      "de": "singen",
+      "en": "to sing",
+      "sentence_de": "Ich singe laut mit bei meinem Lieblingssong.",
+      "sentence_en": "I sing along loudly to my favorite song."
+    },
+    {
+      "de": "klatschen",
+      "en": "to clap",
+      "sentence_de": "Das Publikum klatscht im Takt.",
+      "sentence_en": "The audience claps in rhythm."
+    },
+    {
+      "de": "jubeln",
+      "en": "to cheer",
+      "sentence_de": "Die Fans jubeln nach jedem Song.",
+      "sentence_en": "The fans cheer after every song."
+    },
+    {
+      "de": "zeltieren",
+      "en": "to camp",
+      "sentence_de": "Wir zeltieren auf dem Festivalgelände.",
+      "sentence_en": "We camp on the festival grounds."
+    },
+    {
+      "de": "ankommen",
+      "en": "to arrive",
+      "sentence_de": "Wir kommen am Freitagmorgen an.",
+      "sentence_en": "We arrive on Friday morning."
+    },
+    {
+      "de": "abreisen",
+      "en": "to depart / to leave",
+      "sentence_de": "Wir reisen am Sonntagabend ab.",
+      "sentence_en": "We leave on Sunday evening."
+    },
+    {
+      "de": "einlassen",
+      "en": "to let in / to admit",
+      "sentence_de": "Der Sicherheitsdienst lässt die Besucher ein.",
+      "sentence_en": "Security lets the attendees in."
+    },
+    {
+      "de": "auftreten",
+      "en": "to perform",
+      "sentence_de": "Die Band tritt um 21 Uhr auf.",
+      "sentence_en": "The band performs at 9 PM."
+    },
+    {
+      "de": "spielen",
+      "en": "to play (music)",
+      "sentence_de": "Der DJ spielt elektronische Beats.",
+      "sentence_en": "The DJ plays electronic beats."
+    },
+    {
+      "de": "genießen",
+      "en": "to enjoy",
+      "sentence_de": "Ich genieße die freie Atmosphäre.",
+      "sentence_en": "I enjoy the free atmosphere."
+    },
+    {
+      "de": "trinken",
+      "en": "to drink",
+      "sentence_de": "Wir trinken kühle Getränke im Schatten.",
+      "sentence_en": "We drink cold drinks in the shade."
+    },
+    {
+      "de": "essen",
+      "en": "to eat",
+      "sentence_de": "Wir essen Currywurst vom Food-Truck.",
+      "sentence_en": "We eat currywurst from the food truck."
+    },
+    {
+      "de": "mitfeiern",
+      "en": "to party along",
+      "sentence_de": "Die ganze Stadt feiert mit.",
+      "sentence_en": "The whole city parties along."
+    },
+    {
+      "de": "sich amüsieren",
+      "en": "to have fun",
+      "sentence_de": "Die Kinder amüsieren sich auf dem Kinderspielplatz.",
+      "sentence_en": "The children have fun at the playground."
+    },
+    {
+      "de": "freuen (auf)",
+      "en": "to look forward to",
+      "sentence_de": "Ich freue mich auf das Festival.",
+      "sentence_en": "I'm looking forward to the festival."
+    },
+    {
+      "de": "erleben",
+      "en": "to experience",
+      "sentence_de": "Wir erleben unvergessliche Momente.",
+      "sentence_en": "We experience unforgettable moments."
+    },
+    {
+      "de": "fotografieren",
+      "en": "to photograph",
+      "sentence_de": "Ich fotografiere die Bühne und die Menge.",
+      "sentence_en": "I photograph the stage and the crowd."
+    },
+    {
+      "de": "autogramme geben",
+      "en": "to sign autographs",
+      "sentence_de": "Der Sänger gibt Autogramme nach dem Konzert.",
+      "sentence_en": "The singer signs autographs after the concert."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "laut",
+      "en": "loud",
+      "sentence_de": "Die Musik ist sehr laut.",
+      "sentence_en": "The music is very loud."
+    },
+    {
+      "de": "leise",
+      "en": "quiet",
+      "sentence_de": "In der Früh ist es noch leise auf dem Gelände.",
+      "sentence_en": "In the morning it's still quiet on the grounds."
+    },
+    {
+      "de": "ausgelassen",
+      "en": "boisterous / exuberant",
+      "sentence_de": "Die Stimmung ist ausgelassen und fröhlich.",
+      "sentence_en": "The atmosphere is boisterous and cheerful."
+    },
+    {
+      "de": "entspannt",
+      "en": "relaxed",
+      "sentence_de": "Viele Besucher sind entspannt im Liegestuhl.",
+      "sentence_en": "Many attendees are relaxed in deck chairs."
+    },
+    {
+      "de": "hektisch",
+      "en": "hectic",
+      "sentence_de": "Vor der Bühne ist es etwas hektisch.",
+      "sentence_en": "It's a bit hectic in front of the stage."
+    },
+    {
+      "de": "überfüllt",
+      "en": "crowded",
+      "sentence_de": "Das Gelände ist an Samstagen überfüllt.",
+      "sentence_en": "The grounds are crowded on Saturdays."
+    },
+    {
+      "de": "festlich",
+      "en": "festive",
+      "sentence_de": "Die festliche Dekoration sieht toll aus.",
+      "sentence_en": "The festive decoration looks great."
+    },
+    {
+      "de": "international",
+      "en": "international",
+      "sentence_de": "Das Festival ist international bekannt.",
+      "sentence_en": "The festival is internationally known."
+    },
+    {
+      "de": "unvergesslich",
+      "en": "unforgettable",
+      "sentence_de": "Das war ein unvergessliches Erlebnis.",
+      "sentence_en": "That was an unforgettable experience."
+    },
+    {
+      "de": "toll",
+      "en": "great / awesome",
+      "sentence_de": "Das Konzert war einfach toll!",
+      "sentence_en": "The concert was just awesome!"
+    },
+    {
+      "de": "schlecht",
+      "en": "bad",
+      "sentence_de": "Das Wetter war leider schlecht.",
+      "sentence_en": "Unfortunately the weather was bad."
+    },
+    {
+      "de": "sonnig",
+      "en": "sunny",
+      "sentence_de": "Bei sonnigem Wetter macht es besonders Spaß.",
+      "sentence_en": "It's especially fun in sunny weather."
+    },
+    {
+      "de": "regnerisch",
+      "en": "rainy",
+      "sentence_de": "Ein regnerischer Tag trübt die Stimmung.",
+      "sentence_en": "A rainy day dampens the mood."
+    },
+    {
+      "de": "nass",
+      "en": "wet",
+      "sentence_de": "Der Boden ist nass vom Regen.",
+      "sentence_en": "The ground is wet from the rain."
+    },
+    {
+      "de": "müde",
+      "en": "tired",
+      "sentence_de": "Nach drei Tagen Festival bin ich müde.",
+      "sentence_en": "After three days of festival I'm tired."
+    },
+    {
+      "de": "energiegeladen",
+      "en": "energized / full of energy",
+      "sentence_de": "Die Menge ist energiegeladen.",
+      "sentence_en": "The crowd is full of energy."
+    },
+    {
+      "de": "freundlich",
+      "en": "friendly",
+      "sentence_de": "Die Festivalbesucher sind alle sehr freundlich.",
+      "sentence_en": "The festivalgoers are all very friendly."
+    },
+    {
+      "de": "lange (Schlange)",
+      "en": "long (line)",
+      "sentence_de": "Vor dem Bierstand steht eine lange Schlange.",
+      "sentence_en": "There's a long line at the beer stand."
+    },
+    {
+      "de": "bunt",
+      "en": "colorful",
+      "sentence_de": "Die Kleidung der Leute ist bunt und kreativ.",
+      "sentence_en": "People's clothing is colorful and creative."
+    },
+    {
+      "de": "kostenlos",
+      "en": "free (no cost)",
+      "sentence_de": "Der Eintritt für Kinder ist kostenlos.",
+      "sentence_en": "Entry is free for children."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "laut",
+      "en": "loudly",
+      "sentence_de": "Die Menge jubelt laut.",
+      "sentence_en": "The crowd cheers loudly."
+    },
+    {
+      "de": "leise",
+      "en": "quietly",
+      "sentence_de": "In der Morgendämmerung wird es leise.",
+      "sentence_en": "At dawn it becomes quiet."
+    },
+    {
+      "de": "früh",
+      "en": "early",
+      "sentence_de": "Wir kommen früh an, um einen guten Platz zu bekommen.",
+      "sentence_en": "We arrive early to get a good spot."
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "sentence_de": "Die Hauptacts spielen spät in der Nacht.",
+      "sentence_en": "The main acts play late at night."
+    },
+    {
+      "de": "lange",
+      "en": "for a long time",
+      "sentence_de": "Wir haben lange auf die Band gewartet.",
+      "sentence_en": "We waited a long time for the band."
+    },
+    {
+      "de": "kurz",
+      "en": "briefly / shortly",
+      "sentence_de": "Die Pause zwischen den Acts ist kurz.",
+      "sentence_en": "The break between acts is short."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly / with pleasure",
+      "sentence_de": "Wir kommen gerne wieder zu diesem Festival.",
+      "sentence_en": "We would gladly come back to this festival."
+    },
+    {
+      "de": "lautstark",
+      "en": "loudly / boisterously",
+      "sentence_de": "Die Fans feiern lautstark.",
+      "sentence_en": "The fans celebrate boisterously."
+    },
+    {
+      "de": "ausgelassen",
+      "en": "exuberantly",
+      "sentence_de": "Die Leute tanzen ausgelassen im Mud.",
+      "sentence_en": "People dance exuberantly in the mud."
+    },
+    {
+      "de": "entspannt",
+      "en": "relaxedly",
+      "sentence_de": "Wir liegen entspannt im Gras und hören Musik.",
+      "sentence_en": "We lie relaxedly in the grass and listen to music."
+    },
+    {
+      "de": "zufällig",
+      "en": "randomly / by chance",
+      "sentence_de": "Ich habe zufällig alte Freunde getroffen.",
+      "sentence_en": "I randomly met old friends by chance."
+    },
+    {
+      "de": "gemeinsam",
+      "en": "together",
+      "sentence_de": "Wir singen gemeinsam die Hymne des Festivals.",
+      "sentence_en": "We sing the festival anthem together."
+    },
+    {
+      "de": "live",
+      "en": "live",
+      "sentence_de": "Die Band spielt live und unplugged.",
+      "sentence_en": "The band plays live and unplugged."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Überall liegen Zelte und Campingstühle.",
+      "sentence_en": "There are tents and camping chairs everywhere."
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "sentence_de": "Das Festival findet draußen im Freien statt.",
+      "sentence_en": "The festival takes place outside in the open air."
+    },
+    {
+      "de": "drinnen",
+      "en": "inside",
+      "sentence_de": "Bei Regen gehen wir drinnen in die Festivalhalle.",
+      "sentence_en": "When it rains we go inside to the festival hall."
+    },
+    {
+      "de": "normalerweise",
+      "en": "normally",
+      "sentence_de": "Normalerweise beginnt das Festival im Juni.",
+      "sentence_en": "Normally the festival starts in June."
+    },
+    {
+      "de": "heuer / dieses Jahr",
+      "en": "this year",
+      "sentence_de": "Heuer ist das Line-up besonders stark.",
+      "sentence_en": "This year the lineup is especially strong."
+    },
+    {
+      "de": "schon immer",
+      "en": "always (for a long time)",
+      "sentence_de": "Ich wollte schon immer auf dieses Festival.",
+      "sentence_en": "I've always wanted to go to this festival."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Das Festival findet dieses Wochenende im Freien statt.",
+      "en": "The festival takes place outdoors this weekend."
+    },
+    {
+      "de": "Wir haben unsere Tickets schon vor Monaten gekauft.",
+      "en": "We bought our tickets months ago."
+    },
+    {
+      "de": "Die Hauptband spielt heute Abend um 22 Uhr auf der großen Bühne.",
+      "en": "The main band plays tonight at 10 PM on the big stage."
+    },
+    {
+      "de": "Das Wetter ist perfekt – sonnig und warm.",
+      "en": "The weather is perfect – sunny and warm."
+    },
+    {
+      "de": "Vergiss nicht, Ohrstöpsel mitzubringen, denn es ist sehr laut.",
+      "en": "Don't forget to bring earplugs because it's very loud."
+    },
+    {
+      "de": "Zwischen den Konzerten holen wir uns etwas zu essen vom Food-Truck.",
+      "en": "Between concerts we get some food from the food truck."
+    },
+    {
+      "de": "Die Stimmung in der Menge ist einfach unglaublich.",
+      "en": "The atmosphere in the crowd is simply incredible."
+    },
+    {
+      "de": "Wir campen direkt auf dem Festivalgelände, um alles mitzubekommen.",
+      "en": "We're camping right on the festival grounds to catch everything."
+    },
+    {
+      "de": "Die Schlange vor der Toilette ist leider sehr lang.",
+      "en": "Unfortunately the line for the toilet is very long."
+    },
+    {
+      "de": "Der Sänger interagiert viel mit dem Publikum.",
+      "en": "The singer interacts a lot with the audience."
+    },
+    {
+      "de": "Nach dem letzten Song gibt es ein großes Feuerwerk.",
+      "en": "After the last song there's a big fireworks display."
+    },
+    {
+      "de": "Ich habe so viele nette Leute aus verschiedenen Ländern getroffen.",
+      "en": "I've met so many nice people from different countries."
+    },
+    {
+      "de": "Am Merchandise-Stand kaufe ich ein Festival-Armband als Andenken.",
+      "en": "At the merch booth I'm buying a festival wristband as a keepsake."
+    },
+    {
+      "de": "Leider hat es gestern stark geregnet, aber die Party ging trotzdem weiter.",
+      "en": "Unfortunately it rained heavily yesterday, but the party still went on."
+    },
+    {
+      "de": "Nächstes Jahr kommen wir auf jeden Fall wieder!",
+      "en": "We'll definitely come back next year!"
+    }
+  ]
+}

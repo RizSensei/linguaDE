@@ -1,0 +1,757 @@
+{
+  "theme": "Swimming",
+  "words": [
+    {
+      "de": "das Schwimmen",
+      "en": "swimming",
+      "sentence_de": "Schwimmen ist ein gesunder und entspannender Sport.",
+      "sentence_en": "Swimming is a healthy and relaxing sport."
+    },
+    {
+      "de": "der Schwimmer / die Schwimmerin",
+      "en": "swimmer",
+      "sentence_de": "Der Schwimmer trainiert für den Wettkampf.",
+      "sentence_en": "The swimmer is training for the competition."
+    },
+    {
+      "de": "das Schwimmbad",
+      "en": "swimming pool (facility)",
+      "sentence_de": "Das Schwimmbad ist bis 22 Uhr geöffnet.",
+      "sentence_en": "The swimming pool is open until 10 PM."
+    },
+    {
+      "de": "das Hallenbad",
+      "en": "indoor pool",
+      "sentence_de": "Bei Regen gehen wir ins Hallenbad.",
+      "sentence_en": "When it rains, we go to the indoor pool."
+    },
+    {
+      "de": "das Freibad",
+      "en": "outdoor pool",
+      "sentence_de": "Im Freibad gibt es eine große Liegewiese.",
+      "sentence_en": "The outdoor pool has a large lawn for sunbathing."
+    },
+    {
+      "de": "das Becken",
+      "en": "pool (basin)",
+      "sentence_de": "Das Becken ist 25 Meter lang.",
+      "sentence_en": "The pool is 25 meters long."
+    },
+    {
+      "de": "das Schwimmbecken",
+      "en": "swimming pool (basin)",
+      "sentence_de": "Das Schwimmbecken wird täglich gereinigt.",
+      "sentence_en": "The swimming pool basin is cleaned daily."
+    },
+    {
+      "de": "das Nichtschwimmerbecken",
+      "en": "shallow pool (non-swimmer pool)",
+      "sentence_de": "Kinder dürfen nur ins Nichtschwimmerbecken.",
+      "sentence_en": "Children are only allowed in the shallow pool."
+    },
+    {
+      "de": "das Sprungbecken",
+      "en": "diving pool",
+      "sentence_de": "Das Sprungbecken ist 5 Meter tief.",
+      "sentence_en": "The diving pool is 5 meters deep."
+    },
+    {
+      "de": "das Planschbecken",
+      "en": "paddling pool",
+      "sentence_de": "Im Planschbecken spielen die kleinen Kinder.",
+      "sentence_en": "The little children play in the paddling pool."
+    },
+    {
+      "de": "die Bahn",
+      "en": "lane",
+      "sentence_de": "Ich schwimme in Bahn 3.",
+      "sentence_en": "I swim in lane 3."
+    },
+    {
+      "de": "die Wasserleitung",
+      "en": "water line (guide rope)",
+      "sentence_de": "Die Wasserleitung trennt die Bahnen.",
+      "sentence_en": "The lane rope separates the lanes."
+    },
+    {
+      "de": "das Wasser",
+      "en": "water",
+      "sentence_de": "Das Wasser ist angenehm warm.",
+      "sentence_en": "The water is pleasantly warm."
+    },
+    {
+      "de": "die Temperatur",
+      "en": "temperature",
+      "sentence_de": "Die Wassertemperatur beträgt 27 Grad.",
+      "sentence_en": "The water temperature is 27 degrees."
+    },
+    {
+      "de": "der Sprungturm",
+      "en": "diving tower",
+      "sentence_de": "Vom Sprungturm trauen sich nur die Mutigen.",
+      "sentence_en": "Only the brave dare to jump from the diving tower."
+    },
+    {
+      "de": "das Sprungbrett",
+      "en": "diving board",
+      "sentence_de": "Das Sprungbrett ist 1 Meter hoch.",
+      "sentence_en": "The diving board is 1 meter high."
+    },
+    {
+      "de": "die Rutsche",
+      "en": "slide",
+      "sentence_de": "Die Rutsche ist bei Kindern sehr beliebt.",
+      "sentence_en": "The slide is very popular with children."
+    },
+    {
+      "de": "die Badebekleidung",
+      "en": "swimwear",
+      "sentence_de": "Vergiss deine Badebekleidung nicht!",
+      "sentence_en": "Don't forget your swimwear!"
+    },
+    {
+      "de": "die Badehose",
+      "en": "swim trunks (men's)",
+      "sentence_de": "Er zieht seine Badehose an.",
+      "sentence_en": "He puts on his swim trunks."
+    },
+    {
+      "de": "der Badeanzug",
+      "en": "swimsuit (women's)",
+      "sentence_de": "Sie trägt einen roten Badeanzug.",
+      "sentence_en": "She is wearing a red swimsuit."
+    },
+    {
+      "de": "der Bikini",
+      "en": "bikini",
+      "sentence_de": "Sie hat einen neuen Bikini gekauft.",
+      "sentence_en": "She bought a new bikini."
+    },
+    {
+      "de": "die Badekappe",
+      "en": "swim cap",
+      "sentence_de": "Ohne Badekappe darf man nicht ins Becken.",
+      "sentence_en": "You're not allowed in the pool without a swim cap."
+    },
+    {
+      "de": "die Schwimmbrille",
+      "en": "goggles",
+      "sentence_de": "Die Schwimmbrille schützt die Augen vor Chlor.",
+      "sentence_en": "Goggles protect the eyes from chlorine."
+    },
+    {
+      "de": "das Handtuch",
+      "en": "towel",
+      "sentence_de": "Ich habe mein Handtuch in der Umkleide vergessen.",
+      "sentence_en": "I forgot my towel in the locker room."
+    },
+    {
+      "de": "die Badelatschen / die Badeschuhe",
+      "en": "flip-flops / pool shoes",
+      "sentence_de": "Badelatschen sind praktisch auf den Fliesen.",
+      "sentence_en": "Flip-flops are practical on the tiles."
+    },
+    {
+      "de": "die Umkleide",
+      "en": "changing room",
+      "sentence_de": "Die Umkleide ist ziemlich voll.",
+      "sentence_en": "The changing room is quite full."
+    },
+    {
+      "de": "die Dusche",
+      "en": "shower",
+      "sentence_de": "Vor dem Schwimmen muss man unter die Dusche.",
+      "sentence_en": "Before swimming you have to take a shower."
+    },
+    {
+      "de": "der Schwimmstil",
+      "en": "swimming stroke",
+      "sentence_de": "Welchen Schwimmstil beherrschst du?",
+      "sentence_en": "Which swimming stroke do you master?"
+    },
+    {
+      "de": "das Brustschwimmen",
+      "en": "breaststroke",
+      "sentence_de": "Brustschwimmen ist der beliebteste Stil.",
+      "sentence_en": "Breaststroke is the most popular stroke."
+    },
+    {
+      "de": "das Kraulschwimmen (Freistil)",
+      "en": "freestyle / crawl",
+      "sentence_de": "Kraulschwimmen ist die schnellste Art.",
+      "sentence_en": "Freestyle is the fastest way."
+    },
+    {
+      "de": "das Rückenschwimmen",
+      "en": "backstroke",
+      "sentence_de": "Rückenschwimmen entspannt den Rücken.",
+      "sentence_en": "Backstroke relaxes the back."
+    },
+    {
+      "de": "das Schmetterlingsschwimmen (Delfin)",
+      "en": "butterfly stroke",
+      "sentence_de": "Schmetterlingsschwimmen ist sehr anstrengend.",
+      "sentence_en": "Butterfly stroke is very strenuous."
+    },
+    {
+      "de": "das Tauchen",
+      "en": "diving / submerging",
+      "sentence_de": "Tauchen üben wir am tiefen Ende.",
+      "sentence_en": "We practice diving at the deep end."
+    },
+    {
+      "de": "der Startblock",
+      "en": "starting block",
+      "sentence_de": "Die Profis starten vom Startblock.",
+      "sentence_en": "The professionals start from the starting block."
+    },
+    {
+      "de": "der Wettkampf",
+      "en": "competition",
+      "sentence_de": "Morgen ist der große Schwimmwettkampf.",
+      "sentence_en": "Tomorrow is the big swimming competition."
+    },
+    {
+      "de": "die Staffel",
+      "en": "relay",
+      "sentence_de": "Die Staffel hat das Rennen gewonnen.",
+      "sentence_en": "The relay team won the race."
+    },
+    {
+      "de": "die Zeitnahme",
+      "en": "timekeeping",
+      "sentence_de": "Die Zeitnahme erfolgt mit einer Stoppuhr.",
+      "sentence_en": "Timekeeping is done with a stopwatch."
+    },
+    {
+      "de": "die Runde (Länge)",
+      "en": "length / lap",
+      "sentence_de": "Ich schwimme 20 Runden.",
+      "sentence_en": "I swim 20 laps."
+    },
+    {
+      "de": "der Zug",
+      "en": "stroke (movement)",
+      "sentence_de": "Sein Zug ist sehr kraftvoll.",
+      "sentence_en": "His stroke is very powerful."
+    },
+    {
+      "de": "der Atemzug",
+      "en": "breath",
+      "sentence_de": "Beim Kraulen ist der Atemzug wichtig.",
+      "sentence_en": "Breathing is important in freestyle."
+    },
+    {
+      "de": "die Puste / die Luft",
+      "en": "breath / stamina",
+      "sentence_de": "Nach 100 Metern bin ich aus der Puste.",
+      "sentence_en": "After 100 meters I'm out of breath."
+    },
+    {
+      "de": "das Chlor",
+      "en": "chlorine",
+      "sentence_de": "Das Chlor im Wasser ist stark.",
+      "sentence_en": "The chlorine in the water is strong."
+    },
+    {
+      "de": "die Rettung (der Rettungsschwimmer)",
+      "en": "rescue (lifeguard)",
+      "sentence_de": "Der Rettungsschwimmer beobachtet das Becken.",
+      "sentence_en": "The lifeguard observes the pool."
+    },
+    {
+      "de": "die Schwimmhilfe",
+      "en": "floatation aid",
+      "sentence_de": "Kinder benutzen eine Schwimmhilfe.",
+      "sentence_en": "Children use a floatation aid."
+    },
+    {
+      "de": "der Schwimmring",
+      "en": "swim ring",
+      "sentence_de": "Der kleine Junge hält sich am Schwimmring fest.",
+      "sentence_en": "The little boy holds onto the swim ring."
+    },
+    {
+      "de": "das Tauchbecken",
+      "en": "diving well",
+      "sentence_de": "Im Tauchbecken kann man üben.",
+      "sentence_en": "You can practice in the diving well."
+    },
+    {
+      "de": "die Kante",
+      "en": "edge (pool edge)",
+      "sentence_de": "Am Beckenrand darf nicht gerannt werden.",
+      "sentence_en": "Running on the pool edge is not allowed."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "schwimmen",
+      "en": "to swim",
+      "sentence_de": "Ich schwimme jeden Tag 30 Minuten.",
+      "sentence_en": "I swim 30 minutes every day."
+    },
+    {
+      "de": "tauchen",
+      "en": "to dive / submerge",
+      "sentence_de": "Kannst du bis zum Boden tauchen?",
+      "sentence_en": "Can you dive to the bottom?"
+    },
+    {
+      "de": "springen",
+      "en": "to jump",
+      "sentence_de": "Die Kinder springen vom Sprungbrett.",
+      "sentence_en": "The children jump off the diving board."
+    },
+    {
+      "de": "kopfsprüngen",
+      "en": "to dive (headfirst)",
+      "sentence_de": "Er springt kopfüber ins Wasser.",
+      "sentence_en": "He dives headfirst into the water."
+    },
+    {
+      "de": "gleiten",
+      "en": "to glide",
+      "sentence_de": "Nach dem Abstoß gleite ich durchs Wasser.",
+      "sentence_en": "After pushing off, I glide through the water."
+    },
+    {
+      "de": "paddeln",
+      "en": "to paddle",
+      "sentence_de": "Die kleinen Kinder paddeln mit den Füßen.",
+      "sentence_en": "The little children paddle with their feet."
+    },
+    {
+      "de": "stoßen (abstoßen)",
+      "en": "to push off",
+      "sentence_de": "Am Beckenrand stoße ich mich ab.",
+      "sentence_en": "I push off from the pool edge."
+    },
+    {
+      "de": "atmen",
+      "en": "to breathe",
+      "sentence_de": "Beim Kraulen atme ich zur Seite aus.",
+      "sentence_en": "In freestyle I breathe out to the side."
+    },
+    {
+      "de": "ausatmen",
+      "en": "to exhale",
+      "sentence_de": "Unter Wasser atme ich langsam aus.",
+      "sentence_en": "Underwater I exhale slowly."
+    },
+    {
+      "de": "einatmen",
+      "en": "to inhale",
+      "sentence_de": "Beim Brustschwimmen atme ich nach vorne ein.",
+      "sentence_en": "In breaststroke I inhale to the front."
+    },
+    {
+      "de": "treten (Wasser treten)",
+      "en": "to tread water",
+      "sentence_de": "Ich kann eine Minute Wasser treten.",
+      "sentence_en": "I can tread water for a minute."
+    },
+    {
+      "de": "planschen",
+      "en": "to splash",
+      "sentence_de": "Die Kinder planschen fröhlich im Wasser.",
+      "sentence_en": "The children splash happily in the water."
+    },
+    {
+      "de": "training",
+      "en": "to train",
+      "sentence_de": "Ich trainiere dreimal pro Woche im Schwimmverein.",
+      "sentence_en": "I train three times a week at the swimming club."
+    },
+    {
+      "de": "wettkampfen",
+      "en": "to compete",
+      "sentence_de": "Sie nimmt an der Meisterschaft teil.",
+      "sentence_en": "She is competing in the championship."
+    },
+    {
+      "de": "starten",
+      "en": "to start",
+      "sentence_de": "Die Schwimmer starten auf das Startsignal.",
+      "sentence_en": "The swimmers start at the starting signal."
+    },
+    {
+      "de": "anschlagen (die Wand)",
+      "en": "to touch the wall",
+      "sentence_de": "Bei jeder Wende schlägt man an die Wand.",
+      "sentence_en": "At each turn you touch the wall."
+    },
+    {
+      "de": "wenden",
+      "en": "to turn",
+      "sentence_de": "Am Beckenende mache ich eine Wende.",
+      "sentence_en": "At the end of the pool I do a turn."
+    },
+    {
+      "de": "abtrocknen",
+      "en": "to dry off",
+      "sentence_de": "Nach dem Schwimmen trockne ich mich ab.",
+      "sentence_en": "After swimming I dry myself off."
+    },
+    {
+      "de": "umziehen",
+      "en": "to change (clothes)",
+      "sentence_de": "In der Umkleide ziehe ich mich um.",
+      "sentence_en": "I change in the locker room."
+    },
+    {
+      "de": "duschen",
+      "en": "to shower",
+      "sentence_de": "Ich dusche nach dem Training.",
+      "sentence_en": "I shower after training."
+    },
+    {
+      "de": "schwimmen (einmal durch)",
+      "en": "to cross (swim across)",
+      "sentence_de": "Ich schwimme das Becken einmal durch.",
+      "sentence_en": "I swim across the pool once."
+    },
+    {
+      "de": "ertrinken (fast)",
+      "en": "to drown (almost)",
+      "sentence_de": "Der Anfänger ist fast ertrunken.",
+      "sentence_en": "The beginner almost drowned."
+    },
+    {
+      "de": "retten",
+      "en": "to rescue",
+      "sentence_de": "Der Rettungsschwimmer hat ihn gerettet.",
+      "sentence_en": "The lifeguard rescued him."
+    },
+    {
+      "de": "schwimmen lernen",
+      "en": "to learn to swim",
+      "sentence_de": "Mein Sohn lernt jetzt schwimmen.",
+      "sentence_en": "My son is now learning to swim."
+    },
+    {
+      "de": "überholen",
+      "en": "to overtake",
+      "sentence_de": "Im Wettkampf hat er seinen Gegner überholt.",
+      "sentence_en": "In the race he overtook his opponent."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "warm",
+      "en": "warm",
+      "sentence_de": "Das Wasser ist angenehm warm.",
+      "sentence_en": "The water is pleasantly warm."
+    },
+    {
+      "de": "kalt",
+      "en": "cold",
+      "sentence_de": "Der See ist sehr kalt.",
+      "sentence_en": "The lake is very cold."
+    },
+    {
+      "de": "klar",
+      "en": "clear",
+      "sentence_de": "Das Wasser ist so klar, dass man den Boden sieht.",
+      "sentence_en": "The water is so clear that you can see the bottom."
+    },
+    {
+      "de": "trüb",
+      "en": "murky",
+      "sentence_de": "Nach dem Regen ist das Wasser trüb.",
+      "sentence_en": "After the rain the water is murky."
+    },
+    {
+      "de": "tief",
+      "en": "deep",
+      "sentence_de": "Das Becken ist 4 Meter tief.",
+      "sentence_en": "The pool is 4 meters deep."
+    },
+    {
+      "de": "flach",
+      "en": "shallow",
+      "sentence_de": "Das Planschbecken ist ganz flach.",
+      "sentence_en": "The paddling pool is very shallow."
+    },
+    {
+      "de": "schnell",
+      "en": "fast",
+      "sentence_de": "Er ist ein sehr schneller Schwimmer.",
+      "sentence_en": "He is a very fast swimmer."
+    },
+    {
+      "de": "langsam",
+      "en": "slow",
+      "sentence_de": "Ich schwimme heute langsam zur Erholung.",
+      "sentence_en": "Today I'm swimming slowly for recovery."
+    },
+    {
+      "de": "ausdauernd",
+      "en": "enduring / stamina",
+      "sentence_de": "Ausdauerndes Schwimmen ist gut für die Gesundheit.",
+      "sentence_en": "Endurance swimming is good for health."
+    },
+    {
+      "de": "anstrengend",
+      "en": "strenuous",
+      "sentence_de": "Schmetterlingsschwimmen ist sehr anstrengend.",
+      "sentence_en": "Butterfly stroke is very strenuous."
+    },
+    {
+      "de": "entspannend",
+      "en": "relaxing",
+      "sentence_de": "Rückenschwimmen ist entspannend.",
+      "sentence_en": "Backstroke is relaxing."
+    },
+    {
+      "de": "nass",
+      "en": "wet",
+      "sentence_de": "Nach dem Schwimmen sind meine Haare nass.",
+      "sentence_en": "After swimming my hair is wet."
+    },
+    {
+      "de": "trocken",
+      "en": "dry",
+      "sentence_de": "Ich brauche ein trockenes Handtuch.",
+      "sentence_en": "I need a dry towel."
+    },
+    {
+      "de": "geübt",
+      "en": "practiced / skilled",
+      "sentence_de": "Der geübte Schwimmer hat keine Angst.",
+      "sentence_en": "The skilled swimmer has no fear."
+    },
+    {
+      "de": "ungeübt",
+      "en": "unpracticed / beginner",
+      "sentence_de": "Ein ungeübter Schwimmer sollte nicht ins tiefe Wasser.",
+      "sentence_en": "A beginner swimmer shouldn't go into the deep water."
+    },
+    {
+      "de": "sicher",
+      "en": "safe",
+      "sentence_de": "Das Schwimmbad ist sehr sicher.",
+      "sentence_en": "The swimming pool is very safe."
+    },
+    {
+      "de": "gefährlich",
+      "en": "dangerous",
+      "sentence_de": "Das Meer kann gefährliche Strömungen haben.",
+      "sentence_en": "The sea can have dangerous currents."
+    },
+    {
+      "de": "chlorhaltig",
+      "en": "chlorinated",
+      "sentence_de": "Das chlorhaltige Wasser riecht stark.",
+      "sentence_en": "The chlorinated water smells strong."
+    },
+    {
+      "de": "salzig",
+      "en": "salty",
+      "sentence_de": "Das Wasser im Meer ist salzig.",
+      "sentence_en": "The water in the sea is salty."
+    },
+    {
+      "de": "süß (Wasser)",
+      "en": "fresh (water)",
+      "sentence_de": "Der See enthält Süßwasser.",
+      "sentence_en": "The lake contains fresh water."
+    },
+    {
+      "de": "rutschig",
+      "en": "slippery",
+      "sentence_de": "Der Beckenrand ist nass und rutschig.",
+      "sentence_en": "The pool edge is wet and slippery."
+    },
+    {
+      "de": "gut gekühlt",
+      "en": "well-cooled",
+      "sentence_de": "An heißen Tagen ist das Wasser gut gekühlt.",
+      "sentence_en": "On hot days the water is well-cooled."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Er schwimmt schnell über die 100 Meter.",
+      "sentence_en": "He swims quickly over 100 meters."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Ich schwimme langsam, um die Technik zu üben.",
+      "sentence_en": "I swim slowly to practice technique."
+    },
+    {
+      "de": "tief",
+      "en": "deeply",
+      "sentence_de": "Wir tauchen tief bis zum Boden.",
+      "sentence_en": "We dive deeply to the bottom."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich gehe regelmäßig ins Schwimmbad.",
+      "sentence_en": "I go to the swimming pool regularly."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Sie trainiert täglich für zwei Stunden.",
+      "sentence_en": "She trains daily for two hours."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Der Wettkampf findet wöchentlich statt.",
+      "sentence_en": "The competition takes place weekly."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Die Kinder gehen vorsichtig ins Wasser.",
+      "sentence_en": "The children go into the water carefully."
+    },
+    {
+      "de": "kräftig",
+      "en": "powerfully",
+      "sentence_de": "Er stößt sich kräftig vom Beckenrand ab.",
+      "sentence_en": "He pushes off from the pool edge powerfully."
+    },
+    {
+      "de": "leicht",
+      "en": "lightly / easily",
+      "sentence_de": "Sie gleitet leicht durchs Wasser.",
+      "sentence_en": "She glides easily through the water."
+    },
+    {
+      "de": "eleganz",
+      "en": "elegantly",
+      "sentence_de": "Die Schwimmerin bewegt sich elegant.",
+      "sentence_en": "The swimmer moves elegantly."
+    },
+    {
+      "de": "rhythmisch",
+      "en": "rhythmically",
+      "sentence_de": "Beim Brustschwimmen atme ich rhythmisch.",
+      "sentence_en": "In breaststroke I breathe rhythmically."
+    },
+    {
+      "de": "kopfüber",
+      "en": "headfirst",
+      "sentence_de": "Er springt kopfüber ins Wasser.",
+      "sentence_en": "He dives headfirst into the water."
+    },
+    {
+      "de": "unter Wasser",
+      "en": "underwater",
+      "sentence_de": "Unter Wasser ist die Welt ganz still.",
+      "sentence_en": "Underwater the world is completely quiet."
+    },
+    {
+      "de": "über Wasser",
+      "en": "above water",
+      "sentence_de": "Der Kopf muss über Wasser bleiben.",
+      "sentence_en": "The head must stay above water."
+    },
+    {
+      "de": "zweimal",
+      "en": "twice",
+      "sentence_de": "Ich schwimme zweimal die Länge.",
+      "sentence_en": "I swim the length twice."
+    },
+    {
+      "de": "hintereinander",
+      "en": "one after another",
+      "sentence_de": "Wir schwimmen die Bahnen hintereinander.",
+      "sentence_en": "We swim the lanes one after another."
+    },
+    {
+      "de": "nebeneinander",
+      "en": "side by side",
+      "sentence_de": "Die Kinder planschen nebeneinander.",
+      "sentence_en": "The children splash side by side."
+    },
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "sentence_de": "Schwimme einfach geradeaus bis zur Wand.",
+      "sentence_en": "Just swim straight ahead to the wall."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise war der Rettungsschwimmer da.",
+      "sentence_en": "Fortunately the lifeguard was there."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider war das Wasser zu kalt.",
+      "sentence_en": "Unfortunately the water was too cold."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich gehe jeden Samstag ins Hallenbad, um zu schwimmen.",
+      "en": "I go to the indoor pool every Saturday to swim."
+    },
+    {
+      "de": "Bitte duschen Sie sich vor dem Betreten des Beckens ab.",
+      "en": "Please shower before entering the pool."
+    },
+    {
+      "de": "Kinder müssen im Nichtschwimmerbecken bleiben, wenn sie nicht sicher schwimmen können.",
+      "en": "Children must stay in the shallow pool if they cannot swim safely."
+    },
+    {
+      "de": "Der Schwimmstil Brustschwimmen ist ideal für Anfänger.",
+      "en": "The breaststroke style is ideal for beginners."
+    },
+    {
+      "de": "Beim Kraulschwimmen ist die Atmung besonders wichtig.",
+      "en": "Breathing is especially important in freestyle."
+    },
+    {
+      "de": "Ich habe heute 50 Bahnen geschafft – das sind über einen Kilometer!",
+      "en": "I managed 50 laps today – that's over a kilometer!"
+    },
+    {
+      "de": "Die Badekappe schützt das Haar vor dem Chlor im Wasser.",
+      "en": "The swim cap protects the hair from the chlorine in the water."
+    },
+    {
+      "de": "Am Sprungturm üben wir verschiedene Sprünge ins Wasser.",
+      "en": "At the diving tower we practice various dives into the water."
+    },
+    {
+      "de": "Das Wasser im Freibad ist heute erfrischend kühl.",
+      "en": "The water in the outdoor pool is refreshingly cool today."
+    },
+    {
+      "de": "Rückenschwimmen ist gut, um die Wirbelsäule zu entlasten.",
+      "en": "Backstroke is good for relieving the spine."
+    },
+    {
+      "de": "Der Rettungsschwimmer hat ein Auge auf die Kinder im Wasser.",
+      "en": "The lifeguard keeps an eye on the children in the water."
+    },
+    {
+      "de": "Wir trainieren für den nächsten Schwimmwettkampf in der Stadt.",
+      "en": "We're training for the next swimming competition in the city."
+    },
+    {
+      "de": "Beim Staffelschwimmen ist der Startsprung besonders entscheidend.",
+      "en": "In relay swimming, the start is especially crucial."
+    },
+    {
+      "de": "Nach dem Schwimmen solltest du dich gut abtrocknen und eincremen.",
+      "en": "After swimming you should dry off well and apply lotion."
+    },
+    {
+      "de": "Kinder sollten niemals unbeaufsichtigt am Wasser spielen.",
+      "en": "Children should never play near the water unsupervised."
+    }
+  ]
+}

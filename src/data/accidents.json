@@ -1,0 +1,709 @@
+{
+  "theme": "Accidents",
+  "words": [
+    {
+      "de": "der Unfall",
+      "en": "accident",
+      "sentence_de": "Der Unfall ereignete sich an der Kreuzung.",
+      "sentence_en": "The accident occurred at the intersection."
+    },
+    {
+      "de": "der Verkehrsunfall",
+      "en": "traffic accident",
+      "sentence_de": "Der Verkehrsunfall hat den ganzen Nachmittag Stau verursacht.",
+      "sentence_en": "The traffic accident caused congestion all afternoon."
+    },
+    {
+      "de": "der Autounfall",
+      "en": "car crash / car accident",
+      "sentence_de": "Beim Autounfall wurden drei Personen verletzt.",
+      "sentence_en": "Three people were injured in the car crash."
+    },
+    {
+      "de": "der Zusammenstoß / die Kollision",
+      "en": "collision",
+      "sentence_de": "Der Zusammenstoß zweier Fahrzeuge war heftig.",
+      "sentence_en": "The collision of two vehicles was severe."
+    },
+    {
+      "de": "die Verletzung",
+      "en": "injury",
+      "sentence_de": "Die Verletzung musste im Krankenhaus behandelt werden.",
+      "sentence_en": "The injury had to be treated at the hospital."
+    },
+    {
+      "de": "der Schaden",
+      "en": "damage",
+      "sentence_de": "Der Schaden am Auto ist erheblich.",
+      "sentence_en": "The damage to the car is considerable."
+    },
+    {
+      "de": "der Sachschaden",
+      "en": "property damage",
+      "sentence_de": "Bei dem Unfall entstand nur Sachschaden.",
+      "sentence_en": "Only property damage occurred in the accident."
+    },
+    {
+      "de": "der Personenschaden",
+      "en": "personal injury",
+      "sentence_de": "Bei dem Unfall gab es zum Glück keinen Personenschaden.",
+      "sentence_en": "Fortunately there were no personal injuries in the accident."
+    },
+    {
+      "de": "die Wunde",
+      "en": "wound",
+      "sentence_de": "Die Wunde musste genäht werden.",
+      "sentence_en": "The wound had to be stitched."
+    },
+    {
+      "de": "die Blutung",
+      "en": "bleeding",
+      "sentence_de": "Die Blutung wurde mit einem Druckverband gestoppt.",
+      "sentence_en": "The bleeding was stopped with a pressure bandage."
+    },
+    {
+      "de": "die Prellung",
+      "en": "bruise / contusion",
+      "sentence_de": "Er hat nur eine Prellung am Bein.",
+      "sentence_en": "He only has a bruise on his leg."
+    },
+    {
+      "de": "die Fraktur / der Bruch",
+      "en": "fracture / break",
+      "sentence_de": "Der Arzt stellte eine Fraktur am Arm fest.",
+      "sentence_en": "The doctor diagnosed a fracture in the arm."
+    },
+    {
+      "de": "die Gehirnerschütterung",
+      "en": "concussion",
+      "sentence_de": "Nach dem Sturz hatte er eine Gehirnerschütterung.",
+      "sentence_en": "After the fall he had a concussion."
+    },
+    {
+      "de": "die Verbrennung",
+      "en": "burn",
+      "sentence_de": "Die Verbrennung war zweiten Grades.",
+      "sentence_en": "The burn was second-degree."
+    },
+    {
+      "de": "die Verstauchung",
+      "en": "sprain",
+      "sentence_de": "Sie hatte eine Verstauchung am Knöchel.",
+      "sentence_en": "She had a sprain in her ankle."
+    },
+    {
+      "de": "die Schnittwunde",
+      "en": "cut / laceration",
+      "sentence_de": "Die Schnittwunde war tief und blutete stark.",
+      "sentence_en": "The cut was deep and bled heavily."
+    },
+    {
+      "de": "die Schürfwunde",
+      "en": "abrasion / graze",
+      "sentence_de": "Er hatte Schürfwunden an den Knien.",
+      "sentence_en": "He had abrasions on his knees."
+    },
+    {
+      "de": "der Schock",
+      "en": "shock",
+      "sentence_de": "Nach dem Unfall stand sie unter Schock.",
+      "sentence_en": "After the accident she was in shock."
+    },
+    {
+      "de": "der Rettungswagen / der Krankenwagen",
+      "en": "ambulance",
+      "sentence_de": "Der Rettungswagen war in wenigen Minuten da.",
+      "sentence_en": "The ambulance arrived within minutes."
+    },
+    {
+      "de": "der Notarzt",
+      "en": "emergency doctor",
+      "sentence_de": "Der Notarzt hat den Verletzten versorgt.",
+      "sentence_en": "The emergency doctor treated the injured person."
+    },
+    {
+      "de": "der Rettungssanitäter",
+      "en": "paramedic",
+      "sentence_de": "Die Rettungssanitäter leisteten erste Hilfe.",
+      "sentence_en": "The paramedics provided first aid."
+    },
+    {
+      "de": "die Erste Hilfe",
+      "en": "first aid",
+      "sentence_de": "Jeder sollte einen Erste-Hilfe-Kurs machen.",
+      "sentence_en": "Everyone should take a first aid course."
+    },
+    {
+      "de": "der Verband",
+      "en": "bandage",
+      "sentence_de": "Der Verband wurde um das Handgelenk gewickelt.",
+      "sentence_en": "The bandage was wrapped around the wrist."
+    },
+    {
+      "de": "die Pflaster",
+      "en": "band-aid / plaster",
+      "sentence_de": "Kleine Wunden kann man mit Pflastern abdecken.",
+      "sentence_en": "Small wounds can be covered with band-aids."
+    },
+    {
+      "de": "die Schiene",
+      "en": "splint",
+      "sentence_de": "Das Bein wurde mit einer Schiene ruhiggestellt.",
+      "sentence_en": "The leg was immobilized with a splint."
+    },
+    {
+      "de": "der Gips",
+      "en": "cast",
+      "sentence_de": "Er muss den Gips vier Wochen lang tragen.",
+      "sentence_en": "He has to wear the cast for four weeks."
+    },
+    {
+      "de": "das Krankenhaus",
+      "en": "hospital",
+      "sentence_de": "Der Verletzte wurde ins Krankenhaus gebracht.",
+      "sentence_en": "The injured person was taken to the hospital."
+    },
+    {
+      "de": "die Notaufnahme",
+      "en": "emergency room",
+      "sentence_de": "In der Notaufnahme war es heute sehr voll.",
+      "sentence_en": "The emergency room was very busy today."
+    },
+    {
+      "de": "die Polizei",
+      "en": "police",
+      "sentence_de": "Die Polizei hat den Unfall aufgenommen.",
+      "sentence_en": "The police recorded the accident."
+    },
+    {
+      "de": "der Polizist / die Polizistin",
+      "en": "police officer",
+      "sentence_de": "Die Polizistin befragte die Zeugen.",
+      "sentence_en": "The police officer questioned the witnesses."
+    },
+    {
+      "de": "der Zeuge / die Zeugin",
+      "en": "witness",
+      "sentence_de": "Ein Zeuge hat den Unfall beobachtet.",
+      "sentence_en": "A witness observed the accident."
+    },
+    {
+      "de": "der Unfallverursacher",
+      "en": "person who caused the accident",
+      "sentence_de": "Der Unfallverursacher wurde von der Polizei ermittelt.",
+      "sentence_en": "The person who caused the accident was identified by the police."
+    },
+    {
+      "de": "das Unfallopfer",
+      "en": "accident victim",
+      "sentence_de": "Das Unfallopfer wurde versorgt und beruhigt.",
+      "sentence_en": "The accident victim was treated and calmed down."
+    },
+    {
+      "de": "die Bremsspur",
+      "en": "skid mark",
+      "sentence_de": "Die Bremsspuren waren auf der Straße zu sehen.",
+      "sentence_en": "The skid marks were visible on the road."
+    },
+    {
+      "de": "die Unfallstelle",
+      "en": "accident scene",
+      "sentence_de": "Die Unfallstelle war abgesperrt.",
+      "sentence_en": "The accident scene was cordoned off."
+    },
+    {
+      "de": "der Notruf",
+      "en": "emergency call",
+      "sentence_de": "Bei einem Unfall sollten Sie sofort den Notruf wählen.",
+      "sentence_en": "In case of an accident you should call emergency services immediately."
+    },
+    {
+      "de": "die Notfallnummer",
+      "en": "emergency number",
+      "sentence_de": "Die Notfallnummer 112 ist in ganz Europa gültig.",
+      "sentence_en": "The emergency number 112 is valid throughout Europe."
+    },
+    {
+      "de": "die Feuerwehr",
+      "en": "fire department",
+      "sentence_de": "Die Feuerwehr musste eingeklemmte Personen befreien.",
+      "sentence_en": "The fire department had to free trapped people."
+    },
+    {
+      "de": "der Unfallbericht",
+      "en": "accident report",
+      "sentence_de": "Der Unfallbericht wurde von der Polizei erstellt.",
+      "sentence_en": "The accident report was prepared by the police."
+    },
+    {
+      "de": "die Versicherung",
+      "en": "insurance",
+      "sentence_de": "Die Versicherung übernimmt die Kosten für den Schaden.",
+      "sentence_en": "The insurance covers the cost of the damage."
+    },
+    {
+      "de": "die Haftpflicht",
+      "en": "liability (insurance)",
+      "sentence_de": "Eine Haftpflichtversicherung ist für Autofahrer Pflicht.",
+      "sentence_en": "Liability insurance is mandatory for drivers."
+    },
+    {
+      "de": "die Vollkasko",
+      "en": "comprehensive insurance",
+      "sentence_de": "Die Vollkasko deckt auch selbstverschuldete Schäden ab.",
+      "sentence_en": "Comprehensive insurance also covers self-inflicted damage."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "verunglücken",
+      "en": "to have an accident",
+      "sentence_de": "Er ist auf der glatten Straße verunglückt.",
+      "sentence_en": "He had an accident on the slippery road."
+    },
+    {
+      "de": "verletzen (sich)",
+      "en": "to injure (oneself)",
+      "sentence_de": "Sie hat sich beim Sturz verletzt.",
+      "sentence_en": "She injured herself in the fall."
+    },
+    {
+      "de": "aufprallen",
+      "en": "to crash into / impact",
+      "sentence_de": "Der Wagen prallte gegen den Baum.",
+      "sentence_en": "The car crashed into the tree."
+    },
+    {
+      "de": "kollidieren",
+      "en": "to collide",
+      "sentence_de": "Zwei Autos kollidierten an der Kreuzung.",
+      "sentence_en": "Two cars collided at the intersection."
+    },
+    {
+      "de": "zusammenstoßen",
+      "en": "to crash / collide",
+      "sentence_de": "Die beiden Züge sind zusammengestoßen.",
+      "sentence_en": "The two trains collided."
+    },
+    {
+      "de": "umkippen",
+      "en": "to tip over",
+      "sentence_de": "Der Lkw ist auf der Fahrbahn umgekippt.",
+      "sentence_en": "The truck tipped over on the road."
+    },
+    {
+      "de": "überschlagen (sich)",
+      "en": "to flip over / roll over",
+      "sentence_de": "Das Auto hat sich überschlagen.",
+      "sentence_en": "The car flipped over."
+    },
+    {
+      "de": "schleudern",
+      "en": "to skid",
+      "sentence_de": "Das Auto schleuderte auf dem Eis.",
+      "sentence_en": "The car skidded on the ice."
+    },
+    {
+      "de": "bremsen",
+      "en": "to brake",
+      "sentence_de": "Er bremste zu spät und fuhr auf.",
+      "sentence_en": "He braked too late and rear-ended."
+    },
+    {
+      "de": "auf etwas auffahren",
+      "en": "to rear-end something",
+      "sentence_de": "Er ist auf das vorausfahrende Auto aufgefahren.",
+      "sentence_en": "He rear-ended the car in front."
+    },
+    {
+      "de": "ausweichen",
+      "en": "to swerve / avoid",
+      "sentence_de": "Der Fahrer konnte dem Reh nicht ausweichen.",
+      "sentence_en": "The driver couldn't swerve to avoid the deer."
+    },
+    {
+      "de": "bluten",
+      "en": "to bleed",
+      "sentence_de": "Seine Nase blutete nach dem Schlag.",
+      "sentence_en": "His nose was bleeding after the blow."
+    },
+    {
+      "de": "schwellen",
+      "en": "to swell",
+      "sentence_de": "Das Knie ist stark angeschwollen.",
+      "sentence_en": "The knee is severely swollen."
+    },
+    {
+      "de": "retten",
+      "en": "to rescue",
+      "sentence_de": "Die Feuerwehr rettete den Fahrer aus dem Auto.",
+      "sentence_en": "The fire department rescued the driver from the car."
+    },
+    {
+      "de": "bergen",
+      "en": "to recover / salvage",
+      "sentence_de": "Das beschädigte Fahrzeug musste geborgen werden.",
+      "sentence_en": "The damaged vehicle had to be recovered."
+    },
+    {
+      "de": "absichern (die Unfallstelle)",
+      "en": "to secure (the accident scene)",
+      "sentence_de": "Die Polizei sicherte die Unfallstelle ab.",
+      "sentence_en": "The police secured the accident scene."
+    },
+    {
+      "de": "ermitteln",
+      "en": "to investigate",
+      "sentence_de": "Die Polizei ermittelt die Unfallursache.",
+      "sentence_en": "The police are investigating the cause of the accident."
+    },
+    {
+      "de": "verursachen",
+      "en": "to cause",
+      "sentence_de": "Er hat den Unfall verursacht.",
+      "sentence_en": "He caused the accident."
+    },
+    {
+      "de": "beobachten",
+      "en": "to observe",
+      "sentence_de": "Ein Zeuge beobachtete den gesamten Unfall.",
+      "sentence_en": "A witness observed the entire accident."
+    },
+    {
+      "de": "wählen (den Notruf)",
+      "en": "to dial (emergency number)",
+      "sentence_de": "Wählen Sie sofort den Notruf!",
+      "sentence_en": "Dial the emergency number immediately!"
+    },
+    {
+      "de": "trösten",
+      "en": "to comfort",
+      "sentence_de": "Ein Sanitäter tröstete das verängstigte Kind.",
+      "sentence_en": "A paramedic comforted the frightened child."
+    },
+    {
+      "de": "nähen (Wunde)",
+      "en": "to stitch (a wound)",
+      "sentence_de": "Die Wunde musste mit fünf Stichen genäht werden.",
+      "sentence_en": "The wound had to be stitched with five stitches."
+    },
+    {
+      "de": "verbinden",
+      "en": "to dress / bandage",
+      "sentence_de": "Die Schwester verband seine Verletzung.",
+      "sentence_en": "The nurse bandaged his injury."
+    },
+    {
+      "de": "heilen",
+      "en": "to heal",
+      "sentence_de": "Die Wunde wird in ein paar Tagen heilen.",
+      "sentence_en": "The wound will heal in a few days."
+    },
+    {
+      "de": "überleben",
+      "en": "to survive",
+      "sentence_de": "Er hat den schweren Unfall überlebt.",
+      "sentence_en": "He survived the serious accident."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "schwer (Unfall)",
+      "en": "serious (accident)",
+      "sentence_de": "Es war ein schwerer Unfall mit vielen Verletzten.",
+      "sentence_en": "It was a serious accident with many injuries."
+    },
+    {
+      "de": "leicht (Verletzung)",
+      "en": "minor (injury)",
+      "sentence_de": "Sie hat nur leichte Verletzungen davongetragen.",
+      "sentence_en": "She only sustained minor injuries."
+    },
+    {
+      "de": "gefährlich",
+      "en": "dangerous",
+      "sentence_de": "Überholen bei Regen ist sehr gefährlich.",
+      "sentence_en": "Overtaking in the rain is very dangerous."
+    },
+    {
+      "de": "glatt (Straße)",
+      "en": "slippery (road)",
+      "sentence_de": "Die Straße war glatt durch den Regen.",
+      "sentence_en": "The road was slippery from the rain."
+    },
+    {
+      "de": "notfallmäßig",
+      "en": "emergency (as in emergency situation)",
+      "sentence_de": "Der Fahrer musste notfallmäßig bremsen.",
+      "sentence_en": "The driver had to brake in an emergency."
+    },
+    {
+      "de": "verletzt",
+      "en": "injured",
+      "sentence_de": "Die verletzte Person wurde ins Krankenhaus gebracht.",
+      "sentence_en": "The injured person was taken to the hospital."
+    },
+    {
+      "de": "schwerverletzt",
+      "en": "seriously injured",
+      "sentence_de": "Er wurde bei dem Unfall schwerverletzt.",
+      "sentence_en": "He was seriously injured in the accident."
+    },
+    {
+      "de": "lebensgefährlich",
+      "en": "life-threatening",
+      "sentence_de": "Sie erlitt lebensgefährliche Verletzungen.",
+      "sentence_en": "She sustained life-threatening injuries."
+    },
+    {
+      "de": "tot / tödlich",
+      "en": "dead / fatal",
+      "sentence_de": "Ein tödlicher Unfall ereignete sich auf der Autobahn.",
+      "sentence_en": "A fatal accident occurred on the highway."
+    },
+    {
+      "de": "bewusstlos",
+      "en": "unconscious",
+      "sentence_de": "Der Fahrer war nach dem Aufprall bewusstlos.",
+      "sentence_en": "The driver was unconscious after the impact."
+    },
+    {
+      "de": "schockiert",
+      "en": "shocked",
+      "sentence_de": "Die Zeugen waren schockiert von dem Anblick.",
+      "sentence_en": "The witnesses were shocked by the sight."
+    },
+    {
+      "de": "panisch",
+      "en": "panicked",
+      "sentence_de": "Die Menschen reagierten panisch.",
+      "sentence_en": "The people reacted in a panicked way."
+    },
+    {
+      "de": "erschrocken",
+      "en": "frightened / startled",
+      "sentence_de": "Das Kind war sehr erschrocken.",
+      "sentence_en": "The child was very frightened."
+    },
+    {
+      "de": "unfallfrei",
+      "en": "accident-free",
+      "sentence_de": "Der Fahrer kann auf eine unfallfreie Zeit zurückblicken.",
+      "sentence_en": "The driver can look back on an accident-free period."
+    },
+    {
+      "de": "versichert",
+      "en": "insured",
+      "sentence_de": "Das Fahrzeug ist vollkasko versichert.",
+      "sentence_en": "The vehicle is fully insured."
+    },
+    {
+      "de": "unversichert",
+      "en": "uninsured",
+      "sentence_de": "Ein unversicherter Unfall kann teuer werden.",
+      "sentence_en": "An uninsured accident can be expensive."
+    },
+    {
+      "de": "beschädigt",
+      "en": "damaged",
+      "sentence_de": "Das beschädigte Auto wurde abgeschleppt.",
+      "sentence_en": "The damaged car was towed away."
+    },
+    {
+      "de": "totalschaden",
+      "en": "total loss (damage)",
+      "sentence_de": "Das Auto erlitt einen Totalschaden.",
+      "sentence_en": "The car was a total loss."
+    },
+    {
+      "de": "sichtbar (Verletzungen)",
+      "en": "visible (injuries)",
+      "sentence_de": "Er hatte keine sichtbaren Verletzungen.",
+      "sentence_en": "He had no visible injuries."
+    },
+    {
+      "de": "schmerzhaft",
+      "en": "painful",
+      "sentence_de": "Die Verletzung war sehr schmerzhaft.",
+      "sentence_en": "The injury was very painful."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "plötzlich",
+      "en": "suddenly",
+      "sentence_de": "Plötzlich fuhr ein Auto aus der Seitenstraße.",
+      "sentence_en": "Suddenly a car came out of the side street."
+    },
+    {
+      "de": "unfallartig",
+      "en": "accidentally (like an accident)",
+      "sentence_de": "Das Glas fiel unfallartig zu Boden.",
+      "sentence_en": "The glass fell to the floor accidentally."
+    },
+    {
+      "de": "unvermutet",
+      "en": "unexpectedly",
+      "sentence_de": "Unvermutet kam es zum Zusammenstoß.",
+      "sentence_en": "Unexpectedly, the collision occurred."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise wurde niemand schwer verletzt.",
+      "sentence_en": "Fortunately no one was seriously injured."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider konnte der Fahrer nicht mehr gerettet werden.",
+      "sentence_en": "Unfortunately the driver could no longer be saved."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Der Rettungswagen kam schnell an.",
+      "sentence_en": "The ambulance arrived quickly."
+    },
+    {
+      "de": "sofort",
+      "en": "immediately",
+      "sentence_de": "Rufen Sie sofort den Notarzt!",
+      "sentence_en": "Call the emergency doctor immediately!"
+    },
+    {
+      "de": "rechtzeitig",
+      "en": "in time",
+      "sentence_de": "Der Fahrer konnte rechtzeitig bremsen.",
+      "sentence_en": "The driver was able to brake in time."
+    },
+    {
+      "de": "ungerichtet",
+      "en": "unintentionally",
+      "sentence_de": "Er hat den Unfall ungerichtet verursacht.",
+      "sentence_en": "He caused the accident unintentionally."
+    },
+    {
+      "de": "absichtlich",
+      "en": "deliberately / intentionally",
+      "sentence_de": "Handelte er absichtlich oder war es ein Unfall?",
+      "sentence_en": "Did he act deliberately or was it an accident?"
+    },
+    {
+      "de": "schwer",
+      "en": "seriously / badly",
+      "sentence_de": "Sie wurde bei dem Unfall schwer verletzt.",
+      "sentence_en": "She was seriously injured in the accident."
+    },
+    {
+      "de": "leicht",
+      "en": "slightly",
+      "sentence_de": "Er wurde nur leicht verletzt.",
+      "sentence_en": "He was only slightly injured."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Fahren Sie vorsichtig bei Glatteis.",
+      "sentence_en": "Drive carefully on icy roads."
+    },
+    {
+      "de": "unaufmerksam",
+      "en": "inattentively",
+      "sentence_de": "Er fuhr unaufmerksam und übersah das Stoppschild.",
+      "sentence_en": "He drove inattentively and missed the stop sign."
+    },
+    {
+      "de": "geistesgegenwärtig",
+      "en": "presence of mind",
+      "sentence_de": "Sie reagierte geistesgegenwärtig und wich aus.",
+      "sentence_en": "She reacted with presence of mind and swerved."
+    },
+    {
+      "de": "rückwärts",
+      "en": "backwards",
+      "sentence_de": "Das Auto rollte rückwärts gegen die Mauer.",
+      "sentence_en": "The car rolled backwards into the wall."
+    },
+    {
+      "de": "seitlich",
+      "en": "sideways",
+      "sentence_de": "Der Wagen wurde seitlich von einem Lkw gestreift.",
+      "sentence_en": "The car was sideswiped by a truck."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Überall lagen Trümmerteile auf der Straße.",
+      "sentence_en": "Debris was lying everywhere on the road."
+    },
+    {
+      "de": "irgendwo",
+      "en": "somewhere",
+      "sentence_de": "Der Unfall muss sich irgendwo hier ereignet haben.",
+      "sentence_en": "The accident must have happened somewhere around here."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Auf der Autobahn hat sich ein schwerer Verkehrsunfall ereignet.",
+      "en": "A serious traffic accident occurred on the highway."
+    },
+    {
+      "de": "Bei dem Unfall wurden drei Personen verletzt, zwei davon schwer.",
+      "en": "Three people were injured in the accident, two of them seriously."
+    },
+    {
+      "de": "Das Auto prallte gegen die Leitplanke und überschlug sich.",
+      "en": "The car crashed into the guardrail and flipped over."
+    },
+    {
+      "de": "Der Rettungswagen war innerhalb weniger Minuten vor Ort.",
+      "en": "The ambulance was on the scene within minutes."
+    },
+    {
+      "de": "Ein aufmerksamer Zeuge hat sofort den Notruf gewählt.",
+      "en": "An attentive witness immediately called the emergency services."
+    },
+    {
+      "de": "Die Polizei sicherte die Unfallstelle und regelte den Verkehr.",
+      "en": "The police secured the accident scene and managed the traffic."
+    },
+    {
+      "de": "Die Feuerwehr musste einen eingeklemmten Fahrer befreien.",
+      "en": "The fire department had to free a trapped driver."
+    },
+    {
+      "de": "Ein Rettungssanitäter versorgte die Wunde des Verletzten.",
+      "en": "A paramedic treated the injured person's wound."
+    },
+    {
+      "de": "Der Unfallverursacher flüchtete vom Unfallort, wurde aber später gefasst.",
+      "en": "The person who caused the accident fled the scene but was later caught."
+    },
+    {
+      "de": "Die Straße war glatt, weil es geregnet hatte und dann gefroren ist.",
+      "en": "The road was slippery because it had rained and then frozen."
+    },
+    {
+      "de": "Die Versicherung übernimmt die Kosten für den entstandenen Schaden.",
+      "en": "The insurance company will cover the costs of the damage."
+    },
+    {
+      "de": "Glücklicherweise trug der Fahrer immer einen Sicherheitsgurt.",
+      "en": "Fortunately the driver always wore a seatbelt."
+    },
+    {
+      "de": "Der Verletzte wurde nach der Erstversorgung ins Krankenhaus gebracht.",
+      "en": "The injured person was taken to the hospital after first aid."
+    },
+    {
+      "de": "Das Auto erlitt einen Totalschaden, aber der Fahrer hatte nur eine Prellung.",
+      "en": "The car was a total loss, but the driver only had a bruise."
+    },
+    {
+      "de": "Bei jedem Unfall sollte man Ruhe bewahren und Erste Hilfe leisten.",
+      "en": "In any accident you should stay calm and provide first aid."
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "theme": "Weather",
+  "words": [
+    {
+      "de": "das Wetter",
+      "en": "weather",
+      "sentence_de": "Das Wetter heute ist wunderschön.",
+      "sentence_en": "The weather today is beautiful."
+    },
+    {
+      "de": "die Sonne",
+      "en": "sun",
+      "sentence_de": "Die Sonne scheint vom blauen Himmel.",
+      "sentence_en": "The sun is shining from the blue sky."
+    },
+    {
+      "de": "der Regen",
+      "en": "rain",
+      "sentence_de": "Der Regen trommelt gegen das Fenster.",
+      "sentence_en": "The rain is drumming against the window."
+    },
+    {
+      "de": "der Schnee",
+      "en": "snow",
+      "sentence_de": "Der Schnee bedeckt die Straßen.",
+      "sentence_en": "The snow covers the streets."
+    },
+    {
+      "de": "der Wind",
+      "en": "wind",
+      "sentence_de": "Der Wind weht kräftig durch die Bäume.",
+      "sentence_en": "The wind blows strongly through the trees."
+    },
+    {
+      "de": "der Sturm",
+      "en": "storm",
+      "sentence_de": "Ein schwerer Sturm zieht über das Land.",
+      "sentence_en": "A severe storm is moving across the country."
+    },
+    {
+      "de": "das Gewitter",
+      "en": "thunderstorm",
+      "sentence_de": "Das Gewitter kommt mit Blitz und Donner.",
+      "sentence_en": "The thunderstorm comes with lightning and thunder."
+    },
+    {
+      "de": "der Blitz",
+      "en": "lightning",
+      "sentence_de": "Ein Blitz erhellte den Nachthimmel.",
+      "sentence_en": "A lightning bolt illuminated the night sky."
+    },
+    {
+      "de": "der Donner",
+      "en": "thunder",
+      "sentence_de": "Der Donner rollte laut über das Tal.",
+      "sentence_en": "Thunder rumbled loudly across the valley."
+    },
+    {
+      "de": "der Nebel",
+      "en": "fog",
+      "sentence_de": "Der Nebel liegt dicht über der Stadt.",
+      "sentence_en": "The fog lies thick over the city."
+    },
+    {
+      "de": "der Hagel",
+      "en": "hail",
+      "sentence_de": "Der Hagel beschädigte die Autos.",
+      "sentence_en": "The hail damaged the cars."
+    },
+    {
+      "de": "die Wolke",
+      "en": "cloud",
+      "sentence_de": "Eine dunkle Wolke zieht auf.",
+      "sentence_en": "A dark cloud is approaching."
+    },
+    {
+      "de": "der Himmel",
+      "en": "sky",
+      "sentence_de": "Der Himmel ist heute strahlend blau.",
+      "sentence_en": "The sky is radiantly blue today."
+    },
+    {
+      "de": "die Temperatur",
+      "en": "temperature",
+      "sentence_de": "Die Temperatur beträgt 25 Grad Celsius.",
+      "sentence_en": "The temperature is 25 degrees Celsius."
+    },
+    {
+      "de": "der Grad",
+      "en": "degree",
+      "sentence_de": "Es sind nur 5 Grad, also zieh dich warm an.",
+      "sentence_en": "It's only 5 degrees, so dress warmly."
+    },
+    {
+      "de": "die Luft",
+      "en": "air",
+      "sentence_de": "Die Luft ist heute sehr feucht.",
+      "sentence_en": "The air is very humid today."
+    },
+    {
+      "de": "die Feuchtigkeit",
+      "en": "humidity",
+      "sentence_de": "Die Feuchtigkeit liegt bei 80 Prozent.",
+      "sentence_en": "Humidity is at 80 percent."
+    },
+    {
+      "de": "der Druck",
+      "en": "pressure",
+      "sentence_de": "Der Luftdruck sinkt vor dem Sturm.",
+      "sentence_en": "Air pressure drops before the storm."
+    },
+    {
+      "de": "das Klima",
+      "en": "climate",
+      "sentence_de": "Das Klima in Deutschland ist gemäßigt.",
+      "sentence_en": "The climate in Germany is temperate."
+    },
+    {
+      "de": "die Jahreszeit",
+      "en": "season",
+      "sentence_de": "Der Frühling ist meine Lieblingsjahreszeit.",
+      "sentence_en": "Spring is my favorite season."
+    },
+    {
+      "de": "der Frühling",
+      "en": "spring",
+      "sentence_de": "Im Frühling blühen die Blumen.",
+      "sentence_en": "In spring the flowers bloom."
+    },
+    {
+      "de": "der Sommer",
+      "en": "summer",
+      "sentence_de": "Der Sommer ist heiß und sonnig.",
+      "sentence_en": "Summer is hot and sunny."
+    },
+    {
+      "de": "der Herbst",
+      "en": "autumn / fall",
+      "sentence_de": "Im Herbst fallen die Blätter von den Bäumen.",
+      "sentence_en": "In autumn the leaves fall from the trees."
+    },
+    {
+      "de": "der Winter",
+      "en": "winter",
+      "sentence_de": "Der Winter bringt Schnee und Kälte.",
+      "sentence_en": "Winter brings snow and cold."
+    },
+    {
+      "de": "die Vorhersage",
+      "en": "forecast",
+      "sentence_de": "Die Vorhersage sagt Regen für morgen voraus.",
+      "sentence_en": "The forecast predicts rain for tomorrow."
+    },
+    {
+      "de": "der Regenbogen",
+      "en": "rainbow",
+      "sentence_de": "Nach dem Regen sehen wir einen Regenbogen.",
+      "sentence_en": "After the rain we see a rainbow."
+    },
+    {
+      "de": "der Tau",
+      "en": "dew",
+      "sentence_de": "Der Tau glitzert auf den Blättern.",
+      "sentence_en": "The dew sparkles on the leaves."
+    },
+    {
+      "de": "der Frost",
+      "en": "frost",
+      "sentence_de": "Der Frost hat die Fensterscheiben überzogen.",
+      "sentence_en": "Frost has covered the window panes."
+    },
+    {
+      "de": "das Eis",
+      "en": "ice",
+      "sentence_de": "Die Straßen sind glatt wegen des Eises.",
+      "sentence_en": "The roads are slippery because of the ice."
+    },
+    {
+      "de": "die Hitze",
+      "en": "heat",
+      "sentence_de": "Die Hitze ist kaum auszuhalten.",
+      "sentence_en": "The heat is barely bearable."
+    },
+    {
+      "de": "die Kälte",
+      "en": "cold",
+      "sentence_de": "Die Kälte beißt in die Wangen.",
+      "sentence_en": "The cold bites into the cheeks."
+    },
+    {
+      "de": "die Wärme",
+      "en": "warmth",
+      "sentence_de": "Die Wärme der Sonne tut gut.",
+      "sentence_en": "The warmth of the sun feels good."
+    },
+    {
+      "de": "die Windstärke",
+      "en": "wind force",
+      "sentence_de": "Die Windstärke erreicht bis zu 10 Beaufort.",
+      "sentence_en": "Wind force reaches up to 10 Beaufort."
+    },
+    {
+      "de": "die Niederschläge",
+      "en": "precipitation",
+      "sentence_de": "Die Niederschläge sind in diesem Monat sehr hoch.",
+      "sentence_en": "Precipitation is very high this month."
+    },
+    {
+      "de": "der Wetterbericht",
+      "en": "weather report",
+      "sentence_de": "Der Wetterbericht kommt gleich im Fernsehen.",
+      "sentence_en": "The weather report is coming on TV soon."
+    },
+    {
+      "de": "die Wettervorhersage",
+      "en": "weather forecast",
+      "sentence_de": "Die Wettervorhersage für morgen ist gut.",
+      "sentence_en": "The weather forecast for tomorrow is good."
+    },
+    {
+      "de": "die Hitzewelle",
+      "en": "heatwave",
+      "sentence_de": "Eine Hitzewelle rollt über Europa.",
+      "sentence_en": "A heatwave is rolling across Europe."
+    },
+    {
+      "de": "die Kältewelle",
+      "en": "cold snap",
+      "sentence_de": "Die Kältewelle brachte Minusgrade.",
+      "sentence_en": "The cold snap brought sub-zero temperatures."
+    },
+    {
+      "de": "die Regentropfen",
+      "en": "raindrops",
+      "sentence_de": "Regentropfen fallen auf das Dach.",
+      "sentence_en": "Raindrops fall on the roof."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "regnen",
+      "en": "to rain",
+      "sentence_de": "Es regnet den ganzen Tag.",
+      "sentence_en": "It's raining all day."
+    },
+    {
+      "de": "schneien",
+      "en": "to snow",
+      "sentence_de": "Es schneit stark im Norden.",
+      "sentence_en": "It's snowing heavily in the north."
+    },
+    {
+      "de": "stürmen",
+      "en": "to storm",
+      "sentence_de": "Es stürmt mit Windgeschwindigkeiten von 100 km/h.",
+      "sentence_en": "It's storming with wind speeds of 100 km/h."
+    },
+    {
+      "de": "gewittern",
+      "en": "to thunderstorm",
+      "sentence_de": "Es gewittert, also bleiben wir besser drinnen.",
+      "sentence_en": "There's a thunderstorm, so we'd better stay inside."
+    },
+    {
+      "de": "blitzen",
+      "en": "to flash lightning",
+      "sentence_de": "Es blitzt am Horizont.",
+      "sentence_en": "Lightning is flashing on the horizon."
+    },
+    {
+      "de": "donnern",
+      "en": "to thunder",
+      "sentence_de": "Es donnert laut in der Ferne.",
+      "sentence_en": "It's thundering loudly in the distance."
+    },
+    {
+      "de": "scheinen",
+      "en": "to shine",
+      "sentence_de": "Die Sonne scheint vom wolkenlosen Himmel.",
+      "sentence_en": "The sun shines from the cloudless sky."
+    },
+    {
+      "de": "wehen",
+      "en": "to blow (wind)",
+      "sentence_de": "Der Wind weht kräftig aus Westen.",
+      "sentence_en": "The wind blows strongly from the west."
+    },
+    {
+      "de": "frieren",
+      "en": "to freeze",
+      "sentence_de": "Mir frieren die Finger bei dieser Kälte.",
+      "sentence_en": "My fingers are freezing in this cold."
+    },
+    {
+      "de": "tauen",
+      "en": "to thaw",
+      "sentence_de": "Der Schnee taut bei steigenden Temperaturen.",
+      "sentence_en": "The snow is thawing with rising temperatures."
+    },
+    {
+      "de": "trocknen",
+      "en": "to dry",
+      "sentence_de": "Die Wäsche trocknet in der Sonne.",
+      "sentence_en": "The laundry is drying in the sun."
+    },
+    {
+      "de": "nebeln",
+      "en": "to be foggy",
+      "sentence_de": "Es nebelt stark, man sieht kaum etwas.",
+      "sentence_en": "It's very foggy, you can barely see anything."
+    },
+    {
+      "de": "hageln",
+      "en": "to hail",
+      "sentence_de": "Es hagelt, schütze dein Auto!",
+      "sentence_en": "It's hailing, protect your car!"
+    },
+    {
+      "de": "nieseln",
+      "en": "to drizzle",
+      "sentence_de": "Es nieselt leicht, aber es ist nicht schlimm.",
+      "sentence_en": "It's drizzling lightly, but it's not bad."
+    },
+    {
+      "de": "schütten",
+      "en": "to pour (rain)",
+      "sentence_de": "Es schüttet wie aus Eimern!",
+      "sentence_en": "It's pouring like buckets!"
+    },
+    {
+      "de": "kühlen (sich abkühlen)",
+      "en": "to cool (down)",
+      "sentence_de": "Nach der Hitze kühlt es sich abends ab.",
+      "sentence_en": "After the heat it cools down in the evening."
+    },
+    {
+      "de": "erwärmen (sich erwärmen)",
+      "en": "to warm (up)",
+      "sentence_de": "Das Wetter erwärmt sich langsam.",
+      "sentence_en": "The weather is warming up slowly."
+    },
+    {
+      "de": "aufziehen (Wolken)",
+      "en": "to gather (clouds)",
+      "sentence_de": "Dunkle Wolken ziehen auf.",
+      "sentence_en": "Dark clouds are gathering."
+    },
+    {
+      "de": "sich aufklaren",
+      "en": "to clear up",
+      "sentence_de": "Der Himmel klart sich nach dem Regen auf.",
+      "sentence_en": "The sky clears up after the rain."
+    },
+    {
+      "de": "vorhersagen",
+      "en": "to predict / forecast",
+      "sentence_de": "Der Wetterdienst sagt Regen für morgen voraus.",
+      "sentence_en": "The weather service predicts rain for tomorrow."
+    },
+    {
+      "de": "untergehen (Sonne)",
+      "en": "to set (sun)",
+      "sentence_de": "Die Sonne geht gegen 20 Uhr unter.",
+      "sentence_en": "The sun sets around 8 PM."
+    },
+    {
+      "de": "aufgehen (Sonne)",
+      "en": "to rise (sun)",
+      "sentence_de": "Die Sonne geht heute um 6 Uhr auf.",
+      "sentence_en": "The sun rises at 6 AM today."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "sonnig",
+      "en": "sunny",
+      "sentence_de": "Heute ist ein sonniger Tag.",
+      "sentence_en": "Today is a sunny day."
+    },
+    {
+      "de": "regnerisch",
+      "en": "rainy",
+      "sentence_de": "Es wird ein regnerischer Wochenende erwartet.",
+      "sentence_en": "A rainy weekend is expected."
+    },
+    {
+      "de": "schneebedeckt",
+      "en": "snow-covered",
+      "sentence_de": "Die schneebedeckten Berge sind wunderschön.",
+      "sentence_en": "The snow-covered mountains are beautiful."
+    },
+    {
+      "de": "windig",
+      "en": "windy",
+      "sentence_de": "Es ist sehr windig an der Küste.",
+      "sentence_en": "It's very windy on the coast."
+    },
+    {
+      "de": "stürmisch",
+      "en": "stormy",
+      "sentence_de": "Die See ist stürmisch heute.",
+      "sentence_en": "The sea is stormy today."
+    },
+    {
+      "de": "neblig",
+      "en": "foggy",
+      "sentence_de": "Die Sicht ist schlecht bei nebligem Wetter.",
+      "sentence_en": "Visibility is poor in foggy weather."
+    },
+    {
+      "de": "wolkig",
+      "en": "cloudy",
+      "sentence_de": "Der Himmel ist wolkig, aber es regnet nicht.",
+      "sentence_en": "The sky is cloudy but it's not raining."
+    },
+    {
+      "de": "bedeckt",
+      "en": "overcast",
+      "sentence_de": "Es ist den ganzen Tag bedeckt.",
+      "sentence_en": "It's overcast all day."
+    },
+    {
+      "de": "heiter",
+      "en": "bright / clear",
+      "sentence_de": "Der Himmel ist heiter und blau.",
+      "sentence_en": "The sky is bright and blue."
+    },
+    {
+      "de": "warm",
+      "en": "warm",
+      "sentence_de": "Heute ist es angenehm warm.",
+      "sentence_en": "Today is pleasantly warm."
+    },
+    {
+      "de": "heiß",
+      "en": "hot",
+      "sentence_de": "Der Sommer ist heiß und trocken.",
+      "sentence_en": "Summer is hot and dry."
+    },
+    {
+      "de": "kalt",
+      "en": "cold",
+      "sentence_de": "Der Winter ist sehr kalt.",
+      "sentence_en": "Winter is very cold."
+    },
+    {
+      "de": "eiskalt",
+      "en": "freezing cold",
+      "sentence_de": "Der Wind ist eiskalt.",
+      "sentence_en": "The wind is freezing cold."
+    },
+    {
+      "de": "mild",
+      "en": "mild",
+      "sentence_de": "Der Frühling ist mild und angenehm.",
+      "sentence_en": "Spring is mild and pleasant."
+    },
+    {
+      "de": "feucht",
+      "en": "humid / damp",
+      "sentence_de": "Die Luft ist heute sehr feucht.",
+      "sentence_en": "The air is very humid today."
+    },
+    {
+      "de": "trocken",
+      "en": "dry",
+      "sentence_de": "Der Wüstenklima ist trocken und heiß.",
+      "sentence_en": "The desert climate is dry and hot."
+    },
+    {
+      "de": "klar",
+      "en": "clear",
+      "sentence_de": "Die Sicht ist klar und weit.",
+      "sentence_en": "Visibility is clear and far."
+    },
+    {
+      "de": "trüb",
+      "en": "dull / murky",
+      "sentence_de": "Der Himmel ist trüb und grau.",
+      "sentence_en": "The sky is dull and gray."
+    },
+    {
+      "de": "stabil",
+      "en": "stable",
+      "sentence_de": "Das Wetter bleibt stabil.",
+      "sentence_en": "The weather remains stable."
+    },
+    {
+      "de": "wechselhaft",
+      "en": "changeable",
+      "sentence_de": "Das Wetter ist heute wechselhaft.",
+      "sentence_en": "The weather is changeable today."
+    },
+    {
+      "de": "extrem",
+      "en": "extreme",
+      "sentence_de": "Das Wetter ist extrem heiß.",
+      "sentence_en": "The weather is extremely hot."
+    },
+    {
+      "de": "schön",
+      "en": "beautiful / nice",
+      "sentence_de": "Was für ein schönes Wetter!",
+      "sentence_en": "What beautiful weather!"
+    },
+    {
+      "de": "schlecht",
+      "en": "bad",
+      "sentence_de": "Das Wetter ist heute schlecht.",
+      "sentence_en": "The weather is bad today."
+    },
+    {
+      "de": "unbeständig",
+      "en": "unsettled",
+      "sentence_de": "Das Wetter ist unbeständig im April.",
+      "sentence_en": "The weather is unsettled in April."
+    },
+    {
+      "de": "eisig",
+      "en": "icy",
+      "sentence_de": "Ein eisiger Wind weht.",
+      "sentence_en": "An icy wind is blowing."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "sonnig",
+      "en": "sunny / in a sunny way",
+      "sentence_de": "Es ist sonnig auf dem Balkon.",
+      "sentence_en": "It's sunny on the balcony."
+    },
+    {
+      "de": "regnerisch",
+      "en": "rainily",
+      "sentence_de": "Es ist regnerisch draußen.",
+      "sentence_en": "It's rainy outside."
+    },
+    {
+      "de": "windig",
+      "en": "windily",
+      "sentence_de": "Es weht windig.",
+      "sentence_en": "It's blowing windily."
+    },
+    {
+      "de": "warm",
+      "en": "warmly",
+      "sentence_de": "Die Sonne wärmt warm.",
+      "sentence_en": "The sun warms warmly."
+    },
+    {
+      "de": "kalt",
+      "en": "coldly",
+      "sentence_de": "Der Wind weht kalt.",
+      "sentence_en": "The wind blows coldly."
+    },
+    {
+      "de": "heiß",
+      "en": "hotly",
+      "sentence_de": "Die Sonne brennt heiß.",
+      "sentence_en": "The sun burns hotly."
+    },
+    {
+      "de": "stark",
+      "en": "strongly",
+      "sentence_de": "Der Regen fällt stark.",
+      "sentence_en": "The rain falls strongly."
+    },
+    {
+      "de": "schwach",
+      "en": "weakly / lightly",
+      "sentence_de": "Der Wind weht schwach.",
+      "sentence_en": "The wind blows weakly."
+    },
+    {
+      "de": "plötzlich",
+      "en": "suddenly",
+      "sentence_de": "Plötzlich setzte der Regen ein.",
+      "sentence_en": "Suddenly the rain started."
+    },
+    {
+      "de": "allmählich",
+      "en": "gradually",
+      "sentence_de": "Der Himmel klärt sich allmählich auf.",
+      "sentence_en": "The sky clears up gradually."
+    },
+    {
+      "de": "dauerhaft",
+      "en": "permanently",
+      "sentence_de": "Das Wetter bleibt dauerhaft gut.",
+      "sentence_en": "The weather remains good permanently."
+    },
+    {
+      "de": "zeitweise",
+      "en": "occasionally / at times",
+      "sentence_de": "Es regnet zeitweise, aber nicht durchgehend.",
+      "sentence_en": "It rains occasionally, but not continuously."
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "sentence_de": "Draußen ist es kalt.",
+      "sentence_en": "Outside it's cold."
+    },
+    {
+      "de": "drinnen",
+      "en": "inside",
+      "sentence_de": "Drinnen ist es angenehm warm.",
+      "sentence_en": "Inside it's pleasantly warm."
+    },
+    {
+      "de": "heute",
+      "en": "today",
+      "sentence_de": "Heute ist das Wetter schön.",
+      "sentence_en": "Today the weather is nice."
+    },
+    {
+      "de": "morgen",
+      "en": "tomorrow",
+      "sentence_de": "Morgen soll es regnen.",
+      "sentence_en": "It's supposed to rain tomorrow."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Überall liegt Schnee.",
+      "sentence_en": "There is snow everywhere."
+    },
+    {
+      "de": "nirgendwo",
+      "en": "nowhere",
+      "sentence_de": "Nirgendwo ist es kälter als hier.",
+      "sentence_en": "Nowhere is it colder than here."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise hat der Regen aufgehört.",
+      "sentence_en": "Fortunately the rain has stopped."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider ist das Wetter schlecht.",
+      "sentence_en": "Unfortunately the weather is bad."
+    },
+    {
+      "de": "normalerweise",
+      "en": "normally",
+      "sentence_de": "Normalerweise regnet es im April.",
+      "sentence_en": "Normally it rains in April."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Die Sonne scheint heute wunderschön vom klaren Himmel.",
+      "en": "The sun is shining beautifully from the clear sky today."
+    },
+    {
+      "de": "Es wird den ganzen Tag regnen, also nimm einen Schirm mit.",
+      "en": "It's going to rain all day, so take an umbrella."
+    },
+    {
+      "de": "Der Wetterbericht sagt starken Wind und Sturm für die Küste voraus.",
+      "en": "The weather report forecasts strong wind and storms for the coast."
+    },
+    {
+      "de": "Im Winter müssen wir mit Schnee und Eis rechnen.",
+      "en": "In winter we have to expect snow and ice."
+    },
+    {
+      "de": "Die Temperatur steigt auf 30 Grad Celsius – es wird sehr heiß.",
+      "en": "The temperature rises to 30 degrees Celsius – it's going to be very hot."
+    },
+    {
+      "de": "Nach dem Gewitter hat sich der Himmel wieder aufgeklärt.",
+      "en": "After the thunderstorm the sky cleared up again."
+    },
+    {
+      "de": "Bei Nebel ist die Sicht stark eingeschränkt, fahre vorsichtig.",
+      "en": "In fog visibility is severely limited, drive carefully."
+    },
+    {
+      "de": "Heute weht ein kräftiger Wind aus Westen.",
+      "en": "A strong wind from the west is blowing today."
+    },
+    {
+      "de": "Der Frühling ist mild, aber es kann noch frostig sein.",
+      "en": "Spring is mild, but it can still be frosty."
+    },
+    {
+      "de": "Ich liebe das Wetter im Sommer – sonnig, warm und lang.",
+      "en": "I love the weather in summer – sunny, warm and long."
+    },
+    {
+      "de": "Die Luftfeuchtigkeit ist heute sehr hoch, es schwitzt.",
+      "en": "Humidity is very high today, it's sweaty."
+    },
+    {
+      "de": "Plötzlich zog ein schweres Gewitter auf mit Blitz und Donner.",
+      "en": "Suddenly a severe thunderstorm with lightning and thunder approached."
+    },
+    {
+      "de": "Die Vorhersage für morgen verspricht sonniges und trockenes Wetter.",
+      "en": "The forecast for tomorrow promises sunny and dry weather."
+    },
+    {
+      "de": "Es hat die ganze Nacht geschneit, jetzt liegt alles weiß.",
+      "en": "It snowed all night, now everything is white."
+    },
+    {
+      "de": "Bei solcher Hitze ist es am besten, am See zu bleiben.",
+      "en": "In such heat it's best to stay by the lake."
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "theme": "Human Body",
+  "words": [
+    {
+      "de": "der Körper",
+      "en": "body",
+      "sentence_de": "Der menschliche Körper ist ein Wunderwerk.",
+      "sentence_en": "The human body is a marvel."
+    },
+    {
+      "de": "der Kopf",
+      "en": "head",
+      "sentence_de": "Mein Kopf tut weh.",
+      "sentence_en": "My head hurts."
+    },
+    {
+      "de": "das Haar / die Haare",
+      "en": "hair",
+      "sentence_de": "Sie hat lange, blonde Haare.",
+      "sentence_en": "She has long, blonde hair."
+    },
+    {
+      "de": "das Gesicht",
+      "en": "face",
+      "sentence_de": "Ihr Gesicht ist rot von der Sonne.",
+      "sentence_en": "Her face is red from the sun."
+    },
+    {
+      "de": "die Stirn",
+      "en": "forehead",
+      "sentence_de": "Er hat sich die Stirn gestoßen.",
+      "sentence_en": "He bumped his forehead."
+    },
+    {
+      "de": "die Augenbraue",
+      "en": "eyebrow",
+      "sentence_de": "Sie zog eine Augenbraue hoch.",
+      "sentence_en": "She raised an eyebrow."
+    },
+    {
+      "de": "das Auge",
+      "en": "eye",
+      "sentence_de": "Seine Augen sind blau.",
+      "sentence_en": "His eyes are blue."
+    },
+    {
+      "de": "die Wimper",
+      "en": "eyelash",
+      "sentence_de": "Ihre Wimpern sind lang und dunkel.",
+      "sentence_en": "Her eyelashes are long and dark."
+    },
+    {
+      "de": "das Ohr",
+      "en": "ear",
+      "sentence_de": "Ich habe ein Ohrring im linken Ohr.",
+      "sentence_en": "I have an earring in my left ear."
+    },
+    {
+      "de": "die Nase",
+      "en": "nose",
+      "sentence_de": "Er hat sich die Nase gebrochen.",
+      "sentence_en": "He broke his nose."
+    },
+    {
+      "de": "der Mund",
+      "en": "mouth",
+      "sentence_de": "Bitte den Mund öffnen.",
+      "sentence_en": "Please open your mouth."
+    },
+    {
+      "de": "die Lippe",
+      "en": "lip",
+      "sentence_de": "Ihre Lippen sind trocken.",
+      "sentence_en": "Her lips are dry."
+    },
+    {
+      "de": "der Zahn",
+      "en": "tooth",
+      "sentence_de": "Ich muss zum Zahnarzt, weil mir ein Zahn schmerzt.",
+      "sentence_en": "I need to see a dentist because a tooth hurts."
+    },
+    {
+      "de": "die Zunge",
+      "en": "tongue",
+      "sentence_de": "Die Zunge ist ein Muskel.",
+      "sentence_en": "The tongue is a muscle."
+    },
+    {
+      "de": "das Kinn",
+      "en": "chin",
+      "sentence_de": "Er hat einen kleinen Bart am Kinn.",
+      "sentence_en": "He has a small beard on his chin."
+    },
+    {
+      "de": "der Hals",
+      "en": "neck",
+      "sentence_de": "Mein Hals ist steif vom Sitzen.",
+      "sentence_en": "My neck is stiff from sitting."
+    },
+    {
+      "de": "die Schulter",
+      "en": "shoulder",
+      "sentence_de": "Sie trug die Tasche über der Schulter.",
+      "sentence_en": "She carried the bag over her shoulder."
+    },
+    {
+      "de": "der Arm",
+      "en": "arm",
+      "sentence_de": "Er hat sich den Arm gebrochen.",
+      "sentence_en": "He broke his arm."
+    },
+    {
+      "de": "der Oberarm",
+      "en": "upper arm",
+      "sentence_de": "Er hat starke Oberarme vom Training.",
+      "sentence_en": "He has strong upper arms from training."
+    },
+    {
+      "de": "der Ellbogen / Ellenbogen",
+      "en": "elbow",
+      "sentence_de": "Ich habe mich am Ellbogen gestoßen.",
+      "sentence_en": "I bumped my elbow."
+    },
+    {
+      "de": "der Unterarm",
+      "en": "forearm",
+      "sentence_de": "Der Unterarm ist zwischen Ellbogen und Hand.",
+      "sentence_en": "The forearm is between the elbow and hand."
+    },
+    {
+      "de": "das Handgelenk",
+      "en": "wrist",
+      "sentence_de": "Mein Handgelenk tut weh.",
+      "sentence_en": "My wrist hurts."
+    },
+    {
+      "de": "die Hand",
+      "en": "hand",
+      "sentence_de": "Waschen Sie sich die Hände.",
+      "sentence_en": "Wash your hands."
+    },
+    {
+      "de": "der Finger",
+      "en": "finger",
+      "sentence_de": "Sie hat einen Ring am Finger.",
+      "sentence_en": "She has a ring on her finger."
+    },
+    {
+      "de": "der Daumen",
+      "en": "thumb",
+      "sentence_de": "Ich habe mir den Daumen eingeklemmt.",
+      "sentence_en": "I caught my thumb."
+    },
+    {
+      "de": "der Zeigefinger",
+      "en": "index finger",
+      "sentence_de": "Er zeigt mit dem Zeigefinger auf die Karte.",
+      "sentence_en": "He points at the map with his index finger."
+    },
+    {
+      "de": "der Fingernagel",
+      "en": "fingernail",
+      "sentence_de": "Sie lackiert ihre Fingernägel rot.",
+      "sentence_en": "She paints her fingernails red."
+    },
+    {
+      "de": "die Brust",
+      "en": "chest",
+      "sentence_de": "Er hat starke Brustmuskeln.",
+      "sentence_en": "He has strong chest muscles."
+    },
+    {
+      "de": "der Bauch",
+      "en": "belly / stomach (abdomen)",
+      "sentence_de": "Mein Bauch grummelt vor Hunger.",
+      "sentence_en": "My stomach is growling from hunger."
+    },
+    {
+      "de": "der Rücken",
+      "en": "back",
+      "sentence_de": "Ich habe Schmerzen im unteren Rücken.",
+      "sentence_en": "I have pain in my lower back."
+    },
+    {
+      "de": "die Wirbelsäule",
+      "en": "spine",
+      "sentence_de": "Die Wirbelsäule schützt das Rückenmark.",
+      "sentence_en": "The spine protects the spinal cord."
+    },
+    {
+      "de": "das Bein",
+      "en": "leg",
+      "sentence_de": "Er hat sich das Bein verstaucht.",
+      "sentence_en": "He sprained his leg."
+    },
+    {
+      "de": "der Oberschenkel",
+      "en": "thigh",
+      "sentence_de": "Sie spürt den Muskelkater in den Oberschenkeln.",
+      "sentence_en": "She feels the soreness in her thighs."
+    },
+    {
+      "de": "das Knie",
+      "en": "knee",
+      "sentence_de": "Er fiel auf die Knie.",
+      "sentence_en": "He fell to his knees."
+    },
+    {
+      "de": "die Wade",
+      "en": "calf",
+      "sentence_de": "Die Wade schmerzt beim Laufen.",
+      "sentence_en": "The calf hurts when running."
+    },
+    {
+      "de": "der Knöchel",
+      "en": "ankle",
+      "sentence_de": "Ich habe mir den Knöchel verstaucht.",
+      "sentence_en": "I sprained my ankle."
+    },
+    {
+      "de": "der Fuß",
+      "en": "foot",
+      "sentence_de": "Meine Füße sind kalt.",
+      "sentence_en": "My feet are cold."
+    },
+    {
+      "de": "der Zeh",
+      "en": "toe",
+      "sentence_de": "Ich habe mir den großen Zeh gestoßen.",
+      "sentence_en": "I stubbed my big toe."
+    },
+    {
+      "de": "die Haut",
+      "en": "skin",
+      "sentence_de": "Die Haut braucht Schutz vor der Sonne.",
+      "sentence_en": "The skin needs protection from the sun."
+    },
+    {
+      "de": "das Blut",
+      "en": "blood",
+      "sentence_de": "Blut fließt durch unsere Adern.",
+      "sentence_en": "Blood flows through our veins."
+    },
+    {
+      "de": "der Knochen",
+      "en": "bone",
+      "sentence_de": "Das menschliche Skelett hat 206 Knochen.",
+      "sentence_en": "The human skeleton has 206 bones."
+    },
+    {
+      "de": "der Muskel",
+      "en": "muscle",
+      "sentence_de": "Beim Sport werden die Muskeln trainiert.",
+      "sentence_en": "During sports, the muscles are trained."
+    },
+    {
+      "de": "das Organ",
+      "en": "organ",
+      "sentence_de": "Das Herz ist ein lebenswichtiges Organ.",
+      "sentence_en": "The heart is a vital organ."
+    },
+    {
+      "de": "das Herz",
+      "en": "heart",
+      "sentence_de": "Mein Herz schlägt schnell.",
+      "sentence_en": "My heart is beating fast."
+    },
+    {
+      "de": "die Lunge",
+      "en": "lung",
+      "sentence_de": "Rauchen schädigt die Lunge.",
+      "sentence_en": "Smoking damages the lungs."
+    },
+    {
+      "de": "der Magen",
+      "en": "stomach (organ)",
+      "sentence_de": "Der Magen verdaut die Nahrung.",
+      "sentence_en": "The stomach digests the food."
+    },
+    {
+      "de": "die Leber",
+      "en": "liver",
+      "sentence_de": "Die Leber filtert Giftstoffe aus dem Blut.",
+      "sentence_en": "The liver filters toxins from the blood."
+    },
+    {
+      "de": "die Niere",
+      "en": "kidney",
+      "sentence_de": "Die Nieren regulieren den Wasserhaushalt.",
+      "sentence_en": "The kidneys regulate the water balance."
+    },
+    {
+      "de": "das Gehirn",
+      "en": "brain",
+      "sentence_de": "Das Gehirn ist das wichtigste Organ.",
+      "sentence_en": "The brain is the most important organ."
+    },
+    {
+      "de": "die Ader",
+      "en": "vein",
+      "sentence_de": "Die Adern sind auf seiner Hand sichtbar.",
+      "sentence_en": "The veins are visible on his hand."
+    },
+    {
+      "de": "das Gelenk",
+      "en": "joint",
+      "sentence_de": "Ältere Menschen haben oft steife Gelenke.",
+      "sentence_en": "Older people often have stiff joints."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "atmen",
+      "en": "to breathe",
+      "sentence_de": "Wir atmen die frische Luft ein.",
+      "sentence_en": "We breathe in the fresh air."
+    },
+    {
+      "de": "blinzeln / zwinkern",
+      "en": "to blink / wink",
+      "sentence_de": "Er zwinkert ihr mit dem Auge zu.",
+      "sentence_en": "He winks at her."
+    },
+    {
+      "de": "riechen",
+      "en": "to smell",
+      "sentence_de": "Ich rieche die Blumen.",
+      "sentence_en": "I smell the flowers."
+    },
+    {
+      "de": "schmecken",
+      "en": "to taste",
+      "sentence_de": "Das Essen schmeckt köstlich.",
+      "sentence_en": "The food tastes delicious."
+    },
+    {
+      "de": "hören",
+      "en": "to hear",
+      "sentence_de": "Ich höre die Vögel singen.",
+      "sentence_en": "I hear the birds singing."
+    },
+    {
+      "de": "sehen",
+      "en": "to see",
+      "sentence_de": "Sie sieht den Sonnenuntergang.",
+      "sentence_en": "She sees the sunset."
+    },
+    {
+      "de": "fühlen",
+      "en": "to feel",
+      "sentence_de": "Ich fühle den Schmerz in meinem Bein.",
+      "sentence_en": "I feel the pain in my leg."
+    },
+    {
+      "de": "berühren",
+      "en": "to touch",
+      "sentence_de": "Berühre die heiße Herdplatte nicht.",
+      "sentence_en": "Don't touch the hot stove."
+    },
+    {
+      "de": "greifen",
+      "en": "to grasp / grab",
+      "sentence_de": "Sie greift nach dem Glas.",
+      "sentence_en": "She reaches for the glass."
+    },
+    {
+      "de": "schlucken",
+      "en": "to swallow",
+      "sentence_de": "Die Tablette muss man schlucken.",
+      "sentence_en": "You have to swallow the pill."
+    },
+    {
+      "de": "kauen",
+      "en": "to chew",
+      "sentence_de": "Kauen Sie das Essen gut.",
+      "sentence_en": "Chew the food well."
+    },
+    {
+      "de": "beißen",
+      "en": "to bite",
+      "sentence_de": "Der Hund hat mich in den Finger gebissen.",
+      "sentence_en": "The dog bit me in the finger."
+    },
+    {
+      "de": "niesen",
+      "en": "to sneeze",
+      "sentence_de": "Ich muss niesen – habe ich eine Erkältung?",
+      "sentence_en": "I have to sneeze – do I have a cold?"
+    },
+    {
+      "de": "husten",
+      "en": "to cough",
+      "sentence_de": "Er hustet den ganzen Tag.",
+      "sentence_en": "He coughs all day."
+    },
+    {
+      "de": "gähnen",
+      "en": "to yawn",
+      "sentence_de": "Ich gähne, weil ich müde bin.",
+      "sentence_en": "I yawn because I'm tired."
+    },
+    {
+      "de": "lächeln",
+      "en": "to smile",
+      "sentence_de": "Sie lächelt mich freundlich an.",
+      "sentence_en": "She smiles at me kindly."
+    },
+    {
+      "de": "lachen",
+      "en": "to laugh",
+      "sentence_de": "Wir lachen über den Witz.",
+      "sentence_en": "We laugh at the joke."
+    },
+    {
+      "de": "weinen",
+      "en": "to cry",
+      "sentence_de": "Das Baby weint laut.",
+      "sentence_en": "The baby is crying loudly."
+    },
+    {
+      "de": "schreien",
+      "en": "to shout / scream",
+      "sentence_de": "Er schreit vor Schmerz.",
+      "sentence_en": "He screams in pain."
+    },
+    {
+      "de": "flüstern",
+      "en": "to whisper",
+      "sentence_de": "Sie flüstert ein Geheimnis.",
+      "sentence_en": "She whispers a secret."
+    },
+    {
+      "de": "schwitzen",
+      "en": "to sweat",
+      "sentence_de": "Bei der Hitze schwitze ich viel.",
+      "sentence_en": "I sweat a lot in the heat."
+    },
+    {
+      "de": "zittern",
+      "en": "to shake / tremble",
+      "sentence_de": "Seine Hände zittern vor Kälte.",
+      "sentence_en": "His hands are trembling from the cold."
+    },
+    {
+      "de": "verletzen",
+      "en": "to injure",
+      "sentence_de": "Er hat sich beim Fußball verletzt.",
+      "sentence_en": "He injured himself playing football."
+    },
+    {
+      "de": "heilen",
+      "en": "to heal",
+      "sentence_de": "Die Wunde heilt langsam.",
+      "sentence_en": "The wound is healing slowly."
+    },
+    {
+      "de": "bluten",
+      "en": "to bleed",
+      "sentence_de": "Mein Finger blutet.",
+      "sentence_en": "My finger is bleeding."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "groß",
+      "en": "big / tall",
+      "sentence_de": "Er ist sehr groß.",
+      "sentence_en": "He is very tall."
+    },
+    {
+      "de": "klein",
+      "en": "small / short",
+      "sentence_de": "Sie ist klein für ihr Alter.",
+      "sentence_en": "She is small for her age."
+    },
+    {
+      "de": "schlank",
+      "en": "slim",
+      "sentence_de": "Sie hat eine schlanke Figur.",
+      "sentence_en": "She has a slim figure."
+    },
+    {
+      "de": "dünn",
+      "en": "thin",
+      "sentence_de": "Er ist sehr dünn.",
+      "sentence_en": "He is very thin."
+    },
+    {
+      "de": "dick",
+      "en": "fat / thick",
+      "sentence_de": "Seine Arme sind dick und kräftig.",
+      "sentence_en": "His arms are thick and strong."
+    },
+    {
+      "de": "muskulös",
+      "en": "muscular",
+      "sentence_de": "Der Athlet ist sehr muskulös.",
+      "sentence_en": "The athlete is very muscular."
+    },
+    {
+      "de": "schwach",
+      "en": "weak",
+      "sentence_de": "Nach der Krankheit fühle ich mich schwach.",
+      "sentence_en": "After the illness I feel weak."
+    },
+    {
+      "de": "stark",
+      "en": "strong",
+      "sentence_de": "Er hat starke Muskeln.",
+      "sentence_en": "He has strong muscles."
+    },
+    {
+      "de": "gesund",
+      "en": "healthy",
+      "sentence_de": "Ein gesunder Körper ist wichtig.",
+      "sentence_en": "A healthy body is important."
+    },
+    {
+      "de": "krank",
+      "en": "ill / sick",
+      "sentence_de": "Sie ist heute krank.",
+      "sentence_en": "She is sick today."
+    },
+    {
+      "de": "verletzt",
+      "en": "injured",
+      "sentence_de": "Der verletzte Spieler muss ausgewechselt werden.",
+      "sentence_en": "The injured player has to be substituted."
+    },
+    {
+      "de": "schmerzhaft",
+      "en": "painful",
+      "sentence_de": "Die Verletzung ist sehr schmerzhaft.",
+      "sentence_en": "The injury is very painful."
+    },
+    {
+      "de": "blau (blauer Fleck)",
+      "en": "bruised (bruise)",
+      "sentence_de": "Ich habe einen blauen Fleck am Knie.",
+      "sentence_en": "I have a bruise on my knee."
+    },
+    {
+      "de": "rot",
+      "en": "red",
+      "sentence_de": "Ihre Wangen sind rot.",
+      "sentence_en": "Her cheeks are red."
+    },
+    {
+      "de": "blass",
+      "en": "pale",
+      "sentence_de": "Er ist blass vor Schreck.",
+      "sentence_en": "He is pale from shock."
+    },
+    {
+      "de": "sonnengebräunt",
+      "en": "tanned",
+      "sentence_de": "Nach dem Urlaub ist sie sonnengebräunt.",
+      "sentence_en": "After the vacation she is tanned."
+    },
+    {
+      "de": "nackt",
+      "en": "naked / nude",
+      "sentence_de": "Das Baby läuft nackt herum.",
+      "sentence_en": "The baby is running around naked."
+    },
+    {
+      "de": "behaart",
+      "en": "hairy",
+      "sentence_de": "Seine Brust ist behaart.",
+      "sentence_en": "His chest is hairy."
+    },
+    {
+      "de": "glatt",
+      "en": "smooth",
+      "sentence_de": "Die Haut ist glatt und weich.",
+      "sentence_en": "The skin is smooth and soft."
+    },
+    {
+      "de": "rau",
+      "en": "rough",
+      "sentence_de": "Seine Hände sind rau von der Arbeit.",
+      "sentence_en": "His hands are rough from work."
+    },
+    {
+      "de": "flexibel",
+      "en": "flexible",
+      "sentence_de": "Yoga macht den Körper flexibel.",
+      "sentence_en": "Yoga makes the body flexible."
+    },
+    {
+      "de": "steif",
+      "en": "stiff",
+      "sentence_de": "Meine Gelenke sind morgens steif.",
+      "sentence_en": "My joints are stiff in the morning."
+    },
+    {
+      "de": "empfindlich",
+      "en": "sensitive",
+      "sentence_de": "Meine Haut ist empfindlich gegen Sonne.",
+      "sentence_en": "My skin is sensitive to the sun."
+    },
+    {
+      "de": "warm",
+      "en": "warm",
+      "sentence_de": "Seine Hände sind warm.",
+      "sentence_en": "His hands are warm."
+    },
+    {
+      "de": "kalt",
+      "en": "cold",
+      "sentence_de": "Ihre Füße sind kalt.",
+      "sentence_en": "Her feet are cold."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "schnell",
+      "en": "quickly / fast",
+      "sentence_de": "Mein Herz schlägt schnell.",
+      "sentence_en": "My heart beats quickly."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Atmen Sie tief und langsam.",
+      "sentence_en": "Breathe deeply and slowly."
+    },
+    {
+      "de": "tief",
+      "en": "deeply",
+      "sentence_de": "Er atmet tief ein.",
+      "sentence_en": "He breathes in deeply."
+    },
+    {
+      "de": "flach",
+      "en": "shallowly",
+      "sentence_de": "Sie atmet flach vor Angst.",
+      "sentence_en": "She breathes shallowly from fear."
+    },
+    {
+      "de": "laut",
+      "en": "loudly",
+      "sentence_de": "Das Baby weint laut.",
+      "sentence_en": "The baby cries loudly."
+    },
+    {
+      "de": "leise",
+      "en": "quietly",
+      "sentence_de": "Sie flüstert leise.",
+      "sentence_en": "She whispers quietly."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Er hebt die Verletzte vorsichtig hoch.",
+      "sentence_en": "He lifts the injured woman carefully."
+    },
+    {
+      "de": "kräftig",
+      "en": "strongly / vigorously",
+      "sentence_de": "Sie umarmt ihn kräftig.",
+      "sentence_en": "She hugs him strongly."
+    },
+    {
+      "de": "sanft",
+      "en": "gently / softly",
+      "sentence_de": "Er streichelt sanft ihre Hand.",
+      "sentence_en": "He gently strokes her hand."
+    },
+    {
+      "de": "hart",
+      "en": "hard / harshly",
+      "sentence_de": "Er schlägt hart auf den Tisch.",
+      "sentence_en": "He hits the table hard."
+    },
+    {
+      "de": "schmerzhaft",
+      "en": "painfully",
+      "sentence_de": "Er fällt schmerzhaft aufs Knie.",
+      "sentence_en": "He falls painfully on his knee."
+    },
+    {
+      "de": "unbewusst",
+      "en": "unconsciously",
+      "sentence_de": "Sie atmet unbewusst tief ein.",
+      "sentence_en": "She breathes in deeply unconsciously."
+    },
+    {
+      "de": "bewusst",
+      "en": "consciously",
+      "sentence_de": "Er bewegt bewusst jeden Muskel.",
+      "sentence_en": "He consciously moves every muscle."
+    },
+    {
+      "de": "gleichmäßig",
+      "en": "evenly / regularly",
+      "sentence_de": "Sein Herz schlägt gleichmäßig.",
+      "sentence_en": "His heart beats evenly."
+    },
+    {
+      "de": "unregelmäßig",
+      "en": "irregularly",
+      "sentence_de": "Ihr Puls schlägt unregelmäßig.",
+      "sentence_en": "Her pulse beats irregularly."
+    },
+    {
+      "de": "weich",
+      "en": "softly",
+      "sentence_de": "Die Haut fühlt sich weich an.",
+      "sentence_en": "The skin feels softly."
+    },
+    {
+      "de": "fest",
+      "en": "firmly",
+      "sentence_de": "Er fasst den Arm fest an.",
+      "sentence_en": "He grips the arm firmly."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich habe oft Kopfschmerzen.",
+      "sentence_en": "I often have headaches."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Sie wird selten krank.",
+      "sentence_en": "She rarely gets sick."
+    },
+    {
+      "de": "plötzlich",
+      "en": "suddenly",
+      "sentence_de": "Plötzlich verspürte er einen stechenden Schmerz.",
+      "sentence_en": "Suddenly he felt a stabbing pain."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Der menschliche Körper besteht aus vielen Organen und Knochen.",
+      "en": "The human body consists of many organs and bones."
+    },
+    {
+      "de": "Ich habe mir den Arm gebrochen und muss jetzt einen Gips tragen.",
+      "en": "I broke my arm and now have to wear a cast."
+    },
+    {
+      "de": "Das Herz pumpt das Blut durch den ganzen Körper.",
+      "en": "The heart pumps blood throughout the entire body."
+    },
+    {
+      "de": "Sie hat wunderschöne grüne Augen und lange braune Haare.",
+      "en": "She has beautiful green eyes and long brown hair."
+    },
+    {
+      "de": "Bei Erkältung sollten Sie viel trinken und sich ausruhen.",
+      "en": "When you have a cold, you should drink a lot and rest."
+    },
+    {
+      "de": "Der Arzt untersucht meinen Rücken und fragt nach den Schmerzen.",
+      "en": "The doctor examines my back and asks about the pain."
+    },
+    {
+      "de": "Wir benutzen unsere Hände, um Dinge zu greifen und zu fühlen.",
+      "en": "We use our hands to grasp and feel things."
+    },
+    {
+      "de": "Die Haut ist das größte Organ des menschlichen Körpers.",
+      "en": "The skin is the largest organ of the human body."
+    },
+    {
+      "de": "Nach dem Training sind meine Beine schwer und meine Muskeln müde.",
+      "en": "After training my legs are heavy and my muscles are tired."
+    },
+    {
+      "de": "Man sollte auf eine gesunde Ernährung achten, um den Körper zu stärken.",
+      "en": "You should pay attention to a healthy diet to strengthen the body."
+    },
+    {
+      "de": "Die Wirbelsäule schützt das Rückenmark und gibt dem Körper Halt.",
+      "en": "The spine protects the spinal cord and gives support to the body."
+    },
+    {
+      "de": "Ich habe mir den Knöchel verstaucht, als ich Treppen gelaufen bin.",
+      "en": "I sprained my ankle while running down the stairs."
+    },
+    {
+      "de": "Seine Hände zittern vor Kälte, also gib ihm eine warme Decke.",
+      "en": "His hands are trembling from the cold, so give him a warm blanket."
+    },
+    {
+      "de": "Der Magen produziert Säure, um die Nahrung zu verdauen.",
+      "en": "The stomach produces acid to digest the food."
+    },
+    {
+      "de": "Wenn du deine Augen reibst, kannst du sie verletzen.",
+      "en": "If you rub your eyes, you can hurt them."
+    }
+  ]
+}

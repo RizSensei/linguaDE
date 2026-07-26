@@ -1,0 +1,733 @@
+{
+  "theme": "Bank",
+  "words": [
+    {
+      "de": "die Bank",
+      "en": "bank",
+      "sentence_de": "Die Bank ist bis 18 Uhr geöffnet.",
+      "sentence_en": "The bank is open until 6 PM."
+    },
+    {
+      "de": "die Filiale",
+      "en": "branch",
+      "sentence_de": "Die Filiale in der Innenstadt ist sehr groß.",
+      "sentence_en": "The branch in the city center is very large."
+    },
+    {
+      "de": "der Schalter",
+      "en": "counter / teller window",
+      "sentence_de": "Gehen Sie bitte zum Schalter 3.",
+      "sentence_en": "Please go to counter 3."
+    },
+    {
+      "de": "der Bankmitarbeiter / die Bankangestellte",
+      "en": "bank employee / clerk",
+      "sentence_de": "Der Bankmitarbeiter berät mich freundlich.",
+      "sentence_en": "The bank clerk advises me in a friendly manner."
+    },
+    {
+      "de": "der Berater / die Beraterin",
+      "en": "advisor",
+      "sentence_de": "Die Beraterin hilft mir bei meiner Finanzplanung.",
+      "sentence_en": "The advisor helps me with my financial planning."
+    },
+    {
+      "de": "der Kunde / die Kundin",
+      "en": "customer",
+      "sentence_de": "Die Kundin wartet auf ihre Kontoauszüge.",
+      "sentence_en": "The customer is waiting for her account statements."
+    },
+    {
+      "de": "das Konto",
+      "en": "account",
+      "sentence_de": "Ich habe ein Konto bei der Sparkasse.",
+      "sentence_en": "I have an account at the savings bank."
+    },
+    {
+      "de": "das Girokonto",
+      "en": "current account / checking account",
+      "sentence_de": "Das Girokonto wird für den täglichen Zahlungsverkehr genutzt.",
+      "sentence_en": "The checking account is used for daily transactions."
+    },
+    {
+      "de": "das Sparkonto",
+      "en": "savings account",
+      "sentence_de": "Auf dem Sparkonto gibt es Zinsen.",
+      "sentence_en": "There is interest on the savings account."
+    },
+    {
+      "de": "das Tagesgeldkonto",
+      "en": "overnight money account",
+      "sentence_de": "Das Tagesgeldkonto bietet flexible Zinsen.",
+      "sentence_en": "The overnight money account offers flexible interest rates."
+    },
+    {
+      "de": "das Festgeld",
+      "en": "fixed deposit",
+      "sentence_de": "Festgeld wird für einen bestimmten Zeitraum angelegt.",
+      "sentence_en": "Fixed deposit is invested for a specific period."
+    },
+    {
+      "de": "die Kontonummer",
+      "en": "account number",
+      "sentence_de": "Bitte geben Sie Ihre Kontonummer an.",
+      "sentence_en": "Please provide your account number."
+    },
+    {
+      "de": "die Bankleitzahl (BLZ)",
+      "en": "bank routing number (obsolete in Germany)",
+      "sentence_de": "Früher brauchte man die BLZ für Überweisungen.",
+      "sentence_en": "In the past you needed the routing number for transfers."
+    },
+    {
+      "de": "die IBAN",
+      "en": "IBAN",
+      "sentence_de": "Die IBAN ist eine internationale Kontonummer.",
+      "sentence_en": "The IBAN is an international account number."
+    },
+    {
+      "de": "der BIC",
+      "en": "BIC",
+      "sentence_de": "Der BIC identifiziert die Bank weltweit.",
+      "sentence_en": "The BIC identifies the bank globally."
+    },
+    {
+      "de": "die Überweisung",
+      "en": "transfer",
+      "sentence_de": "Ich habe die Überweisung bereits getätigt.",
+      "sentence_en": "I already made the transfer."
+    },
+    {
+      "de": "der Dauerauftrag",
+      "en": "standing order",
+      "sentence_de": "Die Miete wird per Dauerauftrag bezahlt.",
+      "sentence_en": "The rent is paid by standing order."
+    },
+    {
+      "de": "die Lastschrift",
+      "en": "direct debit",
+      "sentence_de": "Die Versicherung wird per Lastschrift eingezogen.",
+      "sentence_en": "The insurance is collected by direct debit."
+    },
+    {
+      "de": "das Bargeld",
+      "en": "cash",
+      "sentence_de": "Ich habe nicht genug Bargeld dabei.",
+      "sentence_en": "I don't have enough cash with me."
+    },
+    {
+      "de": "der Geldschein",
+      "en": "banknote",
+      "sentence_de": "Der 50-Euro-Schein ist der häufigste Geldschein.",
+      "sentence_en": "The 50-euro note is the most common banknote."
+    },
+    {
+      "de": "die Münze",
+      "en": "coin",
+      "sentence_de": "Die 2-Euro-Münze ist sehr verbreitet.",
+      "sentence_en": "The 2-euro coin is very common."
+    },
+    {
+      "de": "der Geldautomat",
+      "en": "ATM / cash machine",
+      "sentence_de": "Am Geldautomaten kann ich Bargeld abheben.",
+      "sentence_en": "At the ATM I can withdraw cash."
+    },
+    {
+      "de": "der Einzahlungsautomat",
+      "en": "cash deposit machine",
+      "sentence_de": "Ich zahle das Geld am Einzahlungsautomaten ein.",
+      "sentence_en": "I deposit the cash at the cash deposit machine."
+    },
+    {
+      "de": "die Karte / die Bankkarte",
+      "en": "card / bank card",
+      "sentence_de": "Ohne Karte kann ich am Automaten nichts abheben.",
+      "sentence_en": "Without my card I can't withdraw anything at the machine."
+    },
+    {
+      "de": "die EC-Karte / die Girocard",
+      "en": "debit card",
+      "sentence_de": "Mit der EC-Karte kann ich im Supermarkt bezahlen.",
+      "sentence_en": "With the debit card I can pay in the supermarket."
+    },
+    {
+      "de": "die Kreditkarte",
+      "en": "credit card",
+      "sentence_de": "Die Kreditkarte wird weltweit akzeptiert.",
+      "sentence_en": "The credit card is accepted worldwide."
+    },
+    {
+      "de": "die PIN",
+      "en": "PIN",
+      "sentence_de": "Geben Sie Ihre PIN ein, um den Vorgang zu bestätigen.",
+      "sentence_en": "Enter your PIN to confirm the transaction."
+    },
+    {
+      "de": "die TAN",
+      "en": "TAN (transaction number)",
+      "sentence_de": "Für die Online-Überweisung benötige ich eine TAN.",
+      "sentence_en": "For the online transfer I need a TAN."
+    },
+    {
+      "de": "der Kontoauszug",
+      "en": "bank statement",
+      "sentence_de": "Ich drucke meinen Kontoauszug am Automaten.",
+      "sentence_en": "I print my bank statement at the machine."
+    },
+    {
+      "de": "die Kontoführungsgebühren",
+      "en": "account fees",
+      "sentence_de": "Die Kontoführungsgebühren werden monatlich abgebucht.",
+      "sentence_en": "The account fees are deducted monthly."
+    },
+    {
+      "de": "der Zins / die Zinsen",
+      "en": "interest (rate)",
+      "sentence_de": "Die Zinsen sind in letzter Zeit gestiegen.",
+      "sentence_en": "Interest rates have risen recently."
+    },
+    {
+      "de": "der Habenzins",
+      "en": "credit interest",
+      "sentence_de": "Der Habenzins wird auf das Guthaben gezahlt.",
+      "sentence_en": "Credit interest is paid on the balance."
+    },
+    {
+      "de": "der Sollzins",
+      "en": "debit interest",
+      "sentence_de": "Der Sollzins ist höher als der Habenzins.",
+      "sentence_en": "The debit interest is higher than the credit interest."
+    },
+    {
+      "de": "der Kredit",
+      "en": "loan",
+      "sentence_de": "Wir haben einen Kredit für das Haus aufgenommen.",
+      "sentence_en": "We took out a loan for the house."
+    },
+    {
+      "de": "der Dispokredit",
+      "en": "overdraft facility",
+      "sentence_de": "Der Dispokredit erlaubt mir, das Konto zu überziehen.",
+      "sentence_en": "The overdraft facility allows me to overdraw my account."
+    },
+    {
+      "de": "die Hypothek",
+      "en": "mortgage",
+      "sentence_de": "Die Hypothek ist mit dem Grundstück verbunden.",
+      "sentence_en": "The mortgage is tied to the property."
+    },
+    {
+      "de": "die Tilgung",
+      "en": "repayment",
+      "sentence_de": "Die Tilgung des Kredits erfolgt in monatlichen Raten.",
+      "sentence_en": "Repayment of the loan is made in monthly installments."
+    },
+    {
+      "de": "die Rate",
+      "en": "installment",
+      "sentence_de": "Die monatliche Rate beträgt 500 Euro.",
+      "sentence_en": "The monthly installment is 500 euros."
+    },
+    {
+      "de": "die Unterschrift",
+      "en": "signature",
+      "sentence_de": "Bitte setzen Sie Ihre Unterschrift auf das Formular.",
+      "sentence_en": "Please put your signature on the form."
+    },
+    {
+      "de": "das Formular",
+      "en": "form",
+      "sentence_de": "Ich fülle das Formular für die Kontoeröffnung aus.",
+      "sentence_en": "I fill out the form for the account opening."
+    },
+    {
+      "de": "die Kontoeröffnung",
+      "en": "account opening",
+      "sentence_de": "Für die Kontoeröffnung brauchen Sie Ihren Ausweis.",
+      "sentence_en": "For the account opening you need your ID."
+    },
+    {
+      "de": "die Kündigung",
+      "en": "termination / cancellation",
+      "sentence_de": "Die Kündigung des Kontos muss schriftlich erfolgen.",
+      "sentence_en": "The cancellation of the account must be done in writing."
+    },
+    {
+      "de": "die Online-Banking",
+      "en": "online banking",
+      "sentence_de": "Online-Banking ist sicher und bequem.",
+      "sentence_en": "Online banking is safe and convenient."
+    },
+    {
+      "de": "die App",
+      "en": "app",
+      "sentence_de": "Mit der Banking-App kann ich Überweisungen von überall aus tätigen.",
+      "sentence_en": "With the banking app I can make transfers from anywhere."
+    },
+    {
+      "de": "die Sicherheit",
+      "en": "security",
+      "sentence_de": "Die Bank legt großen Wert auf Sicherheit.",
+      "sentence_en": "The bank places great importance on security."
+    },
+    {
+      "de": "der Schalterraum",
+      "en": "counter hall",
+      "sentence_de": "Der Schalterraum ist mit Kameras überwacht.",
+      "sentence_en": "The counter hall is monitored by cameras."
+    },
+    {
+      "de": "die Warteschlange",
+      "en": "queue",
+      "sentence_de": "Vor dem Schalter steht eine lange Warteschlange.",
+      "sentence_en": "There is a long queue in front of the counter."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "überweisen",
+      "en": "to transfer",
+      "sentence_de": "Ich überweise das Geld auf Ihr Konto.",
+      "sentence_en": "I'm transferring the money to your account."
+    },
+    {
+      "de": "einzahlen",
+      "en": "to deposit",
+      "sentence_de": "Ich zahle 500 Euro in bar auf mein Konto ein.",
+      "sentence_en": "I deposit 500 euros in cash into my account."
+    },
+    {
+      "de": "abheben",
+      "en": "to withdraw",
+      "sentence_de": "Ich hebe 100 Euro am Geldautomaten ab.",
+      "sentence_en": "I withdraw 100 euros from the ATM."
+    },
+    {
+      "de": "überziehen",
+      "en": "to overdraw",
+      "sentence_de": "Achtung, überziehen Sie Ihr Konto nicht ohne Dispo.",
+      "sentence_en": "Caution, don't overdraw your account without an overdraft facility."
+    },
+    {
+      "de": "ausgleichen",
+      "en": "to balance / settle",
+      "sentence_de": "Ich gleiche mein Konto jeden Monat aus.",
+      "sentence_en": "I balance my account every month."
+    },
+    {
+      "de": "kontoführen",
+      "en": "to manage (an account)",
+      "sentence_de": "Die Bank führt das Konto für mich.",
+      "sentence_en": "The bank manages the account for me."
+    },
+    {
+      "de": "beraten",
+      "en": "to advise",
+      "sentence_de": "Der Berater berät mich zu Investitionen.",
+      "sentence_en": "The advisor advises me on investments."
+    },
+    {
+      "de": "unterschreiben",
+      "en": "to sign",
+      "sentence_de": "Bitte unterschreiben Sie den Vertrag.",
+      "sentence_en": "Please sign the contract."
+    },
+    {
+      "de": "beantragen",
+      "en": "to apply for",
+      "sentence_de": "Ich beantrage einen neuen Kredit.",
+      "sentence_en": "I am applying for a new loan."
+    },
+    {
+      "de": "genehmigen",
+      "en": "to approve",
+      "sentence_de": "Die Bank genehmigt den Kreditantrag.",
+      "sentence_en": "The bank approves the loan application."
+    },
+    {
+      "de": "ablehnen",
+      "en": "to reject",
+      "sentence_de": "Die Bank hat meinen Antrag abgelehnt.",
+      "sentence_en": "The bank rejected my application."
+    },
+    {
+      "de": "verzinsen",
+      "en": "to pay interest on",
+      "sentence_de": "Die Bank verzinst das Sparkonto mit 2 Prozent.",
+      "sentence_en": "The bank pays 2 percent interest on the savings account."
+    },
+    {
+      "de": "einzahlen",
+      "en": "to pay in",
+      "sentence_de": "Ich zahle Bargeld am Schalter ein.",
+      "sentence_en": "I pay in cash at the counter."
+    },
+    {
+      "de": "abbuchen",
+      "en": "to debit",
+      "sentence_de": "Die Bank bucht die Gebühren monatlich ab.",
+      "sentence_en": "The bank debits the fees monthly."
+    },
+    {
+      "de": "gutschreiben",
+      "en": "to credit",
+      "sentence_de": "Die Zinsen werden am Ende des Jahres gutgeschrieben.",
+      "sentence_en": "The interest is credited at the end of the year."
+    },
+    {
+      "de": "überprüfen",
+      "en": "to check / verify",
+      "sentence_de": "Ich überprüfe meinen Kontostand online.",
+      "sentence_en": "I check my balance online."
+    },
+    {
+      "de": "freigeben",
+      "en": "to release / authorize",
+      "sentence_de": "Ich gebe die Überweisung mit der TAN frei.",
+      "sentence_en": "I authorize the transfer with the TAN."
+    },
+    {
+      "de": "blockieren",
+      "en": "to block",
+      "sentence_de": "Bei Verlust der Karte sollte man sie sofort blockieren.",
+      "sentence_en": "If the card is lost, you should block it immediately."
+    },
+    {
+      "de": "schließen (ein Konto)",
+      "en": "to close (an account)",
+      "sentence_de": "Ich möchte mein altes Konto schließen.",
+      "sentence_en": "I want to close my old account."
+    },
+    {
+      "de": "einrichten (ein Konto)",
+      "en": "to set up (an account)",
+      "sentence_de": "Ich richte ein neues Tagesgeldkonto ein.",
+      "sentence_en": "I'm setting up a new overnight money account."
+    },
+    {
+      "de": "bezahlen / begleichen (eine Rechnung)",
+      "en": "to pay / settle (a bill)",
+      "sentence_de": "Ich bezahle die Rechnung per Überweisung.",
+      "sentence_en": "I pay the bill by transfer."
+    },
+    {
+      "de": "anlegen (Geld)",
+      "en": "to invest (money)",
+      "sentence_de": "Ich möchte mein Geld gewinnbringend anlegen.",
+      "sentence_en": "I want to invest my money profitably."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "günstig",
+      "en": "cheap / favorable",
+      "sentence_de": "Die Bank hat günstige Konditionen.",
+      "sentence_en": "The bank has favorable conditions."
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "sentence_de": "Die Kontoführungsgebühren sind sehr teuer.",
+      "sentence_en": "The account fees are very expensive."
+    },
+    {
+      "de": "hoch (Zinsen)",
+      "en": "high (interest rates)",
+      "sentence_de": "Die Zinsen sind momentan hoch.",
+      "sentence_en": "Interest rates are currently high."
+    },
+    {
+      "de": "niedrig (Zinsen)",
+      "en": "low (interest rates)",
+      "sentence_de": "Die Zinsen sind auf einem niedrigen Niveau.",
+      "sentence_en": "Interest rates are at a low level."
+    },
+    {
+      "de": "positiv (Kontostand)",
+      "en": "positive (balance)",
+      "sentence_de": "Mein Kontostand ist positiv.",
+      "sentence_en": "My account balance is positive."
+    },
+    {
+      "de": "negativ (Kontostand)",
+      "en": "negative (balance)",
+      "sentence_de": "Ein negativer Kontostand ist nicht gut.",
+      "sentence_en": "A negative account balance is not good."
+    },
+    {
+      "de": "sicher",
+      "en": "secure / safe",
+      "sentence_de": "Online-Banking ist heute sehr sicher.",
+      "sentence_en": "Online banking is very secure today."
+    },
+    {
+      "de": "unsicher",
+      "en": "insecure",
+      "sentence_de": "Öffentliche WLAN-Netzwerke sind unsicher für Banking.",
+      "sentence_en": "Public Wi-Fi networks are insecure for banking."
+    },
+    {
+      "de": "sofort",
+      "en": "immediate",
+      "sentence_de": "Die Überweisung wird sofort ausgeführt.",
+      "sentence_en": "The transfer will be executed immediately."
+    },
+    {
+      "de": "verspätet",
+      "en": "delayed",
+      "sentence_de": "Die verspätete Zahlung verursacht Mahngebühren.",
+      "sentence_en": "The delayed payment causes reminder fees."
+    },
+    {
+      "de": "ausreichend (Geld)",
+      "en": "sufficient (money)",
+      "sentence_de": "Ich habe nicht ausreichend Geld auf dem Konto.",
+      "sentence_en": "I don't have sufficient money in my account."
+    },
+    {
+      "de": "fehlend",
+      "en": "missing",
+      "sentence_de": "Der fehlende Betrag muss noch überwiesen werden.",
+      "sentence_en": "The missing amount still needs to be transferred."
+    },
+    {
+      "de": "monatlich",
+      "en": "monthly",
+      "sentence_de": "Die monatlichen Gebühren werden automatisch abgebucht.",
+      "sentence_en": "The monthly fees are automatically debited."
+    },
+    {
+      "de": "jährlich",
+      "en": "yearly / annual",
+      "sentence_de": "Die jährliche Zinsabrechnung kommt im Dezember.",
+      "sentence_en": "The annual interest statement comes in December."
+    },
+    {
+      "de": "kostenlos",
+      "en": "free",
+      "sentence_de": "Die Kontoführung ist bei dieser Bank kostenlos.",
+      "sentence_en": "Account management is free at this bank."
+    },
+    {
+      "de": "gebührenpflichtig",
+      "en": "subject to fees",
+      "sentence_de": "Einige Leistungen sind gebührenpflichtig.",
+      "sentence_en": "Some services are subject to fees."
+    },
+    {
+      "de": "fest (Zinssatz)",
+      "en": "fixed (interest rate)",
+      "sentence_de": "Der Festzins ist für 5 Jahre garantiert.",
+      "sentence_en": "The fixed interest rate is guaranteed for 5 years."
+    },
+    {
+      "de": "variabel (Zinssatz)",
+      "en": "variable (interest rate)",
+      "sentence_de": "Der variable Zinssatz kann sich ändern.",
+      "sentence_en": "The variable interest rate can change."
+    },
+    {
+      "de": "digital",
+      "en": "digital",
+      "sentence_de": "Die Bank bietet ein digitales Banking an.",
+      "sentence_en": "The bank offers digital banking."
+    },
+    {
+      "de": "traditionell",
+      "en": "traditional",
+      "sentence_de": "Eine traditionelle Bank hat viele Filialen.",
+      "sentence_en": "A traditional bank has many branches."
+    },
+    {
+      "de": "hilfsbereit",
+      "en": "helpful",
+      "sentence_de": "Der Bankmitarbeiter war sehr hilfsbereit.",
+      "sentence_en": "The bank clerk was very helpful."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "online",
+      "en": "online",
+      "sentence_de": "Ich erledige meine Bankgeschäfte online.",
+      "sentence_en": "I do my banking online."
+    },
+    {
+      "de": "persönlich",
+      "en": "in person",
+      "sentence_de": "Ich muss persönlich in der Bank erscheinen.",
+      "sentence_en": "I need to appear in person at the bank."
+    },
+    {
+      "de": "rechtzeitig",
+      "en": "in time",
+      "sentence_de": "Überweisen Sie die Miete rechtzeitig.",
+      "sentence_en": "Transfer the rent in time."
+    },
+    {
+      "de": "pünktlich",
+      "en": "punctually",
+      "sentence_de": "Die Bank bucht die Raten pünktlich ab.",
+      "sentence_en": "The bank debits the installments punctually."
+    },
+    {
+      "de": "sicher",
+      "en": "safely / securely",
+      "sentence_de": "Bewahren Sie Ihre PIN sicher auf.",
+      "sentence_en": "Keep your PIN safely."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich überprüfe regelmäßig meinen Kontostand.",
+      "sentence_en": "I check my balance regularly."
+    },
+    {
+      "de": "sofort",
+      "en": "immediately",
+      "sentence_de": "Die Überweisung wird sofort ausgeführt.",
+      "sentence_en": "The transfer is executed immediately."
+    },
+    {
+      "de": "monatlich",
+      "en": "monthly",
+      "sentence_de": "Die Gebühren werden monatlich abgebucht.",
+      "sentence_en": "The fees are debited monthly."
+    },
+    {
+      "de": "jährlich",
+      "en": "annually",
+      "sentence_de": "Die Zinsen werden jährlich gutgeschrieben.",
+      "sentence_en": "Interest is credited annually."
+    },
+    {
+      "de": "kostenlos",
+      "en": "for free",
+      "sentence_de": "Das Girokonto wird kostenlos geführt.",
+      "sentence_en": "The current account is managed for free."
+    },
+    {
+      "de": "gebührenfrei",
+      "en": "free of charge",
+      "sentence_de": "Die EC-Karte ist gebührenfrei.",
+      "sentence_en": "The debit card is free of charge."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Die Überweisung geht schnell vonstatten.",
+      "sentence_en": "The transfer is done quickly."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Die Bearbeitung kann langsam dauern.",
+      "sentence_en": "The processing can take a while (slowly)."
+    },
+    {
+      "de": "schriftlich",
+      "en": "in writing",
+      "sentence_de": "Die Kündigung muss schriftlich erfolgen.",
+      "sentence_en": "The termination must be done in writing."
+    },
+    {
+      "de": "mündlich",
+      "en": "verbally",
+      "sentence_de": "Eine mündliche Vereinbarung reicht nicht aus.",
+      "sentence_en": "A verbal agreement is not sufficient."
+    },
+    {
+      "de": "direkt",
+      "en": "directly",
+      "sentence_de": "Die Zahlung geht direkt auf Ihr Konto.",
+      "sentence_en": "The payment goes directly to your account."
+    },
+    {
+      "de": "indirekt",
+      "en": "indirectly",
+      "sentence_de": "Die Gebühren werden indirekt berechnet.",
+      "sentence_en": "The fees are calculated indirectly."
+    },
+    {
+      "de": "automatisch",
+      "en": "automatically",
+      "sentence_de": "Der Dauerauftrag wird automatisch ausgeführt.",
+      "sentence_en": "The standing order is executed automatically."
+    },
+    {
+      "de": "manuell",
+      "en": "manually",
+      "sentence_de": "Ich muss die Überweisung manuell eingeben.",
+      "sentence_en": "I have to enter the transfer manually."
+    },
+    {
+      "de": "normalerweise",
+      "en": "normally",
+      "sentence_de": "Normalerweise dauert eine Überweisung einen Tag.",
+      "sentence_en": "Normally a transfer takes one day."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich möchte bei Ihrer Bank ein neues Girokonto eröffnen.",
+      "en": "I would like to open a new current account at your bank."
+    },
+    {
+      "de": "Bitte geben Sie mir meine Kontonummer und die Bankleitzahl.",
+      "en": "Please give me my account number and the bank routing number."
+    },
+    {
+      "de": "Ich überweise das Geld heute noch an den Empfänger.",
+      "en": "I will transfer the money to the recipient today."
+    },
+    {
+      "de": "Der Kreditantrag wurde von der Bank genehmigt.",
+      "en": "The loan application was approved by the bank."
+    },
+    {
+      "de": "Bitte füllen Sie das Formular vollständig aus und unterschreiben Sie es.",
+      "en": "Please fill out the form completely and sign it."
+    },
+    {
+      "de": "Die Zinsen auf dem Tagesgeldkonto sind aktuell sehr niedrig.",
+      "en": "The interest rates on the overnight money account are currently very low."
+    },
+    {
+      "de": "Ich habe mein Konto versehentlich überzogen und muss jetzt Dispozinsen zahlen.",
+      "en": "I accidentally overdrew my account and now have to pay overdraft interest."
+    },
+    {
+      "de": "Sie können am Geldautomaten bis zu 500 Euro pro Tag abheben.",
+      "en": "You can withdraw up to 500 euros per day from the ATM."
+    },
+    {
+      "de": "Vergessen Sie nicht, die Überweisung mit Ihrer TAN zu bestätigen.",
+      "en": "Don't forget to confirm the transfer with your TAN."
+    },
+    {
+      "de": "Die Kontoführungsgebühren werden jeden Monat von Ihrem Konto abgebucht.",
+      "en": "The account fees are debited from your account every month."
+    },
+    {
+      "de": "Ich möchte einen Dauerauftrag für meine Miete einrichten.",
+      "en": "I would like to set up a standing order for my rent."
+    },
+    {
+      "de": "Der Schalter ist von 9 bis 16 Uhr geöffnet, der Geldautomat rund um die Uhr.",
+      "en": "The counter is open from 9 AM to 4 PM, the ATM is open 24/7."
+    },
+    {
+      "de": "Bei Verlust Ihrer Karte müssen Sie diese sofort sperren lassen.",
+      "en": "If you lose your card, you must have it blocked immediately."
+    },
+    {
+      "de": "Ein Berater kann Ihnen helfen, die beste Anlagestrategie zu finden.",
+      "en": "An advisor can help you find the best investment strategy."
+    },
+    {
+      "de": "Bitte beachten Sie, dass Auslandsüberweisungen höhere Gebühren kosten.",
+      "en": "Please note that international transfers cost higher fees."
+    }
+  ]
+}
