@@ -1,0 +1,649 @@
+{
+  "theme": "Breakfast",
+  "words": [
+    {
+      "de": "das Frühstück",
+      "en": "breakfast",
+      "sentence_de": "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+      "sentence_en": "Breakfast is the most important meal of the day."
+    },
+    {
+      "de": "der Morgen",
+      "en": "morning",
+      "sentence_de": "Jeden Morgen esse ich ein ausgiebiges Frühstück.",
+      "sentence_en": "Every morning I have a hearty breakfast."
+    },
+    {
+      "de": "das Brötchen",
+      "en": "bread roll",
+      "sentence_de": "Ich esse gerne frische Brötchen zum Frühstück.",
+      "sentence_en": "I like to eat fresh bread rolls for breakfast."
+    },
+    {
+      "de": "das Brot",
+      "en": "bread",
+      "sentence_de": "Vollkornbrot ist sehr gesund.",
+      "sentence_en": "Whole-grain bread is very healthy."
+    },
+    {
+      "de": "die Scheibe",
+      "en": "slice",
+      "sentence_de": "Ich nehme zwei Scheiben Brot.",
+      "sentence_en": "I'll take two slices of bread."
+    },
+    {
+      "de": "der Toast",
+      "en": "toast",
+      "sentence_de": "Toast mit Butter ist ein klassisches Frühstück.",
+      "sentence_en": "Toast with butter is a classic breakfast."
+    },
+    {
+      "de": "die Butter",
+      "en": "butter",
+      "sentence_de": "Bitte gib mir etwas Butter für mein Brot.",
+      "sentence_en": "Please give me some butter for my bread."
+    },
+    {
+      "de": "die Margarine",
+      "en": "margarine",
+      "sentence_de": "Einige Leute bevorzugen Margarine statt Butter.",
+      "sentence_en": "Some people prefer margarine instead of butter."
+    },
+    {
+      "de": "die Marmelade / die Konfitüre",
+      "en": "jam / marmalade",
+      "sentence_de": "Erdbeermarmelade schmeckt am besten.",
+      "sentence_en": "Strawberry jam tastes the best."
+    },
+    {
+      "de": "der Honig",
+      "en": "honey",
+      "sentence_de": "Honig ist ein natürlicher Süßstoff.",
+      "sentence_en": "Honey is a natural sweetener."
+    },
+    {
+      "de": "die Nutella / der Schokoladenaufstrich",
+      "en": "chocolate spread",
+      "sentence_de": "Kinder lieben Nutella auf dem Brot.",
+      "sentence_en": "Children love chocolate spread on bread."
+    },
+    {
+      "de": "der Käse",
+      "en": "cheese",
+      "sentence_de": "Auf dem Frühstückstisch gibt es immer verschiedenen Käse.",
+      "sentence_en": "There is always various cheese on the breakfast table."
+    },
+    {
+      "de": "die Wurst",
+      "en": "cold cuts / sausage",
+      "sentence_de": "Wurst und Käse gehören zu einem typischen Frühstück.",
+      "sentence_en": "Cold cuts and cheese are part of a typical breakfast."
+    },
+    {
+      "de": "die Salami",
+      "en": "salami",
+      "sentence_de": "Salami auf einem Brötchen ist sehr lecker.",
+      "sentence_en": "Salami on a bread roll is very tasty."
+    },
+    {
+      "de": "der Schinken",
+      "en": "ham",
+      "sentence_de": "Ich esse gerne Schinken zum Frühstück.",
+      "sentence_en": "I like to eat ham for breakfast."
+    },
+    {
+      "de": "die Eier",
+      "en": "eggs",
+      "sentence_de": "Zum Frühstück gibt es heute Spiegeleier.",
+      "sentence_en": "There are fried eggs for breakfast today."
+    },
+    {
+      "de": "das Rührei",
+      "en": "scrambled eggs",
+      "sentence_de": "Rührei geht schnell und einfach.",
+      "sentence_en": "Scrambled eggs are quick and easy."
+    },
+    {
+      "de": "das Spiegelei",
+      "en": "fried egg (sunny side up)",
+      "sentence_de": "Ich mag Spiegelei mit flüssigem Dotter.",
+      "sentence_en": "I like fried eggs with runny yolks."
+    },
+    {
+      "de": "das gekochte Ei",
+      "en": "boiled egg",
+      "sentence_de": "Ein weichgekochtes Ei ist mein Favorit.",
+      "sentence_en": "A soft-boiled egg is my favorite."
+    },
+    {
+      "de": "die Milch",
+      "en": "milk",
+      "sentence_de": "Milch trinke ich zu Müsli oder Kaffee.",
+      "sentence_en": "I drink milk with cereal or coffee."
+    },
+    {
+      "de": "der Kaffee",
+      "en": "coffee",
+      "sentence_de": "Mein Morgen beginnt mit einer Tasse Kaffee.",
+      "sentence_en": "My morning begins with a cup of coffee."
+    },
+    {
+      "de": "der Tee",
+      "en": "tea",
+      "sentence_de": "Tee ist eine gute Alternative zu Kaffee.",
+      "sentence_en": "Tea is a good alternative to coffee."
+    },
+    {
+      "de": "der Saft",
+      "en": "juice",
+      "sentence_de": "Ein Glas Orangensaft gehört für mich zum Frühstück.",
+      "sentence_en": "A glass of orange juice is part of my breakfast."
+    },
+    {
+      "de": "der Orangensaft",
+      "en": "orange juice",
+      "sentence_de": "Orangensaft ist reich an Vitamin C.",
+      "sentence_en": "Orange juice is rich in vitamin C."
+    },
+    {
+      "de": "der Apfelsaft",
+      "en": "apple juice",
+      "sentence_de": "Apfelsaft trinke ich am liebsten.",
+      "sentence_en": "I like apple juice best."
+    },
+    {
+      "de": "die Cornflakes",
+      "en": "cornflakes",
+      "sentence_de": "Cornflakes mit Milch sind ein schnelles Frühstück.",
+      "sentence_en": "Cornflakes with milk are a quick breakfast."
+    },
+    {
+      "de": "das Müsli",
+      "en": "muesli / granola",
+      "sentence_de": "Ich esse gerne Müsli mit Joghurt und Obst.",
+      "sentence_en": "I like to eat muesli with yogurt and fruit."
+    },
+    {
+      "de": "das Porridge / der Haferbrei",
+      "en": "porridge / oatmeal",
+      "sentence_de": "Porridge wärmt an kalten Morgen.",
+      "sentence_en": "Porridge warms you on cold mornings."
+    },
+    {
+      "de": "das Obst",
+      "en": "fruit",
+      "sentence_de": "Frisches Obst ist gesund und lecker.",
+      "sentence_en": "Fresh fruit is healthy and delicious."
+    },
+    {
+      "de": "der Apfel",
+      "en": "apple",
+      "sentence_de": "Ein Apfel am Morgen hält den Arzt fern.",
+      "sentence_en": "An apple a day keeps the doctor away."
+    },
+    {
+      "de": "die Banane",
+      "en": "banana",
+      "sentence_de": "Bananen geben Energie für den Tag.",
+      "sentence_en": "Bananas provide energy for the day."
+    },
+    {
+      "de": "die Orange",
+      "en": "orange",
+      "sentence_de": "Orangen esse ich gerne als Obstsalat.",
+      "sentence_en": "I like to eat oranges as fruit salad."
+    },
+    {
+      "de": "der Joghurt",
+      "en": "yogurt",
+      "sentence_de": "Joghurt mit Früchten ist mein Lieblingsfrühstück.",
+      "sentence_en": "Yogurt with fruit is my favorite breakfast."
+    },
+    {
+      "de": "der Quark",
+      "en": "quark (German dairy product)",
+      "sentence_de": "Quark mit Kräutern schmeckt herzhaft.",
+      "sentence_en": "Quark with herbs tastes savory."
+    },
+    {
+      "de": "das Eiweiß / das Protein",
+      "en": "protein",
+      "sentence_de": "Eier liefern viel Eiweiß.",
+      "sentence_en": "Eggs provide a lot of protein."
+    },
+    {
+      "de": "die Marmeladendose",
+      "en": "jam jar",
+      "sentence_de": "Die Marmeladendose ist fast leer.",
+      "sentence_en": "The jam jar is almost empty."
+    },
+    {
+      "de": "die Frühstückszeit",
+      "en": "breakfast time",
+      "sentence_de": "Unsere Frühstückszeit ist zwischen 7 und 9 Uhr.",
+      "sentence_en": "Our breakfast time is between 7 and 9 AM."
+    },
+    {
+      "de": "der Frühstückstisch",
+      "en": "breakfast table",
+      "sentence_de": "Der Frühstückstisch ist für jeden gedeckt.",
+      "sentence_en": "The breakfast table is set for everyone."
+    },
+    {
+      "de": "das Frühstücksbuffet",
+      "en": "breakfast buffet",
+      "sentence_de": "Im Hotel gibt es ein reichhaltiges Frühstücksbuffet.",
+      "sentence_en": "The hotel has a rich breakfast buffet."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "frühstücken",
+      "en": "to have breakfast",
+      "sentence_de": "Ich frühstücke gerne mit meiner Familie.",
+      "sentence_en": "I like to have breakfast with my family."
+    },
+    {
+      "de": "essen",
+      "en": "to eat",
+      "sentence_de": "Wir essen Brötchen mit Marmelade.",
+      "sentence_en": "We eat bread rolls with jam."
+    },
+    {
+      "de": "trinken",
+      "en": "to drink",
+      "sentence_de": "Ich trinke eine Tasse Kaffee zum Frühstück.",
+      "sentence_en": "I drink a cup of coffee for breakfast."
+    },
+    {
+      "de": "schmieren (ein Brot)",
+      "en": "to spread (a slice of bread)",
+      "sentence_de": "Ich schmiere Butter auf mein Brot.",
+      "sentence_en": "I spread butter on my bread."
+    },
+    {
+      "de": "schneiden",
+      "en": "to cut",
+      "sentence_de": "Ich schneide das Brot in Scheiben.",
+      "sentence_en": "I cut the bread into slices."
+    },
+    {
+      "de": "braten",
+      "en": "to fry",
+      "sentence_de": "Mein Mann brät die Eier für uns.",
+      "sentence_en": "My husband fries the eggs for us."
+    },
+    {
+      "de": "kochen",
+      "en": "to boil / cook",
+      "sentence_de": "Ich koche die Eier für sieben Minuten.",
+      "sentence_en": "I boil the eggs for seven minutes."
+    },
+    {
+      "de": "eingießen",
+      "en": "to pour",
+      "sentence_de": "Sie gießt mir noch eine Tasse Kaffee ein.",
+      "sentence_en": "She pours me another cup of coffee."
+    },
+    {
+      "de": "mischen",
+      "en": "to mix",
+      "sentence_de": "Ich mische das Müsli mit Joghurt.",
+      "sentence_en": "I mix the muesli with yogurt."
+    },
+    {
+      "de": "nehmen",
+      "en": "to take",
+      "sentence_de": "Ich nehme ein Brötchen mit Schinken.",
+      "sentence_en": "I take a bread roll with ham."
+    },
+    {
+      "de": "teilen",
+      "en": "to share",
+      "sentence_de": "Wir teilen uns eine große Packung Müsli.",
+      "sentence_en": "We share a large box of muesli."
+    },
+    {
+      "de": "genießen",
+      "en": "to enjoy",
+      "sentence_de": "Ich genieße mein Frühstück in Ruhe.",
+      "sentence_en": "I enjoy my breakfast in peace."
+    },
+    {
+      "de": "servieren",
+      "en": "to serve",
+      "sentence_de": "Der Kellner serviert das Frühstück.",
+      "sentence_en": "The waiter serves the breakfast."
+    },
+    {
+      "de": "decken",
+      "en": "to set (the table)",
+      "sentence_de": "Ich decke den Tisch für das Frühstück.",
+      "sentence_en": "I set the table for breakfast."
+    },
+    {
+      "de": "abdecken",
+      "en": "to clear (the table)",
+      "sentence_de": "Nach dem Frühstück decke ich den Tisch ab.",
+      "sentence_en": "After breakfast I clear the table."
+    },
+    {
+      "de": "einkaufen",
+      "en": "to go shopping",
+      "sentence_de": "Ich kaufe Brötchen beim Bäcker ein.",
+      "sentence_en": "I buy bread rolls at the bakery."
+    },
+    {
+      "de": "backen",
+      "en": "to bake",
+      "sentence_de": "Meine Mutter backt das Brot selbst.",
+      "sentence_en": "My mother bakes the bread herself."
+    },
+    {
+      "de": "kosten",
+      "en": "to taste",
+      "sentence_de": "Kostest du die neue Marmelade?",
+      "sentence_en": "Will you taste the new jam?"
+    },
+    {
+      "de": "wählen",
+      "en": "to choose",
+      "sentence_de": "Ich wähle immer das große Frühstück.",
+      "sentence_en": "I always choose the large breakfast."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "lecker",
+      "en": "delicious / tasty",
+      "sentence_de": "Das Frühstück ist heute sehr lecker.",
+      "sentence_en": "Breakfast is very delicious today."
+    },
+    {
+      "de": "herzhaft",
+      "en": "savory",
+      "sentence_de": "Ich mag herzhafte Frühstücke mit Wurst und Ei.",
+      "sentence_en": "I like savory breakfasts with cold cuts and eggs."
+    },
+    {
+      "de": "süß",
+      "en": "sweet",
+      "sentence_de": "Ein süßes Frühstück mit Marmelade und Nutella.",
+      "sentence_en": "A sweet breakfast with jam and chocolate spread."
+    },
+    {
+      "de": "gesund",
+      "en": "healthy",
+      "sentence_de": "Ein gesundes Frühstück enthält Obst und Vollkornprodukte.",
+      "sentence_en": "A healthy breakfast contains fruit and whole-grain products."
+    },
+    {
+      "de": "ungesund",
+      "en": "unhealthy",
+      "sentence_de": "Zu viel Zucker zum Frühstück ist ungesund.",
+      "sentence_en": "Too much sugar for breakfast is unhealthy."
+    },
+    {
+      "de": "warm",
+      "en": "warm / hot",
+      "sentence_de": "Ein warmes Frühstück mit Ei ist im Winter schön.",
+      "sentence_en": "A warm breakfast with eggs is nice in winter."
+    },
+    {
+      "de": "kalt",
+      "en": "cold",
+      "sentence_de": "Ein kaltes Frühstück mit Brot und Käse geht schnell.",
+      "sentence_en": "A cold breakfast with bread and cheese is quick."
+    },
+    {
+      "de": "frisch",
+      "en": "fresh",
+      "sentence_de": "Die Brötchen sind frisch vom Bäcker.",
+      "sentence_en": "The bread rolls are fresh from the baker."
+    },
+    {
+      "de": "reichhaltig",
+      "en": "rich / hearty",
+      "sentence_de": "Das Frühstücksbuffet ist reichhaltig.",
+      "sentence_en": "The breakfast buffet is rich."
+    },
+    {
+      "de": "einfach",
+      "en": "simple",
+      "sentence_de": "Ein einfaches Frühstück ist schnell zubereitet.",
+      "sentence_en": "A simple breakfast is quickly prepared."
+    },
+    {
+      "de": "ausgiebig",
+      "en": "extensive / hearty",
+      "sentence_de": "Am Wochenende machen wir ein ausgiebiges Frühstück.",
+      "sentence_en": "On weekends we have an extensive breakfast."
+    },
+    {
+      "de": "schnell",
+      "en": "quick",
+      "sentence_de": "Wenn ich wenig Zeit habe, esse ich ein schnelles Frühstück.",
+      "sentence_en": "When I have little time, I have a quick breakfast."
+    },
+    {
+      "de": "knusprig",
+      "en": "crunchy / crispy",
+      "sentence_de": "Die Brötchen sind außen knusprig.",
+      "sentence_en": "The bread rolls are crispy on the outside."
+    },
+    {
+      "de": "weich",
+      "en": "soft",
+      "sentence_de": "Das Brot ist innen weich.",
+      "sentence_en": "The bread is soft on the inside."
+    },
+    {
+      "de": "vollkorn (Brot)",
+      "en": "whole-grain (bread)",
+      "sentence_de": "Vollkornbrot ist reich an Ballaststoffen.",
+      "sentence_en": "Whole-grain bread is rich in fiber."
+    },
+    {
+      "de": "fettig",
+      "en": "greasy / fatty",
+      "sentence_de": "Ein fettiges Frühstück kann schwer im Magen liegen.",
+      "sentence_en": "A greasy breakfast can sit heavy on the stomach."
+    },
+    {
+      "de": "alkoholfrei (Getränk)",
+      "en": "non-alcoholic (drink)",
+      "sentence_de": "Zum Frühstück trinke ich nur alkoholfreie Getränke.",
+      "sentence_en": "For breakfast I only drink non-alcoholic drinks."
+    },
+    {
+      "de": "bio (Brot / Eier)",
+      "en": "organic (bread / eggs)",
+      "sentence_de": "Ich bevorzuge Bio-Eier für mein Frühstücksei.",
+      "sentence_en": "I prefer organic eggs for my boiled egg."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "morgens",
+      "en": "in the morning",
+      "sentence_de": "Morgens esse ich gerne warm.",
+      "sentence_en": "In the morning I like to eat warm."
+    },
+    {
+      "de": "früh",
+      "en": "early",
+      "sentence_de": "Ich frühstücke früh, um 6 Uhr.",
+      "sentence_en": "I have breakfast early, at 6 AM."
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "sentence_de": "Am Wochenende frühstücke ich spät.",
+      "sentence_en": "On weekends I have breakfast late."
+    },
+    {
+      "de": "ausgiebig",
+      "en": "extensively / heartily",
+      "sentence_de": "Wir frühstücken ausgiebig, wenn wir Zeit haben.",
+      "sentence_en": "We have a hearty breakfast when we have time."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Ich frühstücke schnell, wenn ich zur Arbeit muss.",
+      "sentence_en": "I have breakfast quickly when I have to go to work."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Genieße dein Frühstück langsam.",
+      "sentence_en": "Enjoy your breakfast slowly."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich frühstücke gerne mit der Familie.",
+      "sentence_en": "I like to have breakfast with the family."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Manchmal frühstücke ich alleine, wenn alle schon weg sind.",
+      "sentence_en": "Sometimes I have breakfast alone when everyone has already left."
+    },
+    {
+      "de": "zusammen",
+      "en": "together",
+      "sentence_de": "Wir frühstücken jeden Tag zusammen.",
+      "sentence_en": "We have breakfast together every day."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Wir essen täglich ein warmes Frühstück.",
+      "sentence_en": "We have a warm breakfast daily."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich trinke oft Tee statt Kaffee.",
+      "sentence_en": "I often drink tea instead of coffee."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich esse selten Fleisch zum Frühstück.",
+      "sentence_en": "I rarely eat meat for breakfast."
+    },
+    {
+      "de": "extra",
+      "en": "extra",
+      "sentence_de": "Ich nehme extra Butter auf mein Brötchen.",
+      "sentence_en": "I take extra butter on my bread roll."
+    },
+    {
+      "de": "nach",
+      "en": "after (later)",
+      "sentence_de": "Nach dem Frühstück putze ich mir die Zähne.",
+      "sentence_en": "After breakfast I brush my teeth."
+    },
+    {
+      "de": "vor",
+      "en": "before",
+      "sentence_de": "Vor dem Frühstück trinke ich ein Glas Wasser.",
+      "sentence_en": "Before breakfast I drink a glass of water."
+    },
+    {
+      "de": "mit",
+      "en": "with",
+      "sentence_de": "Ich esse mein Brötchen mit Käse.",
+      "sentence_en": "I eat my bread roll with cheese."
+    },
+    {
+      "de": "ohne",
+      "en": "without",
+      "sentence_de": "Ich trinke meinen Kaffee ohne Zucker.",
+      "sentence_en": "I drink my coffee without sugar."
+    },
+    {
+      "de": "hier",
+      "en": "here",
+      "sentence_de": "Hier ist das Frühstück, wie du es magst.",
+      "sentence_en": "Here is breakfast, the way you like it."
+    },
+    {
+      "de": "da",
+      "en": "there",
+      "sentence_de": "Da steht die Milch für dein Müsli.",
+      "sentence_en": "There is the milk for your muesli."
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "sentence_de": "Bei schönem Wetter frühstücken wir draußen.",
+      "sentence_en": "In nice weather we have breakfast outside."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich frühstücke jeden Morgen um 7 Uhr, bevor ich zur Arbeit gehe.",
+      "en": "I have breakfast every morning at 7 AM before I go to work."
+    },
+    {
+      "de": "Ein gesundes Frühstück sollte Obst, Vollkornprodukte und Eiweiß enthalten.",
+      "en": "A healthy breakfast should contain fruit, whole-grain products and protein."
+    },
+    {
+      "de": "Magst du lieber ein süßes Frühstück mit Marmelade oder ein herzhaftes mit Käse?",
+      "en": "Do you prefer a sweet breakfast with jam or a savory one with cheese?"
+    },
+    {
+      "de": "Kaffee und frische Brötchen gehören für mich einfach zum Frühstück dazu.",
+      "en": "Coffee and fresh bread rolls are simply part of my breakfast."
+    },
+    {
+      "de": "Für meine Kinder koche ich morgens oft Rührei mit frischem Gemüse.",
+      "en": "For my children I often make scrambled eggs with fresh vegetables in the morning."
+    },
+    {
+      "de": "Im Hotel gab es ein großes Frühstücksbuffet mit kalten und warmen Speisen.",
+      "en": "At the hotel there was a large breakfast buffet with cold and hot dishes."
+    },
+    {
+      "de": "Wenn ich wenig Zeit habe, esse ich nur ein Müsli mit Joghurt.",
+      "en": "When I have little time, I only eat muesli with yogurt."
+    },
+    {
+      "de": "Am Wochenende frühstücken wir immer ausgiebig und genießen die Zeit.",
+      "en": "On weekends we always have a hearty breakfast and enjoy the time."
+    },
+    {
+      "de": "Ein weichgekochtes Ei mit Brötchen ist mein absoluter Frühstücksfavorit.",
+      "en": "A soft-boiled egg with bread rolls is my absolute breakfast favorite."
+    },
+    {
+      "de": "Kinder sollten eine gesunde Frühstückspause in der Schule haben.",
+      "en": "Children should have a healthy breakfast break at school."
+    },
+    {
+      "de": "Ich trinke zum Frühstück Orangensaft, weil er reich an Vitaminen ist.",
+      "en": "I drink orange juice for breakfast because it's rich in vitamins."
+    },
+    {
+      "de": "Marmelade und Honig sind bei uns die beliebtesten Brotaufstriche.",
+      "en": "Jam and honey are the most popular spreads in our household."
+    },
+    {
+      "de": "Kannst du bitte den Frühstückstisch decken? Der Kaffee ist schon fertig.",
+      "en": "Can you please set the breakfast table? The coffee is already ready."
+    },
+    {
+      "de": "Bei einer veganen Ernährung wird auf Milchprodukte und Eier verzichtet.",
+      "en": "In a vegan diet, dairy products and eggs are avoided."
+    },
+    {
+      "de": "Ein ausgiebiges Frühstück gibt mir Energie für den ganzen Tag.",
+      "en": "A hearty breakfast gives me energy for the whole day."
+    }
+  ]
+}

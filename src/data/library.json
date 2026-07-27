@@ -1,0 +1,697 @@
+{
+  "theme": "Library",
+  "words": [
+    {
+      "de": "die Bibliothek",
+      "en": "library",
+      "sentence_de": "Die Bibliothek ist bis 20 Uhr geöffnet.",
+      "sentence_en": "The library is open until 8 PM."
+    },
+    {
+      "de": "die Bücherei",
+      "en": "library (often smaller/community)",
+      "sentence_de": "Die Bücherei im Stadtteil ist sehr beliebt.",
+      "sentence_en": "The neighborhood library is very popular."
+    },
+    {
+      "de": "das Buch",
+      "en": "book",
+      "sentence_de": "Ich habe ein spannendes Buch ausgeliehen.",
+      "sentence_en": "I borrowed an exciting book."
+    },
+    {
+      "de": "der Roman",
+      "en": "novel",
+      "sentence_de": "Romane sind die meistausgeliehenen Bücher.",
+      "sentence_en": "Novels are the most borrowed books."
+    },
+    {
+      "de": "der Sachbuch",
+      "en": "non-fiction book",
+      "sentence_de": "Im Sachbuch findet man Informationen über Geschichte.",
+      "sentence_en": "In non-fiction books you find information about history."
+    },
+    {
+      "de": "das Kinderbuch",
+      "en": "children's book",
+      "sentence_de": "Die Kinderbücher stehen im Erdgeschoss.",
+      "sentence_en": "The children's books are on the ground floor."
+    },
+    {
+      "de": "das Nachschlagewerk",
+      "en": "reference work",
+      "sentence_de": "Lexika sind wichtige Nachschlagewerke.",
+      "sentence_en": "Encyclopedias are important reference works."
+    },
+    {
+      "de": "das Lexikon",
+      "en": "encyclopedia",
+      "sentence_de": "Im Lexikon kann man schnell etwas nachschlagen.",
+      "sentence_en": "You can quickly look something up in an encyclopedia."
+    },
+    {
+      "de": "das Wörterbuch",
+      "en": "dictionary",
+      "sentence_de": "Ich benutze ein Wörterbuch für die Übersetzung.",
+      "sentence_en": "I use a dictionary for translation."
+    },
+    {
+      "de": "die Zeitschrift",
+      "en": "magazine / journal",
+      "sentence_de": "Die Zeitschriften liegen in der Leseecke.",
+      "sentence_en": "The magazines are in the reading corner."
+    },
+    {
+      "de": "die Zeitung",
+      "en": "newspaper",
+      "sentence_de": "In der Bibliothek kann man Tageszeitungen lesen.",
+      "sentence_en": "You can read daily newspapers in the library."
+    },
+    {
+      "de": "der Ausweis / der Bibliotheksausweis",
+      "en": "library card",
+      "sentence_de": "Ohne Ausweis darf man nichts ausleihen.",
+      "sentence_en": "Without a card you can't borrow anything."
+    },
+    {
+      "de": "die Ausleihe",
+      "en": "borrowing / checkout",
+      "sentence_de": "Die Ausleihe ist bis 18 Uhr geöffnet.",
+      "sentence_en": "The checkout desk is open until 6 PM."
+    },
+    {
+      "de": "die Rückgabe",
+      "en": "return",
+      "sentence_de": "Die Rückgabe der Bücher ist bis zum Fälligkeitsdatum.",
+      "sentence_en": "The return of books is due by the due date."
+    },
+    {
+      "de": "die Leihfrist",
+      "en": "loan period",
+      "sentence_de": "Die Leihfrist beträgt vier Wochen.",
+      "sentence_en": "The loan period is four weeks."
+    },
+    {
+      "de": "die Verlängerung",
+      "en": "renewal",
+      "sentence_de": "Ich beantrage eine Verlängerung der Leihfrist.",
+      "sentence_en": "I am requesting a renewal of the loan period."
+    },
+    {
+      "de": "die Mahngebühr",
+      "en": "late fee / fine",
+      "sentence_de": "Für verspätete Rückgabe wird eine Mahngebühr fällig.",
+      "sentence_en": "A late fee is charged for overdue returns."
+    },
+    {
+      "de": "der Regal",
+      "en": "shelf",
+      "sentence_de": "Das Buch steht im zweiten Regal.",
+      "sentence_en": "The book is on the second shelf."
+    },
+    {
+      "de": "die Signatur",
+      "en": "call number / shelf mark",
+      "sentence_de": "Mit der Signatur findest du das Buch schnell.",
+      "sentence_en": "With the call number you can find the book quickly."
+    },
+    {
+      "de": "der Katalog",
+      "en": "catalog",
+      "sentence_de": "Im Online-Katalog kann man nach Büchern suchen.",
+      "sentence_en": "You can search for books in the online catalog."
+    },
+    {
+      "de": "die Datenbank",
+      "en": "database",
+      "sentence_de": "Die Bibliothek hat Zugang zu wissenschaftlichen Datenbanken.",
+      "sentence_en": "The library has access to scientific databases."
+    },
+    {
+      "de": "die Recherche",
+      "en": "research",
+      "sentence_de": "Für die Recherche nutze ich den Katalog.",
+      "sentence_en": "I use the catalog for research."
+    },
+    {
+      "de": "die Leseecke / der Lesesaal",
+      "en": "reading corner / reading room",
+      "sentence_de": "Im Lesesaal ist es ruhig und angenehm.",
+      "sentence_en": "It is quiet and pleasant in the reading room."
+    },
+    {
+      "de": "der Arbeitsplatz",
+      "en": "workstation / study desk",
+      "sentence_de": "Die Arbeitsplätze sind mit Lampen ausgestattet.",
+      "sentence_en": "The workstations are equipped with lamps."
+    },
+    {
+      "de": "der Computer",
+      "en": "computer",
+      "sentence_de": "In der Bibliothek stehen Computer für die Recherche.",
+      "sentence_en": "There are computers for research in the library."
+    },
+    {
+      "de": "das Internet",
+      "en": "internet",
+      "sentence_de": "Die Bibliothek bietet kostenloses WLAN.",
+      "sentence_en": "The library offers free WiFi."
+    },
+    {
+      "de": "der Drucker",
+      "en": "printer",
+      "sentence_de": "Man kann in der Bibliothek gegen Gebühr drucken.",
+      "sentence_en": "You can print for a fee in the library."
+    },
+    {
+      "de": "der Kopierer",
+      "en": "copier",
+      "sentence_de": "Der Kopierer steht im Erdgeschoss.",
+      "sentence_en": "The copier is on the ground floor."
+    },
+    {
+      "de": "der Bibliothekar / die Bibliothekarin",
+      "en": "librarian",
+      "sentence_de": "Die Bibliothekarin hilft bei der Suche.",
+      "sentence_en": "The librarian helps with the search."
+    },
+    {
+      "de": "der Leser / die Leserin",
+      "en": "reader",
+      "sentence_de": "Die Leser sitzen still an ihren Tischen.",
+      "sentence_en": "The readers are sitting quietly at their tables."
+    },
+    {
+      "de": "der Bestand",
+      "en": "collection / stock",
+      "sentence_de": "Der Bestand der Bibliothek umfasst 50.000 Bücher.",
+      "sentence_en": "The library's collection comprises 50,000 books."
+    },
+    {
+      "de": "die Ausgabe",
+      "en": "edition",
+      "sentence_de": "Die neueste Ausgabe des Buches ist ausverkauft.",
+      "sentence_en": "The latest edition of the book is sold out."
+    },
+    {
+      "de": "der Autor / die Autorin",
+      "en": "author",
+      "sentence_de": "Der Autor des Buches kommt aus Deutschland.",
+      "sentence_en": "The author of the book is from Germany."
+    },
+    {
+      "de": "der Titel",
+      "en": "title",
+      "sentence_de": "Der Titel des Buches ist sehr interessant.",
+      "sentence_en": "The title of the book is very interesting."
+    },
+    {
+      "de": "der Verlag",
+      "en": "publisher",
+      "sentence_de": "Der Verlag hat das Buch neu aufgelegt.",
+      "sentence_en": "The publisher has reissued the book."
+    },
+    {
+      "de": "die ISBN",
+      "en": "ISBN",
+      "sentence_de": "Mit der ISBN kann man jedes Buch eindeutig identifizieren.",
+      "sentence_en": "With the ISBN you can uniquely identify any book."
+    },
+    {
+      "de": "der Buchrücken",
+      "en": "book spine",
+      "sentence_de": "Die Signatur steht auf dem Buchrücken.",
+      "sentence_en": "The call number is on the book spine."
+    },
+    {
+      "de": "das Lesezeichen",
+      "en": "bookmark",
+      "sentence_de": "Ich habe mein Lesezeichen im Buch vergessen.",
+      "sentence_en": "I forgot my bookmark in the book."
+    },
+    {
+      "de": "die Buchmesse",
+      "en": "book fair",
+      "sentence_de": "Die Buchmesse findet jedes Jahr in Frankfurt statt.",
+      "sentence_en": "The book fair takes place every year in Frankfurt."
+    },
+    {
+      "de": "die Buchhandlung",
+      "en": "bookstore",
+      "sentence_de": "Die Buchhandlung ist nicht weit von der Bibliothek.",
+      "sentence_en": "The bookstore is not far from the library."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "lesen",
+      "en": "to read",
+      "sentence_de": "Ich lese jeden Abend ein Buch.",
+      "sentence_en": "I read a book every evening."
+    },
+    {
+      "de": "ausleihen",
+      "en": "to borrow",
+      "sentence_de": "Ich leihe mir zwei Bücher aus.",
+      "sentence_en": "I am borrowing two books."
+    },
+    {
+      "de": "zurückbringen / zurückgeben",
+      "en": "to return",
+      "sentence_de": "Die Bücher müssen pünktlich zurückgebracht werden.",
+      "sentence_en": "The books must be returned on time."
+    },
+    {
+      "de": "verlängern",
+      "en": "to renew",
+      "sentence_de": "Kann ich die Leihfrist verlängern?",
+      "sentence_en": "Can I renew the loan period?"
+    },
+    {
+      "de": "suchen",
+      "en": "to search",
+      "sentence_de": "Ich suche ein Buch von Goethe.",
+      "sentence_en": "I am looking for a book by Goethe."
+    },
+    {
+      "de": "finden",
+      "en": "to find",
+      "sentence_de": "Ich finde das Buch im Regal nicht.",
+      "sentence_en": "I can't find the book on the shelf."
+    },
+    {
+      "de": "nachschlagen",
+      "en": "to look up",
+      "sentence_de": "Ich schlage das Wort im Wörterbuch nach.",
+      "sentence_en": "I look up the word in the dictionary."
+    },
+    {
+      "de": "blättern",
+      "en": "to leaf through / browse",
+      "sentence_de": "Sie blättert in der Zeitschrift.",
+      "sentence_en": "She is leafing through the magazine."
+    },
+    {
+      "de": "reservieren",
+      "en": "to reserve",
+      "sentence_de": "Ich reserviere das Buch online.",
+      "sentence_en": "I am reserving the book online."
+    },
+    {
+      "de": "vorbestellen",
+      "en": "to place on hold / pre-order",
+      "sentence_de": "Das Buch war ausgeliehen, also habe ich es vorbestellt.",
+      "sentence_en": "The book was borrowed, so I placed it on hold."
+    },
+    {
+      "de": "studieren",
+      "en": "to study",
+      "sentence_de": "Die Studenten studieren in der Bibliothek.",
+      "sentence_en": "The students are studying in the library."
+    },
+    {
+      "de": "lernen",
+      "en": "to learn",
+      "sentence_de": "Ich lerne in der Bibliothek für die Prüfung.",
+      "sentence_en": "I am studying for the exam in the library."
+    },
+    {
+      "de": "recherchieren",
+      "en": "to research",
+      "sentence_de": "Für meine Arbeit recherchiere ich in der Bibliothek.",
+      "sentence_en": "I am doing research for my work in the library."
+    },
+    {
+      "de": "empfehlen",
+      "en": "to recommend",
+      "sentence_de": "Der Bibliothekar empfiehlt mir einen guten Roman.",
+      "sentence_en": "The librarian recommends a good novel to me."
+    },
+    {
+      "de": "beraten",
+      "en": "to advise",
+      "sentence_de": "Die Bibliothekarin berät mich bei der Literatursuche.",
+      "sentence_en": "The librarian advises me on the literature search."
+    },
+    {
+      "de": "zitieren",
+      "en": "to quote",
+      "sentence_de": "Für die wissenschaftliche Arbeit muss ich richtig zitieren.",
+      "sentence_en": "For the academic paper I have to quote correctly."
+    },
+    {
+      "de": "notieren",
+      "en": "to take notes",
+      "sentence_de": "Ich notiere mir die wichtigsten Informationen.",
+      "sentence_en": "I take notes on the most important information."
+    },
+    {
+      "de": "drucken",
+      "en": "to print",
+      "sentence_de": "Ich drucke meinen Aufsatz in der Bibliothek.",
+      "sentence_en": "I print my essay in the library."
+    },
+    {
+      "de": "kopieren",
+      "en": "to copy",
+      "sentence_de": "Kann ich die Seite kopieren?",
+      "sentence_en": "Can I copy the page?"
+    },
+    {
+      "de": "katalogisieren",
+      "en": "to catalog",
+      "sentence_de": "Die Bibliothekare katalogisieren die neuen Bücher.",
+      "sentence_en": "The librarians are cataloging the new books."
+    },
+    {
+      "de": "ordnen",
+      "en": "to arrange / sort",
+      "sentence_de": "Die Bücher werden alphabetisch geordnet.",
+      "sentence_en": "The books are arranged alphabetically."
+    },
+    {
+      "de": "verwalten",
+      "en": "to manage",
+      "sentence_de": "Die Bibliothek verwaltet den Bestand digital.",
+      "sentence_en": "The library manages the collection digitally."
+    },
+    {
+      "de": "sich konzentrieren",
+      "en": "to concentrate",
+      "sentence_de": "In der Bibliothek kann ich mich gut konzentrieren.",
+      "sentence_en": "I can concentrate well in the library."
+    },
+    {
+      "de": "stören",
+      "en": "to disturb",
+      "sentence_de": "Bitte stören Sie die anderen Leser nicht.",
+      "sentence_en": "Please do not disturb the other readers."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "ruhig",
+      "en": "quiet",
+      "sentence_de": "In der Bibliothek ist es immer ruhig.",
+      "sentence_en": "It is always quiet in the library."
+    },
+    {
+      "de": "laut",
+      "en": "loud",
+      "sentence_de": "Bitte verhalte dich nicht laut in der Bibliothek.",
+      "sentence_en": "Please don't be loud in the library."
+    },
+    {
+      "de": "leise",
+      "en": "quiet / soft",
+      "sentence_de": "Man sollte leise sprechen.",
+      "sentence_en": "You should speak quietly."
+    },
+    {
+      "de": "umfangreich (Bestand)",
+      "en": "extensive (collection)",
+      "sentence_de": "Die Bibliothek hat einen umfangreichen Bestand.",
+      "sentence_en": "The library has an extensive collection."
+    },
+    {
+      "de": "aktuell",
+      "en": "current / up-to-date",
+      "sentence_de": "Die Zeitschriften sind immer aktuell.",
+      "sentence_en": "The magazines are always current."
+    },
+    {
+      "de": "veraltet",
+      "en": "outdated",
+      "sentence_de": "Manche Lexika sind schon veraltet.",
+      "sentence_en": "Some encyclopedias are already outdated."
+    },
+    {
+      "de": "wissenschaftlich",
+      "en": "scientific",
+      "sentence_de": "Die Bibliothek hat viele wissenschaftliche Werke.",
+      "sentence_en": "The library has many scientific works."
+    },
+    {
+      "de": "belletristisch",
+      "en": "fictional (literature)",
+      "sentence_de": "Belletristische Bücher sind bei den Lesern beliebt.",
+      "sentence_en": "Fictional books are popular with readers."
+    },
+    {
+      "de": "gebunden (Buch)",
+      "en": "hardcover (book)",
+      "sentence_de": "Das gebundene Buch ist teurer.",
+      "sentence_en": "The hardcover book is more expensive."
+    },
+    {
+      "de": "broschiert (Taschenbuch)",
+      "en": "paperback (book)",
+      "sentence_de": "Das broschierte Buch ist leichter.",
+      "sentence_en": "The paperback book is lighter."
+    },
+    {
+      "de": "aufgeschlossen (Bibliothekar)",
+      "en": "approachable (librarian)",
+      "sentence_de": "Die Bibliothekare sind sehr aufgeschlossen und helfen gerne.",
+      "sentence_en": "The librarians are very approachable and happy to help."
+    },
+    {
+      "de": "kompetent",
+      "en": "competent",
+      "sentence_de": "Die Auskunft der Bibliothekarin war kompetent.",
+      "sentence_en": "The librarian's information was competent."
+    },
+    {
+      "de": "zugänglich",
+      "en": "accessible",
+      "sentence_de": "Die Bibliothek ist für Rollstuhlfahrer zugänglich.",
+      "sentence_en": "The library is accessible for wheelchair users."
+    },
+    {
+      "de": "öffentlich",
+      "en": "public",
+      "sentence_de": "Die öffentliche Bibliothek ist für alle da.",
+      "sentence_en": "The public library is there for everyone."
+    },
+    {
+      "de": "privat (Bibliothek)",
+      "en": "private (library)",
+      "sentence_de": "Er hat eine große private Bibliothek zu Hause.",
+      "sentence_en": "He has a large private library at home."
+    },
+    {
+      "de": "digital",
+      "en": "digital",
+      "sentence_de": "Die Bibliothek bietet auch digitale Medien an.",
+      "sentence_en": "The library also offers digital media."
+    },
+    {
+      "de": "ausleihbar",
+      "en": "borrowable",
+      "sentence_de": "Alle Bücher sind ausleihbar.",
+      "sentence_en": "All books are borrowable."
+    },
+    {
+      "de": "präsenzbestand (nur vor Ort)",
+      "en": "reference only (on-site)",
+      "sentence_de": "Diese Bücher sind Präsenzbestand und dürfen nicht ausgeliehen werden.",
+      "sentence_en": "These books are reference only and may not be borrowed."
+    },
+    {
+      "de": "lehrreich",
+      "en": "educational / instructive",
+      "sentence_de": "Sachbücher sind sehr lehrreich.",
+      "sentence_en": "Non-fiction books are very instructive."
+    },
+    {
+      "de": "unterhaltsam",
+      "en": "entertaining",
+      "sentence_de": "Romane sind unterhaltsam und entspannend.",
+      "sentence_en": "Novels are entertaining and relaxing."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "still",
+      "en": "quietly",
+      "sentence_de": "Die Leser arbeiten still in der Bibliothek.",
+      "sentence_en": "The readers work quietly in the library."
+    },
+    {
+      "de": "leise",
+      "en": "quietly / softly",
+      "sentence_de": "Man sollte leise sprechen.",
+      "sentence_en": "You should speak quietly."
+    },
+    {
+      "de": "konzentriert",
+      "en": "concentratedly",
+      "sentence_de": "Sie liest konzentriert ihr Buch.",
+      "sentence_en": "She reads her book concentratedly."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich gehe regelmäßig in die Bibliothek.",
+      "sentence_en": "I go to the library regularly."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Die Bibliothek ist täglich geöffnet.",
+      "sentence_en": "The library is open daily."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Ich bringe die Bücher wöchentlich zurück.",
+      "sentence_en": "I return the books weekly."
+    },
+    {
+      "de": "pünktlich",
+      "en": "on time",
+      "sentence_de": "Gib die Bücher pünktlich zurück.",
+      "sentence_en": "Return the books on time."
+    },
+    {
+      "de": "verspätet",
+      "en": "late / with delay",
+      "sentence_de": "Ich habe die Bücher verspätet zurückgegeben.",
+      "sentence_en": "I returned the books late."
+    },
+    {
+      "de": "online",
+      "en": "online",
+      "sentence_de": "Ich suche online im Katalog.",
+      "sentence_en": "I search online in the catalog."
+    },
+    {
+      "de": "vor Ort",
+      "en": "on-site",
+      "sentence_de": "Man kann die Bücher auch vor Ort lesen.",
+      "sentence_en": "You can also read the books on-site."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Der Bibliothekar findet das Buch schnell.",
+      "sentence_en": "The librarian finds the book quickly."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Ich lese langsam, um alles zu verstehen.",
+      "sentence_en": "I read slowly to understand everything."
+    },
+    {
+      "de": "aufmerksam",
+      "en": "attentively",
+      "sentence_de": "Die Studenten hören aufmerksam zu.",
+      "sentence_en": "The students listen attentively."
+    },
+    {
+      "de": "selbstständig",
+      "en": "independently",
+      "sentence_de": "Man kann selbstständig im Katalog recherchieren.",
+      "sentence_en": "You can independently research in the catalog."
+    },
+    {
+      "de": "hier",
+      "en": "here",
+      "sentence_de": "Hier stehen die aktuellen Zeitschriften.",
+      "sentence_en": "The current magazines are here."
+    },
+    {
+      "de": "dort",
+      "en": "there",
+      "sentence_de": "Dort drüben sind die alten Bücher.",
+      "sentence_en": "The old books are over there."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Überall in der Bibliothek herrscht Ruhe.",
+      "sentence_en": "Everywhere in the library it is quiet."
+    },
+    {
+      "de": "nirgendwo",
+      "en": "nowhere",
+      "sentence_de": "Nirgendwo gibt es so viele Bücher wie hier.",
+      "sentence_en": "Nowhere are there as many books as here."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich leihe mir gerne neue Romane aus.",
+      "sentence_en": "I gladly borrow new novels."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Ich gebe Bücher ungern zu spät zurück.",
+      "sentence_en": "I reluctantly return books late."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Die Bibliothek ist ein Ort der Stille und des Wissens.",
+      "en": "The library is a place of silence and knowledge."
+    },
+    {
+      "de": "Ich habe mir drei Romane ausgeliehen, die ich im Urlaub lesen möchte.",
+      "en": "I borrowed three novels that I want to read on vacation."
+    },
+    {
+      "de": "Die Leihfrist beträgt vier Wochen, aber man kann sie verlängern.",
+      "en": "The loan period is four weeks, but you can renew it."
+    },
+    {
+      "de": "Im Lesesaal ist es angenehm ruhig, so kann man sich gut konzentrieren.",
+      "en": "It is pleasantly quiet in the reading room, so you can concentrate well."
+    },
+    {
+      "de": "Der Bibliothekar hilft mir bei der Suche nach einem bestimmten Buch.",
+      "en": "The librarian helps me find a specific book."
+    },
+    {
+      "de": "Über den Online-Katalog kann ich sehen, ob das Buch verfügbar ist.",
+      "en": "Through the online catalog I can see if the book is available."
+    },
+    {
+      "de": "Ich muss das Buch nächste Woche zurückbringen, sonst zahle ich Mahngebühren.",
+      "en": "I have to return the book next week, otherwise I'll pay late fees."
+    },
+    {
+      "de": "In der Bibliothek gibt es auch einen Computerraum mit Internetzugang.",
+      "en": "The library also has a computer room with internet access."
+    },
+    {
+      "de": "Für meine Seminararbeit recherchiere ich in wissenschaftlichen Datenbanken.",
+      "en": "I am researching in scientific databases for my seminar paper."
+    },
+    {
+      "de": "Kinderbücher stehen in einem separaten Bereich mit bunten Regalen.",
+      "en": "Children's books are in a separate area with colorful shelves."
+    },
+    {
+      "de": "Die Bibliothek bietet auch Veranstaltungen wie Lesungen für Kinder an.",
+      "en": "The library also offers events like readings for children."
+    },
+    {
+      "de": "Bitte verhalte dich ruhig und störe die anderen Leser nicht.",
+      "en": "Please behave quietly and do not disturb the other readers."
+    },
+    {
+      "de": "Ich empfehle dieses Buch allen, die sich für Geschichte interessieren.",
+      "en": "I recommend this book to anyone interested in history."
+    },
+    {
+      "de": "Die Bibliothek ist barrierefrei und hat auch große Schriftbücher für Sehbehinderte.",
+      "en": "The library is accessible and also has large print books for the visually impaired."
+    },
+    {
+      "de": "Eine Bibliothek ist mehr als nur ein Ort zum Bücherausleihen – sie ist ein Zentrum der Bildung.",
+      "en": "A library is more than just a place to borrow books – it is a center of education."
+    }
+  ]
+}

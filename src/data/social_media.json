@@ -1,0 +1,745 @@
+{
+  "theme": "Social Media",
+  "words": [
+    {
+      "de": "die sozialen Medien",
+      "en": "social media",
+      "sentence_de": "Soziale Medien sind aus dem Alltag nicht mehr wegzudenken.",
+      "sentence_en": "Social media are now indispensable in everyday life."
+    },
+    {
+      "de": "das soziale Netzwerk",
+      "en": "social network",
+      "sentence_de": "Facebook ist eines der ältesten sozialen Netzwerke.",
+      "sentence_en": "Facebook is one of the oldest social networks."
+    },
+    {
+      "de": "die Plattform",
+      "en": "platform",
+      "sentence_de": "TikTok ist eine sehr beliebte Plattform für kurze Videos.",
+      "sentence_en": "TikTok is a very popular platform for short videos."
+    },
+    {
+      "de": "der Account / der Zugang",
+      "en": "account",
+      "sentence_de": "Ich habe einen Account bei Instagram.",
+      "sentence_en": "I have an account on Instagram."
+    },
+    {
+      "de": "das Profil",
+      "en": "profile",
+      "sentence_de": "Mein Profilbild ist ein Foto von mir am Strand.",
+      "sentence_en": "My profile picture is a photo of me at the beach."
+    },
+    {
+      "de": "der Benutzername",
+      "en": "username",
+      "sentence_de": "Wie lautet dein Benutzername auf Twitter?",
+      "sentence_en": "What is your username on Twitter?"
+    },
+    {
+      "de": "das Passwort",
+      "en": "password",
+      "sentence_de": "Du solltest ein sicheres Passwort wählen.",
+      "sentence_en": "You should choose a secure password."
+    },
+    {
+      "de": "der Feed",
+      "en": "feed",
+      "sentence_de": "Ich scrolle jeden Morgen durch meinen Feed.",
+      "sentence_en": "I scroll through my feed every morning."
+    },
+    {
+      "de": "der Beitrag / der Post",
+      "en": "post",
+      "sentence_de": "Ihr neuester Beitrag hat viele Likes bekommen.",
+      "sentence_en": "Her latest post got a lot of likes."
+    },
+    {
+      "de": "der Kommentar",
+      "en": "comment",
+      "sentence_de": "Unter jedem Beitrag kann man einen Kommentar hinterlassen.",
+      "sentence_en": "You can leave a comment under every post."
+    },
+    {
+      "de": "das Like / der Gefällt-mir-Angabe",
+      "en": "like",
+      "sentence_de": "Ein Like ist eine schnelle Möglichkeit, Zustimmung zu zeigen.",
+      "sentence_en": "A like is a quick way to show approval."
+    },
+    {
+      "de": "der Daumen hoch",
+      "en": "thumbs up",
+      "sentence_de": "Klicke auf den Daumen hoch, wenn dir der Beitrag gefällt.",
+      "sentence_en": "Click the thumbs up if you like the post."
+    },
+    {
+      "de": "das Herz (als Reaktion)",
+      "en": "heart (as reaction)",
+      "sentence_de": "Auf Instagram drückt man oft das Herz.",
+      "sentence_en": "On Instagram, people often press the heart."
+    },
+    {
+      "de": "der Follower / die Followerin",
+      "en": "follower",
+      "sentence_de": "Sie hat über 10.000 Follower auf TikTok.",
+      "sentence_en": "She has over 10,000 followers on TikTok."
+    },
+    {
+      "de": "der Abonnent / die Abonnentin",
+      "en": "subscriber",
+      "sentence_de": "YouTube-Kanäle brauchen viele Abonnenten.",
+      "sentence_en": "YouTube channels need many subscribers."
+    },
+    {
+      "de": "der Influencer / die Influencerin",
+      "en": "influencer",
+      "sentence_de": "Der Influencer bewirbt verschiedene Produkte.",
+      "sentence_en": "The influencer advertises various products."
+    },
+    {
+      "de": "der Creator / die Creatorin",
+      "en": "creator",
+      "sentence_de": "Content-Creator verdienen Geld mit ihren Videos.",
+      "sentence_en": "Content creators earn money with their videos."
+    },
+    {
+      "de": "die Marke",
+      "en": "brand",
+      "sentence_de": "Viele Marken nutzen soziale Medien für Werbung.",
+      "sentence_en": "Many brands use social media for advertising."
+    },
+    {
+      "de": "die Werbung",
+      "en": "advertisement",
+      "sentence_de": "Werbung auf sozialen Medien ist oft personalisiert.",
+      "sentence_en": "Advertising on social media is often personalized."
+    },
+    {
+      "de": "der Algorithmus",
+      "en": "algorithm",
+      "sentence_de": "Der Algorithmus entscheidet, welche Beiträge man sieht.",
+      "sentence_en": "The algorithm decides which posts you see."
+    },
+    {
+      "de": "die Reichweite",
+      "en": "reach / engagement",
+      "sentence_de": "Die Reichweite eines Beitrags hängt vom Algorithmus ab.",
+      "sentence_en": "The reach of a post depends on the algorithm."
+    },
+    {
+      "de": "die Interaktion",
+      "en": "interaction",
+      "sentence_de": "Interaktionen wie Likes und Kommentare sind wichtig.",
+      "sentence_en": "Interactions like likes and comments are important."
+    },
+    {
+      "de": "das Teilen",
+      "en": "sharing",
+      "sentence_de": "Das Teilen von Beiträgen erhöht die Sichtbarkeit.",
+      "sentence_en": "Sharing posts increases visibility."
+    },
+    {
+      "de": "der Hashtag",
+      "en": "hashtag",
+      "sentence_de": "Mit Hashtags kann man Beiträge leichter finden.",
+      "sentence_en": "With hashtags you can find posts more easily."
+    },
+    {
+      "de": "die Story",
+      "en": "story",
+      "sentence_de": "Ich poste jeden Tag eine Story auf Instagram.",
+      "sentence_en": "I post a story on Instagram every day."
+    },
+    {
+      "de": "der Reel",
+      "en": "reel",
+      "sentence_de": "Reels sind kurze, unterhaltsame Videos.",
+      "sentence_en": "Reels are short, entertaining videos."
+    },
+    {
+      "de": "das Video",
+      "en": "video",
+      "sentence_de": "Das Video wurde über eine Million Mal angesehen.",
+      "sentence_en": "The video has been viewed over a million times."
+    },
+    {
+      "de": "das Foto / das Bild",
+      "en": "photo / picture",
+      "sentence_de": "Sie hat ein schönes Foto von ihrer Reise gepostet.",
+      "sentence_en": "She posted a beautiful photo from her trip."
+    },
+    {
+      "de": "der Filter",
+      "en": "filter",
+      "sentence_de": "Mit einem Filter kann man Fotos verschönern.",
+      "sentence_en": "With a filter you can enhance photos."
+    },
+    {
+      "de": "die Bearbeitung",
+      "en": "editing",
+      "sentence_de": "Die Bearbeitung von Bildern dauert oft länger.",
+      "sentence_en": "Editing images often takes longer."
+    },
+    {
+      "de": "die Privatsphäre",
+      "en": "privacy",
+      "sentence_de": "Datenschutz und Privatsphäre sind wichtige Themen.",
+      "sentence_en": "Data protection and privacy are important topics."
+    },
+    {
+      "de": "die Sicherheit",
+      "en": "security",
+      "sentence_de": "Man sollte auf die Sicherheit seiner Konten achten.",
+      "sentence_en": "You should pay attention to the security of your accounts."
+    },
+    {
+      "de": "der Datenschutz",
+      "en": "data protection",
+      "sentence_de": "Der Datenschutz in sozialen Medien wird oft diskutiert.",
+      "sentence_en": "Data protection on social media is often discussed."
+    },
+    {
+      "de": "die App",
+      "en": "app",
+      "sentence_de": "Die App ist sehr benutzerfreundlich.",
+      "sentence_en": "The app is very user-friendly."
+    },
+    {
+      "de": "die Benachrichtigung",
+      "en": "notification",
+      "sentence_de": "Ich bekomme ständig Benachrichtigungen auf mein Handy.",
+      "sentence_en": "I constantly get notifications on my phone."
+    },
+    {
+      "de": "die Direktnachricht (DM)",
+      "en": "direct message (DM)",
+      "sentence_de": "Ich habe dir eine Direktnachricht geschickt.",
+      "sentence_en": "I sent you a direct message."
+    },
+    {
+      "de": "der Chat",
+      "en": "chat",
+      "sentence_de": "Wir chatten oft über WhatsApp.",
+      "sentence_en": "We often chat via WhatsApp."
+    },
+    {
+      "de": "das Emoji",
+      "en": "emoji",
+      "sentence_de": "Emojis machen Nachrichten lebendiger.",
+      "sentence_en": "Emojis make messages more lively."
+    },
+    {
+      "de": "der Trend",
+      "en": "trend",
+      "sentence_de": "Dieser Trend ist gerade sehr beliebt.",
+      "sentence_en": "This trend is currently very popular."
+    },
+    {
+      "de": "die Fangemeinde",
+      "en": "fan base / following",
+      "sentence_de": "Die Fangemeinde des Influencers wächst täglich.",
+      "sentence_en": "The influencer's fan base grows daily."
+    },
+    {
+      "de": "der Livestream",
+      "en": "live stream",
+      "sentence_de": "Der Livestream erreichte Tausende von Zuschauern.",
+      "sentence_en": "The live stream reached thousands of viewers."
+    },
+    {
+      "de": "die Sucht (nach sozialen Medien)",
+      "en": "addiction (to social media)",
+      "sentence_de": "Social-Media-Sucht ist ein wachsendes Problem.",
+      "sentence_en": "Social media addiction is a growing problem."
+    },
+    {
+      "de": "die Bildschirmzeit",
+      "en": "screen time",
+      "sentence_de": "Meine Bildschirmzeit ist viel zu hoch.",
+      "sentence_en": "My screen time is way too high."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "posten / veröffentlichen",
+      "en": "to post",
+      "sentence_de": "Ich poste ein Foto von meinem Urlaub.",
+      "sentence_en": "I'm posting a photo from my vacation."
+    },
+    {
+      "de": "liken",
+      "en": "to like",
+      "sentence_de": "Sie hat alle meine Beiträge geliket.",
+      "sentence_en": "She liked all my posts."
+    },
+    {
+      "de": "kommentieren",
+      "en": "to comment",
+      "sentence_de": "Kommentiere den Beitrag, wenn du ihn magst.",
+      "sentence_en": "Comment on the post if you like it."
+    },
+    {
+      "de": "teilen",
+      "en": "to share",
+      "sentence_de": "Kannst du diesen Artikel bitte teilen?",
+      "sentence_en": "Can you please share this article?"
+    },
+    {
+      "de": "folgen",
+      "en": "to follow",
+      "sentence_de": "Ich folge dir jetzt auf Instagram.",
+      "sentence_en": "I'm following you on Instagram now."
+    },
+    {
+      "de": "abonnieren",
+      "en": "to subscribe",
+      "sentence_de": "Abonniere meinen YouTube-Kanal!",
+      "sentence_en": "Subscribe to my YouTube channel!"
+    },
+    {
+      "de": "scollen",
+      "en": "to scroll",
+      "sentence_de": "Ich scrolle stundenlang durch meinen Feed.",
+      "sentence_en": "I scroll through my feed for hours."
+    },
+    {
+      "de": "hochladen",
+      "en": "to upload",
+      "sentence_de": "Ich lade ein neues Video auf YouTube hoch.",
+      "sentence_en": "I'm uploading a new video to YouTube."
+    },
+    {
+      "de": "herunterladen",
+      "en": "to download",
+      "sentence_de": "Lade dir die App kostenlos herunter.",
+      "sentence_en": "Download the app for free."
+    },
+    {
+      "de": "teilen (eine Story)",
+      "en": "to share (a story)",
+      "sentence_de": "Sie teilt ihre Story mit ihren Freunden.",
+      "sentence_en": "She shares her story with her friends."
+    },
+    {
+      "de": "kommentieren (auf einen Beitrag)",
+      "en": "to reply (to a post)",
+      "sentence_de": "Ich habe auf seinen Kommentar geantwortet.",
+      "sentence_en": "I replied to his comment."
+    },
+    {
+      "de": "taggen / markieren",
+      "en": "to tag",
+      "sentence_de": "Ich habe dich auf dem Foto getaggt.",
+      "sentence_en": "I tagged you in the photo."
+    },
+    {
+      "de": "erwähnen",
+      "en": "to mention",
+      "sentence_de": "Er hat mich in seinem Beitrag erwähnt.",
+      "sentence_en": "He mentioned me in his post."
+    },
+    {
+      "de": "verlinken",
+      "en": "to link",
+      "sentence_de": "Sie verlinkt den Artikel in ihrer Bio.",
+      "sentence_en": "She links the article in her bio."
+    },
+    {
+      "de": "filtern",
+      "en": "to filter",
+      "sentence_de": "Ich filtere meine Fotos immer mit einem warmen Look.",
+      "sentence_en": "I always filter my photos with a warm look."
+    },
+    {
+      "de": "bearbeiten",
+      "en": "to edit",
+      "sentence_de": "Sie bearbeitet ihre Videos, bevor sie sie postet.",
+      "sentence_en": "She edits her videos before posting them."
+    },
+    {
+      "de": "melden",
+      "en": "to report",
+      "sentence_de": "Du solltest unangemessene Inhalte melden.",
+      "sentence_en": "You should report inappropriate content."
+    },
+    {
+      "de": "blockieren",
+      "en": "to block",
+      "sentence_de": "Ich blockiere Nutzer, die mich belästigen.",
+      "sentence_en": "I block users who harass me."
+    },
+    {
+      "de": "löschen",
+      "en": "to delete",
+      "sentence_de": "Ich lösche meinen alten Account.",
+      "sentence_en": "I'm deleting my old account."
+    },
+    {
+      "de": "deaktivieren",
+      "en": "to deactivate",
+      "sentence_de": "Sie hat ihr Profil für eine Woche deaktiviert.",
+      "sentence_en": "She deactivated her profile for a week."
+    },
+    {
+      "de": "privatsphäre einstellen",
+      "en": "to adjust privacy settings",
+      "sentence_de": "Du solltest deine Privatsphäre-Einstellungen überprüfen.",
+      "sentence_en": "You should check your privacy settings."
+    },
+    {
+      "de": "benachrichtigen",
+      "en": "to notify",
+      "sentence_de": "Die App benachrichtigt mich bei neuen Nachrichten.",
+      "sentence_en": "The app notifies me of new messages."
+    },
+    {
+      "de": "streamen",
+      "en": "to stream",
+      "sentence_de": "Er streamt jeden Abend auf Twitch.",
+      "sentence_en": "He streams on Twitch every evening."
+    },
+    {
+      "de": "abonnieren",
+      "en": "to subscribe",
+      "sentence_de": "Wie viele Kanäle abonnierst du auf YouTube?",
+      "sentence_en": "How many channels do you subscribe to on YouTube?"
+    },
+    {
+      "de": "verfolgen",
+      "en": "to follow (updates)",
+      "sentence_de": "Ich verfolge die Nachrichten auf Twitter.",
+      "sentence_en": "I follow the news on Twitter."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "beliebt",
+      "en": "popular",
+      "sentence_de": "TikTok ist eine der beliebtesten Plattformen.",
+      "sentence_en": "TikTok is one of the most popular platforms."
+    },
+    {
+      "de": "viral",
+      "en": "viral",
+      "sentence_de": "Das Video wurde über Nacht viral.",
+      "sentence_en": "The video went viral overnight."
+    },
+    {
+      "de": "trendy",
+      "en": "trendy",
+      "sentence_de": "Dieser Trend ist sehr trendy unter Teenagern.",
+      "sentence_en": "This trend is very trendy among teenagers."
+    },
+    {
+      "de": "digital",
+      "en": "digital",
+      "sentence_de": "In der digitalen Welt gibt es viele Chancen.",
+      "sentence_en": "There are many opportunities in the digital world."
+    },
+    {
+      "de": "sozial",
+      "en": "social",
+      "sentence_de": "Soziale Medien verbinden Menschen weltweit.",
+      "sentence_en": "Social media connect people worldwide."
+    },
+    {
+      "de": "interaktiv",
+      "en": "interactive",
+      "sentence_de": "Interaktive Inhalte sind oft erfolgreicher.",
+      "sentence_en": "Interactive content is often more successful."
+    },
+    {
+      "de": "öffentlich",
+      "en": "public",
+      "sentence_de": "Die meisten Profile sind öffentlich einsehbar.",
+      "sentence_en": "Most profiles are publicly viewable."
+    },
+    {
+      "de": "privat",
+      "en": "private",
+      "sentence_de": "Ich habe mein Profil auf privat gestellt.",
+      "sentence_en": "I set my profile to private."
+    },
+    {
+      "de": "anonym",
+      "en": "anonymous",
+      "sentence_de": "Manche Nutzer bleiben anonym.",
+      "sentence_en": "Some users remain anonymous."
+    },
+    {
+      "de": "aktuell",
+      "en": "current / up-to-date",
+      "sentence_de": "Halte deinen Account immer aktuell.",
+      "sentence_en": "Always keep your account up-to-date."
+    },
+    {
+      "de": "veraltet",
+      "en": "outdated",
+      "sentence_de": "Diese Plattform ist veraltet.",
+      "sentence_en": "This platform is outdated."
+    },
+    {
+      "de": "addictiv (süchtig machend)",
+      "en": "addictive",
+      "sentence_de": "Soziale Medien können sehr süchtig machend sein.",
+      "sentence_en": "Social media can be very addictive."
+    },
+    {
+      "de": "unterhaltsam",
+      "en": "entertaining",
+      "sentence_de": "Die Videos sind sehr unterhaltsam.",
+      "sentence_en": "The videos are very entertaining."
+    },
+    {
+      "de": "informativ",
+      "en": "informative",
+      "sentence_de": "Viele Kanäle sind sehr informativ.",
+      "sentence_en": "Many channels are very informative."
+    },
+    {
+      "de": "kreativ",
+      "en": "creative",
+      "sentence_de": "Er hat einen kreativen Content-Stil.",
+      "sentence_en": "He has a creative content style."
+    },
+    {
+      "de": "persönlich",
+      "en": "personal",
+      "sentence_de": "Teile nicht zu viele persönliche Informationen.",
+      "sentence_en": "Don't share too much personal information."
+    },
+    {
+      "de": "professionell",
+      "en": "professional",
+      "sentence_de": "Ihr Instagram-Auftritt ist sehr professionell.",
+      "sentence_en": "Her Instagram presence is very professional."
+    },
+    {
+      "de": "ungesund",
+      "en": "unhealthy",
+      "sentence_de": "Zu viel Social Media kann ungesund sein.",
+      "sentence_en": "Too much social media can be unhealthy."
+    },
+    {
+      "de": "fälschlich",
+      "en": "fake / false",
+      "sentence_de": "Es gibt viele gefälschte Profile.",
+      "sentence_en": "There are many fake profiles."
+    },
+    {
+      "de": "authentisch",
+      "en": "authentic",
+      "sentence_de": "Authentische Inhalte kommen beim Publikum gut an.",
+      "sentence_en": "Authentic content is well received by audiences."
+    },
+    {
+      "de": "toxisch",
+      "en": "toxic",
+      "sentence_de": "Manche Kommentare sind toxisch.",
+      "sentence_en": "Some comments are toxic."
+    },
+    {
+      "de": "nützlich",
+      "en": "useful",
+      "sentence_de": "Soziale Medien können auch sehr nützlich sein.",
+      "sentence_en": "Social media can also be very useful."
+    },
+    {
+      "de": "zeitaufwendig",
+      "en": "time-consuming",
+      "sentence_de": "Die Pflege von Accounts ist zeitaufwendig.",
+      "sentence_en": "Managing accounts is time-consuming."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich checke meine sozialen Medien täglich.",
+      "sentence_en": "I check my social media daily."
+    },
+    {
+      "de": "stündlich",
+      "en": "hourly",
+      "sentence_de": "Er aktualisiert seinen Feed stündlich.",
+      "sentence_en": "He updates his feed hourly."
+    },
+    {
+      "de": "online",
+      "en": "online",
+      "sentence_de": "Ich bin jetzt online und kann chatten.",
+      "sentence_en": "I'm online now and can chat."
+    },
+    {
+      "de": "offline",
+      "en": "offline",
+      "sentence_de": "Ich bin ein paar Tage offline.",
+      "sentence_en": "I'm offline for a few days."
+    },
+    {
+      "de": "global",
+      "en": "globally",
+      "sentence_de": "Die Nachricht verbreitete sich global.",
+      "sentence_en": "The message spread globally."
+    },
+    {
+      "de": "viral",
+      "en": "virally",
+      "sentence_de": "Das Video verbreitete sich viral.",
+      "sentence_en": "The video spread virally."
+    },
+    {
+      "de": "öffentlich",
+      "en": "publicly",
+      "sentence_de": "Sie hat den Beitrag öffentlich geteilt.",
+      "sentence_en": "She shared the post publicly."
+    },
+    {
+      "de": "privat",
+      "en": "privately",
+      "sentence_de": "Ich schicke dir die Nachricht privat.",
+      "sentence_en": "I'll send you the message privately."
+    },
+    {
+      "de": "anonym",
+      "en": "anonymously",
+      "sentence_de": "Manche kommentieren anonym.",
+      "sentence_en": "Some comment anonymously."
+    },
+    {
+      "de": "sofort",
+      "en": "immediately",
+      "sentence_de": "Die Benachrichtigung kam sofort.",
+      "sentence_en": "The notification came immediately."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich poste regelmäßig neue Inhalte.",
+      "sentence_en": "I post new content regularly."
+    },
+    {
+      "de": "unregelmäßig",
+      "en": "irregularly",
+      "sentence_de": "Er postet nur unregelmäßig.",
+      "sentence_en": "He only posts irregularly."
+    },
+    {
+      "de": "aktiv",
+      "en": "actively",
+      "sentence_de": "Sie ist sehr aktiv auf Twitter.",
+      "sentence_en": "She is very active on Twitter."
+    },
+    {
+      "de": "passiv",
+      "en": "passively",
+      "sentence_de": "Ich scrolle passiv durch den Feed.",
+      "sentence_en": "I passively scroll through the feed."
+    },
+    {
+      "de": "einfach",
+      "en": "easily",
+      "sentence_de": "Du kannst Kontakte einfach über soziale Medien knüpfen.",
+      "sentence_en": "You can easily make contacts through social media."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Nachrichten verbreiten sich schnell.",
+      "sentence_en": "Messages spread quickly."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Die Reichweite wächst nur langsam.",
+      "sentence_en": "The reach only grows slowly."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Menschen nutzen soziale Medien überall.",
+      "sentence_en": "People use social media everywhere."
+    },
+    {
+      "de": "nirgendwo",
+      "en": "nowhere",
+      "sentence_de": "Nirgendwo ist es so einfach, sich zu vernetzen.",
+      "sentence_en": "Nowhere is it as easy to network."
+    },
+    {
+      "de": "gemeinsam",
+      "en": "together",
+      "sentence_de": "Wir nutzen soziale Medien gemeinsam.",
+      "sentence_en": "We use social media together."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Manchmal verbringt man alleine zu viel Zeit dort.",
+      "sentence_en": "Sometimes you spend too much time there alone."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Soziale Medien haben die Art und Weise, wie wir kommunizieren, revolutioniert.",
+      "en": "Social media have revolutionized the way we communicate."
+    },
+    {
+      "de": "Ich verbringe etwa zwei Stunden am Tag auf Instagram und TikTok.",
+      "en": "I spend about two hours a day on Instagram and TikTok."
+    },
+    {
+      "de": "Hashtags helfen dabei, Beiträge zu einem bestimmten Thema zu finden.",
+      "en": "Hashtags help you find posts on a specific topic."
+    },
+    {
+      "de": "Influencer haben großen Einfluss auf die Kaufentscheidungen ihrer Follower.",
+      "en": "Influencers have a great influence on their followers' purchasing decisions."
+    },
+    {
+      "de": "Du solltest vorsichtig sein, welche persönlichen Daten du online teilst.",
+      "en": "You should be careful about what personal data you share online."
+    },
+    {
+      "de": "Der Algorithmus bestimmt, welche Beiträge in deinem Feed erscheinen.",
+      "en": "The algorithm determines which posts appear in your feed."
+    },
+    {
+      "de": "Ich habe meinen Account auf privat gestellt, um meine Privatsphäre zu schützen.",
+      "en": "I set my account to private to protect my privacy."
+    },
+    {
+      "de": "Viele junge Menschen nutzen soziale Medien, um sich kreativ auszudrücken.",
+      "en": "Many young people use social media to express themselves creatively."
+    },
+    {
+      "de": "Die Anzahl der Follower ist für viele Nutzer ein Maß für ihren Erfolg.",
+      "en": "The number of followers is a measure of success for many users."
+    },
+    {
+      "de": "Kommentare können sowohl positiv als auch negativ sein und die Stimmung beeinflussen.",
+      "en": "Comments can be both positive and negative and affect mood."
+    },
+    {
+      "de": "Livestreams ermöglichen eine direkte Interaktion zwischen Creator und Publikum.",
+      "en": "Live streams allow direct interaction between creators and audiences."
+    },
+    {
+      "de": "Ich versuche, meine Bildschirmzeit zu reduzieren, um produktiver zu sein.",
+      "en": "I try to reduce my screen time to be more productive."
+    },
+    {
+      "de": "Soziale Medien können eine wertvolle Informationsquelle sein, aber auch Fake News verbreiten.",
+      "en": "Social media can be a valuable source of information, but also spread fake news."
+    },
+    {
+      "de": "Direktnachrichten sind eine schnelle und persönliche Kommunikationsform.",
+      "en": "Direct messages are a fast and personal form of communication."
+    },
+    {
+      "de": "Ein gesunder Umgang mit sozialen Medien bedeutet, bewusst Zeitlimits zu setzen.",
+      "en": "Healthy use of social media means setting conscious time limits."
+    }
+  ]
+}

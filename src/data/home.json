@@ -1,0 +1,757 @@
+{
+  "theme": "Home",
+  "words": [
+    {
+      "de": "das Zuhause / das Heim",
+      "en": "home",
+      "sentence_de": "Ein gemütliches Zuhause ist sehr wichtig.",
+      "sentence_en": "A cozy home is very important."
+    },
+    {
+      "de": "das Haus",
+      "en": "house",
+      "sentence_de": "Das Haus hat einen großen Garten.",
+      "sentence_en": "The house has a large garden."
+    },
+    {
+      "de": "die Wohnung",
+      "en": "apartment / flat",
+      "sentence_de": "Unsere Wohnung liegt im dritten Stock.",
+      "sentence_en": "Our apartment is on the third floor."
+    },
+    {
+      "de": "das Zimmer",
+      "en": "room",
+      "sentence_de": "Das Zimmer ist hell und geräumig.",
+      "sentence_en": "The room is bright and spacious."
+    },
+    {
+      "de": "das Wohnzimmer",
+      "en": "living room",
+      "sentence_de": "Im Wohnzimmer stehen ein Sofa und ein Fernseher.",
+      "sentence_en": "In the living room there is a sofa and a TV."
+    },
+    {
+      "de": "die Küche",
+      "en": "kitchen",
+      "sentence_de": "Die Küche ist mit einer Spülmaschine ausgestattet.",
+      "sentence_en": "The kitchen is equipped with a dishwasher."
+    },
+    {
+      "de": "das Schlafzimmer",
+      "en": "bedroom",
+      "sentence_de": "Im Schlafzimmer steht ein großes Bett.",
+      "sentence_en": "There is a large bed in the bedroom."
+    },
+    {
+      "de": "das Kinderzimmer",
+      "en": "children's room",
+      "sentence_de": "Das Kinderzimmer ist bunt dekoriert.",
+      "sentence_en": "The children's room is colorfully decorated."
+    },
+    {
+      "de": "das Arbeitszimmer",
+      "en": "home office / study",
+      "sentence_de": "Im Arbeitszimmer arbeite ich von zu Hause aus.",
+      "sentence_en": "In the home office I work from home."
+    },
+    {
+      "de": "das Badezimmer",
+      "en": "bathroom",
+      "sentence_de": "Das Badezimmer hat eine Dusche und eine Badewanne.",
+      "sentence_en": "The bathroom has a shower and a bathtub."
+    },
+    {
+      "de": "der Flur / der Gang",
+      "en": "hallway / corridor",
+      "sentence_de": "Im Flur hängen die Jacken.",
+      "sentence_en": "The jackets are hanging in the hallway."
+    },
+    {
+      "de": "die Diele",
+      "en": "entrance hall",
+      "sentence_de": "Die Diele ist mit Fliesen ausgelegt.",
+      "sentence_en": "The entrance hall is tiled."
+    },
+    {
+      "de": "der Keller",
+      "en": "basement",
+      "sentence_de": "Im Keller lagern wir alte Möbel.",
+      "sentence_en": "We store old furniture in the basement."
+    },
+    {
+      "de": "der Dachboden / der Speicher",
+      "en": "attic",
+      "sentence_de": "Auf dem Dachboden befinden sich alte Erinnerungen.",
+      "sentence_en": "There are old memories in the attic."
+    },
+    {
+      "de": "die Treppe",
+      "en": "stairs",
+      "sentence_de": "Die Treppe führt in den ersten Stock.",
+      "sentence_en": "The stairs lead to the first floor."
+    },
+    {
+      "de": "der Stock / das Stockwerk",
+      "en": "floor / story",
+      "sentence_de": "Wir wohnen im zweiten Stock.",
+      "sentence_en": "We live on the second floor."
+    },
+    {
+      "de": "der Aufzug / der Fahrstuhl",
+      "en": "elevator",
+      "sentence_de": "Der Aufzug ist leider kaputt.",
+      "sentence_en": "The elevator is unfortunately broken."
+    },
+    {
+      "de": "die Tür",
+      "en": "door",
+      "sentence_de": "Bitte schließen Sie die Tür leise.",
+      "sentence_en": "Please close the door quietly."
+    },
+    {
+      "de": "das Fenster",
+      "en": "window",
+      "sentence_de": "Das Fenster geht zum Garten hinaus.",
+      "sentence_en": "The window faces the garden."
+    },
+    {
+      "de": "der Garten",
+      "en": "garden",
+      "sentence_de": "Im Garten blühen viele bunte Blumen.",
+      "sentence_en": "Many colorful flowers are blooming in the garden."
+    },
+    {
+      "de": "der Balkon",
+      "en": "balcony",
+      "sentence_de": "Vom Balkon hat man eine schöne Aussicht.",
+      "sentence_en": "From the balcony you have a nice view."
+    },
+    {
+      "de": "die Terrasse",
+      "en": "terrace",
+      "sentence_de": "Auf der Terrasse sitzen wir im Sommer.",
+      "sentence_en": "We sit on the terrace in summer."
+    },
+    {
+      "de": "die Garage",
+      "en": "garage",
+      "sentence_de": "Das Auto steht in der Garage.",
+      "sentence_en": "The car is in the garage."
+    },
+    {
+      "de": "die Einfahrt",
+      "en": "driveway",
+      "sentence_de": "Die Einfahrt ist breit genug für zwei Autos.",
+      "sentence_en": "The driveway is wide enough for two cars."
+    },
+    {
+      "de": "der Zaun",
+      "en": "fence",
+      "sentence_de": "Der Zaun umgibt das ganze Grundstück.",
+      "sentence_en": "The fence surrounds the entire property."
+    },
+    {
+      "de": "das Grundstück",
+      "en": "property / plot",
+      "sentence_de": "Das Grundstück ist 500 Quadratmeter groß.",
+      "sentence_en": "The property is 500 square meters."
+    },
+    {
+      "de": "die Nachbarschaft",
+      "en": "neighborhood",
+      "sentence_de": "Die Nachbarschaft ist sehr freundlich.",
+      "sentence_en": "The neighborhood is very friendly."
+    },
+    {
+      "de": "die Hausarbeit",
+      "en": "housework",
+      "sentence_de": "Die Hausarbeit teilen wir uns auf.",
+      "sentence_en": "We share the housework."
+    },
+    {
+      "de": "die Miete",
+      "en": "rent",
+      "sentence_de": "Die Miete ist in dieser Gegend hoch.",
+      "sentence_en": "The rent is high in this area."
+    },
+    {
+      "de": "der Mieter / die Mieterin",
+      "en": "tenant",
+      "sentence_de": "Die Mieter zahlen pünktlich ihre Miete.",
+      "sentence_en": "The tenants pay their rent on time."
+    },
+    {
+      "de": "der Vermieter / die Vermieterin",
+      "en": "landlord / landlady",
+      "sentence_de": "Der Vermieter kümmert sich um Reparaturen.",
+      "sentence_en": "The landlord takes care of repairs."
+    },
+    {
+      "de": "die Nebenkosten",
+      "en": "utilities / additional costs",
+      "sentence_de": "Die Nebenkosten werden jährlich abgerechnet.",
+      "sentence_en": "The utilities are settled annually."
+    },
+    {
+      "de": "die Einrichtung",
+      "en": "furnishings / interior",
+      "sentence_de": "Die Einrichtung der Wohnung ist modern.",
+      "sentence_en": "The furnishings of the apartment are modern."
+    },
+    {
+      "de": "das Möbel (Pl.)",
+      "en": "furniture",
+      "sentence_de": "Wir haben neue Möbel für das Wohnzimmer gekauft.",
+      "sentence_en": "We bought new furniture for the living room."
+    },
+    {
+      "de": "der Schrank",
+      "en": "cupboard / wardrobe",
+      "sentence_de": "Die Kleider sind im Schrank.",
+      "sentence_en": "The clothes are in the wardrobe."
+    },
+    {
+      "de": "der Tisch",
+      "en": "table",
+      "sentence_de": "Der Tisch ist aus massivem Holz.",
+      "sentence_en": "The table is made of solid wood."
+    },
+    {
+      "de": "der Stuhl",
+      "en": "chair",
+      "sentence_de": "Die Stühle passen gut zum Tisch.",
+      "sentence_en": "The chairs match the table well."
+    },
+    {
+      "de": "das Sofa",
+      "en": "sofa / couch",
+      "sentence_de": "Auf dem Sofa sitzen wir gerne abends.",
+      "sentence_en": "We like to sit on the sofa in the evening."
+    },
+    {
+      "de": "das Bett",
+      "en": "bed",
+      "sentence_de": "Das Bett ist sehr bequem.",
+      "sentence_en": "The bed is very comfortable."
+    },
+    {
+      "de": "die Lampe",
+      "en": "lamp",
+      "sentence_de": "Die Lampe spendet warmes Licht.",
+      "sentence_en": "The lamp gives warm light."
+    },
+    {
+      "de": "der Teppich",
+      "en": "carpet / rug",
+      "sentence_de": "Der Teppich ist aus Wolle.",
+      "sentence_en": "The rug is made of wool."
+    },
+    {
+      "de": "die Wand",
+      "en": "wall",
+      "sentence_de": "An der Wand hängt ein Bild.",
+      "sentence_en": "There is a picture hanging on the wall."
+    },
+    {
+      "de": "die Decke",
+      "en": "ceiling",
+      "sentence_de": "Die Decke im Wohnzimmer ist hoch.",
+      "sentence_en": "The ceiling in the living room is high."
+    },
+    {
+      "de": "der Boden",
+      "en": "floor",
+      "sentence_de": "Der Boden ist mit Laminat bedeckt.",
+      "sentence_en": "The floor is covered with laminate."
+    },
+    {
+      "de": "die Heizung",
+      "en": "heating",
+      "sentence_de": "Die Heizung funktioniert einwandfrei.",
+      "sentence_en": "The heating works perfectly."
+    },
+    {
+      "de": "der Wohnort",
+      "en": "place of residence",
+      "sentence_de": "Mein Wohnort ist in der Nähe der Stadt.",
+      "sentence_en": "My place of residence is near the city."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "wohnen",
+      "en": "to live / reside",
+      "sentence_de": "Ich wohne in einer schönen Wohnung.",
+      "sentence_en": "I live in a beautiful apartment."
+    },
+    {
+      "de": "leben",
+      "en": "to live",
+      "sentence_de": "Wir leben schon seit zehn Jahren in diesem Haus.",
+      "sentence_en": "We have been living in this house for ten years."
+    },
+    {
+      "de": "einziehen",
+      "en": "to move in",
+      "sentence_de": "Wir ziehen nächste Woche in die neue Wohnung ein.",
+      "sentence_en": "We are moving into the new apartment next week."
+    },
+    {
+      "de": "ausziehen",
+      "en": "to move out",
+      "sentence_de": "Sie ziehen aus dem Haus aus, weil es zu teuer ist.",
+      "sentence_en": "They are moving out of the house because it's too expensive."
+    },
+    {
+      "de": "umziehen",
+      "en": "to move (house)",
+      "sentence_de": "Wir ziehen in eine andere Stadt um.",
+      "sentence_en": "We are moving to another city."
+    },
+    {
+      "de": "renovieren",
+      "en": "to renovate",
+      "sentence_de": "Wir renovieren gerade das Badezimmer.",
+      "sentence_en": "We are currently renovating the bathroom."
+    },
+    {
+      "de": "einrichten",
+      "en": "to furnish",
+      "sentence_de": "Ich richte mein neues Zimmer gemütlich ein.",
+      "sentence_en": "I am furnishing my new room cozily."
+    },
+    {
+      "de": "dekorieren",
+      "en": "to decorate",
+      "sentence_de": "Sie dekoriert die Wohnung für Weihnachten.",
+      "sentence_en": "She is decorating the apartment for Christmas."
+    },
+    {
+      "de": "putzen",
+      "en": "to clean",
+      "sentence_de": "Ich putze jeden Samstag die Wohnung.",
+      "sentence_en": "I clean the apartment every Saturday."
+    },
+    {
+      "de": "saugen / staubsaugen",
+      "en": "to vacuum",
+      "sentence_de": "Er saugt die Teppiche im Wohnzimmer.",
+      "sentence_en": "He vacuums the carpets in the living room."
+    },
+    {
+      "de": "wischen",
+      "en": "to mop",
+      "sentence_de": "Sie wischt den Boden in der Küche.",
+      "sentence_en": "She mops the floor in the kitchen."
+    },
+    {
+      "de": "abstauben",
+      "en": "to dust",
+      "sentence_de": "Ich staube die Regale einmal pro Woche ab.",
+      "sentence_en": "I dust the shelves once a week."
+    },
+    {
+      "de": "aufräumen",
+      "en": "to tidy up",
+      "sentence_de": "Die Kinder räumen ihre Spielsachen auf.",
+      "sentence_en": "The children tidy up their toys."
+    },
+    {
+      "de": "kochen",
+      "en": "to cook",
+      "sentence_de": "Ich koche jeden Tag in der Küche.",
+      "sentence_en": "I cook in the kitchen every day."
+    },
+    {
+      "de": "wohnen zur Miete",
+      "en": "to rent",
+      "sentence_de": "Wir wohnen zur Miete, wir besitzen kein Haus.",
+      "sentence_en": "We rent; we don't own a house."
+    },
+    {
+      "de": "mieten",
+      "en": "to rent",
+      "sentence_de": "Wir haben die Wohnung für zwei Jahre gemietet.",
+      "sentence_en": "We rented the apartment for two years."
+    },
+    {
+      "de": "kündigen",
+      "en": "to cancel / terminate (contract)",
+      "sentence_de": "Ich kündige den Mietvertrag zum Monatsende.",
+      "sentence_en": "I am terminating the rental contract at the end of the month."
+    },
+    {
+      "de": "vermieten",
+      "en": "to rent out / lease",
+      "sentence_de": "Der Vermieter vermietet mehrere Wohnungen.",
+      "sentence_en": "The landlord rents out several apartments."
+    },
+    {
+      "de": "reparieren",
+      "en": "to repair",
+      "sentence_de": "Der Klempner repariert das undichte Rohr.",
+      "sentence_en": "The plumber is repairing the leaky pipe."
+    },
+    {
+      "de": "bauen",
+      "en": "to build",
+      "sentence_de": "Wir bauen ein neues Haus im Grünen.",
+      "sentence_en": "We are building a new house in the countryside."
+    },
+    {
+      "de": "streichen",
+      "en": "to paint (walls)",
+      "sentence_de": "Wir streichen die Wände im Schlafzimmer weiß.",
+      "sentence_en": "We are painting the walls in the bedroom white."
+    },
+    {
+      "de": "tapezieren",
+      "en": "to wallpaper",
+      "sentence_de": "Ich tapeziere das Kinderzimmer mit bunten Mustern.",
+      "sentence_en": "I am wallpapering the children's room with colorful patterns."
+    },
+    {
+      "de": "heizen",
+      "en": "to heat",
+      "sentence_de": "Im Winter heizen wir mit Gas.",
+      "sentence_en": "In winter we heat with gas."
+    },
+    {
+      "de": "lüften",
+      "en": "to air out / ventilate",
+      "sentence_de": "Man sollte jeden Tag das Zimmer lüften.",
+      "sentence_en": "You should air out the room every day."
+    },
+    {
+      "de": "angehören (zur Familie)",
+      "en": "to belong (to family)",
+      "sentence_de": "Dieses Haus gehört meiner Familie.",
+      "sentence_en": "This house belongs to my family."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "groß",
+      "en": "large / big",
+      "sentence_de": "Die Wohnung ist sehr groß.",
+      "sentence_en": "The apartment is very large."
+    },
+    {
+      "de": "klein",
+      "en": "small",
+      "sentence_de": "Das Haus ist klein, aber gemütlich.",
+      "sentence_en": "The house is small but cozy."
+    },
+    {
+      "de": "gemütlich",
+      "en": "cozy",
+      "sentence_de": "Unser Zuhause ist sehr gemütlich.",
+      "sentence_en": "Our home is very cozy."
+    },
+    {
+      "de": "hell",
+      "en": "bright",
+      "sentence_de": "Das Wohnzimmer ist sehr hell durch die großen Fenster.",
+      "sentence_en": "The living room is very bright thanks to the large windows."
+    },
+    {
+      "de": "dunkel",
+      "en": "dark",
+      "sentence_de": "Der Keller ist ziemlich dunkel.",
+      "sentence_en": "The basement is quite dark."
+    },
+    {
+      "de": "modern",
+      "en": "modern",
+      "sentence_de": "Die Küche ist modern ausgestattet.",
+      "sentence_en": "The kitchen is modernly equipped."
+    },
+    {
+      "de": "alt",
+      "en": "old",
+      "sentence_de": "Das Haus ist über 100 Jahre alt.",
+      "sentence_en": "The house is over 100 years old."
+    },
+    {
+      "de": "geräumig",
+      "en": "spacious",
+      "sentence_de": "Die Zimmer sind sehr geräumig.",
+      "sentence_en": "The rooms are very spacious."
+    },
+    {
+      "de": "eng",
+      "en": "cramped / narrow",
+      "sentence_de": "Der Flur ist ziemlich eng.",
+      "sentence_en": "The hallway is quite narrow."
+    },
+    {
+      "de": "ruhig",
+      "en": "quiet",
+      "sentence_de": "Die Wohnung liegt in einer ruhigen Gegend.",
+      "sentence_en": "The apartment is located in a quiet area."
+    },
+    {
+      "de": "laut",
+      "en": "loud / noisy",
+      "sentence_de": "Die Straße vor dem Haus ist sehr laut.",
+      "sentence_en": "The street in front of the house is very noisy."
+    },
+    {
+      "de": "sonnig",
+      "en": "sunny",
+      "sentence_de": "Der Balkon ist den ganzen Tag sonnig.",
+      "sentence_en": "The balcony is sunny all day."
+    },
+    {
+      "de": "schattig",
+      "en": "shady",
+      "sentence_de": "Der Garten ist angenehm schattig im Sommer.",
+      "sentence_en": "The garden is pleasantly shady in summer."
+    },
+    {
+      "de": "sauber",
+      "en": "clean",
+      "sentence_de": "Die Wohnung ist immer sauber.",
+      "sentence_en": "The apartment is always clean."
+    },
+    {
+      "de": "schmutzig",
+      "en": "dirty",
+      "sentence_de": "Die Fenster sind nach dem Winter schmutzig.",
+      "sentence_en": "The windows are dirty after winter."
+    },
+    {
+      "de": "unordentlich",
+      "en": "messy",
+      "sentence_de": "Das Kinderzimmer ist oft unordentlich.",
+      "sentence_en": "The children's room is often messy."
+    },
+    {
+      "de": "freundlich (Miete)",
+      "en": "reasonable / friendly (rent)",
+      "sentence_de": "Die Miete ist erschwinglich.",
+      "sentence_en": "The rent is affordable."
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "sentence_de": "Die Wohnung in der Innenstadt ist teuer.",
+      "sentence_en": "The apartment in the city center is expensive."
+    },
+    {
+      "de": "möbliert",
+      "en": "furnished",
+      "sentence_de": "Die Wohnung ist teilweise möbliert.",
+      "sentence_en": "The apartment is partially furnished."
+    },
+    {
+      "de": "unmöbliert",
+      "en": "unfurnished",
+      "sentence_de": "Wir haben eine unmöblierte Wohnung gemietet.",
+      "sentence_en": "We rented an unfurnished apartment."
+    },
+    {
+      "de": "energieeffizient",
+      "en": "energy-efficient",
+      "sentence_de": "Das Haus ist sehr energieeffizient.",
+      "sentence_en": "The house is very energy-efficient."
+    },
+    {
+      "de": "altbau (charakteristisch)",
+      "en": "old building (characteristic)",
+      "sentence_de": "Die Altbauwohnung hat hohe Decken.",
+      "sentence_en": "The old building apartment has high ceilings."
+    },
+    {
+      "de": "neubau (charakteristisch)",
+      "en": "new build (characteristic)",
+      "sentence_de": "Die Neubauwohnung ist sehr gut isoliert.",
+      "sentence_en": "The new build apartment is very well insulated."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "gemütlich",
+      "en": "cozily",
+      "sentence_de": "Wir haben uns gemütlich eingerichtet.",
+      "sentence_en": "We have furnished ourselves cozily."
+    },
+    {
+      "de": "sauber",
+      "en": "cleanly",
+      "sentence_de": "Sie putzt die Wohnung sehr sauber.",
+      "sentence_en": "She cleans the apartment very cleanly."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Wir lüften regelmäßig das ganze Haus.",
+      "sentence_en": "We regularly air out the whole house."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich koche täglich frisch.",
+      "sentence_en": "I cook fresh daily."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Wir machen wöchentlich den großen Hausputz.",
+      "sentence_en": "We do the big house cleaning weekly."
+    },
+    {
+      "de": "zusammen",
+      "en": "together",
+      "sentence_de": "Wir wohnen schon lange zusammen.",
+      "sentence_en": "We have lived together for a long time."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Ich wohne alleine in einer kleinen Wohnung.",
+      "sentence_en": "I live alone in a small apartment."
+    },
+    {
+      "de": "zu Hause",
+      "en": "at home",
+      "sentence_de": "Ich arbeite heute zu Hause.",
+      "sentence_en": "I'm working at home today."
+    },
+    {
+      "de": "unterwegs",
+      "en": "on the go / away from home",
+      "sentence_de": "Ich bin selten unterwegs, ich bin lieber zu Hause.",
+      "sentence_en": "I am rarely on the go; I prefer to be at home."
+    },
+    {
+      "de": "gerade",
+      "en": "just / right now",
+      "sentence_de": "Ich bin gerade zu Hause angekommen.",
+      "sentence_en": "I just arrived home."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Wir sitzen oft im Garten.",
+      "sentence_en": "We often sit in the garden."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Wir kochen selten aufwendige Gerichte.",
+      "sentence_en": "We rarely cook elaborate dishes."
+    },
+    {
+      "de": "oben",
+      "en": "upstairs",
+      "sentence_de": "Oben sind die Schlafzimmer.",
+      "sentence_en": "The bedrooms are upstairs."
+    },
+    {
+      "de": "unten",
+      "en": "downstairs",
+      "sentence_de": "Unten befindet sich das Wohnzimmer.",
+      "sentence_en": "The living room is downstairs."
+    },
+    {
+      "de": "drinnen",
+      "en": "inside",
+      "sentence_de": "Bei Regen bleiben wir lieber drinnen.",
+      "sentence_en": "When it rains we prefer to stay inside."
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "sentence_de": "Im Sommer essen wir gerne draußen.",
+      "sentence_en": "In summer we like to eat outside."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "In der Wohnung hängen überall Bilder.",
+      "sentence_en": "There are pictures hanging everywhere in the apartment."
+    },
+    {
+      "de": "nirgendwo",
+      "en": "nowhere",
+      "sentence_de": "Nirgendwo ist es so gemütlich wie zu Hause.",
+      "sentence_en": "Nowhere is as cozy as at home."
+    },
+    {
+      "de": "endlich",
+      "en": "finally",
+      "sentence_de": "Endlich sind wir in unser neues Haus gezogen.",
+      "sentence_en": "We finally moved into our new house."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Wir richten die Wohnung langsam ein.",
+      "sentence_en": "We are slowly furnishing the apartment."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Unser Zuhause ist ein gemütliches Haus mit einem großen Garten.",
+      "en": "Our home is a cozy house with a large garden."
+    },
+    {
+      "de": "Die Wohnung liegt im zweiten Stock und hat drei Zimmer.",
+      "en": "The apartment is on the second floor and has three rooms."
+    },
+    {
+      "de": "Im Wohnzimmer haben wir ein neues Sofa und einen Esstisch aus Holz.",
+      "en": "In the living room we have a new sofa and a wooden dining table."
+    },
+    {
+      "de": "Die Küche ist modern eingerichtet und hat eine Spülmaschine.",
+      "en": "The kitchen is modernly furnished and has a dishwasher."
+    },
+    {
+      "de": "Wir müssen diese Woche noch die Wohnung renovieren und streichen.",
+      "en": "We still have to renovate and paint the apartment this week."
+    },
+    {
+      "de": "Am Wochenende werde ich den Garten aufräumen und Blumen pflanzen.",
+      "en": "I will tidy up the garden and plant flowers on the weekend."
+    },
+    {
+      "de": "Unsere Nachbarn sind sehr nett und helfen uns gerne.",
+      "en": "Our neighbors are very nice and are happy to help us."
+    },
+    {
+      "de": "Die Miete ist inklusive Nebenkosten wie Wasser und Heizung.",
+      "en": "The rent includes utilities such as water and heating."
+    },
+    {
+      "de": "Im Schlafzimmer habe ich ein neues Bett gekauft, das sehr bequem ist.",
+      "en": "I bought a new bed for the bedroom that is very comfortable."
+    },
+    {
+      "de": "Kinder sollten ihr eigenes Zimmer haben, um sich zurückziehen zu können.",
+      "en": "Children should have their own room to be able to retreat."
+    },
+    {
+      "de": "Wir haben eine Terrasse, auf der wir im Sommer gerne grillen.",
+      "en": "We have a terrace where we like to barbecue in summer."
+    },
+    {
+      "de": "Der Keller ist voll mit alten Sachen, die wir aussortieren müssen.",
+      "en": "The basement is full of old things that we need to sort out."
+    },
+    {
+      "de": "Wenn du eine neue Wohnung suchst, solltest du auf die Lage achten.",
+      "en": "When looking for a new apartment, you should pay attention to the location."
+    },
+    {
+      "de": "Nach einem langen Tag ist es wunderbar, nach Hause zu kommen.",
+      "en": "After a long day, it's wonderful to come home."
+    },
+    {
+      "de": "Unser Haus ist barrierefrei, damit meine Großeltern gut zurechtkommen.",
+      "en": "Our house is barrier-free so that my grandparents can manage well."
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "theme": "Hobbies",
+  "words": [
+    {
+      "de": "das Hobby",
+      "en": "hobby",
+      "sentence_de": "Was ist dein liebstes Hobby?",
+      "sentence_en": "What is your favorite hobby?"
+    },
+    {
+      "de": "die Freizeit",
+      "en": "free time / leisure time",
+      "sentence_de": "In meiner Freizeit lese ich gerne.",
+      "sentence_en": "In my free time I like to read."
+    },
+    {
+      "de": "die Freizeitbeschäftigung",
+      "en": "leisure activity",
+      "sentence_de": "Gärtnern ist eine beliebte Freizeitbeschäftigung.",
+      "sentence_en": "Gardening is a popular leisure activity."
+    },
+    {
+      "de": "das Interesse",
+      "en": "interest",
+      "sentence_de": "Meine Interessen sind Musik und Reisen.",
+      "sentence_en": "My interests are music and traveling."
+    },
+    {
+      "de": "die Leidenschaft",
+      "en": "passion",
+      "sentence_de": "Fußball ist seine große Leidenschaft.",
+      "sentence_en": "Football is his great passion."
+    },
+    {
+      "de": "das Lesen",
+      "en": "reading",
+      "sentence_de": "Lesen ist ein entspannendes Hobby.",
+      "sentence_en": "Reading is a relaxing hobby."
+    },
+    {
+      "de": "das Buch",
+      "en": "book",
+      "sentence_de": "Ich lese gerade ein spannendes Buch.",
+      "sentence_en": "I'm currently reading an exciting book."
+    },
+    {
+      "de": "der Roman",
+      "en": "novel",
+      "sentence_de": "Romane sind meine Lieblingsbücher.",
+      "sentence_en": "Novels are my favorite books."
+    },
+    {
+      "de": "die Musik",
+      "en": "music",
+      "sentence_de": "Musik ist ein wichtiger Teil meines Lebens.",
+      "sentence_en": "Music is an important part of my life."
+    },
+    {
+      "de": "das Instrument",
+      "en": "instrument",
+      "sentence_de": "Welches Instrument spielst du?",
+      "sentence_en": "Which instrument do you play?"
+    },
+    {
+      "de": "die Gitarre",
+      "en": "guitar",
+      "sentence_de": "Sie spielt Gitarre in einer Band.",
+      "sentence_en": "She plays guitar in a band."
+    },
+    {
+      "de": "das Klavier / das Piano",
+      "en": "piano",
+      "sentence_de": "Ich übe jeden Tag Klavier.",
+      "sentence_en": "I practice piano every day."
+    },
+    {
+      "de": "die Geige",
+      "en": "violin",
+      "sentence_de": "Geige zu spielen ist sehr anspruchsvoll.",
+      "sentence_en": "Playing the violin is very demanding."
+    },
+    {
+      "de": "das Singen",
+      "en": "singing",
+      "sentence_de": "Singen macht mir große Freude.",
+      "sentence_en": "Singing gives me great joy."
+    },
+    {
+      "de": "der Sport",
+      "en": "sports",
+      "sentence_de": "Sport hält mich fit und gesund.",
+      "sentence_en": "Sports keep me fit and healthy."
+    },
+    {
+      "de": "das Joggen",
+      "en": "jogging / running",
+      "sentence_de": "Joggen ist mein tägliches Ritual.",
+      "sentence_en": "Jogging is my daily ritual."
+    },
+    {
+      "de": "das Radfahren",
+      "en": "cycling",
+      "sentence_de": "Radfahren ist gut für die Ausdauer.",
+      "sentence_en": "Cycling is good for endurance."
+    },
+    {
+      "de": "das Schwimmen",
+      "en": "swimming",
+      "sentence_de": "Schwimmen ist ein gelenkschonender Sport.",
+      "sentence_en": "Swimming is a joint-friendly sport."
+    },
+    {
+      "de": "das Yoga",
+      "en": "yoga",
+      "sentence_de": "Yoga hilft mir, zur Ruhe zu kommen.",
+      "sentence_en": "Yoga helps me to relax."
+    },
+    {
+      "de": "das Tanzen",
+      "en": "dancing",
+      "sentence_de": "Tanzen macht Spaß und hält fit.",
+      "sentence_en": "Dancing is fun and keeps you fit."
+    },
+    {
+      "de": "der Mannschaftssport",
+      "en": "team sport",
+      "sentence_de": "Fußball ist der beliebteste Mannschaftssport.",
+      "sentence_en": "Football is the most popular team sport."
+    },
+    {
+      "de": "das Fotografieren",
+      "en": "photography",
+      "sentence_de": "Ich liebe das Fotografieren von Landschaften.",
+      "sentence_en": "I love photographing landscapes."
+    },
+    {
+      "de": "die Kamera",
+      "en": "camera",
+      "sentence_de": "Meine Kamera habe ich immer dabei.",
+      "sentence_en": "I always have my camera with me."
+    },
+    {
+      "de": "die Malerei",
+      "en": "painting (activity)",
+      "sentence_de": "Malerei ist eine kreative Ausdrucksform.",
+      "sentence_en": "Painting is a creative form of expression."
+    },
+    {
+      "de": "das Zeichnen",
+      "en": "drawing",
+      "sentence_de": "Zeichnen entspannt mich sehr.",
+      "sentence_en": "Drawing relaxes me a lot."
+    },
+    {
+      "de": "das Basteln",
+      "en": "crafting",
+      "sentence_de": "Kinder lieben das Basteln mit Papier.",
+      "sentence_en": "Children love crafting with paper."
+    },
+    {
+      "de": "das Stricken",
+      "en": "knitting",
+      "sentence_de": "Meine Oma strickt gerne Pullover.",
+      "sentence_en": "My grandma likes to knit sweaters."
+    },
+    {
+      "de": "das Nähen",
+      "en": "sewing",
+      "sentence_de": "Nähen ist ein praktisches und kreatives Hobby.",
+      "sentence_en": "Sewing is a practical and creative hobby."
+    },
+    {
+      "de": "das Kochen",
+      "en": "cooking",
+      "sentence_de": "Kochen ist eine meiner Lieblingsbeschäftigungen.",
+      "sentence_en": "Cooking is one of my favorite activities."
+    },
+    {
+      "de": "das Backen",
+      "en": "baking",
+      "sentence_de": "Backen ist eine Kunst für sich.",
+      "sentence_en": "Baking is an art in itself."
+    },
+    {
+      "de": "das Reisen",
+      "en": "traveling",
+      "sentence_de": "Reisen erweitert den Horizont.",
+      "sentence_en": "Traveling broadens the mind."
+    },
+    {
+      "de": "das Wandern",
+      "en": "hiking",
+      "sentence_de": "Wandern in den Bergen ist wunderschön.",
+      "sentence_en": "Hiking in the mountains is beautiful."
+    },
+    {
+      "de": "das Camping",
+      "en": "camping",
+      "sentence_de": "Camping verbindet mich mit der Natur.",
+      "sentence_en": "Camping connects me with nature."
+    },
+    {
+      "de": "das Angeln",
+      "en": "fishing",
+      "sentence_de": "Angeln erfordert viel Geduld.",
+      "sentence_en": "Fishing requires a lot of patience."
+    },
+    {
+      "de": "das Gärtnern",
+      "en": "gardening",
+      "sentence_de": "Gärtnern ist mein Ausgleich zum Beruf.",
+      "sentence_en": "Gardening is my balance to work."
+    },
+    {
+      "de": "das Musizieren",
+      "en": "making music",
+      "sentence_de": "Musizieren mit Freunden ist wunderbar.",
+      "sentence_en": "Making music with friends is wonderful."
+    },
+    {
+      "de": "das Schreiben",
+      "en": "writing",
+      "sentence_de": "Schreiben hilft mir, Gedanken zu ordnen.",
+      "sentence_en": "Writing helps me organize my thoughts."
+    },
+    {
+      "de": "die Sprache",
+      "en": "language",
+      "sentence_de": "Sprachen lernen ist mein neuestes Hobby.",
+      "sentence_en": "Learning languages is my newest hobby."
+    },
+    {
+      "de": "das Sammeln",
+      "en": "collecting",
+      "sentence_de": "Briefmarken sammeln war früher sehr beliebt.",
+      "sentence_en": "Collecting stamps used to be very popular."
+    },
+    {
+      "de": "die Briefmarke",
+      "en": "stamp",
+      "sentence_de": "Er hat eine Sammlung von alten Briefmarken.",
+      "sentence_en": "He has a collection of old stamps."
+    },
+    {
+      "de": "die Münze",
+      "en": "coin",
+      "sentence_de": "Münzen sammeln ist ein interessantes Hobby.",
+      "sentence_en": "Collecting coins is an interesting hobby."
+    },
+    {
+      "de": "das Schach",
+      "en": "chess",
+      "sentence_de": "Schach ist ein strategisches Spiel.",
+      "sentence_en": "Chess is a strategic game."
+    },
+    {
+      "de": "das Rätsel",
+      "en": "puzzle",
+      "sentence_de": "Ich löse gerne Kreuzworträtsel.",
+      "sentence_en": "I like to solve crossword puzzles."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "sich interessieren für",
+      "en": "to be interested in",
+      "sentence_de": "Ich interessiere mich für Kunst.",
+      "sentence_en": "I am interested in art."
+    },
+    {
+      "de": "gerne tun",
+      "en": "to like doing",
+      "sentence_de": "Ich lese gerne in meiner Freizeit.",
+      "sentence_en": "I like to read in my free time."
+    },
+    {
+      "de": "lesen",
+      "en": "to read",
+      "sentence_de": "Ich lese jeden Abend vor dem Schlafengehen.",
+      "sentence_en": "I read every evening before bed."
+    },
+    {
+      "de": "spielen",
+      "en": "to play",
+      "sentence_de": "Die Kinder spielen gerne im Park.",
+      "sentence_en": "The children like to play in the park."
+    },
+    {
+      "de": "musizieren",
+      "en": "to make music",
+      "sentence_de": "Wir musizieren jeden Samstag zusammen.",
+      "sentence_en": "We make music together every Saturday."
+    },
+    {
+      "de": "singen",
+      "en": "to sing",
+      "sentence_de": "Sie singt im Chor.",
+      "sentence_en": "She sings in the choir."
+    },
+    {
+      "de": "tanzen",
+      "en": "to dance",
+      "sentence_de": "Wir tanzen auf dem nächsten Fest.",
+      "sentence_en": "We will dance at the next party."
+    },
+    {
+      "de": "joggen",
+      "en": "to jog",
+      "sentence_de": "Ich jogge jeden Morgen im Park.",
+      "sentence_en": "I jog in the park every morning."
+    },
+    {
+      "de": "Fitness machen",
+      "en": "to do fitness / work out",
+      "sentence_de": "Er macht dreimal pro Woche Fitness.",
+      "sentence_en": "He works out three times a week."
+    },
+    {
+      "de": "kochen",
+      "en": "to cook",
+      "sentence_de": "Ich koche gerne italienische Gerichte.",
+      "sentence_en": "I like to cook Italian dishes."
+    },
+    {
+      "de": "backen",
+      "en": "to bake",
+      "sentence_de": "Meine Oma backt den besten Kuchen.",
+      "sentence_en": "My grandma bakes the best cake."
+    },
+    {
+      "de": "malen",
+      "en": "to paint",
+      "sentence_de": "Sie malt wunderschöne Landschaften.",
+      "sentence_en": "She paints beautiful landscapes."
+    },
+    {
+      "de": "zeichnen",
+      "en": "to draw",
+      "sentence_de": "Ich zeichne am liebsten mit Bleistift.",
+      "sentence_en": "I like to draw with a pencil best."
+    },
+    {
+      "de": "basteln",
+      "en": "to craft",
+      "sentence_de": "Wir basteln Weihnachtsschmuck.",
+      "sentence_en": "We are making Christmas decorations."
+    },
+    {
+      "de": "stricken",
+      "en": "to knit",
+      "sentence_de": "Sie strickt einen Schal für ihren Mann.",
+      "sentence_en": "She is knitting a scarf for her husband."
+    },
+    {
+      "de": "nähen",
+      "en": "to sew",
+      "sentence_de": "Ich nähe meine Kleider oft selbst.",
+      "sentence_en": "I often sew my clothes myself."
+    },
+    {
+      "de": "fotografieren",
+      "en": "to photograph",
+      "sentence_de": "Er fotografiert gerne Vögel in der Natur.",
+      "sentence_en": "He likes to photograph birds in nature."
+    },
+    {
+      "de": "reisen",
+      "en": "to travel",
+      "sentence_de": "Wir reisen jeden Sommer nach Italien.",
+      "sentence_en": "We travel to Italy every summer."
+    },
+    {
+      "de": "wandern",
+      "en": "to hike",
+      "sentence_de": "Wir wandern jedes Wochenende in den Bergen.",
+      "sentence_en": "We hike in the mountains every weekend."
+    },
+    {
+      "de": "campen",
+      "en": "to camp",
+      "sentence_de": "Wir campen im Zelt am See.",
+      "sentence_en": "We camp in a tent by the lake."
+    },
+    {
+      "de": "angeln",
+      "en": "to fish",
+      "sentence_de": "Mein Opa angelt gern am Fluss.",
+      "sentence_en": "My grandpa likes to fish at the river."
+    },
+    {
+      "de": "gärtnern",
+      "en": "to garden",
+      "sentence_de": "Ich gärtnere gerne in meinem kleinen Garten.",
+      "sentence_en": "I like to garden in my small garden."
+    },
+    {
+      "de": "sammeln",
+      "en": "to collect",
+      "sentence_de": "Er sammelt alte Münzen aus aller Welt.",
+      "sentence_en": "He collects old coins from all over the world."
+    },
+    {
+      "de": "spielen (Instrument)",
+      "en": "to play (instrument)",
+      "sentence_de": "Sie spielt Klavier seit zehn Jahren.",
+      "sentence_en": "She has been playing piano for ten years."
+    },
+    {
+      "de": "sich treffen",
+      "en": "to meet up",
+      "sentence_de": "Wir treffen uns zum gemeinsamen Spielen.",
+      "sentence_en": "We meet up to play together."
+    },
+    {
+      "de": "entspannen",
+      "en": "to relax",
+      "sentence_de": "Beim Lesen kann ich gut entspannen.",
+      "sentence_en": "I can relax well while reading."
+    },
+    {
+      "de": "lernen",
+      "en": "to learn",
+      "sentence_de": "Ich lerne jetzt eine neue Sprache.",
+      "sentence_en": "I am learning a new language now."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "spannend",
+      "en": "exciting",
+      "sentence_de": "Das Buch ist wirklich spannend.",
+      "sentence_en": "The book is really exciting."
+    },
+    {
+      "de": "entspannend",
+      "en": "relaxing",
+      "sentence_de": "Yoga ist sehr entspannend.",
+      "sentence_en": "Yoga is very relaxing."
+    },
+    {
+      "de": "kreativ",
+      "en": "creative",
+      "sentence_de": "Malen ist eine kreative Tätigkeit.",
+      "sentence_en": "Painting is a creative activity."
+    },
+    {
+      "de": "gesellig",
+      "en": "sociable / social",
+      "sentence_de": "Gesellige Hobbys machen mehr Spaß.",
+      "sentence_en": "Sociable hobbies are more fun."
+    },
+    {
+      "de": "ruhig",
+      "en": "quiet",
+      "sentence_de": "Lesen ist ein ruhiges Hobby.",
+      "sentence_en": "Reading is a quiet hobby."
+    },
+    {
+      "de": "aktiv",
+      "en": "active",
+      "sentence_de": "Sportliche Hobbys halten mich aktiv.",
+      "sentence_en": "Sporty hobbies keep me active."
+    },
+    {
+      "de": "sportlich",
+      "en": "athletic",
+      "sentence_de": "Mein sportlichstes Hobby ist Joggen.",
+      "sentence_en": "My most athletic hobby is jogging."
+    },
+    {
+      "de": "künstlerisch",
+      "en": "artistic",
+      "sentence_de": "Sie hat viele künstlerische Hobbys.",
+      "sentence_en": "She has many artistic hobbies."
+    },
+    {
+      "de": "interessant",
+      "en": "interesting",
+      "sentence_de": "Sprachen lernen ist interessant.",
+      "sentence_en": "Learning languages is interesting."
+    },
+    {
+      "de": "langweilig",
+      "en": "boring",
+      "sentence_de": "Manche finden Briefmarkensammeln langweilig.",
+      "sentence_en": "Some people find stamp collecting boring."
+    },
+    {
+      "de": "herausfordernd",
+      "en": "challenging",
+      "sentence_de": "Schach ist ein herausforderndes Spiel.",
+      "sentence_en": "Chess is a challenging game."
+    },
+    {
+      "de": "lehrreich",
+      "en": "educational",
+      "sentence_de": "Reisen ist sehr lehrreich.",
+      "sentence_en": "Traveling is very educational."
+    },
+    {
+      "de": "unterhaltsam",
+      "en": "entertaining",
+      "sentence_de": "Das Konzert war sehr unterhaltsam.",
+      "sentence_en": "The concert was very entertaining."
+    },
+    {
+      "de": "beliebte (Hobby)",
+      "en": "popular (hobby)",
+      "sentence_de": "Fußball ist ein beliebtes Hobby.",
+      "sentence_en": "Football is a popular hobby."
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "sentence_de": "Fotografieren kann sehr teuer sein.",
+      "sentence_en": "Photography can be very expensive."
+    },
+    {
+      "de": "günstig",
+      "en": "cheap / affordable",
+      "sentence_de": "Wandern ist ein günstiges Hobby.",
+      "sentence_en": "Hiking is an affordable hobby."
+    },
+    {
+      "de": "praktisch",
+      "en": "practical",
+      "sentence_de": "Nähen ist ein praktisches Hobby.",
+      "sentence_en": "Sewing is a practical hobby."
+    },
+    {
+      "de": "lecker",
+      "en": "delicious",
+      "sentence_de": "Das selbstgebackene Brot ist lecker.",
+      "sentence_en": "The homemade bread is delicious."
+    },
+    {
+      "de": "unsportlich",
+      "en": "unsporty",
+      "sentence_de": "Lesen gilt als unsportliches Hobby.",
+      "sentence_en": "Reading is considered an unsporty hobby."
+    },
+    {
+      "de": "therapeutisch",
+      "en": "therapeutic",
+      "sentence_de": "Gartenarbeit kann therapeutisch wirken.",
+      "sentence_en": "Gardening can be therapeutic."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "gerne",
+      "en": "gladly / with pleasure",
+      "sentence_de": "Ich spiele gerne Fußball.",
+      "sentence_en": "I enjoy playing football."
+    },
+    {
+      "de": "lieber",
+      "en": "preferably / rather",
+      "sentence_de": "Ich lese lieber als fernzusehen.",
+      "sentence_en": "I prefer reading to watching TV."
+    },
+    {
+      "de": "am liebsten",
+      "en": "most of all",
+      "sentence_de": "Am liebsten reise ich im Sommer.",
+      "sentence_en": "Most of all I like to travel in summer."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich mache täglich Sport.",
+      "sentence_en": "I do sports daily."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich gehe regelmäßig ins Fitnessstudio.",
+      "sentence_en": "I go to the gym regularly."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich koche selten aufwendig.",
+      "sentence_en": "I rarely cook elaborately."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich wandere oft in den Bergen.",
+      "sentence_en": "I often hike in the mountains."
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "sentence_de": "Manchmal male ich in meiner Freizeit.",
+      "sentence_en": "Sometimes I paint in my free time."
+    },
+    {
+      "de": "abends",
+      "en": "in the evening",
+      "sentence_de": "Abends lese ich meistens.",
+      "sentence_en": "In the evening I mostly read."
+    },
+    {
+      "de": "am Wochenende",
+      "en": "on the weekend",
+      "sentence_de": "Am Wochenende treibe ich Sport.",
+      "sentence_en": "On the weekend I do sports."
+    },
+    {
+      "de": "zusammen",
+      "en": "together",
+      "sentence_de": "Wir spielen zusammen in einer Band.",
+      "sentence_en": "We play together in a band."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Ich gehe gerne alleine joggen.",
+      "sentence_en": "I like to jog alone."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Lernst du schnell neue Sprachen?",
+      "sentence_en": "Do you learn new languages quickly?"
+    },
+    {
+      "de": "entspannt",
+      "en": "relaxedly",
+      "sentence_de": "Wir verbringen entspannt den Nachmittag.",
+      "sentence_en": "We spend the afternoon relaxedly."
+    },
+    {
+      "de": "kreativ",
+      "en": "creatively",
+      "sentence_de": "Sie arbeitet kreativ mit verschiedenen Materialien.",
+      "sentence_en": "She works creatively with different materials."
+    },
+    {
+      "de": "besonders",
+      "en": "especially",
+      "sentence_de": "Ich interessiere mich besonders für Geschichte.",
+      "sentence_en": "I am especially interested in history."
+    },
+    {
+      "de": "hauptsächlich",
+      "en": "mainly",
+      "sentence_de": "Ich lese hauptsächlich Romane.",
+      "sentence_en": "I mainly read novels."
+    },
+    {
+      "de": "jetzt",
+      "en": "now",
+      "sentence_de": "Jetzt habe ich ein neues Hobby.",
+      "sentence_en": "Now I have a new hobby."
+    },
+    {
+      "de": "immer noch",
+      "en": "still",
+      "sentence_de": "Ich spiele immer noch Tennis.",
+      "sentence_en": "I still play tennis."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Meine liebsten Hobbys sind Lesen, Kochen und Wandern.",
+      "en": "My favorite hobbies are reading, cooking and hiking."
+    },
+    {
+      "de": "In meiner Freizeit spiele ich Gitarre und singe gerne.",
+      "en": "In my free time I like to play guitar and sing."
+    },
+    {
+      "de": "Ich gehe regelmäßig ins Fitnessstudio, um fit zu bleiben.",
+      "en": "I go to the gym regularly to stay fit."
+    },
+    {
+      "de": "Fotografieren ist ein tolles Hobby, weil man damit Erinnerungen festhalten kann.",
+      "en": "Photography is a great hobby because you can capture memories with it."
+    },
+    {
+      "de": "Ich habe vor kurzem mit Yoga angefangen und es hilft mir sehr beim Entspannen.",
+      "en": "I recently started yoga and it helps me a lot with relaxing."
+    },
+    {
+      "de": "Kochen ist nicht nur praktisch, sondern macht auch großen Spaß.",
+      "en": "Cooking is not only practical but also a lot of fun."
+    },
+    {
+      "de": "Mein Bruder interessiert sich leidenschaftlich für Fußball.",
+      "en": "My brother is passionate about football."
+    },
+    {
+      "de": "Ich verbringe meine Wochenenden gerne mit Freunden beim Wandern.",
+      "en": "I like to spend my weekends hiking with friends."
+    },
+    {
+      "de": "Reisen ist mein teuerstes Hobby, aber es lohnt sich auf jeden Fall.",
+      "en": "Traveling is my most expensive hobby, but it is definitely worth it."
+    },
+    {
+      "de": "Im Winter stricke und häkele ich viel, um mich zu entspannen.",
+      "en": "In winter I knit and crochet a lot to relax."
+    },
+    {
+      "de": "Malen und Zeichnen sind kreative Ausdrucksformen, die ich sehr schätze.",
+      "en": "Painting and drawing are creative forms of expression that I really appreciate."
+    },
+    {
+      "de": "Ich lerne gerade eine neue Sprache – es ist anstrengend, aber sehr erfüllend.",
+      "en": "I am learning a new language right now – it's exhausting but very fulfilling."
+    },
+    {
+      "de": "Am liebsten verbringe ich meine Zeit mit Musik und meinen Freunden.",
+      "en": "I most enjoy spending my time with music and my friends."
+    },
+    {
+      "de": "Gärtnern ist ein Hobby, das mir Ruhe bringt und mich mit der Natur verbindet.",
+      "en": "Gardening is a hobby that brings me peace and connects me with nature."
+    },
+    {
+      "de": "Manche Hobbys sind eher ruhig wie Lesen, andere sind actiongeladen wie Ballsportarten.",
+      "en": "Some hobbies are rather quiet like reading, others are action-packed like ball sports."
+    }
+  ]
+}

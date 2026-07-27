@@ -1,0 +1,673 @@
+{
+  "theme": "Sleep",
+  "words": [
+    {
+      "de": "der Schlaf",
+      "en": "sleep",
+      "sentence_de": "Ein guter Schlaf ist wichtig für die Gesundheit.",
+      "sentence_en": "Good sleep is important for health."
+    },
+    {
+      "de": "das Schlafzimmer",
+      "en": "bedroom",
+      "sentence_de": "Im Schlafzimmer herrscht absolute Dunkelheit.",
+      "sentence_en": "There is absolute darkness in the bedroom."
+    },
+    {
+      "de": "das Bett",
+      "en": "bed",
+      "sentence_de": "Mein Bett ist sehr bequem.",
+      "sentence_en": "My bed is very comfortable."
+    },
+    {
+      "de": "die Matratze",
+      "en": "mattress",
+      "sentence_de": "Eine gute Matratze ist entscheidend für erholsamen Schlaf.",
+      "sentence_en": "A good mattress is crucial for restful sleep."
+    },
+    {
+      "de": "das Kopfkissen / das Kissen",
+      "en": "pillow",
+      "sentence_de": "Ich brauche ein weiches Kopfkissen.",
+      "sentence_en": "I need a soft pillow."
+    },
+    {
+      "de": "die Bettdecke",
+      "en": "duvet / comforter",
+      "sentence_de": "Die Bettdecke ist warm und kuschelig.",
+      "sentence_en": "The duvet is warm and cozy."
+    },
+    {
+      "de": "das Laken / das Bettlaken",
+      "en": "sheet",
+      "sentence_de": "Die Bettlaken sind frisch gewaschen.",
+      "sentence_en": "The sheets are freshly washed."
+    },
+    {
+      "de": "der Schlafanzug",
+      "en": "pajamas",
+      "sentence_de": "Zieh deinen Schlafanzug an, es ist Zeit ins Bett zu gehen.",
+      "sentence_en": "Put on your pajamas, it's time for bed."
+    },
+    {
+      "de": "der Pyjama",
+      "en": "pajamas",
+      "sentence_de": "Ein kuscheliger Pyjama wärmt in der Nacht.",
+      "sentence_en": "A cozy pajama keeps you warm at night."
+    },
+    {
+      "de": "die Nachttischlampe",
+      "en": "bedside lamp",
+      "sentence_de": "Die Nachttischlampe spendet sanftes Licht.",
+      "sentence_en": "The bedside lamp gives soft light."
+    },
+    {
+      "de": "der Wecker",
+      "en": "alarm clock",
+      "sentence_de": "Der Wecker klingelt um 6 Uhr morgens.",
+      "sentence_en": "The alarm clock rings at 6 AM."
+    },
+    {
+      "de": "die Traum",
+      "en": "dream",
+      "sentence_de": "Ich hatte letzte Nacht einen seltsamen Traum.",
+      "sentence_en": "I had a strange dream last night."
+    },
+    {
+      "de": "der Albtraum",
+      "en": "nightmare",
+      "sentence_de": "Kinder haben manchmal Albträume.",
+      "sentence_en": "Children sometimes have nightmares."
+    },
+    {
+      "de": "die Schlaflosigkeit",
+      "en": "insomnia",
+      "sentence_de": "Schlaflosigkeit kann durch Stress verursacht werden.",
+      "sentence_en": "Insomnia can be caused by stress."
+    },
+    {
+      "de": "die Schlaflähmung",
+      "en": "sleep paralysis",
+      "sentence_de": "Schlaflähmung ist ein beängstigendes Phänomen.",
+      "sentence_en": "Sleep paralysis is a frightening phenomenon."
+    },
+    {
+      "de": "das Einschlafen",
+      "en": "falling asleep",
+      "sentence_de": "Das Einschlafen fällt mir heute schwer.",
+      "sentence_en": "Falling asleep is difficult for me today."
+    },
+    {
+      "de": "das Durchschlafen",
+      "en": "sleeping through the night",
+      "sentence_de": "Ein Baby schläft meist noch nicht durch.",
+      "sentence_en": "A baby usually doesn't sleep through the night yet."
+    },
+    {
+      "de": "der Mittagsschlaf",
+      "en": "afternoon nap",
+      "sentence_de": "In vielen Ländern ist der Mittagsschlaf üblich.",
+      "sentence_en": "In many countries, the afternoon nap is common."
+    },
+    {
+      "de": "das Nickerchen",
+      "en": "catnap / power nap",
+      "sentence_de": "Ein kurzes Nickerchen am Nachmittag gibt neue Energie.",
+      "sentence_en": "A short catnap in the afternoon gives new energy."
+    },
+    {
+      "de": "die Schnarchgeräusche",
+      "en": "snoring sounds",
+      "sentence_de": "Sein Schnarchen ist nachts sehr laut.",
+      "sentence_en": "His snoring is very loud at night."
+    },
+    {
+      "de": "der Schnarcher",
+      "en": "snorer",
+      "sentence_de": "Mein Partner ist ein starker Schnarcher.",
+      "sentence_en": "My partner is a heavy snorer."
+    },
+    {
+      "de": "die Schlafapnoe",
+      "en": "sleep apnea",
+      "sentence_de": "Schlafapnoe ist eine ernsthafte Schlafstörung.",
+      "sentence_en": "Sleep apnea is a serious sleep disorder."
+    },
+    {
+      "de": "die Schlaftablette",
+      "en": "sleeping pill",
+      "sentence_de": "Er nimmt gelegentlich eine Schlaftablette.",
+      "sentence_en": "He occasionally takes a sleeping pill."
+    },
+    {
+      "de": "die Schlafhygiene",
+      "en": "sleep hygiene",
+      "sentence_de": "Gute Schlafhygiene verbessert die Schlafqualität.",
+      "sentence_en": "Good sleep hygiene improves sleep quality."
+    },
+    {
+      "de": "der Schlafrhythmus",
+      "en": "sleep rhythm",
+      "sentence_de": "Ein regelmäßiger Schlafrhythmus ist wichtig.",
+      "sentence_en": "A regular sleep rhythm is important."
+    },
+    {
+      "de": "die Schlafenszeit",
+      "en": "bedtime",
+      "sentence_de": "Die Schlafenszeit der Kinder ist um 8 Uhr.",
+      "sentence_en": "The children's bedtime is at 8 PM."
+    },
+    {
+      "de": "die Nachtruhe",
+      "en": "night's rest / curfew",
+      "sentence_de": "In diesem Haus herrscht Nachtruhe ab 22 Uhr.",
+      "sentence_en": "In this house, night rest begins at 10 PM."
+    },
+    {
+      "de": "der Schlafmangel",
+      "en": "sleep deprivation",
+      "sentence_de": "Schlafmangel kann zu Konzentrationsproblemen führen.",
+      "sentence_en": "Sleep deprivation can lead to concentration problems."
+    },
+    {
+      "de": "die Schläfrigkeit",
+      "en": "sleepiness / drowsiness",
+      "sentence_de": "Die Schläfrigkeit am Nachmittag ist normal.",
+      "sentence_en": "Afternoon sleepiness is normal."
+    },
+    {
+      "de": "die Müdigkeit",
+      "en": "fatigue / tiredness",
+      "sentence_de": "Müdigkeit ist ein Zeichen von Erschöpfung.",
+      "sentence_en": "Fatigue is a sign of exhaustion."
+    },
+    {
+      "de": "die Erschöpfung",
+      "en": "exhaustion",
+      "sentence_de": "Nach der Arbeit fühle ich große Erschöpfung.",
+      "sentence_en": "After work I feel great exhaustion."
+    },
+    {
+      "de": "die Tiefschlafphase",
+      "en": "deep sleep phase",
+      "sentence_de": "In der Tiefschlafphase erholt sich der Körper.",
+      "sentence_en": "In the deep sleep phase, the body recovers."
+    },
+    {
+      "de": "die REM-Phase",
+      "en": "REM phase",
+      "sentence_de": "Die REM-Phase ist die Phase der intensiven Träume.",
+      "sentence_en": "The REM phase is the phase of intense dreams."
+    },
+    {
+      "de": "das Gähnen",
+      "en": "yawn",
+      "sentence_de": "Ein Gähnen ist ansteckend.",
+      "sentence_en": "A yawn is contagious."
+    },
+    {
+      "de": "die Schlafstörung",
+      "en": "sleep disorder",
+      "sentence_de": "Schlafstörungen sollten medizinisch behandelt werden.",
+      "sentence_en": "Sleep disorders should be medically treated."
+    },
+    {
+      "de": "die Schlaftrunkenheit",
+      "en": "sleep drunkenness",
+      "sentence_de": "Wenn ich aufwache, bin ich oft schlaftrunken.",
+      "sentence_en": "When I wake up, I'm often sleep drunk."
+    },
+    {
+      "de": "das Aufwachen",
+      "en": "waking up",
+      "sentence_de": "Das Aufwachen fällt mir morgens schwer.",
+      "sentence_en": "Waking up in the morning is hard for me."
+    },
+    {
+      "de": "die Schlafqualität",
+      "en": "sleep quality",
+      "sentence_de": "Die Schlafqualität ist in einem dunklen Raum besser.",
+      "sentence_en": "Sleep quality is better in a dark room."
+    },
+    {
+      "de": "die Augenmaske",
+      "en": "sleep mask / eye mask",
+      "sentence_de": "Die Augenmaske blockiert das Licht.",
+      "sentence_en": "The sleep mask blocks the light."
+    },
+    {
+      "de": "die Ohrenstöpsel",
+      "en": "earplugs",
+      "sentence_de": "Ohrenstöpsel helfen gegen Lärm in der Nacht.",
+      "sentence_en": "Earplugs help against noise at night."
+    },
+    {
+      "de": "die Schlafenszeit-Routine",
+      "en": "bedtime routine",
+      "sentence_de": "Eine feste Schlafenszeit-Routine hilft Kindern beim Einschlafen.",
+      "sentence_en": "A regular bedtime routine helps children fall asleep."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "schlafen",
+      "en": "to sleep",
+      "sentence_de": "Ich schlafe jede Nacht acht Stunden.",
+      "sentence_en": "I sleep eight hours every night."
+    },
+    {
+      "de": "einschlafen",
+      "en": "to fall asleep",
+      "sentence_de": "Ich schlafe meistens gegen 23 Uhr ein.",
+      "sentence_en": "I usually fall asleep around 11 PM."
+    },
+    {
+      "de": "aufwachen",
+      "en": "to wake up",
+      "sentence_de": "Ich wache jeden Morgen um 6 Uhr auf.",
+      "sentence_en": "I wake up at 6 AM every morning."
+    },
+    {
+      "de": "wecken",
+      "en": "to wake someone up",
+      "sentence_de": "Mein Wecker weckt mich jeden Tag.",
+      "sentence_en": "My alarm clock wakes me up every day."
+    },
+    {
+      "de": "durchschlafen",
+      "en": "to sleep through the night",
+      "sentence_de": "Seit dem Urlaub kann ich wieder durchschlafen.",
+      "sentence_en": "Since the vacation I can sleep through the night again."
+    },
+    {
+      "de": "sich hinlegen",
+      "en": "to lie down",
+      "sentence_de": "Ich lege mich um 22 Uhr ins Bett.",
+      "sentence_en": "I lie down in bed at 10 PM."
+    },
+    {
+      "de": "sich ausruhen",
+      "en": "to rest",
+      "sentence_de": "Am Wochenende ruhe ich mich aus.",
+      "sentence_en": "On weekends I rest."
+    },
+    {
+      "de": "sich entspannen",
+      "en": "to relax",
+      "sentence_de": "Vor dem Schlafengehen entspanne ich mich.",
+      "sentence_en": "Before going to bed I relax."
+    },
+    {
+      "de": "träumen (von)",
+      "en": "to dream (of)",
+      "sentence_de": "Ich habe letzte Nacht von einem Strand geträumt.",
+      "sentence_en": "I dreamed of a beach last night."
+    },
+    {
+      "de": "schnarchen",
+      "en": "to snore",
+      "sentence_de": "Mein Mann schnarcht sehr laut.",
+      "sentence_en": "My husband snores very loudly."
+    },
+    {
+      "de": "gähnen",
+      "en": "to yawn",
+      "sentence_de": "Ich kann nicht aufhören zu gähnen.",
+      "sentence_en": "I can't stop yawning."
+    },
+    {
+      "de": "schlafwandeln",
+      "en": "to sleepwalk",
+      "sentence_de": "Das Kind schlafwandelt nachts.",
+      "sentence_en": "The child sleepwalks at night."
+    },
+    {
+      "de": "liegen bleiben",
+      "en": "to stay in bed",
+      "sentence_de": "Am Sonntag bleibe ich länger liegen.",
+      "sentence_en": "On Sundays I stay in bed longer."
+    },
+    {
+      "de": "aufstehen",
+      "en": "to get up",
+      "sentence_de": "Ich stehe um 6:30 Uhr auf.",
+      "sentence_en": "I get up at 6:30 AM."
+    },
+    {
+      "de": "ins Bett gehen",
+      "en": "to go to bed",
+      "sentence_de": "Gehst du jetzt ins Bett?",
+      "sentence_en": "Are you going to bed now?"
+    },
+    {
+      "de": "stören",
+      "en": "to disturb",
+      "sentence_de": "Stört dich mein Schnarchen?",
+      "sentence_en": "Does my snoring disturb you?"
+    },
+    {
+      "de": "übermüden",
+      "en": "to overtire",
+      "sentence_de": "Zu viel Arbeit kann übermüden.",
+      "sentence_en": "Too much work can overtire you."
+    },
+    {
+      "de": "erholen",
+      "en": "to recover / recuperate",
+      "sentence_de": "Im Schlaf erholt sich der Körper.",
+      "sentence_en": "The body recovers during sleep."
+    },
+    {
+      "de": "lesen (vor dem Schlafengehen)",
+      "en": "to read (before bed)",
+      "sentence_de": "Ich lese 20 Minuten, bevor ich einschlafe.",
+      "sentence_en": "I read for 20 minutes before I fall asleep."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "müde",
+      "en": "tired",
+      "sentence_de": "Ich bin heute sehr müde.",
+      "sentence_en": "I am very tired today."
+    },
+    {
+      "de": "erschöpft",
+      "en": "exhausted",
+      "sentence_de": "Nach der langen Reise bin ich erschöpft.",
+      "sentence_en": "After the long journey I am exhausted."
+    },
+    {
+      "de": "schläfrig",
+      "en": "sleepy / drowsy",
+      "sentence_de": "Die warme Milch macht mich schläfrig.",
+      "sentence_en": "The warm milk makes me sleepy."
+    },
+    {
+      "de": "ausgeruht",
+      "en": "well-rested",
+      "sentence_de": "Nach acht Stunden Schlaf fühle ich mich ausgeruht.",
+      "sentence_en": "After eight hours of sleep I feel well-rested."
+    },
+    {
+      "de": "erholsam",
+      "en": "restful / refreshing",
+      "sentence_de": "Der Schlaf war heute Nacht sehr erholsam.",
+      "sentence_en": "The sleep tonight was very restful."
+    },
+    {
+      "de": "unruhig (Schlaf)",
+      "en": "restless (sleep)",
+      "sentence_de": "Ich hatte einen unruhigen Schlaf.",
+      "sentence_en": "I had a restless sleep."
+    },
+    {
+      "de": "tief (Schlaf)",
+      "en": "deep (sleep)",
+      "sentence_de": "In tiefem Schlaf bekommt man nichts mit.",
+      "sentence_en": "In deep sleep you don't notice anything."
+    },
+    {
+      "de": "leicht (Schlaf)",
+      "en": "light (sleep)",
+      "sentence_de": "Ich bin eine leichte Schläferin.",
+      "sentence_en": "I am a light sleeper."
+    },
+    {
+      "de": "bequem (Bett)",
+      "en": "comfortable (bed)",
+      "sentence_de": "Das Bett ist sehr bequem.",
+      "sentence_en": "The bed is very comfortable."
+    },
+    {
+      "de": "weich (Kissen)",
+      "en": "soft (pillow)",
+      "sentence_de": "Ein weiches Kissen ist gut für den Nacken.",
+      "sentence_en": "A soft pillow is good for the neck."
+    },
+    {
+      "de": "fest (Matratze)",
+      "en": "firm (mattress)",
+      "sentence_de": "Ich mag eine feste Matratze.",
+      "sentence_en": "I like a firm mattress."
+    },
+    {
+      "de": "dunkel (Raum)",
+      "en": "dark (room)",
+      "sentence_de": "Ein dunkler Raum fördert den Schlaf.",
+      "sentence_en": "A dark room promotes sleep."
+    },
+    {
+      "de": "leise (Umgebung)",
+      "en": "quiet (environment)",
+      "sentence_de": "Eine leise Umgebung ist wichtig für guten Schlaf.",
+      "sentence_en": "A quiet environment is important for good sleep."
+    },
+    {
+      "de": "laut (Schnarchen)",
+      "en": "loud (snoring)",
+      "sentence_de": "Sein Schnarchen ist sehr laut.",
+      "sentence_en": "His snoring is very loud."
+    },
+    {
+      "de": "schlaflos",
+      "en": "sleepless",
+      "sentence_de": "Ich hatte eine schlaflose Nacht.",
+      "sentence_en": "I had a sleepless night."
+    },
+    {
+      "de": "verschlafen",
+      "en": "sleepy / groggy (still sleepy)",
+      "sentence_de": "Ich bin noch verschlafen.",
+      "sentence_en": "I'm still groggy."
+    },
+    {
+      "de": "übermüdet",
+      "en": "overtired",
+      "sentence_de": "Ein übermüdetes Kind ist schwer zu beruhigen.",
+      "sentence_en": "An overtired child is hard to calm down."
+    },
+    {
+      "de": "regelmäßig (Schlafrhythmus)",
+      "en": "regular (sleep rhythm)",
+      "sentence_de": "Ein regelmäßiger Schlafrhythmus ist ideal.",
+      "sentence_en": "A regular sleep rhythm is ideal."
+    },
+    {
+      "de": "unregelmäßig (Schlafrhythmus)",
+      "en": "irregular (sleep rhythm)",
+      "sentence_de": "Schichtarbeit führt zu unregelmäßigem Schlaf.",
+      "sentence_en": "Shift work leads to irregular sleep."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "tief (schlafen)",
+      "en": "deeply (sleep)",
+      "sentence_de": "Das Baby schläft tief und fest.",
+      "sentence_en": "The baby is sleeping deeply and soundly."
+    },
+    {
+      "de": "fest (schlafen)",
+      "en": "soundly (sleep)",
+      "sentence_de": "Er schläft so fest, dass nichts ihn weckt.",
+      "sentence_en": "He sleeps so soundly that nothing wakes him."
+    },
+    {
+      "de": "schlecht (schlafen)",
+      "en": "badly (sleep)",
+      "sentence_de": "Ich habe letzte Nacht schlecht geschlafen.",
+      "sentence_en": "I slept badly last night."
+    },
+    {
+      "de": "gut (schlafen)",
+      "en": "well (sleep)",
+      "sentence_de": "Ich habe heute Nacht gut geschlafen.",
+      "sentence_en": "I slept well last night."
+    },
+    {
+      "de": "früh (ins Bett gehen)",
+      "en": "early (go to bed)",
+      "sentence_de": "Ich gehe heute früh ins Bett.",
+      "sentence_en": "I'm going to bed early today."
+    },
+    {
+      "de": "spät (ins Bett gehen)",
+      "en": "late (go to bed)",
+      "sentence_de": "Am Samstag gehe ich spät ins Bett.",
+      "sentence_en": "On Saturday I go to bed late."
+    },
+    {
+      "de": "schnell (einschlafen)",
+      "en": "quickly (fall asleep)",
+      "sentence_de": "Ich schlafe schnell ein, wenn ich müde bin.",
+      "sentence_en": "I fall asleep quickly when I'm tired."
+    },
+    {
+      "de": "langsam (einschlafen)",
+      "en": "slowly (fall asleep)",
+      "sentence_de": "Heute schlafe ich langsam ein.",
+      "sentence_en": "Today I fall asleep slowly."
+    },
+    {
+      "de": "lange (schlafen)",
+      "en": "long / for a long time (sleep)",
+      "sentence_de": "Am Wochenende schlafe ich lange.",
+      "sentence_en": "On weekends I sleep long."
+    },
+    {
+      "de": "kurz (schlafen)",
+      "en": "shortly / briefly (sleep)",
+      "sentence_de": "Ich habe heute nur kurz geschlafen.",
+      "sentence_en": "I only slept briefly today."
+    },
+    {
+      "de": "leise (schnarchen)",
+      "en": "quietly (snore)",
+      "sentence_de": "Manche Menschen schnarchen nur leise.",
+      "sentence_en": "Some people only snore quietly."
+    },
+    {
+      "de": "laut (schnarchen)",
+      "en": "loudly (snore)",
+      "sentence_de": "Er schnarcht nachts laut.",
+      "sentence_en": "He snores loudly at night."
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "sentence_de": "Manchmal kann ich nicht einschlafen.",
+      "sentence_en": "Sometimes I can't fall asleep."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich träume oft von meiner Kindheit.",
+      "sentence_en": "I often dream of my childhood."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich bin selten schlaflos.",
+      "sentence_en": "I am rarely sleepless."
+    },
+    {
+      "de": "nie",
+      "en": "never",
+      "sentence_de": "Ich wache nie ohne Wecker auf.",
+      "sentence_en": "I never wake up without an alarm clock."
+    },
+    {
+      "de": "einfach (einschlafen)",
+      "en": "easily (fall asleep)",
+      "sentence_de": "Mit einem guten Buch schlafe ich einfach ein.",
+      "sentence_en": "With a good book I easily fall asleep."
+    },
+    {
+      "de": "kaum (einschlafen)",
+      "en": "hardly (fall asleep)",
+      "sentence_de": "Vor Prüfungen kann ich kaum einschlafen.",
+      "sentence_en": "Before exams I can hardly fall asleep."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich gehe regelmäßig zur gleichen Zeit ins Bett.",
+      "sentence_en": "I go to bed regularly at the same time."
+    },
+    {
+      "de": "unregelmäßig",
+      "en": "irregularly",
+      "sentence_de": "Mein Schlafrhythmus ist unregelmäßig.",
+      "sentence_en": "My sleep rhythm is irregular."
+    },
+    {
+      "de": "erschöpft (aufwachen)",
+      "en": "exhaustedly (wake up)",
+      "sentence_de": "Ich wache morgens oft erschöpft auf.",
+      "sentence_en": "I often wake up exhausted in the morning."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ausreichender Schlaf ist entscheidend für die körperliche und geistige Gesundheit.",
+      "en": "Adequate sleep is crucial for physical and mental health."
+    },
+    {
+      "de": "Ich versuche, jeden Tag mindestens sieben bis acht Stunden zu schlafen.",
+      "en": "I try to sleep at least seven to eight hours every day."
+    },
+    {
+      "de": "Ein regelmäßiger Schlafrhythmus hilft mir, morgens leichter aufzuwachen.",
+      "en": "A regular sleep rhythm helps me wake up more easily in the morning."
+    },
+    {
+      "de": "Vor dem Einschlafen schalte ich alle elektronischen Geräte aus.",
+      "en": "Before falling asleep, I turn off all electronic devices."
+    },
+    {
+      "de": "Kinder brauchen mehr Schlaf als Erwachsene, um sich zu entwickeln.",
+      "en": "Children need more sleep than adults to develop."
+    },
+    {
+      "de": "Ich hatte einen sehr intensiven Traum, den ich mir gut merken konnte.",
+      "en": "I had a very intense dream that I could remember well."
+    },
+    {
+      "de": "Bei Schlafproblemen kann ein Arzt helfen und eine Schlaflosigkeit behandeln.",
+      "en": "A doctor can help with sleep problems and treat insomnia."
+    },
+    {
+      "de": "Eine bequeme Matratze und ein gutes Kissen sind die Basis für erholsamen Schlaf.",
+      "en": "A comfortable mattress and a good pillow are the basis for restful sleep."
+    },
+    {
+      "de": "Lautes Schnarchen kann nicht nur den Partner, sondern auch die eigene Gesundheit beeinträchtigen.",
+      "en": "Loud snoring can affect not only the partner but also one's own health."
+    },
+    {
+      "de": "Ein kurzes Nickerchen von 20 Minuten kann die Konzentration am Nachmittag verbessern.",
+      "en": "A short 20-minute catnap can improve concentration in the afternoon."
+    },
+    {
+      "de": "Ich kann nicht einschlafen, wenn es im Zimmer zu hell ist.",
+      "en": "I can't fall asleep when it's too bright in the room."
+    },
+    {
+      "de": "Ein warmes Bad vor dem Schlafengehen wirkt entspannend auf den Körper.",
+      "en": "A warm bath before bedtime has a relaxing effect on the body."
+    },
+    {
+      "de": "Schlafentzug kann zu schlechter Laune und verminderter Leistungsfähigkeit führen.",
+      "en": "Sleep deprivation can lead to bad mood and reduced performance."
+    },
+    {
+      "de": "Das Baby schläft endlich durch und die Eltern können sich erholen.",
+      "en": "The baby is finally sleeping through the night and the parents can recover."
+    },
+    {
+      "de": "Gute Schlafhygiene bedeutet auch, dass das Zimmer kühl und gut gelüftet ist.",
+      "en": "Good sleep hygiene also means that the room is cool and well-ventilated."
+    }
+  ]
+}
