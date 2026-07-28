@@ -94,7 +94,7 @@
 
       <button @click="goBack" class="back-btn">
         <span class="btn-icon">←</span>
-        Back to Home
+        Back to Hero
       </button>
     </div>
     <div v-else class="loading">

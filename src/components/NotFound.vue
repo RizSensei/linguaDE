@@ -8,7 +8,7 @@
         <p>Here are some helpful links instead:</p>
         <div class="action-buttons">
           <router-link to="/" class="btn-primary">
-            🏠 Go to Home
+            🏠 Go to Hero
           </router-link>
           <router-link to="/daily-activities" class="btn-secondary">
             📚 Browse Themes

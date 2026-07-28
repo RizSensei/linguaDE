@@ -2,7 +2,7 @@
   <div id="app">
     <nav class="navbar">
       <div class="nav-container">
-        <div class="logo" @click="goHome">
+        <div class="logo" @click="goHero">
           <span class="logo-icon">📚</span>
           <h1>Linguade</h1>
         </div>
@@ -10,7 +10,7 @@
           <router-link
             v-for="theme in themes"
             :key="theme.id"
-            :to="theme.theme === 'Home' ? '/' : theme.route"
+            :to="theme.theme === 'Hero' ? '/' : theme.route"
             class="theme-btn"
             active-class="active"
           >
@@ -39,7 +39,7 @@ export default {
     this.themes = loadAllThemes();
   },
   methods: {
-    goHome() {
+    goHero() {
       this.$router.push('/');
     }
   }

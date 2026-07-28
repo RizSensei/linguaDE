@@ -73,7 +73,7 @@ h3 {
   color: #4b5563;
 }
 
-.home-view,
+.hero-view,
 .detail-view {
   display: flex;
   flex-direction: column;

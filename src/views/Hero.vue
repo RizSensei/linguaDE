@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="hero">
     <!-- <div class="hero">
       <h1>Welcome to Language Learning</h1>
       <p>Select a theme to start learning German vocabulary</p>
@@ -31,7 +31,7 @@
 import { loadAllThemes } from '../services/dataService';
 
 export default {
-  name: 'Home',
+  name: 'Hero',
   data() {
     return {
       themes: []
@@ -68,7 +68,7 @@ export default {
 </script>
 
 <style scoped>
-.home {
+.hero {
   max-width: 1400px;
   margin: 0 auto;
   animation: fadeIn 0.3s ease;
