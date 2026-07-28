@@ -1,0 +1,709 @@
+{
+  "theme": "Transportation",
+  "words": [
+    {
+      "de": "das Verkehrsmittel",
+      "en": "means of transport",
+      "sentence_de": "Das Auto ist mein bevorzugtes Verkehrsmittel.",
+      "sentence_en": "The car is my preferred means of transport."
+    },
+    {
+      "de": "der Verkehr",
+      "en": "traffic",
+      "sentence_de": "Der Verkehr in der Stadt ist sehr dicht.",
+      "sentence_en": "The traffic in the city is very heavy."
+    },
+    {
+      "de": "der Stau",
+      "en": "traffic jam",
+      "sentence_de": "Wir stecken im Stau auf der Autobahn.",
+      "sentence_en": "We're stuck in a traffic jam on the highway."
+    },
+    {
+      "de": "die Straße",
+      "en": "street / road",
+      "sentence_de": "Die Straße ist wegen Bauarbeiten gesperrt.",
+      "sentence_en": "The road is closed due to construction work."
+    },
+    {
+      "de": "die Autobahn",
+      "en": "highway / freeway",
+      "sentence_de": "Auf der Autobahn gibt es kein Tempolimit.",
+      "sentence_en": "There is no speed limit on the highway."
+    },
+    {
+      "de": "die Landstraße",
+      "en": "country road",
+      "sentence_de": "Die Landstraße führt durch malerische Dörfer.",
+      "sentence_en": "The country road passes through picturesque villages."
+    },
+    {
+      "de": "die Ampel",
+      "en": "traffic light",
+      "sentence_de": "An der Ampel müssen wir warten.",
+      "sentence_en": "We have to wait at the traffic light."
+    },
+    {
+      "de": "die Kreuzung",
+      "en": "intersection",
+      "sentence_de": "An der Kreuzung biegen wir rechts ab.",
+      "sentence_en": "We turn right at the intersection."
+    },
+    {
+      "de": "der Zebrastreifen",
+      "en": "pedestrian crossing",
+      "sentence_de": "An Zebrastreifen haben Fußgänger Vorrang.",
+      "sentence_en": "Pedestrians have priority at pedestrian crossings."
+    },
+    {
+      "de": "der Parkplatz",
+      "en": "parking lot / parking space",
+      "sentence_de": "Ich suche einen Parkplatz in der Nähe.",
+      "sentence_en": "I'm looking for a parking space nearby."
+    },
+    {
+      "de": "die Parkgebühren",
+      "en": "parking fees",
+      "sentence_de": "Die Parkgebühren sind hier sehr hoch.",
+      "sentence_en": "Parking fees are very high here."
+    },
+    {
+      "de": "der Führerschein",
+      "en": "driver's license",
+      "sentence_de": "Ich habe meinen Führerschein mit 18 gemacht.",
+      "sentence_en": "I got my driver's license at 18."
+    },
+    {
+      "de": "das Auto",
+      "en": "car",
+      "sentence_de": "Mein Auto ist rot und sehr zuverlässig.",
+      "sentence_en": "My car is red and very reliable."
+    },
+    {
+      "de": "der PKW",
+      "en": "passenger car",
+      "sentence_de": "PKWs dürfen nicht in die Fußgängerzone fahren.",
+      "sentence_en": "Passenger cars are not allowed in the pedestrian zone."
+    },
+    {
+      "de": "der LKW",
+      "en": "truck / lorry",
+      "sentence_de": "LKWs fahren oft auf der rechten Spur.",
+      "sentence_en": "Trucks often drive in the right lane."
+    },
+    {
+      "de": "das Motorrad",
+      "en": "motorcycle",
+      "sentence_de": "Im Sommer fährt er gerne Motorrad.",
+      "sentence_en": "In summer he likes to ride his motorcycle."
+    },
+    {
+      "de": "das Fahrrad",
+      "en": "bicycle",
+      "sentence_de": "Mit dem Fahrrad bin ich schneller als mit dem Auto.",
+      "sentence_en": "I'm faster by bicycle than by car."
+    },
+    {
+      "de": "der Bus",
+      "en": "bus",
+      "sentence_de": "Der Bus kommt alle 20 Minuten.",
+      "sentence_en": "The bus comes every 20 minutes."
+    },
+    {
+      "de": "die Straßenbahn / die Tram",
+      "en": "tram",
+      "sentence_de": "Die Straßenbahn fährt durch die Innenstadt.",
+      "sentence_en": "The tram runs through the city center."
+    },
+    {
+      "de": "die U-Bahn",
+      "en": "subway / underground",
+      "sentence_de": "Mit der U-Bahn ist man in 10 Minuten am Hauptbahnhof.",
+      "sentence_en": "With the subway you're at the main station in 10 minutes."
+    },
+    {
+      "de": "die S-Bahn",
+      "en": "suburban train",
+      "sentence_de": "Die S-Bahn verbindet die Vororte mit der Stadt.",
+      "sentence_en": "The S-Bahn connects the suburbs with the city."
+    },
+    {
+      "de": "der Zug",
+      "en": "train",
+      "sentence_de": "Der Zug nach Berlin fährt in 5 Minuten.",
+      "sentence_en": "The train to Berlin departs in 5 minutes."
+    },
+    {
+      "de": "das Flugzeug",
+      "en": "airplane",
+      "sentence_de": "Mit dem Flugzeug fliege ich morgen nach London.",
+      "sentence_en": "I'm flying to London by plane tomorrow."
+    },
+    {
+      "de": "der Flughafen",
+      "en": "airport",
+      "sentence_de": "Am Flughafen gibt es viele Parkhäuser.",
+      "sentence_en": "There are many parking garages at the airport."
+    },
+    {
+      "de": "das Schiff",
+      "en": "ship / boat",
+      "sentence_de": "Das Schiff legt um 9 Uhr ab.",
+      "sentence_en": "The ship departs at 9 AM."
+    },
+    {
+      "de": "die Fähre",
+      "en": "ferry",
+      "sentence_de": "Die Fähre bringt uns auf die Insel.",
+      "sentence_en": "The ferry takes us to the island."
+    },
+    {
+      "de": "die Haltestelle",
+      "en": "stop (bus/tram)",
+      "sentence_de": "Die nächste Haltestelle ist in 200 Metern.",
+      "sentence_en": "The next stop is 200 meters away."
+    },
+    {
+      "de": "der Bahnhof",
+      "en": "train station",
+      "sentence_de": "Am Bahnhof gibt es einen großen Parkplatz.",
+      "sentence_en": "There is a large parking lot at the train station."
+    },
+    {
+      "de": "der Fahrplan",
+      "en": "timetable / schedule",
+      "sentence_de": "Der Fahrplan hängt an der Haltestelle.",
+      "sentence_en": "The timetable is posted at the stop."
+    },
+    {
+      "de": "die Fahrkarte / das Ticket",
+      "en": "ticket",
+      "sentence_de": "Ich habe die Fahrkarte schon online gekauft.",
+      "sentence_en": "I already bought the ticket online."
+    },
+    {
+      "de": "der Fahrschein",
+      "en": "ticket (validated)",
+      "sentence_de": "Den Fahrschein musst du entwerten.",
+      "sentence_en": "You have to validate the ticket."
+    },
+    {
+      "de": "die Fahrplanauskunft",
+      "en": "timetable information",
+      "sentence_de": "Die Fahrplanauskunft ist auf der Website.",
+      "sentence_en": "The timetable information is on the website."
+    },
+    {
+      "de": "die Verspätung",
+      "en": "delay",
+      "sentence_de": "Der Zug hat 15 Minuten Verspätung.",
+      "sentence_en": "The train has a 15-minute delay."
+    },
+    {
+      "de": "die Ankunft",
+      "en": "arrival",
+      "sentence_de": "Die Ankunft ist für 18:45 Uhr geplant.",
+      "sentence_en": "Arrival is scheduled for 6:45 PM."
+    },
+    {
+      "de": "die Abfahrt",
+      "en": "departure",
+      "sentence_de": "Die Abfahrt ist um 8 Uhr morgens.",
+      "sentence_en": "Departure is at 8 AM."
+    },
+    {
+      "de": "der Umstieg",
+      "en": "transfer / change",
+      "sentence_de": "Wir haben in München einen Umstieg.",
+      "sentence_en": "We have a transfer in Munich."
+    },
+    {
+      "de": "die Geschwindigkeit",
+      "en": "speed",
+      "sentence_de": "Die Geschwindigkeit auf der Autobahn ist hoch.",
+      "sentence_en": "The speed on the highway is high."
+    },
+    {
+      "de": "die Sicherheit",
+      "en": "safety",
+      "sentence_de": "Die Sicherheit im Verkehr wird immer besser.",
+      "sentence_en": "Traffic safety is always improving."
+    },
+    {
+      "de": "der Unfall",
+      "en": "accident",
+      "sentence_de": "Auf der Autobahn hat sich ein Unfall ereignet.",
+      "sentence_en": "An accident occurred on the highway."
+    },
+    {
+      "de": "die Tankstelle",
+      "en": "gas station",
+      "sentence_de": "Ich muss an der nächsten Tankstelle halten.",
+      "sentence_en": "I need to stop at the next gas station."
+    },
+    {
+      "de": "der Autofahrer / die Autofahrerin",
+      "en": "driver",
+      "sentence_de": "Der Autofahrer hat grün gehabt.",
+      "sentence_en": "The driver had a green light."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "fahren",
+      "en": "to drive / travel (by vehicle)",
+      "sentence_de": "Ich fahre nach Hause.",
+      "sentence_en": "I'm driving home."
+    },
+    {
+      "de": "gehen",
+      "en": "to go (on foot)",
+      "sentence_de": "Ich gehe zu Fuß zur Arbeit.",
+      "sentence_en": "I walk to work."
+    },
+    {
+      "de": "fahren (im Fahrzeug)",
+      "en": "to ride (in vehicle)",
+      "sentence_de": "Wir fahren mit dem Bus in die Stadt.",
+      "sentence_en": "We're riding the bus into the city."
+    },
+    {
+      "de": "fahren (Fahrrad)",
+      "en": "to ride (bicycle)",
+      "sentence_de": "Ich fahre jeden Tag mit dem Fahrrad.",
+      "sentence_en": "I ride my bike every day."
+    },
+    {
+      "de": "abfahren",
+      "en": "to depart",
+      "sentence_de": "Der Zug fährt pünktlich ab.",
+      "sentence_en": "The train departs on time."
+    },
+    {
+      "de": "ankommen",
+      "en": "to arrive",
+      "sentence_de": "Wir kommen in 20 Minuten an.",
+      "sentence_en": "We'll arrive in 20 minutes."
+    },
+    {
+      "de": "umsteigen",
+      "en": "to transfer / change",
+      "sentence_de": "In Köln müssen wir umsteigen.",
+      "sentence_en": "We have to transfer in Cologne."
+    },
+    {
+      "de": "halten",
+      "en": "to stop",
+      "sentence_de": "Der Bus hält an der nächsten Haltestelle.",
+      "sentence_en": "The bus stops at the next stop."
+    },
+    {
+      "de": "parken",
+      "en": "to park",
+      "sentence_de": "Ich parke auf dem Parkplatz neben dem Supermarkt.",
+      "sentence_en": "I'm parking in the lot next to the supermarket."
+    },
+    {
+      "de": "überholen",
+      "en": "to overtake / pass",
+      "sentence_de": "Auf der Autobahn überholt er viele Autos.",
+      "sentence_en": "He overtakes many cars on the highway."
+    },
+    {
+      "de": "beschleunigen",
+      "en": "to accelerate",
+      "sentence_de": "Das Auto beschleunigt schnell.",
+      "sentence_en": "The car accelerates quickly."
+    },
+    {
+      "de": "bremsen",
+      "en": "to brake",
+      "sentence_de": "Du musst an der Ampel bremsen.",
+      "sentence_en": "You have to brake at the traffic light."
+    },
+    {
+      "de": "einbiegen",
+      "en": "to turn into",
+      "sentence_de": "Biegen Sie an der nächsten Straße links ein.",
+      "sentence_en": "Turn left at the next street."
+    },
+    {
+      "de": "abbiegen",
+      "en": "to turn",
+      "sentence_de": "Biegen Sie an der Kreuzung rechts ab.",
+      "sentence_en": "Turn right at the intersection."
+    },
+    {
+      "de": "geradeaus fahren",
+      "en": "to go straight",
+      "sentence_de": "Fahren Sie zwei Kilometer geradeaus.",
+      "sentence_en": "Drive straight ahead for two kilometers."
+    },
+    {
+      "de": "aussteigen",
+      "en": "to get off / alight",
+      "sentence_de": "Wir steigen an der nächsten Haltestelle aus.",
+      "sentence_en": "We're getting off at the next stop."
+    },
+    {
+      "de": "einsteigen",
+      "en": "to board / get on",
+      "sentence_de": "Bitte steigen Sie jetzt ein.",
+      "sentence_en": "Please board now."
+    },
+    {
+      "de": "fliegen",
+      "en": "to fly",
+      "sentence_de": "Wir fliegen morgen nach Spanien.",
+      "sentence_en": "We're flying to Spain tomorrow."
+    },
+    {
+      "de": "segeln",
+      "en": "to sail",
+      "sentence_de": "Sie segeln über den Atlantik.",
+      "sentence_en": "They're sailing across the Atlantic."
+    },
+    {
+      "de": "steuern",
+      "en": "to steer",
+      "sentence_de": "Der Kapitän steuert das Schiff.",
+      "sentence_en": "The captain steers the ship."
+    },
+    {
+      "de": "entgleisen",
+      "en": "to derail",
+      "sentence_de": "Der Zug ist auf freier Strecke entgleist.",
+      "sentence_en": "The train derailed on the open track."
+    },
+    {
+      "de": "stauen",
+      "en": "to jam (traffic)",
+      "sentence_de": "Der Verkehr staut sich auf der Autobahn.",
+      "sentence_en": "Traffic is jamming up on the highway."
+    },
+    {
+      "de": "sich verspäten",
+      "en": "to be delayed",
+      "sentence_de": "Der Zug verspätet sich wegen des Sturms.",
+      "sentence_en": "The train is delayed due to the storm."
+    },
+    {
+      "de": "sich umgucken / umschauen",
+      "en": "to look around",
+      "sentence_de": "Ich schaue mich nach dem Weg um.",
+      "sentence_en": "I'm looking around for the way."
+    },
+    {
+      "de": "sich verlaufen",
+      "en": "to get lost",
+      "sentence_de": "Wir haben uns in der Stadt verlaufen.",
+      "sentence_en": "We got lost in the city."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "schnell",
+      "en": "fast",
+      "sentence_de": "Der Zug ist sehr schnell.",
+      "sentence_en": "The train is very fast."
+    },
+    {
+      "de": "langsam",
+      "en": "slow",
+      "sentence_de": "Der Bus ist morgens langsam im Verkehr.",
+      "sentence_en": "The bus is slow in traffic in the morning."
+    },
+    {
+      "de": "pünktlich",
+      "en": "punctual / on time",
+      "sentence_de": "Die Deutsche Bahn ist nicht immer pünktlich.",
+      "sentence_en": "The German railway is not always punctual."
+    },
+    {
+      "de": "verspätet",
+      "en": "delayed",
+      "sentence_de": "Der verspätete Zug kam erst um 10 Uhr.",
+      "sentence_en": "The delayed train only arrived at 10 AM."
+    },
+    {
+      "de": "voll (Bus/Zug)",
+      "en": "full / packed (bus/train)",
+      "sentence_de": "Der Bus ist morgens immer voll.",
+      "sentence_en": "The bus is always packed in the morning."
+    },
+    {
+      "de": "leer",
+      "en": "empty",
+      "sentence_de": "Der Zug war heute Morgen überraschend leer.",
+      "sentence_en": "The train was surprisingly empty this morning."
+    },
+    {
+      "de": "bequem",
+      "en": "comfortable",
+      "sentence_de": "Die Sitze im Zug sind bequem.",
+      "sentence_en": "The seats on the train are comfortable."
+    },
+    {
+      "de": "unbequem",
+      "en": "uncomfortable",
+      "sentence_de": "Das Sitzen im Bus ist manchmal unbequem.",
+      "sentence_en": "Sitting on the bus is sometimes uncomfortable."
+    },
+    {
+      "de": "sicher",
+      "en": "safe",
+      "sentence_de": "Fliegen ist eines der sichersten Verkehrsmittel.",
+      "sentence_en": "Flying is one of the safest means of transport."
+    },
+    {
+      "de": "gefährlich",
+      "en": "dangerous",
+      "sentence_de": "Motorradfahren kann gefährlich sein.",
+      "sentence_en": "Motorcycling can be dangerous."
+    },
+    {
+      "de": "direkt",
+      "en": "direct",
+      "sentence_de": "Es gibt eine direkte Verbindung nach Berlin.",
+      "sentence_en": "There's a direct connection to Berlin."
+    },
+    {
+      "de": "umsteigen (müssen)",
+      "en": "with transfer (needed)",
+      "sentence_de": "Die Verbindung ist umsteigefrei.",
+      "sentence_en": "The connection is without transfers."
+    },
+    {
+      "de": "günstig (Ticket)",
+      "en": "cheap / affordable (ticket)",
+      "sentence_de": "Das Ticket war sehr günstig.",
+      "sentence_en": "The ticket was very cheap."
+    },
+    {
+      "de": "teuer (Ticket)",
+      "en": "expensive (ticket)",
+      "sentence_de": "Der ICE ist leider sehr teuer.",
+      "sentence_en": "The ICE is unfortunately very expensive."
+    },
+    {
+      "de": "umweltfreundlich",
+      "en": "environmentally friendly",
+      "sentence_de": "Das Fahrrad ist umweltfreundlich.",
+      "sentence_en": "The bicycle is environmentally friendly."
+    },
+    {
+      "de": "unweltbelastend",
+      "en": "environmentally damaging",
+      "sentence_de": "Das Auto ist umweltbelastend.",
+      "sentence_en": "The car is environmentally damaging."
+    },
+    {
+      "de": "stauanfällig",
+      "en": "prone to traffic jams",
+      "sentence_de": "Die Autobahn ist morgens stauanfällig.",
+      "sentence_en": "The highway is prone to traffic jams in the morning."
+    },
+    {
+      "de": "zuverlässig",
+      "en": "reliable",
+      "sentence_de": "Die U-Bahn ist sehr zuverlässig.",
+      "sentence_en": "The subway is very reliable."
+    },
+    {
+      "de": "unzuverlässig",
+      "en": "unreliable",
+      "sentence_de": "Der Bus ist unzuverlässig bei Schnee.",
+      "sentence_en": "The bus is unreliable in snow."
+    },
+    {
+      "de": "überfüllt",
+      "en": "overcrowded",
+      "sentence_de": "Die Bahn war zur Stoßzeit überfüllt.",
+      "sentence_en": "The train was overcrowded during rush hour."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "schnell",
+      "en": "quickly / fast",
+      "sentence_de": "Der Zug fährt schnell.",
+      "sentence_en": "The train goes fast."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Das Auto fährt langsam durch die Baustelle.",
+      "sentence_en": "The car drives slowly through the construction site."
+    },
+    {
+      "de": "pünktlich",
+      "en": "on time",
+      "sentence_de": "Der Bus kam pünktlich.",
+      "sentence_en": "The bus arrived on time."
+    },
+    {
+      "de": "verspätet",
+      "en": "with delay",
+      "sentence_de": "Der Zug kommt verspätet an.",
+      "sentence_en": "The train arrives with a delay."
+    },
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "sentence_de": "Fahren Sie geradeaus, dann sehen Sie den Bahnhof.",
+      "sentence_en": "Drive straight ahead, then you'll see the station."
+    },
+    {
+      "de": "rechts",
+      "en": "to the right",
+      "sentence_de": "Biegen Sie hier rechts ab.",
+      "sentence_en": "Turn right here."
+    },
+    {
+      "de": "links",
+      "en": "to the left",
+      "sentence_de": "An der Ampel links abbiegen.",
+      "sentence_en": "Turn left at the traffic light."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich fahre täglich mit dem Bus.",
+      "sentence_en": "I take the bus daily."
+    },
+    {
+      "de": "morgens",
+      "en": "in the morning",
+      "sentence_de": "Morgens ist es auf der Straße sehr voll.",
+      "sentence_en": "In the morning it's very busy on the road."
+    },
+    {
+      "de": "abends",
+      "en": "in the evening",
+      "sentence_de": "Abends fahre ich nach Hause.",
+      "sentence_en": "In the evening I drive home."
+    },
+    {
+      "de": "normalerweise",
+      "en": "normally",
+      "sentence_de": "Normalerweise fahre ich mit dem Fahrrad.",
+      "sentence_en": "Normally I ride my bike."
+    },
+    {
+      "de": "heute",
+      "en": "today",
+      "sentence_de": "Heute fahre ich mit dem Zug.",
+      "sentence_en": "Today I'm taking the train."
+    },
+    {
+      "de": "jeden Tag",
+      "en": "every day",
+      "sentence_de": "Ich stehe jeden Tag im Stau.",
+      "sentence_en": "I'm stuck in traffic every day."
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "sentence_de": "Manchmal nehme ich die Straßenbahn.",
+      "sentence_en": "Sometimes I take the tram."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich fahre oft mit dem Auto.",
+      "sentence_en": "I often drive the car."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich fahre selten mit dem Bus.",
+      "sentence_en": "I rarely take the bus."
+    },
+    {
+      "de": "sicher",
+      "en": "safely",
+      "sentence_de": "Fahren Sie sicher und vorsichtig.",
+      "sentence_en": "Drive safely and carefully."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Bei Regen sollte man vorsichtig fahren.",
+      "sentence_en": "In rain you should drive carefully."
+    },
+    {
+      "de": "bequem",
+      "en": "comfortably",
+      "sentence_de": "Die Reise im Zug ist bequem.",
+      "sentence_en": "Traveling by train is comfortable."
+    },
+    {
+      "de": "günstig",
+      "en": "cheaply",
+      "sentence_de": "Wir sind günstig mit dem Flixbus gefahren.",
+      "sentence_en": "We traveled cheaply with Flixbus."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Jeden Morgen fahre ich mit der U-Bahn zur Arbeit.",
+      "en": "Every morning I take the subway to work."
+    },
+    {
+      "de": "Die nächste Haltestelle der Straßenbahn ist nur 100 Meter entfernt.",
+      "en": "The next tram stop is only 100 meters away."
+    },
+    {
+      "de": "Auf der Autobahn gibt es einen schweren Stau wegen eines Unfalls.",
+      "en": "There is a heavy traffic jam on the highway due to an accident."
+    },
+    {
+      "de": "Ich habe mein Auto am Bahnhof geparkt und bin mit dem Zug weitergefahren.",
+      "en": "I parked my car at the station and continued by train."
+    },
+    {
+      "de": "Für die Fahrt nach Berlin brauchen wir etwa vier Stunden mit dem ICE.",
+      "en": "The journey to Berlin takes about four hours by ICE."
+    },
+    {
+      "de": "An der Ampel musst du links abbiegen, dann siehst du den Parkplatz.",
+      "en": "At the traffic light you have to turn left, then you'll see the parking lot."
+    },
+    {
+      "de": "Der Bus hat zehn Minuten Verspätung, weil der Verkehr so dicht ist.",
+      "en": "The bus is ten minutes late because traffic is so heavy."
+    },
+    {
+      "de": "Mit dem Fahrrad bin ich in 15 Minuten am Hauptbahnhof.",
+      "en": "By bicycle I'm at the main station in 15 minutes."
+    },
+    {
+      "de": "Kannst du mir sagen, welcher Bus zum Flughafen fährt?",
+      "en": "Can you tell me which bus goes to the airport?"
+    },
+    {
+      "de": "Beim Umstieg in Köln haben wir nur fünf Minuten Zeit.",
+      "en": "We only have five minutes for the transfer in Cologne."
+    },
+    {
+      "de": "Ich kaufe mein Ticket immer online, um Zeit zu sparen.",
+      "en": "I always buy my ticket online to save time."
+    },
+    {
+      "de": "Das Parken in der Innenstadt ist sehr teuer und schwierig.",
+      "en": "Parking in the city center is very expensive and difficult."
+    },
+    {
+      "de": "Wenn es nicht regnet, fahre ich lieber mit dem Fahrrad als mit dem Bus.",
+      "en": "When it's not raining, I prefer to ride my bike rather than take the bus."
+    },
+    {
+      "de": "Die Fahrkartenkontrolle im Zug hat meinen Fahrschein überprüft.",
+      "en": "The ticket inspector on the train checked my ticket."
+    },
+    {
+      "de": "Die Ankunftszeit des Flugzeugs hat sich wegen des Sturms verzögert.",
+      "en": "The airplane's arrival time was delayed due to the storm."
+    }
+  ]
+}

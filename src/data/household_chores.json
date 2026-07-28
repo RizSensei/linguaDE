@@ -1,0 +1,727 @@
+{
+  "theme": "Household Chores",
+  "words": [
+    {
+      "de": "die Hausarbeit",
+      "en": "housework / household chores",
+      "sentence_de": "Die Hausarbeit teilen wir uns fair auf.",
+      "sentence_en": "We share the housework fairly."
+    },
+    {
+      "de": "die Haushaltstätigkeit",
+      "en": "household activity",
+      "sentence_de": "Zu den Haushaltstätigkeiten gehört auch das Kochen.",
+      "sentence_en": "Cooking is also one of the household activities."
+    },
+    {
+      "de": "der Haushalt",
+      "en": "household",
+      "sentence_de": "Wir führen einen gemeinsamen Haushalt.",
+      "sentence_en": "We run a shared household."
+    },
+    {
+      "de": "der Putzplan",
+      "en": "cleaning schedule",
+      "sentence_de": "Der Putzplan hängt am Kühlschrank.",
+      "sentence_en": "The cleaning schedule is on the fridge."
+    },
+    {
+      "de": "die Reinigung",
+      "en": "cleaning",
+      "sentence_de": "Die Reinigung der Wohnung dauert zwei Stunden.",
+      "sentence_en": "Cleaning the apartment takes two hours."
+    },
+    {
+      "de": "der Putztag",
+      "en": "cleaning day",
+      "sentence_de": "Samstag ist bei uns immer Putztag.",
+      "sentence_en": "Saturday is always cleaning day for us."
+    },
+    {
+      "de": "der Staubsauger",
+      "en": "vacuum cleaner",
+      "sentence_de": "Der Staubsauger ist leider kaputt.",
+      "sentence_en": "The vacuum cleaner is unfortunately broken."
+    },
+    {
+      "de": "das Staubsaugen",
+      "en": "vacuuming",
+      "sentence_de": "Staubsaugen ist meine Aufgabe.",
+      "sentence_en": "Vacuuming is my task."
+    },
+    {
+      "de": "der Wischmopp",
+      "en": "mop",
+      "sentence_de": "Mit dem Wischmopp wische ich den Boden.",
+      "sentence_en": "I mop the floor with the mop."
+    },
+    {
+      "de": "das Wischen",
+      "en": "mopping",
+      "sentence_de": "Nach dem Staubsaugen kommt das Wischen.",
+      "sentence_en": "After vacuuming comes mopping."
+    },
+    {
+      "de": "der Besen",
+      "en": "broom",
+      "sentence_de": "Der Besen steht in der Abstellkammer.",
+      "sentence_en": "The broom is in the storage room."
+    },
+    {
+      "de": "der Kehrbesen",
+      "en": "dustpan and brush",
+      "sentence_de": "Mit dem Kehrbesen fege ich die Ecken.",
+      "sentence_en": "I sweep the corners with the dustpan and brush."
+    },
+    {
+      "de": "der Lappen",
+      "en": "cloth / rag",
+      "sentence_de": "Ich brauche einen sauberen Lappen zum Abwischen.",
+      "sentence_en": "I need a clean cloth for wiping."
+    },
+    {
+      "de": "das Putzmittel",
+      "en": "cleaning agent / detergent",
+      "sentence_de": "Welches Putzmittel benutzt du für die Fenster?",
+      "sentence_en": "Which cleaning agent do you use for the windows?"
+    },
+    {
+      "de": "der Allzweckreiniger",
+      "en": "all-purpose cleaner",
+      "sentence_de": "Der Allzweckreiniger ist für fast alles geeignet.",
+      "sentence_en": "The all-purpose cleaner is suitable for almost everything."
+    },
+    {
+      "de": "das Fensterputzen",
+      "en": "window cleaning",
+      "sentence_de": "Fensterputzen ist eine lästige Aufgabe.",
+      "sentence_en": "Window cleaning is an annoying task."
+    },
+    {
+      "de": "der Fensterputzer",
+      "en": "window cleaner (person/tool)",
+      "sentence_de": "Der Fensterputzer kommt zweimal im Jahr.",
+      "sentence_en": "The window cleaner comes twice a year."
+    },
+    {
+      "de": "der Abwasch / das Geschirrspülen",
+      "en": "washing up / doing the dishes",
+      "sentence_de": "Der Abwasch stapelt sich schon wieder.",
+      "sentence_en": "The dishes are piling up again."
+    },
+    {
+      "de": "die Spülmaschine / der Geschirrspüler",
+      "en": "dishwasher",
+      "sentence_de": "Die Spülmaschine läuft gerade.",
+      "sentence_en": "The dishwasher is currently running."
+    },
+    {
+      "de": "das Spülmittel",
+      "en": "dish soap",
+      "sentence_de": "Das Spülmittel ist bald leer.",
+      "sentence_en": "The dish soap is almost empty."
+    },
+    {
+      "de": "der Schwamm",
+      "en": "sponge",
+      "sentence_de": "Der Schwamm sollte regelmäßig gewechselt werden.",
+      "sentence_en": "The sponge should be changed regularly."
+    },
+    {
+      "de": "die Wäsche / das Wäschewaschen",
+      "en": "laundry / doing the laundry",
+      "sentence_de": "Die Wäsche muss heute noch gewaschen werden.",
+      "sentence_en": "The laundry still needs to be washed today."
+    },
+    {
+      "de": "die Waschmaschine",
+      "en": "washing machine",
+      "sentence_de": "Die Waschmaschine ist sehr laut.",
+      "sentence_en": "The washing machine is very loud."
+    },
+    {
+      "de": "der Trockner",
+      "en": "dryer",
+      "sentence_de": "Wir haben keinen Trockner, wir hängen die Wäsche auf.",
+      "sentence_en": "We don't have a dryer; we hang the laundry up."
+    },
+    {
+      "de": "das Waschmittel",
+      "en": "laundry detergent",
+      "sentence_de": "Ich kaufe immer ein umweltfreundliches Waschmittel.",
+      "sentence_en": "I always buy an eco-friendly laundry detergent."
+    },
+    {
+      "de": "der Weichspüler",
+      "en": "fabric softener",
+      "sentence_de": "Weichspüler macht die Wäsche weich und duftend.",
+      "sentence_en": "Fabric softener makes laundry soft and fragrant."
+    },
+    {
+      "de": "die Wäscheleine",
+      "en": "clothesline",
+      "sentence_de": "Die Wäscheleine ist im Garten gespannt.",
+      "sentence_en": "The clothesline is strung up in the garden."
+    },
+    {
+      "de": "der Wäscheständer",
+      "en": "clothes horse / drying rack",
+      "sentence_de": "Der Wäscheständer steht im Wohnzimmer.",
+      "sentence_en": "The drying rack is in the living room."
+    },
+    {
+      "de": "die Wäscheklammer",
+      "en": "clothespin",
+      "sentence_de": "Mir sind die Wäscheklammern ausgegangen.",
+      "sentence_en": "I've run out of clothespins."
+    },
+    {
+      "de": "das Bügeln",
+      "en": "ironing",
+      "sentence_de": "Das Bügeln ist meine unliebste Hausarbeit.",
+      "sentence_en": "Ironing is my least favorite chore."
+    },
+    {
+      "de": "das Bügeleisen",
+      "en": "iron",
+      "sentence_de": "Das Bügeleisen ist noch heiß.",
+      "sentence_en": "The iron is still hot."
+    },
+    {
+      "de": "das Bügelbrett",
+      "en": "ironing board",
+      "sentence_de": "Das Bügelbrett ist ausgeklappt.",
+      "sentence_en": "The ironing board is set up."
+    },
+    {
+      "de": "das Abstauben",
+      "en": "dusting",
+      "sentence_de": "Das Abstauben der Regale wird oft vernachlässigt.",
+      "sentence_en": "Dusting the shelves is often neglected."
+    },
+    {
+      "de": "der Staubwedel",
+      "en": "feather duster",
+      "sentence_de": "Mit dem Staubwedel komme ich gut in die Ecken.",
+      "sentence_en": "With the feather duster I can reach into the corners well."
+    },
+    {
+      "de": "das Bettenmachen",
+      "en": "making the bed",
+      "sentence_de": "Das Bettenmachen gehört zur Morgenroutine.",
+      "sentence_en": "Making the bed is part of the morning routine."
+    },
+    {
+      "de": "der Müll",
+      "en": "trash / garbage",
+      "sentence_de": "Der Müll muss rausgebracht werden.",
+      "sentence_en": "The trash needs to be taken out."
+    },
+    {
+      "de": "die Mülltrennung",
+      "en": "waste separation",
+      "sentence_de": "In Deutschland ist die Mülltrennung sehr wichtig.",
+      "sentence_en": "Waste separation is very important in Germany."
+    },
+    {
+      "de": "der Mülleimer",
+      "en": "trash can / bin",
+      "sentence_de": "Der Mülleimer in der Küche ist voll.",
+      "sentence_en": "The trash can in the kitchen is full."
+    },
+    {
+      "de": "die Biotonne",
+      "en": "organic waste bin",
+      "sentence_de": "Die Biotonne wird alle zwei Wochen geleert.",
+      "sentence_en": "The organic waste bin is emptied every two weeks."
+    },
+    {
+      "de": "die Gelbe Tonne",
+      "en": "yellow bin (packaging)",
+      "sentence_de": "Plastikverpackungen kommen in die Gelbe Tonne.",
+      "sentence_en": "Plastic packaging goes into the yellow bin."
+    },
+    {
+      "de": "das Altglas",
+      "en": "recycled glass",
+      "sentence_de": "Das Altglas bringen wir zum Container.",
+      "sentence_en": "We take the recycled glass to the container."
+    },
+    {
+      "de": "der Keller",
+      "en": "basement",
+      "sentence_de": "Im Keller lagern wir alte Möbel und Werkzeuge.",
+      "sentence_en": "We store old furniture and tools in the basement."
+    },
+    {
+      "de": "der Dachboden",
+      "en": "attic",
+      "sentence_de": "Der Dachboden muss mal ausgeräumt werden.",
+      "sentence_en": "The attic needs to be cleared out at some point."
+    },
+    {
+      "de": "die Garage",
+      "en": "garage",
+      "sentence_de": "Die Garage ist voller Gerümpel.",
+      "sentence_en": "The garage is full of junk."
+    },
+    {
+      "de": "das Gerümpel",
+      "en": "junk / clutter",
+      "sentence_de": "Wir müssen endlich das Gerümpel aussortieren.",
+      "sentence_en": "We finally need to sort out the junk."
+    },
+    {
+      "de": "das Aufräumen",
+      "en": "tidying up",
+      "sentence_de": "Das Aufräumen nach dem Essen gehört dazu.",
+      "sentence_en": "Tidying up after eating is part of it."
+    },
+    {
+      "de": "die Gartenarbeit",
+      "en": "gardening",
+      "sentence_de": "Gartenarbeit ist im Frühling besonders wichtig.",
+      "sentence_en": "Gardening is especially important in spring."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "putzen",
+      "en": "to clean",
+      "sentence_de": "Ich putze die Wohnung jeden Samstag.",
+      "sentence_en": "I clean the apartment every Saturday."
+    },
+    {
+      "de": "saugen / staubsaugen",
+      "en": "to vacuum",
+      "sentence_de": "Kannst du bitte den Teppich saugen?",
+      "sentence_en": "Can you please vacuum the carpet?"
+    },
+    {
+      "de": "wischen",
+      "en": "to mop / wipe",
+      "sentence_de": "Ich wische den Boden in der Küche.",
+      "sentence_en": "I mop the kitchen floor."
+    },
+    {
+      "de": "fegen",
+      "en": "to sweep",
+      "sentence_de": "Sie fegt die Blätter von der Terrasse.",
+      "sentence_en": "She sweeps the leaves off the terrace."
+    },
+    {
+      "de": "abstauben",
+      "en": "to dust",
+      "sentence_de": "Ich staube die Regale einmal pro Woche ab.",
+      "sentence_en": "I dust the shelves once a week."
+    },
+    {
+      "de": "abwischen",
+      "en": "to wipe off",
+      "sentence_de": "Wische den Tisch nach dem Essen ab.",
+      "sentence_en": "Wipe the table after eating."
+    },
+    {
+      "de": "spülen / abwaschen",
+      "en": "to wash up / do the dishes",
+      "sentence_de": "Ich spüle das Geschirr von Hand.",
+      "sentence_en": "I wash the dishes by hand."
+    },
+    {
+      "de": "in die Spülmaschine einräumen",
+      "en": "to load the dishwasher",
+      "sentence_de": "Räume das Geschirr in die Spülmaschine ein.",
+      "sentence_en": "Load the dishes into the dishwasher."
+    },
+    {
+      "de": "ausräumen (Spülmaschine)",
+      "en": "to unload (the dishwasher)",
+      "sentence_de": "Die Spülmaschine ist fertig – kannst du sie ausräumen?",
+      "sentence_en": "The dishwasher is done – can you unload it?"
+    },
+    {
+      "de": "waschen (Wäsche)",
+      "en": "to wash (laundry)",
+      "sentence_de": "Ich wasche die weiße Wäsche bei 60 Grad.",
+      "sentence_en": "I wash the white laundry at 60 degrees."
+    },
+    {
+      "de": "aufhängen (Wäsche)",
+      "en": "to hang up (laundry)",
+      "sentence_de": "Häng die Wäsche gleich auf, sonst wird sie knitterig.",
+      "sentence_en": "Hang the laundry up immediately, otherwise it will get wrinkled."
+    },
+    {
+      "de": "bügeln",
+      "en": "to iron",
+      "sentence_de": "Ich bügle meine Hemden am liebsten sonntags.",
+      "sentence_en": "I prefer to iron my shirts on Sundays."
+    },
+    {
+      "de": "zusammenlegen (Wäsche)",
+      "en": "to fold (laundry)",
+      "sentence_de": "Nach dem Trocknen lege ich die Wäsche zusammen.",
+      "sentence_en": "After drying, I fold the laundry."
+    },
+    {
+      "de": "Betten machen",
+      "en": "to make the bed",
+      "sentence_de": "Vergiss nicht, das Bett zu machen.",
+      "sentence_en": "Don't forget to make the bed."
+    },
+    {
+      "de": "Müll rausbringen",
+      "en": "to take out the trash",
+      "sentence_de": "Wer bringt den Müll raus?",
+      "sentence_en": "Who is taking out the trash?"
+    },
+    {
+      "de": "recyceln / trennen",
+      "en": "to recycle / separate",
+      "sentence_de": "Wir trennen den Müll konsequent.",
+      "sentence_en": "We separate the waste consistently."
+    },
+    {
+      "de": "einkaufen",
+      "en": "to go shopping",
+      "sentence_de": "Ich muss noch Lebensmittel einkaufen.",
+      "sentence_en": "I still have to do grocery shopping."
+    },
+    {
+      "de": "kochen",
+      "en": "to cook",
+      "sentence_de": "Ich koche heute Abend ein neues Rezept.",
+      "sentence_en": "I'm trying a new recipe tonight."
+    },
+    {
+      "de": "aufräumen",
+      "en": "to tidy up",
+      "sentence_de": "Die Kinder räumen ihre Spielsachen auf.",
+      "sentence_en": "The children tidy up their toys."
+    },
+    {
+      "de": "ausmisten",
+      "en": "to declutter",
+      "sentence_de": "Ich miste meinen Kleiderschrank aus.",
+      "sentence_en": "I'm decluttering my wardrobe."
+    },
+    {
+      "de": "entrümpeln",
+      "en": "to clear out junk",
+      "sentence_de": "Wir müssen den Keller endlich entrümpeln.",
+      "sentence_en": "We finally need to clear out the basement."
+    },
+    {
+      "de": "reparieren",
+      "en": "to repair",
+      "sentence_de": "Der Wasserhahn tropft – ich muss ihn reparieren.",
+      "sentence_en": "The faucet is dripping – I need to repair it."
+    },
+    {
+      "de": "fensterputzen",
+      "en": "to clean windows",
+      "sentence_de": "Am Wochenende putze ich die Fenster.",
+      "sentence_en": "I'm cleaning the windows on the weekend."
+    },
+    {
+      "de": "gießen (Blumen)",
+      "en": "to water (plants)",
+      "sentence_de": "Vergiss nicht, die Blumen zu gießen.",
+      "sentence_en": "Don't forget to water the flowers."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "sauber",
+      "en": "clean",
+      "sentence_de": "Die Küche ist wieder sauber.",
+      "sentence_en": "The kitchen is clean again."
+    },
+    {
+      "de": "schmutzig",
+      "en": "dirty",
+      "sentence_de": "Der Boden ist schmutzig und muss gewischt werden.",
+      "sentence_en": "The floor is dirty and needs to be mopped."
+    },
+    {
+      "de": "ordentlich",
+      "en": "tidy / neat",
+      "sentence_de": "Ein ordentliches Zuhause fühlt sich gut an.",
+      "sentence_en": "A tidy home feels good."
+    },
+    {
+      "de": "unordentlich",
+      "en": "messy",
+      "sentence_de": "Das Kinderzimmer ist heute sehr unordentlich.",
+      "sentence_en": "The children's room is very messy today."
+    },
+    {
+      "de": "aufgeräumt",
+      "en": "tidied up",
+      "sentence_de": "Das Wohnzimmer ist aufgeräumt und gemütlich.",
+      "sentence_en": "The living room is tidied up and cozy."
+    },
+    {
+      "de": "voll (Mülleimer)",
+      "en": "full (trash can)",
+      "sentence_de": "Der Mülleimer ist voll.",
+      "sentence_en": "The trash can is full."
+    },
+    {
+      "de": "leer (Mülleimer)",
+      "en": "empty (trash can)",
+      "sentence_de": "Der Mülleimer ist endlich leer.",
+      "sentence_en": "The trash can is finally empty."
+    },
+    {
+      "de": "nass",
+      "en": "wet",
+      "sentence_de": "Der Boden ist noch nass vom Wischen.",
+      "sentence_en": "The floor is still wet from mopping."
+    },
+    {
+      "de": "trocken",
+      "en": "dry",
+      "sentence_de": "Die Wäsche ist endlich trocken.",
+      "sentence_en": "The laundry is finally dry."
+    },
+    {
+      "de": "knitterig / zerknittert",
+      "en": "wrinkled",
+      "sentence_de": "Die Hemden sind knitterig, ich muss sie bügeln.",
+      "sentence_en": "The shirts are wrinkled; I need to iron them."
+    },
+    {
+      "de": "staubig",
+      "en": "dusty",
+      "sentence_de": "Die Regale sind staubig.",
+      "sentence_en": "The shelves are dusty."
+    },
+    {
+      "de": "glänzend",
+      "en": "shiny",
+      "sentence_de": "Die Fenster glänzen nach dem Putzen.",
+      "sentence_en": "The windows are shiny after cleaning."
+    },
+    {
+      "de": "fleckig",
+      "en": "stained",
+      "sentence_de": "Das T-Shirt ist fleckig und muss in die Wäsche.",
+      "sentence_en": "The T-shirt is stained and needs to go in the laundry."
+    },
+    {
+      "de": "duftend",
+      "en": "fragrant / smelling good",
+      "sentence_de": "Die frische Wäsche duftet wunderbar.",
+      "sentence_en": "The fresh laundry smells wonderful."
+    },
+    {
+      "de": "mühevoll",
+      "en": "laborious",
+      "sentence_de": "Fensterputzen ist eine mühevolle Arbeit.",
+      "sentence_en": "Window cleaning is laborious work."
+    },
+    {
+      "de": "lästig",
+      "en": "annoying",
+      "sentence_de": "Bügeln ist eine lästige Aufgabe.",
+      "sentence_en": "Ironing is an annoying task."
+    },
+    {
+      "de": "dringend",
+      "en": "urgent",
+      "sentence_de": "Die Wäsche muss dringend gewaschen werden.",
+      "sentence_en": "The laundry needs to be washed urgently."
+    },
+    {
+      "de": "erledigt",
+      "en": "done / completed",
+      "sentence_de": "Die Hausarbeit ist endlich erledigt.",
+      "sentence_en": "The housework is finally done."
+    },
+    {
+      "de": "frisch",
+      "en": "fresh",
+      "sentence_de": "Die frisch gewaschene Wäsche riecht gut.",
+      "sentence_en": "The freshly washed laundry smells good."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "gründlich",
+      "en": "thoroughly",
+      "sentence_de": "Ich putze die Wohnung gründlich.",
+      "sentence_en": "I clean the apartment thoroughly."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Man sollte regelmäßig staubsaugen.",
+      "sentence_en": "You should vacuum regularly."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich spüle das Geschirr täglich.",
+      "sentence_en": "I wash the dishes daily."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Der große Putztag findet wöchentlich statt.",
+      "sentence_en": "The big cleaning day takes place weekly."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Ich wische schnell den Boden.",
+      "sentence_en": "I quickly mop the floor."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Nimm dir Zeit und bügle langsam.",
+      "sentence_en": "Take your time and iron slowly."
+    },
+    {
+      "de": "sorgfältig",
+      "en": "carefully / meticulously",
+      "sentence_de": "Sie putzt die Fenster sorgfältig.",
+      "sentence_en": "She cleans the windows carefully."
+    },
+    {
+      "de": "gemeinsam",
+      "en": "together",
+      "sentence_de": "Wir machen die Hausarbeit gemeinsam.",
+      "sentence_en": "We do the housework together."
+    },
+    {
+      "de": "alleine",
+      "en": "alone",
+      "sentence_de": "Er macht die ganze Hausarbeit alleine.",
+      "sentence_en": "He does all the housework alone."
+    },
+    {
+      "de": "endlich",
+      "en": "finally",
+      "sentence_de": "Die Wäsche ist endlich trocken.",
+      "sentence_en": "The laundry is finally dry."
+    },
+    {
+      "de": "immer",
+      "en": "always",
+      "sentence_de": "Ich mache immer das Bett, wenn ich aufstehe.",
+      "sentence_en": "I always make the bed when I get up."
+    },
+    {
+      "de": "nie",
+      "en": "never",
+      "sentence_de": "Er räumt nie sein Zimmer auf.",
+      "sentence_en": "He never tidies his room."
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "sentence_de": "Manchmal lasse ich die Wäsche liegen.",
+      "sentence_en": "Sometimes I leave the laundry lying around."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Ich mache ungern den Abwasch.",
+      "sentence_en": "I reluctantly do the dishes."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich koche gerne, aber putzen mag ich nicht.",
+      "sentence_en": "I like cooking, but I don't like cleaning."
+    },
+    {
+      "de": "hinterher",
+      "en": "afterwards",
+      "sentence_de": "Ich räume nach dem Essen hinterher auf.",
+      "sentence_en": "I tidy up after eating."
+    },
+    {
+      "de": "vorher",
+      "en": "beforehand",
+      "sentence_de": "Vorher muss ich den Tisch abräumen.",
+      "sentence_en": "Beforehand I have to clear the table."
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "sentence_de": "Im Sommer trocknet die Wäsche draußen.",
+      "sentence_en": "In summer the laundry dries outside."
+    },
+    {
+      "de": "drinnen",
+      "en": "inside",
+      "sentence_de": "Bei Regen trocknet die Wäsche drinnen.",
+      "sentence_en": "When it rains, the laundry dries inside."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich teile die Hausarbeit mit meinem Partner – er kocht, ich putze.",
+      "en": "I share the housework with my partner – he cooks, I clean."
+    },
+    {
+      "de": "Der Boden ist dreckig, ich muss ihn saugen und wischen.",
+      "en": "The floor is dirty; I have to vacuum and mop it."
+    },
+    {
+      "de": "Die Wäsche ist fertig, kannst du sie bitte aufhängen?",
+      "en": "The laundry is done; can you please hang it up?"
+    },
+    {
+      "de": "Das Bügeln ist meine unliebste Aufgabe im Haushalt.",
+      "en": "Ironing is my least favorite household task."
+    },
+    {
+      "de": "Nach dem Abendessen räume ich den Tisch ab und spüle das Geschirr.",
+      "en": "After dinner I clear the table and wash the dishes."
+    },
+    {
+      "de": "Die Fenster sind so schmutzig, dass ich sie endlich putzen muss.",
+      "en": "The windows are so dirty that I finally have to clean them."
+    },
+    {
+      "de": "Ich mache jeden Morgen mein Bett, bevor ich zur Arbeit gehe.",
+      "en": "I make my bed every morning before I go to work."
+    },
+    {
+      "de": "Der Müll muss rausgebracht werden – die Tonne ist voll.",
+      "en": "The trash needs to be taken out – the bin is full."
+    },
+    {
+      "de": "Im Haushalt gibt es immer etwas zu tun, es wird nie langweilig.",
+      "en": "There is always something to do in the household; it never gets boring."
+    },
+    {
+      "de": "Ich muss noch den Keller aufräumen und alte Sachen aussortieren.",
+      "en": "I still have to tidy up the basement and sort out old things."
+    },
+    {
+      "de": "Die Kinder helfen bei der Hausarbeit, indem sie ihr Zimmer aufräumen.",
+      "en": "The children help with the housework by tidying up their room."
+    },
+    {
+      "de": "Einmal pro Woche mache ich einen großen Putztag mit Staubsaugen, Wischen und Fensterputzen.",
+      "en": "Once a week I have a big cleaning day with vacuuming, mopping and window cleaning."
+    },
+    {
+      "de": "Die Waschmaschine ist gerade fertig, ich muss die Wäsche in den Trockner umfüllen.",
+      "en": "The washing machine has just finished; I need to transfer the laundry to the dryer."
+    },
+    {
+      "de": "Wir trennen unseren Müll in Papier, Plastik, Glas und Bioabfall.",
+      "en": "We separate our waste into paper, plastic, glass and organic waste."
+    },
+    {
+      "de": "Ein aufgeräumtes und sauberes Zuhause gibt mir ein gutes Gefühl.",
+      "en": "A tidy and clean home gives me a good feeling."
+    }
+  ]
+}

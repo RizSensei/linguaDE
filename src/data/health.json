@@ -1,0 +1,721 @@
+{
+  "theme": "Health",
+  "words": [
+    {
+      "de": "die Gesundheit",
+      "en": "health",
+      "sentence_de": "Gesundheit ist das höchste Gut im Leben.",
+      "sentence_en": "Health is the greatest asset in life."
+    },
+    {
+      "de": "die Krankheit",
+      "en": "illness / disease",
+      "sentence_de": "Eine Krankheit kann das Leben stark beeinträchtigen.",
+      "sentence_en": "An illness can greatly affect one's life."
+    },
+    {
+      "de": "der Körper",
+      "en": "body",
+      "sentence_de": "Ein gesunder Körper ist die Basis für Wohlbefinden.",
+      "sentence_en": "A healthy body is the basis for well-being."
+    },
+    {
+      "de": "das Immunsystem",
+      "en": "immune system",
+      "sentence_de": "Ein starkes Immunsystem schützt vor Infektionen.",
+      "sentence_en": "A strong immune system protects against infections."
+    },
+    {
+      "de": "die Vorsorge",
+      "en": "prevention / check-up",
+      "sentence_de": "Vorsorge ist besser als Nachsorge.",
+      "sentence_en": "Prevention is better than cure."
+    },
+    {
+      "de": "die Untersuchung",
+      "en": "examination / check-up",
+      "sentence_de": "Die ärztliche Untersuchung war gründlich.",
+      "sentence_en": "The medical examination was thorough."
+    },
+    {
+      "de": "der Arzt / die Ärztin",
+      "en": "doctor (male/female)",
+      "sentence_de": "Ich habe morgen einen Termin beim Arzt.",
+      "sentence_en": "I have a doctor's appointment tomorrow."
+    },
+    {
+      "de": "der Hausarzt / die Hausärztin",
+      "en": "general practitioner",
+      "sentence_de": "Der Hausarzt kennt meine Krankengeschichte.",
+      "sentence_en": "The GP knows my medical history."
+    },
+    {
+      "de": "der Facharzt / die Fachärztin",
+      "en": "specialist",
+      "sentence_de": "Ich muss zum Facharzt für Hautkrankheiten.",
+      "sentence_en": "I need to see a dermatologist."
+    },
+    {
+      "de": "die Apotheke",
+      "en": "pharmacy",
+      "sentence_de": "Die Apotheke hat heute Nachtdienst.",
+      "sentence_en": "The pharmacy has night service today."
+    },
+    {
+      "de": "das Medikament",
+      "en": "medication",
+      "sentence_de": "Das Medikament muss dreimal täglich eingenommen werden.",
+      "sentence_en": "The medication must be taken three times a day."
+    },
+    {
+      "de": "die Tablette",
+      "en": "pill / tablet",
+      "sentence_de": "Ich nehme die Tablette nach dem Essen.",
+      "sentence_en": "I take the pill after a meal."
+    },
+    {
+      "de": "das Rezept",
+      "en": "prescription",
+      "sentence_de": "Ich brauche ein Rezept für das Antibiotikum.",
+      "sentence_en": "I need a prescription for the antibiotic."
+    },
+    {
+      "de": "die Impfung",
+      "en": "vaccination",
+      "sentence_de": "Die Impfung gegen Grippe ist wichtig.",
+      "sentence_en": "The vaccination against flu is important."
+    },
+    {
+      "de": "die Operation",
+      "en": "operation / surgery",
+      "sentence_de": "Die Operation war erfolgreich.",
+      "sentence_en": "The operation was successful."
+    },
+    {
+      "de": "die Genesung",
+      "en": "recovery",
+      "sentence_de": "Ich wünsche dir eine schnelle Genesung.",
+      "sentence_en": "I wish you a speedy recovery."
+    },
+    {
+      "de": "das Symptom",
+      "en": "symptom",
+      "sentence_de": "Die Symptome einer Erkältung sind Husten und Schnupfen.",
+      "sentence_en": "The symptoms of a cold are coughing and a runny nose."
+    },
+    {
+      "de": "die Schmerzen",
+      "en": "pain",
+      "sentence_de": "Ich habe starke Schmerzen im Rücken.",
+      "sentence_en": "I have severe pain in my back."
+    },
+    {
+      "de": "das Fieber",
+      "en": "fever",
+      "sentence_de": "Das Kind hat hohes Fieber.",
+      "sentence_en": "The child has a high fever."
+    },
+    {
+      "de": "die Erkältung",
+      "en": "cold",
+      "sentence_de": "Eine Erkältung wird meist durch Viren ausgelöst.",
+      "sentence_en": "A cold is usually caused by viruses."
+    },
+    {
+      "de": "die Grippe",
+      "en": "flu / influenza",
+      "sentence_de": "Die Grippe ist eine ernsthafte Erkrankung.",
+      "sentence_en": "The flu is a serious illness."
+    },
+    {
+      "de": "die Infektion",
+      "en": "infection",
+      "sentence_de": "Die Infektion muss mit Antibiotika behandelt werden.",
+      "sentence_en": "The infection must be treated with antibiotics."
+    },
+    {
+      "de": "die Allergie",
+      "en": "allergy",
+      "sentence_de": "Sie hat eine Allergie gegen Pollen.",
+      "sentence_en": "She has an allergy to pollen."
+    },
+    {
+      "de": "der Blutdruck",
+      "en": "blood pressure",
+      "sentence_de": "Mein Blutdruck ist etwas zu hoch.",
+      "sentence_en": "My blood pressure is a bit too high."
+    },
+    {
+      "de": "der Puls",
+      "en": "pulse",
+      "sentence_de": "Der Arzt fühlt meinen Puls.",
+      "sentence_en": "The doctor feels my pulse."
+    },
+    {
+      "de": "das Blut",
+      "en": "blood",
+      "sentence_de": "Der Arzt nimmt mir etwas Blut ab.",
+      "sentence_en": "The doctor takes some blood from me."
+    },
+    {
+      "de": "die Ernährung",
+      "en": "nutrition / diet",
+      "sentence_de": "Eine gesunde Ernährung ist wichtig.",
+      "sentence_en": "A healthy diet is important."
+    },
+    {
+      "de": "die Bewegung",
+      "en": "exercise / movement",
+      "sentence_de": "Bewegung hält den Körper fit.",
+      "sentence_en": "Exercise keeps the body fit."
+    },
+    {
+      "de": "der Sport",
+      "en": "sports",
+      "sentence_de": "Sport stärkt das Herz-Kreislauf-System.",
+      "sentence_en": "Sports strengthen the cardiovascular system."
+    },
+    {
+      "de": "der Stress",
+      "en": "stress",
+      "sentence_de": "Stress kann krank machen.",
+      "sentence_en": "Stress can make you sick."
+    },
+    {
+      "de": "die Entspannung",
+      "en": "relaxation",
+      "sentence_de": "Entspannung ist gut für die Gesundheit.",
+      "sentence_en": "Relaxation is good for health."
+    },
+    {
+      "de": "der Schlaf",
+      "en": "sleep",
+      "sentence_de": "Ausreichend Schlaf stärkt das Immunsystem.",
+      "sentence_en": "Adequate sleep strengthens the immune system."
+    },
+    {
+      "de": "das Rauchen",
+      "en": "smoking",
+      "sentence_de": "Rauchen schädigt die Lunge.",
+      "sentence_en": "Smoking damages the lungs."
+    },
+    {
+      "de": "der Alkohol",
+      "en": "alcohol",
+      "sentence_de": "Zu viel Alkohol ist ungesund.",
+      "sentence_en": "Too much alcohol is unhealthy."
+    },
+    {
+      "de": "das Übergewicht",
+      "en": "overweight",
+      "sentence_de": "Übergewicht kann zu Herzproblemen führen.",
+      "sentence_en": "Overweight can lead to heart problems."
+    },
+    {
+      "de": "die Krankenkasse",
+      "en": "health insurance",
+      "sentence_de": "Die Krankenkasse übernimmt die Behandlungskosten.",
+      "sentence_en": "The health insurance covers the treatment costs."
+    },
+    {
+      "de": "der Krankenwagen",
+      "en": "ambulance",
+      "sentence_de": "Der Krankenwagen brachte ihn ins Krankenhaus.",
+      "sentence_en": "The ambulance took him to the hospital."
+    },
+    {
+      "de": "das Krankenhaus",
+      "en": "hospital",
+      "sentence_de": "Er muss für zwei Tage ins Krankenhaus.",
+      "sentence_en": "He has to go to the hospital for two days."
+    },
+    {
+      "de": "die Notaufnahme",
+      "en": "emergency room",
+      "sentence_de": "In der Notaufnahme ist es sehr voll.",
+      "sentence_en": "The emergency room is very crowded."
+    },
+    {
+      "de": "der Notarzt",
+      "en": "emergency doctor",
+      "sentence_de": "Der Notarzt kommt im Notfall sofort.",
+      "sentence_en": "The emergency doctor comes immediately in an emergency."
+    },
+    {
+      "de": "die Wunde",
+      "en": "wound",
+      "sentence_de": "Die Wunde muss sauber gehalten werden.",
+      "sentence_en": "The wound must be kept clean."
+    },
+    {
+      "de": "der Verband",
+      "en": "bandage",
+      "sentence_de": "Der Verband sollte täglich gewechselt werden.",
+      "sentence_en": "The bandage should be changed daily."
+    },
+    {
+      "de": "die Reha / Rehabilitation",
+      "en": "rehabilitation",
+      "sentence_de": "Nach der Operation braucht er eine Reha.",
+      "sentence_en": "After the surgery he needs rehabilitation."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "sich gesund ernähren",
+      "en": "to eat healthily",
+      "sentence_de": "Ich ernähre mich gesund mit viel Obst und Gemüse.",
+      "sentence_en": "I eat healthily with lots of fruit and vegetables."
+    },
+    {
+      "de": "sich bewegen",
+      "en": "to move / exercise",
+      "sentence_de": "Man sollte sich täglich bewegen.",
+      "sentence_en": "You should exercise daily."
+    },
+    {
+      "de": "Sport treiben",
+      "en": "to do sports",
+      "sentence_de": "Ich treibe dreimal pro Woche Sport.",
+      "sentence_en": "I do sports three times a week."
+    },
+    {
+      "de": "rauchen",
+      "en": "to smoke",
+      "sentence_de": "Er hat vor fünf Jahren mit dem Rauchen aufgehört.",
+      "sentence_en": "He quit smoking five years ago."
+    },
+    {
+      "de": "trinken (Alkohol)",
+      "en": "to drink (alcohol)",
+      "sentence_de": "Ich trinke selten Alkohol.",
+      "sentence_en": "I rarely drink alcohol."
+    },
+    {
+      "de": "abnehmen",
+      "en": "to lose weight",
+      "sentence_de": "Ich möchte fünf Kilogramm abnehmen.",
+      "sentence_en": "I want to lose five kilograms."
+    },
+    {
+      "de": "zunehmen",
+      "en": "to gain weight",
+      "sentence_de": "Er hat über den Winter etwas zugenommen.",
+      "sentence_en": "He gained some weight over the winter."
+    },
+    {
+      "de": "sich ausruhen",
+      "en": "to rest",
+      "sentence_de": "Nach der Arbeit ruhe ich mich aus.",
+      "sentence_en": "After work I rest."
+    },
+    {
+      "de": "sich entspannen",
+      "en": "to relax",
+      "sentence_de": "Yoga hilft mir, mich zu entspannen.",
+      "sentence_en": "Yoga helps me relax."
+    },
+    {
+      "de": "schmerzen",
+      "en": "to hurt",
+      "sentence_de": "Mein Kopf schmerzt.",
+      "sentence_en": "My head hurts."
+    },
+    {
+      "de": "husten",
+      "en": "to cough",
+      "sentence_de": "Ich huste seit drei Tagen.",
+      "sentence_en": "I have been coughing for three days."
+    },
+    {
+      "de": "niesen",
+      "en": "to sneeze",
+      "sentence_de": "Sie niest ständig wegen der Allergie.",
+      "sentence_en": "She keeps sneezing because of the allergy."
+    },
+    {
+      "de": "fiebern",
+      "en": "to have a fever",
+      "sentence_de": "Das Kind fiebert stark.",
+      "sentence_en": "The child has a high fever."
+    },
+    {
+      "de": "sich verletzen",
+      "en": "to injure oneself",
+      "sentence_de": "Er hat sich beim Fußball verletzt.",
+      "sentence_en": "He injured himself playing football."
+    },
+    {
+      "de": "heilen",
+      "en": "to heal",
+      "sentence_de": "Die Wunde heilt gut.",
+      "sentence_en": "The wound is healing well."
+    },
+    {
+      "de": "behandeln",
+      "en": "to treat",
+      "sentence_de": "Der Arzt behandelt den Patienten mit Antibiotika.",
+      "sentence_en": "The doctor treats the patient with antibiotics."
+    },
+    {
+      "de": "operieren",
+      "en": "to operate",
+      "sentence_de": "Er muss morgen am Knie operiert werden.",
+      "sentence_en": "He has to have knee surgery tomorrow."
+    },
+    {
+      "de": "impfen",
+      "en": "to vaccinate",
+      "sentence_de": "Der Arzt impft die Kinder gegen Masern.",
+      "sentence_en": "The doctor vaccinates the children against measles."
+    },
+    {
+      "de": "verschreiben",
+      "en": "to prescribe",
+      "sentence_de": "Der Arzt verschreibt mir ein Medikament.",
+      "sentence_en": "The doctor prescribes me a medication."
+    },
+    {
+      "de": "einnehmen (Medikament)",
+      "en": "to take (medication)",
+      "sentence_de": "Ich nehme die Tabletten nach dem Essen ein.",
+      "sentence_en": "I take the pills after meals."
+    },
+    {
+      "de": "untersuchen",
+      "en": "to examine",
+      "sentence_de": "Der Arzt untersucht meine Lunge.",
+      "sentence_en": "The doctor examines my lungs."
+    },
+    {
+      "de": "diagnostizieren",
+      "en": "to diagnose",
+      "sentence_de": "Der Arzt diagnostizierte eine Grippe.",
+      "sentence_en": "The doctor diagnosed the flu."
+    },
+    {
+      "de": "sich wohlfühlen",
+      "en": "to feel good / well",
+      "sentence_de": "Nach dem Urlaub fühle ich mich wohl.",
+      "sentence_en": "After vacation I feel well."
+    },
+    {
+      "de": "sich unwohl fühlen",
+      "en": "to feel unwell",
+      "sentence_de": "Ich fühle mich unwohl und habe Schwindel.",
+      "sentence_en": "I feel unwell and dizzy."
+    },
+    {
+      "de": "sterben",
+      "en": "to die",
+      "sentence_de": "Leider ist ihr Großvater gestorben.",
+      "sentence_en": "Unfortunately her grandfather died."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "gesund",
+      "en": "healthy",
+      "sentence_de": "Eine gesunde Ernährung ist wichtig.",
+      "sentence_en": "A healthy diet is important."
+    },
+    {
+      "de": "ungesund",
+      "en": "unhealthy",
+      "sentence_de": "Ungesundes Essen kann krank machen.",
+      "sentence_en": "Unhealthy food can make you sick."
+    },
+    {
+      "de": "krank",
+      "en": "sick / ill",
+      "sentence_de": "Sie ist heute krank und bleibt zu Hause.",
+      "sentence_en": "She is sick today and is staying home."
+    },
+    {
+      "de": "gesund (wieder gesund)",
+      "en": "healthy (recovered)",
+      "sentence_de": "Ich bin wieder gesund.",
+      "sentence_en": "I am healthy again."
+    },
+    {
+      "de": "stark",
+      "en": "strong",
+      "sentence_de": "Sport macht den Körper stark.",
+      "sentence_en": "Sports make the body strong."
+    },
+    {
+      "de": "schwach",
+      "en": "weak",
+      "sentence_de": "Nach der Krankheit fühle ich mich schwach.",
+      "sentence_en": "After the illness I feel weak."
+    },
+    {
+      "de": "fit",
+      "en": "fit",
+      "sentence_de": "Ich fühle mich fit und energiegeladen.",
+      "sentence_en": "I feel fit and energetic."
+    },
+    {
+      "de": "müde",
+      "en": "tired",
+      "sentence_de": "Bei Stress bin ich oft müde.",
+      "sentence_en": "I'm often tired when stressed."
+    },
+    {
+      "de": "erschöpft",
+      "en": "exhausted",
+      "sentence_de": "Nach der Nachtschicht war ich erschöpft.",
+      "sentence_en": "After the night shift I was exhausted."
+    },
+    {
+      "de": "akute (Krankheit)",
+      "en": "acute (illness)",
+      "sentence_de": "Eine akute Erkrankung erfordert schnelles Handeln.",
+      "sentence_en": "An acute illness requires quick action."
+    },
+    {
+      "de": "chronisch (Krankheit)",
+      "en": "chronic (illness)",
+      "sentence_de": "Diabetes ist eine chronische Krankheit.",
+      "sentence_en": "Diabetes is a chronic illness."
+    },
+    {
+      "de": "ansteckend",
+      "en": "contagious",
+      "sentence_de": "Grippe ist sehr ansteckend.",
+      "sentence_en": "The flu is very contagious."
+    },
+    {
+      "de": "schmerzhaft",
+      "en": "painful",
+      "sentence_de": "Die Verletzung war sehr schmerzhaft.",
+      "sentence_en": "The injury was very painful."
+    },
+    {
+      "de": "lebenswichtig",
+      "en": "vital",
+      "sentence_de": "Herz und Lunge sind lebenswichtige Organe.",
+      "sentence_en": "Heart and lungs are vital organs."
+    },
+    {
+      "de": "heilbar",
+      "en": "curable",
+      "sentence_de": "Die meisten Krankheiten sind heilbar.",
+      "sentence_en": "Most illnesses are curable."
+    },
+    {
+      "de": "unheilbar",
+      "en": "incurable",
+      "sentence_de": "Manche Krankheiten sind noch unheilbar.",
+      "sentence_en": "Some diseases are still incurable."
+    },
+    {
+      "de": "regelmäßig (Untersuchung)",
+      "en": "regular (check-up)",
+      "sentence_de": "Regelmäßige Vorsorgeuntersuchungen sind wichtig.",
+      "sentence_en": "Regular check-ups are important."
+    },
+    {
+      "de": "übergewichtig",
+      "en": "overweight",
+      "sentence_de": "Übergewichtige Menschen haben ein höheres Risiko.",
+      "sentence_en": "Overweight people have a higher risk."
+    },
+    {
+      "de": "untergewichtig",
+      "en": "underweight",
+      "sentence_de": "Sie ist untergewichtig und sollte zunehmen.",
+      "sentence_en": "She is underweight and should gain weight."
+    },
+    {
+      "de": "rezeptpflichtig",
+      "en": "prescription-only",
+      "sentence_de": "Diese Medikamente sind rezeptpflichtig.",
+      "sentence_en": "These medications are prescription-only."
+    },
+    {
+      "de": "frei verkäuflich",
+      "en": "over-the-counter",
+      "sentence_de": "Schmerztabletten sind frei verkäuflich.",
+      "sentence_en": "Painkillers are over-the-counter."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "gesund",
+      "en": "healthily",
+      "sentence_de": "Ich ernähre mich gesund.",
+      "sentence_en": "I eat healthily."
+    },
+    {
+      "de": "ungesund",
+      "en": "unhealthily",
+      "sentence_de": "Er lebt ungesund und raucht viel.",
+      "sentence_en": "He lives unhealthily and smokes a lot."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich gehe regelmäßig zum Arzt.",
+      "sentence_en": "I go to the doctor regularly."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich treibe täglich Sport.",
+      "sentence_en": "I exercise daily."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Er macht wöchentlich einen Gesundheitstest.",
+      "sentence_en": "He takes a health test weekly."
+    },
+    {
+      "de": "gut",
+      "en": "well",
+      "sentence_de": "Ich schlafe gut und fühle mich fit.",
+      "sentence_en": "I sleep well and feel fit."
+    },
+    {
+      "de": "schlecht",
+      "en": "badly",
+      "sentence_de": "Ich habe heute schlecht geschlafen.",
+      "sentence_en": "I slept badly today."
+    },
+    {
+      "de": "schnell (erholen)",
+      "en": "quickly (recover)",
+      "sentence_de": "Er erholt sich schnell nach der OP.",
+      "sentence_en": "He recovers quickly after the surgery."
+    },
+    {
+      "de": "langsam (erholen)",
+      "en": "slowly (recover)",
+      "sentence_de": "Die Genesung geht leider langsam voran.",
+      "sentence_en": "Unfortunately recovery is progressing slowly."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "carefully",
+      "sentence_de": "Bewege dich vorsichtig, damit du nichts verletzt.",
+      "sentence_en": "Move carefully so you don't injure yourself."
+    },
+    {
+      "de": "ausreichend (schlafen)",
+      "en": "sufficiently (sleep)",
+      "sentence_de": "Ich schlafe ausreichend, etwa acht Stunden.",
+      "sentence_en": "I sleep sufficiently, about eight hours."
+    },
+    {
+      "de": "genug (trinken)",
+      "en": "enough (drink)",
+      "sentence_de": "Trinkst du genug Wasser?",
+      "sentence_en": "Do you drink enough water?"
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich bin oft bei der Arbeit gestresst.",
+      "sentence_en": "I am often stressed at work."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich bin selten krank.",
+      "sentence_en": "I am rarely sick."
+    },
+    {
+      "de": "nie",
+      "en": "never",
+      "sentence_de": "Ich habe nie geraucht.",
+      "sentence_en": "I have never smoked."
+    },
+    {
+      "de": "glücklicherweise",
+      "en": "fortunately",
+      "sentence_de": "Glücklicherweise war die OP erfolgreich.",
+      "sentence_en": "Fortunately the surgery was successful."
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "sentence_de": "Leider hat er sich bei dem Unfall verletzt.",
+      "sentence_en": "Unfortunately he got injured in the accident."
+    },
+    {
+      "de": "noch (nicht genesen)",
+      "en": "still (not recovered)",
+      "sentence_de": "Ich bin noch nicht vollständig genesen.",
+      "sentence_en": "I have still not fully recovered."
+    },
+    {
+      "de": "endlich (gesund)",
+      "en": "finally (healthy)",
+      "sentence_de": "Endlich bin ich wieder gesund!",
+      "sentence_en": "Finally I am healthy again!"
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich habe seit drei Tagen starke Kopfschmerzen und werde morgen zum Arzt gehen.",
+      "en": "I've had severe headaches for three days and will go to the doctor tomorrow."
+    },
+    {
+      "de": "Eine ausgewogene Ernährung mit viel Obst und Gemüse ist für die Gesundheit wichtig.",
+      "en": "A balanced diet with lots of fruit and vegetables is important for health."
+    },
+    {
+      "de": "Ich versuche, jeden Tag mindestens 30 Minuten Sport zu treiben.",
+      "en": "I try to do at least 30 minutes of sports every day."
+    },
+    {
+      "de": "Seit ich aufgehört habe zu rauchen, geht es mir gesundheitlich viel besser.",
+      "en": "Since I quit smoking, my health has improved a lot."
+    },
+    {
+      "de": "Der Arzt hat mir Antibiotika verschrieben, weil ich eine Infektion habe.",
+      "en": "The doctor prescribed me antibiotics because I have an infection."
+    },
+    {
+      "de": "Bei Fieber und Gliederschmerzen sollte man sich ausruhen und viel trinken.",
+      "en": "When you have a fever and body aches, you should rest and drink a lot."
+    },
+    {
+      "de": "Ich habe einen Termin für meine jährliche Vorsorgeuntersuchung gemacht.",
+      "en": "I made an appointment for my annual check-up."
+    },
+    {
+      "de": "Die Apotheke hilft mir bei der Auswahl von rezeptfreien Medikamenten.",
+      "en": "The pharmacy helps me choose over-the-counter medications."
+    },
+    {
+      "de": "Stress ist einer der Hauptgründe für viele moderne Erkrankungen.",
+      "en": "Stress is one of the main causes of many modern diseases."
+    },
+    {
+      "de": "Meine Oma hat Bluthochdruck und muss regelmäßig Tabletten nehmen.",
+      "en": "My grandma has high blood pressure and has to take pills regularly."
+    },
+    {
+      "de": "Die Operation war erfolgreich und der Patient ist jetzt auf dem Weg der Besserung.",
+      "en": "The surgery was successful and the patient is now on the road to recovery."
+    },
+    {
+      "de": "Allergien können durch Pollen, Tierhaare oder bestimmte Lebensmittel ausgelöst werden.",
+      "en": "Allergies can be triggered by pollen, animal hair or certain foods."
+    },
+    {
+      "de": "Ich versuche, im Alltag Stress abzubauen und mehr zu entspannen.",
+      "en": "I try to reduce stress in everyday life and relax more."
+    },
+    {
+      "de": "Die Krankenkasse übernimmt die Kosten für die Reha nach dem Unfall.",
+      "en": "The health insurance covers the costs of rehabilitation after the accident."
+    },
+    {
+      "de": "Ausreichender Schlaf und regelmäßige Bewegung stärken das Immunsystem.",
+      "en": "Adequate sleep and regular exercise strengthen the immune system."
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "theme": "Technology",
+  "words": [
+    {
+      "de": "die Technologie",
+      "en": "technology",
+      "sentence_de": "Die Technologie entwickelt sich rasant.",
+      "sentence_en": "Technology is developing rapidly."
+    },
+    {
+      "de": "die Technik",
+      "en": "technology / tech",
+      "sentence_de": "Ich interessiere mich sehr für Technik.",
+      "sentence_en": "I'm very interested in technology."
+    },
+    {
+      "de": "der Computer",
+      "en": "computer",
+      "sentence_de": "Mein Computer ist ziemlich alt.",
+      "sentence_en": "My computer is quite old."
+    },
+    {
+      "de": "der Laptop",
+      "en": "laptop",
+      "sentence_de": "Ich arbeite gerne mit meinem Laptop.",
+      "sentence_en": "I like working with my laptop."
+    },
+    {
+      "de": "das Smartphone",
+      "en": "smartphone",
+      "sentence_de": "Ohne Smartphone kann ich mir den Alltag nicht mehr vorstellen.",
+      "sentence_en": "I can no longer imagine everyday life without a smartphone."
+    },
+    {
+      "de": "das Tablet",
+      "en": "tablet",
+      "sentence_de": "Auf dem Tablet lese ich gerne E-Books.",
+      "sentence_en": "I like reading e-books on the tablet."
+    },
+    {
+      "de": "der Bildschirm",
+      "en": "screen",
+      "sentence_de": "Der Bildschirm ist 27 Zoll groß.",
+      "sentence_en": "The screen is 27 inches."
+    },
+    {
+      "de": "das Display",
+      "en": "display / screen",
+      "sentence_de": "Das Display des Smartphones ist zerkratzt.",
+      "sentence_en": "The smartphone display is scratched."
+    },
+    {
+      "de": "die Tastatur",
+      "en": "keyboard",
+      "sentence_de": "Ich brauche eine neue Tastatur für meinen Computer.",
+      "sentence_en": "I need a new keyboard for my computer."
+    },
+    {
+      "de": "die Maus",
+      "en": "mouse",
+      "sentence_de": "Die Maus funktioniert nicht mehr richtig.",
+      "sentence_en": "The mouse isn't working properly anymore."
+    },
+    {
+      "de": "der Drucker",
+      "en": "printer",
+      "sentence_de": "Der Drucker hat keine Tinte mehr.",
+      "sentence_en": "The printer has run out of ink."
+    },
+    {
+      "de": "der Scanner",
+      "en": "scanner",
+      "sentence_de": "Mit dem Scanner kann ich Dokumente digitalisieren.",
+      "sentence_en": "With the scanner I can digitize documents."
+    },
+    {
+      "de": "das Internet",
+      "en": "internet",
+      "sentence_de": "Das Internet ist heute unverzichtbar.",
+      "sentence_en": "The internet is indispensable today."
+    },
+    {
+      "de": "das WLAN / Wifi",
+      "en": "WiFi",
+      "sentence_de": "Das WLAN ist leider sehr langsam.",
+      "sentence_en": "Unfortunately the WiFi is very slow."
+    },
+    {
+      "de": "das Netzwerk",
+      "en": "network",
+      "sentence_de": "Das Netzwerk ist abgestürzt.",
+      "sentence_en": "The network has crashed."
+    },
+    {
+      "de": "der Server",
+      "en": "server",
+      "sentence_de": "Der Server ist heute überlastet.",
+      "sentence_en": "The server is overloaded today."
+    },
+    {
+      "de": "der Cloud-Speicher",
+      "en": "cloud storage",
+      "sentence_de": "Ich speichere alle Dateien in der Cloud.",
+      "sentence_en": "I save all my files in the cloud."
+    },
+    {
+      "de": "die Festplatte",
+      "en": "hard drive",
+      "sentence_de": "Die Festplatte ist fast voll.",
+      "sentence_en": "The hard drive is almost full."
+    },
+    {
+      "de": "die Datei",
+      "en": "file",
+      "sentence_de": "Die Datei ist zu groß für eine E-Mail.",
+      "sentence_en": "The file is too large for an email."
+    },
+    {
+      "de": "der Ordner",
+      "en": "folder",
+      "sentence_de": "Alle Bilder sind im Ordner 'Fotos'.",
+      "sentence_en": "All photos are in the 'Photos' folder."
+    },
+    {
+      "de": "die Software",
+      "en": "software",
+      "sentence_de": "Die Software muss aktualisiert werden.",
+      "sentence_en": "The software needs to be updated."
+    },
+    {
+      "de": "die App / Anwendung",
+      "en": "app / application",
+      "sentence_de": "Ich habe eine neue App für Fitness heruntergeladen.",
+      "sentence_en": "I downloaded a new fitness app."
+    },
+    {
+      "de": "das Betriebssystem",
+      "en": "operating system",
+      "sentence_de": "Windows ist das bekannteste Betriebssystem.",
+      "sentence_en": "Windows is the most well-known operating system."
+    },
+    {
+      "de": "das Update",
+      "en": "update",
+      "sentence_de": "Das Update hat mehrere Stunden gedauert.",
+      "sentence_en": "The update took several hours."
+    },
+    {
+      "de": "der Virus",
+      "en": "virus",
+      "sentence_de": "Ein Virus hat meinen Computer infiziert.",
+      "sentence_en": "A virus infected my computer."
+    },
+    {
+      "de": "das Passwort",
+      "en": "password",
+      "sentence_de": "Wähle ein sicheres Passwort.",
+      "sentence_en": "Choose a secure password."
+    },
+    {
+      "de": "die Firewall",
+      "en": "firewall",
+      "sentence_de": "Die Firewall schützt vor unerwünschten Zugriffen.",
+      "sentence_en": "The firewall protects against unauthorized access."
+    },
+    {
+      "de": "die Verschlüsselung",
+      "en": "encryption",
+      "sentence_de": "Die Verschlüsselung macht die Daten sicher.",
+      "sentence_en": "Encryption makes the data secure."
+    },
+    {
+      "de": "der Datenschutz",
+      "en": "data protection",
+      "sentence_de": "Der Datenschutz im Internet wird immer wichtiger.",
+      "sentence_en": "Data protection on the internet is becoming more and more important."
+    },
+    {
+      "de": "die E-Mail",
+      "en": "email",
+      "sentence_de": "Ich bekomme täglich viele E-Mails.",
+      "sentence_en": "I receive a lot of emails daily."
+    },
+    {
+      "de": "die Suchmaschine",
+      "en": "search engine",
+      "sentence_de": "Google ist die bekannteste Suchmaschine.",
+      "sentence_en": "Google is the most well-known search engine."
+    },
+    {
+      "de": "der Browser",
+      "en": "browser",
+      "sentence_de": "Chrome ist mein Lieblingsbrowser.",
+      "sentence_en": "Chrome is my favorite browser."
+    },
+    {
+      "de": "die Website",
+      "en": "website",
+      "sentence_de": "Die Website ist benutzerfreundlich.",
+      "sentence_en": "The website is user-friendly."
+    },
+    {
+      "de": "der Link",
+      "en": "link",
+      "sentence_de": "Klicke auf den Link für weitere Informationen.",
+      "sentence_en": "Click on the link for more information."
+    },
+    {
+      "de": "die KI / künstliche Intelligenz",
+      "en": "AI / artificial intelligence",
+      "sentence_de": "Künstliche Intelligenz verändert viele Bereiche.",
+      "sentence_en": "Artificial intelligence is changing many areas."
+    },
+    {
+      "de": "der Algorithmus",
+      "en": "algorithm",
+      "sentence_de": "Der Algorithmus entscheidet, was man im Feed sieht.",
+      "sentence_en": "The algorithm decides what you see in the feed."
+    },
+    {
+      "de": "die Daten",
+      "en": "data",
+      "sentence_de": "Die Daten werden sicher gespeichert.",
+      "sentence_en": "The data is stored securely."
+    },
+    {
+      "de": "die Big Data",
+      "en": "big data",
+      "sentence_de": "Big Data hilft Unternehmen, besser zu verstehen.",
+      "sentence_en": "Big data helps companies understand better."
+    },
+    {
+      "de": "die Automatisierung",
+      "en": "automation",
+      "sentence_de": "Die Automatisierung erleichtert die Produktion.",
+      "sentence_en": "Automation simplifies production."
+    },
+    {
+      "de": "das Smart Home",
+      "en": "smart home",
+      "sentence_de": "Unser Smart Home steuert alles mit einer App.",
+      "sentence_en": "Our smart home controls everything with one app."
+    },
+    {
+      "de": "das Wearable",
+      "en": "wearable",
+      "sentence_de": "Wearables wie Smartwatches sind sehr beliebt.",
+      "sentence_en": "Wearables like smartwatches are very popular."
+    },
+    {
+      "de": "die Cloud",
+      "en": "cloud",
+      "sentence_de": "Die Cloud ermöglicht den Zugriff von überall.",
+      "sentence_en": "The cloud allows access from anywhere."
+    },
+    {
+      "de": "die Künstliche Intelligenz (KI)",
+      "en": "Artificial Intelligence (AI)",
+      "sentence_de": "KI kann heute schon komplexe Probleme lösen.",
+      "sentence_en": "AI can already solve complex problems today."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "nutzen / benutzen",
+      "en": "to use",
+      "sentence_de": "Ich benutze jeden Tag mein Smartphone.",
+      "sentence_en": "I use my smartphone every day."
+    },
+    {
+      "de": "herunterladen / downloaden",
+      "en": "to download",
+      "sentence_de": "Ich lade die App auf mein Handy herunter.",
+      "sentence_en": "I'm downloading the app to my phone."
+    },
+    {
+      "de": "hochladen / uploaden",
+      "en": "to upload",
+      "sentence_de": "Ich lade ein Video auf YouTube hoch.",
+      "sentence_en": "I'm uploading a video to YouTube."
+    },
+    {
+      "de": "installieren",
+      "en": "to install",
+      "sentence_de": "Du musst das Programm auf deinem Computer installieren.",
+      "sentence_en": "You need to install the program on your computer."
+    },
+    {
+      "de": "deinstallieren",
+      "en": "to uninstall",
+      "sentence_de": "Ich deinstalliere Apps, die ich nicht brauche.",
+      "sentence_en": "I uninstall apps that I don't need."
+    },
+    {
+      "de": "aktualisieren / updaten",
+      "en": "to update",
+      "sentence_de": "Ich aktualisiere mein Betriebssystem regelmäßig.",
+      "sentence_en": "I update my operating system regularly."
+    },
+    {
+      "de": "surfen (im Internet)",
+      "en": "to surf (the internet)",
+      "sentence_de": "Ich surfe gerne im Internet nach Rezepten.",
+      "sentence_en": "I like to surf the internet for recipes."
+    },
+    {
+      "de": "googeln",
+      "en": "to google",
+      "sentence_de": "Ich google die Adresse des Restaurants.",
+      "sentence_en": "I google the address of the restaurant."
+    },
+    {
+      "de": "suchen",
+      "en": "to search",
+      "sentence_de": "Ich suche nach Informationen im Netz.",
+      "sentence_en": "I search for information online."
+    },
+    {
+      "de": "finden",
+      "en": "to find",
+      "sentence_de": "Ich finde die Website sehr hilfreich.",
+      "sentence_en": "I find the website very helpful."
+    },
+    {
+      "de": "speichern",
+      "en": "to save",
+      "sentence_de": "Speichere das Dokument in deinem Ordner.",
+      "sentence_en": "Save the document in your folder."
+    },
+    {
+      "de": "löschen",
+      "en": "to delete",
+      "sentence_de": "Ich lösche die Datei, weil ich sie nicht mehr brauche.",
+      "sentence_en": "I'm deleting the file because I no longer need it."
+    },
+    {
+      "de": "kopieren",
+      "en": "to copy",
+      "sentence_de": "Kopiere den Text und füge ihn ein.",
+      "sentence_en": "Copy the text and paste it."
+    },
+    {
+      "de": "einfügen",
+      "en": "to paste",
+      "sentence_de": "Füge den Link hier ein.",
+      "sentence_en": "Paste the link here."
+    },
+    {
+      "de": "ausdrucken / drucken",
+      "en": "to print",
+      "sentence_de": "Ich drucke die E-Mail für mein Meeting aus.",
+      "sentence_en": "I'm printing the email for my meeting."
+    },
+    {
+      "de": "scannen",
+      "en": "to scan",
+      "sentence_de": "Ich scanne den Ausweis, um ihn digital zu speichern.",
+      "sentence_en": "I'm scanning the ID to save it digitally."
+    },
+    {
+      "de": "anschließen",
+      "en": "to connect",
+      "sentence_de": "Ich schließe den Drucker an den Computer an.",
+      "sentence_en": "I connect the printer to the computer."
+    },
+    {
+      "de": "verbinden",
+      "en": "to connect",
+      "sentence_de": "Das Smartphone verbindet sich automatisch mit dem WLAN.",
+      "sentence_en": "The smartphone automatically connects to the WiFi."
+    },
+    {
+      "de": "einrichten",
+      "en": "to set up",
+      "sentence_de": "Ich richte mein neues Smartphone ein.",
+      "sentence_en": "I'm setting up my new smartphone."
+    },
+    {
+      "de": "programmieren",
+      "en": "to program",
+      "sentence_de": "Er programmiert Webseiten für seine Kunden.",
+      "sentence_en": "He programs websites for his clients."
+    },
+    {
+      "de": "reparieren",
+      "en": "to repair",
+      "sentence_de": "Ich repariere meinen kaputten Laptop.",
+      "sentence_en": "I'm repairing my broken laptop."
+    },
+    {
+      "de": "abstürzen",
+      "en": "to crash",
+      "sentence_de": "Mein Computer ist schon wieder abgestürzt.",
+      "sentence_en": "My computer crashed again."
+    },
+    {
+      "de": "hacken",
+      "en": "to hack",
+      "sentence_de": "Jemand hat versucht, mein Konto zu hacken.",
+      "sentence_en": "Someone tried to hack my account."
+    },
+    {
+      "de": "überwachen",
+      "en": "to monitor",
+      "sentence_de": "Die Software überwacht den Datenverkehr.",
+      "sentence_en": "The software monitors the data traffic."
+    },
+    {
+      "de": "verschlüsseln",
+      "en": "to encrypt",
+      "sentence_de": "Du solltest deine Daten verschlüsseln.",
+      "sentence_en": "You should encrypt your data."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "digital",
+      "en": "digital",
+      "sentence_de": "Die digitale Welt bietet viele Möglichkeiten.",
+      "sentence_en": "The digital world offers many opportunities."
+    },
+    {
+      "de": "online",
+      "en": "online",
+      "sentence_de": "Ich bin seit 8 Uhr online.",
+      "sentence_en": "I've been online since 8 AM."
+    },
+    {
+      "de": "offline",
+      "en": "offline",
+      "sentence_de": "Ich gehe jetzt offline, um zu schlafen.",
+      "sentence_en": "I'm going offline now to sleep."
+    },
+    {
+      "de": "schnell",
+      "en": "fast / quick",
+      "sentence_de": "Das Internet ist heute sehr schnell.",
+      "sentence_en": "The internet is very fast today."
+    },
+    {
+      "de": "langsam",
+      "en": "slow",
+      "sentence_de": "Die Verbindung ist leider langsam.",
+      "sentence_en": "Unfortunately the connection is slow."
+    },
+    {
+      "de": "modern",
+      "en": "modern",
+      "sentence_de": "Die Technologie ist sehr modern.",
+      "sentence_en": "The technology is very modern."
+    },
+    {
+      "de": "veraltet",
+      "en": "outdated",
+      "sentence_de": "Mein Laptop ist veraltet.",
+      "sentence_en": "My laptop is outdated."
+    },
+    {
+      "de": "benutzerfreundlich",
+      "en": "user-friendly",
+      "sentence_de": "Die App ist sehr benutzerfreundlich.",
+      "sentence_en": "The app is very user-friendly."
+    },
+    {
+      "de": "komplex",
+      "en": "complex",
+      "sentence_de": "Das Programm ist sehr komplex.",
+      "sentence_en": "The program is very complex."
+    },
+    {
+      "de": "einfach",
+      "en": "simple",
+      "sentence_de": "Die Bedienung ist einfach und intuitiv.",
+      "sentence_en": "The operation is simple and intuitive."
+    },
+    {
+      "de": "sicher",
+      "en": "secure",
+      "sentence_de": "Die Verbindung ist sicher.",
+      "sentence_en": "The connection is secure."
+    },
+    {
+      "de": "unsicher",
+      "en": "insecure",
+      "sentence_de": "Öffentliche Netzwerke sind unsicher.",
+      "sentence_en": "Public networks are insecure."
+    },
+    {
+      "de": "zuverlässig",
+      "en": "reliable",
+      "sentence_de": "Mein alter Drucker ist sehr zuverlässig.",
+      "sentence_en": "My old printer is very reliable."
+    },
+    {
+      "de": "unzuverlässig",
+      "en": "unreliable",
+      "sentence_de": "Das WLAN ist manchmal unzuverlässig.",
+      "sentence_en": "The WiFi is sometimes unreliable."
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "sentence_de": "Die neueste Technologie ist oft teuer.",
+      "sentence_en": "The newest technology is often expensive."
+    },
+    {
+      "de": "günstig",
+      "en": "affordable",
+      "sentence_de": "Es gibt auch günstige Alternativen.",
+      "sentence_en": "There are also affordable alternatives."
+    },
+    {
+      "de": "automatisiert",
+      "en": "automated",
+      "sentence_de": "Der Prozess ist vollständig automatisiert.",
+      "sentence_en": "The process is fully automated."
+    },
+    {
+      "de": "künstlich (Intelligenz)",
+      "en": "artificial (intelligence)",
+      "sentence_de": "Künstliche Intelligenz wird immer wichtiger.",
+      "sentence_en": "Artificial intelligence is becoming more important."
+    },
+    {
+      "de": "vernetzt",
+      "en": "interconnected / networked",
+      "sentence_de": "In unserer vernetzten Welt geht alles schnell.",
+      "sentence_en": "In our networked world everything moves fast."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "digital",
+      "en": "digitally",
+      "sentence_de": "Wir speichern alle Daten digital.",
+      "sentence_en": "We save all data digitally."
+    },
+    {
+      "de": "online",
+      "en": "online",
+      "sentence_de": "Ich bestelle alles online.",
+      "sentence_en": "I order everything online."
+    },
+    {
+      "de": "offline",
+      "en": "offline",
+      "sentence_de": "Ich arbeite lieber offline.",
+      "sentence_en": "I prefer to work offline."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Das Internet lädt schnell.",
+      "sentence_en": "The internet loads quickly."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Der Computer reagiert langsam.",
+      "sentence_en": "The computer responds slowly."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich aktualisiere die Software regelmäßig.",
+      "sentence_en": "I update the software regularly."
+    },
+    {
+      "de": "automatisch",
+      "en": "automatically",
+      "sentence_de": "Das Update wird automatisch installiert.",
+      "sentence_en": "The update is installed automatically."
+    },
+    {
+      "de": "manuell",
+      "en": "manually",
+      "sentence_de": "Du musst die Einstellungen manuell ändern.",
+      "sentence_en": "You have to change the settings manually."
+    },
+    {
+      "de": "sicher",
+      "en": "securely",
+      "sentence_de": "Die Daten werden sicher übertragen.",
+      "sentence_en": "The data is transmitted securely."
+    },
+    {
+      "de": "unsicher",
+      "en": "insecurely",
+      "sentence_de": "Das WLAN ist ungesichert.",
+      "sentence_en": "The WiFi is unsecured."
+    },
+    {
+      "de": "problemlos",
+      "en": "without problems",
+      "sentence_de": "Die Installation lief problemlos.",
+      "sentence_en": "The installation went without problems."
+    },
+    {
+      "de": "zuverlässig",
+      "en": "reliably",
+      "sentence_de": "Das System funktioniert zuverlässig.",
+      "sentence_en": "The system works reliably."
+    },
+    {
+      "de": "komplex",
+      "en": "complexly",
+      "sentence_de": "Die Software ist komplex aufgebaut.",
+      "sentence_en": "The software is structurally complex."
+    },
+    {
+      "de": "einfach",
+      "en": "simply",
+      "sentence_de": "Du kannst einfach auf den Button klicken.",
+      "sentence_en": "You can simply click on the button."
+    },
+    {
+      "de": "überall",
+      "en": "everywhere",
+      "sentence_de": "Heutzutage gibt es überall WLAN.",
+      "sentence_en": "These days there's WiFi everywhere."
+    },
+    {
+      "de": "nirgendwo",
+      "en": "nowhere",
+      "sentence_de": "Nirgendwo ist die Verbindung so schlecht.",
+      "sentence_en": "Nowhere is the connection so bad."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich nutze mein Smartphone oft.",
+      "sentence_en": "I use my smartphone often."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich drucke selten etwas aus.",
+      "sentence_en": "I rarely print anything."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich nutze gerne neue Technologien.",
+      "sentence_en": "I happily use new technologies."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Ich arbeite ungern mit veralteten Geräten.",
+      "sentence_en": "I reluctantly work with outdated devices."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Die Technologie hat unser Leben in den letzten zwanzig Jahren revolutioniert.",
+      "en": "Technology has revolutionized our lives in the last twenty years."
+    },
+    {
+      "de": "Ich kann mein Smartphone nicht mehr missen – es ist mein ständiger Begleiter.",
+      "en": "I can't do without my smartphone anymore – it's my constant companion."
+    },
+    {
+      "de": "Das Internet hat die Art und Weise verändert, wie wir kommunizieren und arbeiten.",
+      "en": "The internet has changed the way we communicate and work."
+    },
+    {
+      "de": "Vergiss nicht, deine Software regelmäßig zu aktualisieren, um Sicherheitslücken zu schließen.",
+      "en": "Don't forget to update your software regularly to close security gaps."
+    },
+    {
+      "de": "Ich habe mein Passwort geändert, weil ich einen unbekannten Zugriff bemerkt habe.",
+      "en": "I changed my password because I noticed an unknown access."
+    },
+    {
+      "de": "Künstliche Intelligenz wird in der Medizin immer häufiger eingesetzt.",
+      "en": "Artificial intelligence is being used more and more in medicine."
+    },
+    {
+      "de": "Mein Laptop ist leider abgestürzt, und ich habe meine ungespeicherte Arbeit verloren.",
+      "en": "Unfortunately my laptop crashed and I lost my unsaved work."
+    },
+    {
+      "de": "Die Cloud ermöglicht es mir, von überall auf meine Dateien zuzugreifen.",
+      "en": "The cloud allows me to access my files from anywhere."
+    },
+    {
+      "de": "Smart-Home-Systeme machen das Leben bequemer, aber sie werfen auch Datenschutzfragen auf.",
+      "en": "Smart home systems make life more convenient, but they also raise privacy concerns."
+    },
+    {
+      "de": "Ich benutze eine Suchmaschine, um Informationen zu finden und mich weiterzubilden.",
+      "en": "I use a search engine to find information and educate myself."
+    },
+    {
+      "de": "Die neue App ist sehr benutzerfreundlich und benötigt kaum Einarbeitung.",
+      "en": "The new app is very user-friendly and requires hardly any training."
+    },
+    {
+      "de": "Virenschutzprogramme sind unverzichtbar, um den Computer vor Schadsoftware zu schützen.",
+      "en": "Antivirus programs are essential to protect the computer from malware."
+    },
+    {
+      "de": "Durch die Digitalisierung vieler Arbeitsprozesse sparen Unternehmen Zeit und Geld.",
+      "en": "Through the digitization of many work processes, companies save time and money."
+    },
+    {
+      "de": "Ich habe mir ein neues Wearable gekauft, das meine Schritte und Herzfrequenz misst.",
+      "en": "I bought a new wearable that measures my steps and heart rate."
+    },
+    {
+      "de": "In der Zukunft wird die Automatisierung viele manuelle Tätigkeiten ersetzen.",
+      "en": "In the future, automation will replace many manual activities."
+    }
+  ]
+}

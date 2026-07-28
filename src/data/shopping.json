@@ -1,0 +1,697 @@
+{
+  "theme": "Shopping",
+  "words": [
+    {
+      "de": "das Einkaufen",
+      "en": "shopping",
+      "sentence_de": "Das Einkaufen macht mir immer Spaß.",
+      "sentence_en": "Shopping is always fun for me."
+    },
+    {
+      "de": "der Einkauf",
+      "en": "shopping trip / purchase",
+      "sentence_de": "Der Einkauf war heute sehr erfolgreich.",
+      "sentence_en": "The shopping trip was very successful today."
+    },
+    {
+      "de": "das Geschäft / der Laden",
+      "en": "shop / store",
+      "sentence_de": "Das Geschäft hat bis 20 Uhr geöffnet.",
+      "sentence_en": "The store is open until 8 PM."
+    },
+    {
+      "de": "das Kaufhaus",
+      "en": "department store",
+      "sentence_de": "Im Kaufhaus gibt es Kleidung, Elektronik und Möbel.",
+      "sentence_en": "The department store has clothing, electronics and furniture."
+    },
+    {
+      "de": "das Einkaufszentrum",
+      "en": "shopping mall",
+      "sentence_de": "Das Einkaufszentrum ist sehr groß und modern.",
+      "sentence_en": "The shopping mall is very large and modern."
+    },
+    {
+      "de": "die Boutique",
+      "en": "boutique",
+      "sentence_de": "Die Boutique verkauft exklusive Designer-Kleidung.",
+      "sentence_en": "The boutique sells exclusive designer clothing."
+    },
+    {
+      "de": "der Supermarkt",
+      "en": "supermarket",
+      "sentence_de": "Ich gehe jeden Samstag in den Supermarkt.",
+      "sentence_en": "I go to the supermarket every Saturday."
+    },
+    {
+      "de": "der Discounter",
+      "en": "discount store",
+      "sentence_de": "Im Discounter gibt es günstige Angebote.",
+      "sentence_en": "There are cheap offers at the discount store."
+    },
+    {
+      "de": "der Markt",
+      "en": "market",
+      "sentence_de": "Auf dem Wochenmarkt gibt es frisches Obst und Gemüse.",
+      "sentence_en": "At the weekly market there is fresh fruit and vegetables."
+    },
+    {
+      "de": "das Angebot",
+      "en": "offer / special deal",
+      "sentence_de": "Dieses Angebot ist heute nur solange der Vorrat reicht.",
+      "sentence_en": "This offer is only available today while supplies last."
+    },
+    {
+      "de": "der Rabatt",
+      "en": "discount",
+      "sentence_de": "Mit der Kundenkarte bekomme ich 10% Rabatt.",
+      "sentence_en": "With the loyalty card I get 10% discount."
+    },
+    {
+      "de": "der Preis",
+      "en": "price",
+      "sentence_de": "Der Preis ist für die Qualität sehr angemessen.",
+      "sentence_en": "The price is very reasonable for the quality."
+    },
+    {
+      "de": "die Kasse",
+      "en": "checkout / cash register",
+      "sentence_de": "An der Kasse ist eine lange Schlange.",
+      "sentence_en": "There is a long line at the checkout."
+    },
+    {
+      "de": "der Kassenbon / die Quittung",
+      "en": "receipt",
+      "sentence_de": "Bitte bewahren Sie den Kassenbon auf.",
+      "sentence_en": "Please keep the receipt."
+    },
+    {
+      "de": "der Einkaufswagen",
+      "en": "shopping cart",
+      "sentence_de": "Ich schiebe den Einkaufswagen durch den Supermarkt.",
+      "sentence_en": "I'm pushing the shopping cart through the supermarket."
+    },
+    {
+      "de": "der Einkaufskorb",
+      "en": "shopping basket",
+      "sentence_de": "Für wenige Artikel nehme ich einen Einkaufskorb.",
+      "sentence_en": "For a few items I take a shopping basket."
+    },
+    {
+      "de": "die Tüte / der Beutel",
+      "en": "bag",
+      "sentence_de": "Möchten Sie eine Plastiktüte oder einen Stoffbeutel?",
+      "sentence_en": "Would you like a plastic bag or a fabric bag?"
+    },
+    {
+      "de": "die Kleidung",
+      "en": "clothing",
+      "sentence_de": "Ich kaufe neue Kleidung für den Sommer.",
+      "sentence_en": "I'm buying new clothing for the summer."
+    },
+    {
+      "de": "das Kleid",
+      "en": "dress",
+      "sentence_de": "Das rote Kleid steht ihr sehr gut.",
+      "sentence_en": "The red dress suits her very well."
+    },
+    {
+      "de": "die Hose",
+      "en": "pants / trousers",
+      "sentence_de": "Ich brauche eine neue Hose für die Arbeit.",
+      "sentence_en": "I need new pants for work."
+    },
+    {
+      "de": "das Hemd",
+      "en": "shirt (formal)",
+      "sentence_de": "Er trägt ein weißes Hemd zur Hochzeit.",
+      "sentence_en": "He is wearing a white shirt to the wedding."
+    },
+    {
+      "de": "das T-Shirt",
+      "en": "T-shirt",
+      "sentence_de": "Das T-Shirt ist aus Baumwolle.",
+      "sentence_en": "The T-shirt is made of cotton."
+    },
+    {
+      "de": "die Schuhe",
+      "en": "shoes",
+      "sentence_de": "Ich probiere die Schuhe in Größe 40 an.",
+      "sentence_en": "I'm trying on the shoes in size 40."
+    },
+    {
+      "de": "die Größe",
+      "en": "size",
+      "sentence_de": "Welche Größe brauchen Sie?",
+      "sentence_en": "What size do you need?"
+    },
+    {
+      "de": "die Farbe",
+      "en": "color",
+      "sentence_de": "Die Farbe Blau passt gut zu deinen Augen.",
+      "sentence_en": "The color blue matches your eyes well."
+    },
+    {
+      "de": "die Mode",
+      "en": "fashion",
+      "sentence_de": "Sie interessiert sich sehr für Mode.",
+      "sentence_en": "She is very interested in fashion."
+    },
+    {
+      "de": "der Anzug",
+      "en": "suit",
+      "sentence_de": "Er hat einen eleganten Anzug gekauft.",
+      "sentence_en": "He bought an elegant suit."
+    },
+    {
+      "de": "die Jacke",
+      "en": "jacket",
+      "sentence_de": "Die Jacke ist wasserdicht und warm.",
+      "sentence_en": "The jacket is waterproof and warm."
+    },
+    {
+      "de": "die Tasche",
+      "en": "bag / handbag",
+      "sentence_de": "Sie trägt eine teure Designer-Tasche.",
+      "sentence_en": "She is carrying an expensive designer bag."
+    },
+    {
+      "de": "der Schuhgeschäft",
+      "en": "shoe store",
+      "sentence_de": "Im Schuhgeschäft gibt es viele verschiedene Modelle.",
+      "sentence_en": "The shoe store has many different models."
+    },
+    {
+      "de": "der Buchladen",
+      "en": "bookstore",
+      "sentence_de": "Im Buchladen gibt es einen großen Auswahl an Romanen.",
+      "sentence_en": "The bookstore has a large selection of novels."
+    },
+    {
+      "de": "der Elektronikladen",
+      "en": "electronics store",
+      "sentence_de": "Im Elektronikladen kaufe ich ein neues Smartphone.",
+      "sentence_en": "I'm buying a new smartphone at the electronics store."
+    },
+    {
+      "de": "die Zahlung",
+      "en": "payment",
+      "sentence_de": "Die Zahlung kann bar oder mit Karte erfolgen.",
+      "sentence_en": "Payment can be made in cash or by card."
+    },
+    {
+      "de": "das Bargeld",
+      "en": "cash",
+      "sentence_de": "Ich habe nicht genug Bargeld dabei.",
+      "sentence_en": "I don't have enough cash with me."
+    },
+    {
+      "de": "die EC-Karte",
+      "en": "debit card",
+      "sentence_de": "Zahlen Sie mit EC-Karte oder bar?",
+      "sentence_en": "Are you paying by debit card or cash?"
+    },
+    {
+      "de": "die Kreditkarte",
+      "en": "credit card",
+      "sentence_de": "Die Kreditkarte wird international akzeptiert.",
+      "sentence_en": "The credit card is accepted internationally."
+    },
+    {
+      "de": "das Portemonnaie",
+      "en": "wallet / purse",
+      "sentence_de": "Ich habe mein Portemonnaie zu Hause vergessen.",
+      "sentence_en": "I forgot my wallet at home."
+    },
+    {
+      "de": "die Sonderangebot",
+      "en": "special offer / sale",
+      "sentence_de": "Das Sonderangebot gilt nur heute.",
+      "sentence_en": "The special offer is only valid today."
+    },
+    {
+      "de": "der Ausverkauf / der Sale",
+      "en": "sale",
+      "sentence_de": "Im Januar gibt es große Ausverkäufe.",
+      "sentence_en": "There are big sales in January."
+    },
+    {
+      "de": "der Umtausch",
+      "en": "exchange / return",
+      "sentence_de": "Sie können die Ware innerhalb von 14 Tagen umtauschen.",
+      "sentence_en": "You can exchange the goods within 14 days."
+    },
+    {
+      "de": "die Rückgabe",
+      "en": "return",
+      "sentence_de": "Die Rückgabe ist nur mit Kassenbon möglich.",
+      "sentence_en": "Returns are only possible with a receipt."
+    },
+    {
+      "de": "die Beratung",
+      "en": "advice / consultation",
+      "sentence_de": "Der Verkäufer gibt mir eine gute Beratung.",
+      "sentence_en": "The salesperson gives me good advice."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "einkaufen",
+      "en": "to shop",
+      "sentence_de": "Ich gehe heute Nachmittag einkaufen.",
+      "sentence_en": "I'm going shopping this afternoon."
+    },
+    {
+      "de": "kaufen",
+      "en": "to buy",
+      "sentence_de": "Ich kaufe ein neues Kleid.",
+      "sentence_en": "I'm buying a new dress."
+    },
+    {
+      "de": "verkaufen",
+      "en": "to sell",
+      "sentence_de": "Der Laden verkauft hochwertige Produkte.",
+      "sentence_en": "The store sells high-quality products."
+    },
+    {
+      "de": "bezahlen",
+      "en": "to pay",
+      "sentence_de": "Ich bezahle mit meiner Kreditkarte.",
+      "sentence_en": "I'm paying with my credit card."
+    },
+    {
+      "de": "ausgeben (Geld)",
+      "en": "to spend (money)",
+      "sentence_de": "Ich habe heute 100 Euro ausgegeben.",
+      "sentence_en": "I spent 100 euros today."
+    },
+    {
+      "de": "sparen",
+      "en": "to save",
+      "sentence_de": "Ich spare auf ein neues Smartphone.",
+      "sentence_en": "I'm saving for a new smartphone."
+    },
+    {
+      "de": "anprobieren",
+      "en": "to try on",
+      "sentence_de": "Kann ich das Hemd anprobieren?",
+      "sentence_en": "Can I try on the shirt?"
+    },
+    {
+      "de": "passen",
+      "en": "to fit",
+      "sentence_de": "Die Schuhe passen perfekt.",
+      "sentence_en": "The shoes fit perfectly."
+    },
+    {
+      "de": "stehen (jemandem)",
+      "en": "to suit (someone)",
+      "sentence_de": "Die Farbe steht dir sehr gut.",
+      "sentence_en": "The color suits you very well."
+    },
+    {
+      "de": "umtauschen",
+      "en": "to exchange",
+      "sentence_de": "Ich möchte die Hose in einer anderen Farbe umtauschen.",
+      "sentence_en": "I would like to exchange the pants in a different color."
+    },
+    {
+      "de": "zurückgeben",
+      "en": "to return",
+      "sentence_de": "Ich gebe das defekte Gerät zurück.",
+      "sentence_en": "I'm returning the defective device."
+    },
+    {
+      "de": "beraten",
+      "en": "to advise",
+      "sentence_de": "Die Verkäuferin berät mich bei der Auswahl.",
+      "sentence_en": "The saleswoman advises me on the selection."
+    },
+    {
+      "de": "suchen",
+      "en": "to search / look for",
+      "sentence_de": "Ich suche ein Geschenk für meine Mutter.",
+      "sentence_en": "I'm looking for a gift for my mother."
+    },
+    {
+      "de": "finden",
+      "en": "to find",
+      "sentence_de": "Ich habe das perfekte Kleid gefunden.",
+      "sentence_en": "I found the perfect dress."
+    },
+    {
+      "de": "vergleichen",
+      "en": "to compare",
+      "sentence_de": "Ich vergleiche die Preise von verschiedenen Anbietern.",
+      "sentence_en": "I compare the prices of different providers."
+    },
+    {
+      "de": "mitnehmen",
+      "en": "to take (with one)",
+      "sentence_de": "Ich nehme die Tasche mit.",
+      "sentence_en": "I'm taking the bag with me."
+    },
+    {
+      "de": "liefern",
+      "en": "to deliver",
+      "sentence_de": "Die Möbel werden morgen geliefert.",
+      "sentence_en": "The furniture will be delivered tomorrow."
+    },
+    {
+      "de": "online bestellen",
+      "en": "to order online",
+      "sentence_de": "Ich bestelle die Bücher online.",
+      "sentence_en": "I'm ordering the books online."
+    },
+    {
+      "de": "reservieren",
+      "en": "to reserve",
+      "sentence_de": "Kann ich das Kleid reservieren?",
+      "sentence_en": "Can I reserve the dress?"
+    },
+    {
+      "de": "probieren",
+      "en": "to try",
+      "sentence_de": "Ich probiere die neue Creme aus.",
+      "sentence_en": "I'm trying the new cream."
+    },
+    {
+      "de": "einkaufen gehen",
+      "en": "to go shopping",
+      "sentence_de": "Wir gehen morgen in die Stadt einkaufen.",
+      "sentence_en": "We're going shopping in the city tomorrow."
+    },
+    {
+      "de": "einpacken",
+      "en": "to pack (goods)",
+      "sentence_de": "Kann ich es bitte eingepackt haben?",
+      "sentence_en": "Could I have it wrapped please?"
+    },
+    {
+      "de": "kosten",
+      "en": "to cost",
+      "sentence_de": "Wie viel kostet die Jacke?",
+      "sentence_en": "How much does the jacket cost?"
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "günstig",
+      "en": "cheap / affordable",
+      "sentence_de": "Die Tasche ist sehr günstig.",
+      "sentence_en": "The bag is very cheap."
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "sentence_de": "Die Designer-Kleidung ist sehr teuer.",
+      "sentence_en": "The designer clothing is very expensive."
+    },
+    {
+      "de": "preiswert",
+      "en": "reasonably priced",
+      "sentence_de": "Das Restaurant bietet preiswerte Gerichte.",
+      "sentence_en": "The restaurant offers reasonably priced dishes."
+    },
+    {
+      "de": "sonderangebot",
+      "en": "on sale",
+      "sentence_de": "Die Schuhe sind im Sonderangebot.",
+      "sentence_en": "The shoes are on sale."
+    },
+    {
+      "de": "reduziert",
+      "en": "reduced",
+      "sentence_de": "Viele Artikel sind um 30% reduziert.",
+      "sentence_en": "Many items are reduced by 30%."
+    },
+    {
+      "de": "neu",
+      "en": "new",
+      "sentence_de": "Ich habe ein neues Kleid gekauft.",
+      "sentence_en": "I bought a new dress."
+    },
+    {
+      "de": "gebraucht",
+      "en": "used",
+      "sentence_de": "Ich kaufe lieber gebrauchte Möbel.",
+      "sentence_en": "I prefer to buy used furniture."
+    },
+    {
+      "de": "modern",
+      "en": "modern / stylish",
+      "sentence_de": "Der Schnitt ist sehr modern.",
+      "sentence_en": "The cut is very modern."
+    },
+    {
+      "de": "klassisch",
+      "en": "classic",
+      "sentence_de": "Ein klassischer Anzug ist zeitlos.",
+      "sentence_en": "A classic suit is timeless."
+    },
+    {
+      "de": "bequem",
+      "en": "comfortable",
+      "sentence_de": "Die Schuhe sind sehr bequem.",
+      "sentence_en": "The shoes are very comfortable."
+    },
+    {
+      "de": "unbequem",
+      "en": "uncomfortable",
+      "sentence_de": "Diese Jeans ist mir unbequem.",
+      "sentence_en": "These jeans are uncomfortable for me."
+    },
+    {
+      "de": "hochwertig",
+      "en": "high-quality",
+      "sentence_de": "Das Produkt ist hochwertig verarbeitet.",
+      "sentence_en": "The product is made of high quality."
+    },
+    {
+      "de": "billig",
+      "en": "cheap (poor quality)",
+      "sentence_de": "Die billige Ware geht schnell kaputt.",
+      "sentence_en": "The cheap goods break quickly."
+    },
+    {
+      "de": "ausverkauft",
+      "en": "sold out",
+      "sentence_de": "Die beliebten Größen sind ausverkauft.",
+      "sentence_en": "The popular sizes are sold out."
+    },
+    {
+      "de": "im Angebot",
+      "en": "on offer",
+      "sentence_de": "Das Produkt ist diese Woche im Angebot.",
+      "sentence_en": "The product is on offer this week."
+    },
+    {
+      "de": "kostenlos",
+      "en": "free",
+      "sentence_de": "Der Versand ist kostenlos.",
+      "sentence_en": "Shipping is free."
+    },
+    {
+      "de": "zahlbar",
+      "en": "payable",
+      "sentence_de": "Der Betrag ist sofort zahlbar.",
+      "sentence_en": "The amount is payable immediately."
+    },
+    {
+      "de": "lokal",
+      "en": "local",
+      "sentence_de": "Ich kaufe gerne lokale Produkte.",
+      "sentence_en": "I like to buy local products."
+    },
+    {
+      "de": "regional",
+      "en": "regional",
+      "sentence_de": "Die Lebensmittel kommen aus regionaler Produktion.",
+      "sentence_en": "The groceries are from regional production."
+    },
+    {
+      "de": "kundenspezifisch",
+      "en": "customized",
+      "sentence_de": "Der Anzug ist individuell angefertigt.",
+      "sentence_en": "The suit is custom-made."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "günstig",
+      "en": "cheaply",
+      "sentence_de": "Ich habe die Schuhe günstig bekommen.",
+      "sentence_en": "I got the shoes cheaply."
+    },
+    {
+      "de": "teuer",
+      "en": "expensively",
+      "sentence_de": "Sie hat sehr teuer eingekauft.",
+      "sentence_en": "She shopped very expensively."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Die Verkäuferin packt die Ware schnell ein.",
+      "sentence_en": "The salesperson packs the goods quickly."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Die Kassiererin arbeitet heute langsam.",
+      "sentence_en": "The cashier is working slowly today."
+    },
+    {
+      "de": "bar",
+      "en": "in cash",
+      "sentence_de": "Ich bezahle bar.",
+      "sentence_en": "I'm paying in cash."
+    },
+    {
+      "de": "mit Karte",
+      "en": "by card",
+      "sentence_de": "Kann ich mit Karte bezahlen?",
+      "sentence_en": "Can I pay by card?"
+    },
+    {
+      "de": "online",
+      "en": "online",
+      "sentence_de": "Ich kaufe lieber online ein.",
+      "sentence_en": "I prefer to shop online."
+    },
+    {
+      "de": "vor Ort",
+      "en": "on site / in person",
+      "sentence_de": "Die Beratung vor Ort ist sehr gut.",
+      "sentence_en": "The advice on site is very good."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich gehe regelmäßig in den Supermarkt.",
+      "sentence_en": "I go to the supermarket regularly."
+    },
+    {
+      "de": "ab und zu",
+      "en": "occasionally",
+      "sentence_de": "Ab und zu kaufe ich mir etwas Schönes.",
+      "sentence_en": "Occasionally I buy myself something nice."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich kaufe oft bei diesem Geschäft ein.",
+      "sentence_en": "I often shop at this store."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich kaufe selten Kleidung.",
+      "sentence_en": "I rarely buy clothes."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich kaufe gerne in kleinen Boutiquen ein.",
+      "sentence_en": "I gladly shop in small boutiques."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Ich kaufe ungern in großen Kaufhäusern ein.",
+      "sentence_en": "I reluctantly shop in large department stores."
+    },
+    {
+      "de": "extra",
+      "en": "extra",
+      "sentence_de": "Die Lieferung kostet extra.",
+      "sentence_en": "The delivery costs extra."
+    },
+    {
+      "de": "umsonst",
+      "en": "for free",
+      "sentence_de": "Die Kaffeeprobe ist umsonst.",
+      "sentence_en": "The coffee sample is for free."
+    },
+    {
+      "de": "passend",
+      "en": "fittingly",
+      "sentence_de": "Die Kleidung passt mir perfekt.",
+      "sentence_en": "The clothes fit me perfectly."
+    },
+    {
+      "de": "leicht (zu tragen)",
+      "en": "lightly (to wear)",
+      "sentence_de": "Der Stoff fühlt sich leicht und weich an.",
+      "sentence_en": "The fabric feels light and soft."
+    },
+    {
+      "de": "schwer (zu tragen)",
+      "en": "heavily (to wear)",
+      "sentence_de": "Der Mantel ist schwer und warm.",
+      "sentence_en": "The coat is heavy and warm."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich muss heute noch ein paar Lebensmittel für das Wochenende einkaufen.",
+      "en": "I still have to buy a few groceries for the weekend today."
+    },
+    {
+      "de": "Der Supermarkt hat heute ein besonderes Angebot für Milchprodukte.",
+      "en": "The supermarket has a special offer on dairy products today."
+    },
+    {
+      "de": "Kann ich die Hose bitte anprobieren? Ich bin mir nicht sicher wegen der Größe.",
+      "en": "Can I please try on the pants? I'm not sure about the size."
+    },
+    {
+      "de": "Die Schuhe passen perfekt und sind auch noch im Sale reduziert.",
+      "en": "The shoes fit perfectly and are also on sale."
+    },
+    {
+      "de": "Ich zahle mit EC-Karte – geht das hier auch?",
+      "en": "I'm paying by debit card – is that okay here?"
+    },
+    {
+      "de": "Das Einkaufszentrum am Stadtrand hat über 100 verschiedene Läden.",
+      "en": "The shopping mall on the outskirts has over 100 different shops."
+    },
+    {
+      "de": "Die Verkäuferin war sehr freundlich und hat mir gut geholfen.",
+      "en": "The saleswoman was very friendly and helped me well."
+    },
+    {
+      "de": "Ich habe mir ein neues Smartphone gekauft – es war ein echtes Schnäppchen.",
+      "en": "I bought a new smartphone – it was a real bargain."
+    },
+    {
+      "de": "Man sollte Preise immer vergleichen, bevor man teure Geräte kauft.",
+      "en": "You should always compare prices before buying expensive devices."
+    },
+    {
+      "de": "Im Buchladen gibt es eine große Auswahl an Krimis und Romanen.",
+      "en": "The bookstore has a large selection of crime novels and novels."
+    },
+    {
+      "de": "Ich habe den Kassenzettel verloren und kann den Artikel jetzt nicht umtauschen.",
+      "en": "I lost the receipt and can't exchange the item now."
+    },
+    {
+      "de": "Am besten gehst du zum Discounter, wenn du günstig einkaufen möchtest.",
+      "en": "It's best to go to the discount store if you want to shop cheaply."
+    },
+    {
+      "de": "Die Jacke gefällt mir sehr gut, aber sie ist mir etwas zu teuer.",
+      "en": "I really like the jacket, but it's a bit too expensive for me."
+    },
+    {
+      "de": "Ich habe die Ware online bestellt und sie wurde schon am nächsten Tag geliefert.",
+      "en": "I ordered the goods online and they were delivered the very next day."
+    },
+    {
+      "de": "Beim Einkaufen sollte man darauf achten, nicht zu viel Geld auszugeben.",
+      "en": "When shopping, you should be careful not to spend too much money."
+    }
+  ]
+}

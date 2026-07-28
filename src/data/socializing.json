@@ -1,0 +1,751 @@
+{
+  "theme": "Socializing",
+  "words": [
+    {
+      "de": "die Geselligkeit",
+      "en": "socializing / sociability",
+      "sentence_de": "Geselligkeit ist mir sehr wichtig.",
+      "sentence_en": "Socializing is very important to me."
+    },
+    {
+      "de": "die Gesellschaft",
+      "en": "company / society",
+      "sentence_de": "Ich mag die Gesellschaft von Freunden.",
+      "sentence_en": "I like the company of friends."
+    },
+    {
+      "de": "das Treffen",
+      "en": "meeting / get-together",
+      "sentence_de": "Das Treffen mit meinen Freunden war schön.",
+      "sentence_en": "The get-together with my friends was nice."
+    },
+    {
+      "de": "die Verabredung",
+      "en": "date / arrangement",
+      "sentence_de": "Ich habe eine Verabredung mit Anna.",
+      "sentence_en": "I have a date with Anna."
+    },
+    {
+      "de": "die Party",
+      "en": "party",
+      "sentence_de": "Die Party gestern war sehr lustig.",
+      "sentence_en": "The party yesterday was a lot of fun."
+    },
+    {
+      "de": "die Feier",
+      "en": "celebration",
+      "sentence_de": "Die Feier findet am Samstag statt.",
+      "sentence_en": "The celebration takes place on Saturday."
+    },
+    {
+      "de": "das Fest",
+      "en": "festival / feast",
+      "sentence_de": "Das Sommerfest ist immer ein Highlight.",
+      "sentence_en": "The summer festival is always a highlight."
+    },
+    {
+      "de": "der Freund / die Freundin",
+      "en": "friend (male/female)",
+      "sentence_de": "Er ist ein guter Freund von mir.",
+      "sentence_en": "He is a good friend of mine."
+    },
+    {
+      "de": "die Bekanntschaft",
+      "en": "acquaintance",
+      "sentence_de": "Sie ist nur eine flüchtige Bekanntschaft.",
+      "sentence_en": "She is only a brief acquaintance."
+    },
+    {
+      "de": "die Gruppe",
+      "en": "group",
+      "sentence_de": "Wir gehen als Gruppe in die Stadt.",
+      "sentence_en": "We're going into the city as a group."
+    },
+    {
+      "de": "der Bekanntenkreis",
+      "en": "circle of acquaintances",
+      "sentence_de": "Mein Bekanntenkreis ist sehr international.",
+      "sentence_en": "My circle of acquaintances is very international."
+    },
+    {
+      "de": "der Gast",
+      "en": "guest",
+      "sentence_de": "Wir erwarten heute Abend zehn Gäste.",
+      "sentence_en": "We're expecting ten guests tonight."
+    },
+    {
+      "de": "der Gastgeber / die Gastgeberin",
+      "en": "host / hostess",
+      "sentence_de": "Die Gastgeberin hat alles wunderbar vorbereitet.",
+      "sentence_en": "The hostess prepared everything wonderfully."
+    },
+    {
+      "de": "die Einladung",
+      "en": "invitation",
+      "sentence_de": "Ich habe eine Einladung zu ihrer Party bekommen.",
+      "sentence_en": "I received an invitation to her party."
+    },
+    {
+      "de": "das Gespräch",
+      "en": "conversation",
+      "sentence_de": "Wir hatten ein interessantes Gespräch.",
+      "sentence_en": "We had an interesting conversation."
+    },
+    {
+      "de": "die Unterhaltung",
+      "en": "chat / conversation",
+      "sentence_de": "Die Unterhaltung mit ihr war sehr angenehm.",
+      "sentence_en": "The conversation with her was very pleasant."
+    },
+    {
+      "de": "der Smalltalk",
+      "en": "small talk",
+      "sentence_de": "Smalltalk ist eine Kunst für sich.",
+      "sentence_en": "Small talk is an art in itself."
+    },
+    {
+      "de": "das Kennenlernen",
+      "en": "getting to know (someone)",
+      "sentence_de": "Das Kennenlernen neuer Leute macht mir Spaß.",
+      "sentence_en": "Getting to know new people is fun for me."
+    },
+    {
+      "de": "die Kontaktaufnahme",
+      "en": "contact / reaching out",
+      "sentence_de": "Die Kontaktaufnahme nach langer Zeit war schön.",
+      "sentence_en": "Reaching out after a long time was nice."
+    },
+    {
+      "de": "das Wiedersehen",
+      "en": "reunion",
+      "sentence_de": "Das Wiedersehen mit alten Freunden war emotional.",
+      "sentence_en": "The reunion with old friends was emotional."
+    },
+    {
+      "de": "der Austausch",
+      "en": "exchange",
+      "sentence_de": "Der Austausch von Ideen war sehr fruchtbar.",
+      "sentence_en": "The exchange of ideas was very fruitful."
+    },
+    {
+      "de": "die Kommunikation",
+      "en": "communication",
+      "sentence_de": "Gute Kommunikation ist die Basis jeder Beziehung.",
+      "sentence_en": "Good communication is the basis of every relationship."
+    },
+    {
+      "de": "das Eisbrechen",
+      "en": "breaking the ice",
+      "sentence_de": "Ein lustiger Spruch hilft beim Eisbrechen.",
+      "sentence_en": "A funny saying helps break the ice."
+    },
+    {
+      "de": "die Vorstellung",
+      "en": "introduction",
+      "sentence_de": "Die Vorstellung der neuen Kollegen war freundlich.",
+      "sentence_en": "The introduction of the new colleagues was friendly."
+    },
+    {
+      "de": "der gemeinsame Nenner",
+      "en": "common ground",
+      "sentence_de": "Wir haben viele gemeinsame Nenner.",
+      "sentence_en": "We have a lot of common ground."
+    },
+    {
+      "de": "das Thema",
+      "en": "topic",
+      "sentence_de": "Was ist ein gutes Thema für Smalltalk?",
+      "sentence_en": "What is a good topic for small talk?"
+    },
+    {
+      "de": "die Interessen",
+      "en": "interests",
+      "sentence_de": "Wir haben ähnliche Interessen.",
+      "sentence_en": "We have similar interests."
+    },
+    {
+      "de": "das Hobby",
+      "en": "hobby",
+      "sentence_de": "Über Hobbys zu sprechen ist ein guter Gesprächsstarter.",
+      "sentence_en": "Talking about hobbies is a good conversation starter."
+    },
+    {
+      "de": "die Pläne",
+      "en": "plans",
+      "sentence_de": "Was sind deine Pläne für das Wochenende?",
+      "sentence_en": "What are your plans for the weekend?"
+    },
+    {
+      "de": "die Vergangenheit",
+      "en": "past",
+      "sentence_de": "Wir haben über unsere Schulzeit gesprochen.",
+      "sentence_en": "We talked about our school days."
+    },
+    {
+      "de": "die Zukunft",
+      "en": "future",
+      "sentence_de": "Wir träumen von unserer Zukunft.",
+      "sentence_en": "We dream about our future."
+    },
+    {
+      "de": "die Meinung",
+      "en": "opinion",
+      "sentence_de": "Ich bin gespannt auf deine Meinung.",
+      "sentence_en": "I'm curious about your opinion."
+    },
+    {
+      "de": "die Kontroverse",
+      "en": "controversy",
+      "sentence_de": "Wir sollten heikle Themen vermeiden.",
+      "sentence_en": "We should avoid sensitive topics."
+    },
+    {
+      "de": "der Humor",
+      "en": "humor",
+      "sentence_de": "Humor verbindet die Menschen.",
+      "sentence_en": "Humor connects people."
+    },
+    {
+      "de": "das Lachen",
+      "en": "laughter",
+      "sentence_de": "Lachen ist ansteckend und bringt alle in gute Stimmung.",
+      "sentence_en": "Laughter is contagious and puts everyone in a good mood."
+    },
+    {
+      "de": "die Gesprächspause",
+      "en": "conversation pause",
+      "sentence_de": "Eine kleine Gesprächspause ist nicht unangenehm.",
+      "sentence_en": "A short conversation pause isn't uncomfortable."
+    },
+    {
+      "de": "die Körpersprache",
+      "en": "body language",
+      "sentence_de": "Die Körpersprache sagt oft mehr als Worte.",
+      "sentence_en": "Body language often says more than words."
+    },
+    {
+      "de": "der Augenkontakt",
+      "en": "eye contact",
+      "sentence_de": "Augenkontakt zeigt Interesse.",
+      "sentence_en": "Eye contact shows interest."
+    },
+    {
+      "de": "das Lächeln",
+      "en": "smile",
+      "sentence_de": "Ein Lächeln öffnet viele Türen.",
+      "sentence_en": "A smile opens many doors."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "sich treffen",
+      "en": "to meet up",
+      "sentence_de": "Wir treffen uns heute Abend im Café.",
+      "sentence_en": "We're meeting up at the café tonight."
+    },
+    {
+      "de": "sich verabreden",
+      "en": "to make plans / arrange to meet",
+      "sentence_de": "Ich verabrede mich mit meiner Freundin für Samstag.",
+      "sentence_en": "I'm making plans with my friend for Saturday."
+    },
+    {
+      "de": "einladen",
+      "en": "to invite",
+      "sentence_de": "Ich lade meine Kollegen zum Abendessen ein.",
+      "sentence_en": "I'm inviting my colleagues to dinner."
+    },
+    {
+      "de": "einladen (jemanden zu sich)",
+      "en": "to invite (someone over)",
+      "sentence_de": "Sie lädt uns zu sich nach Hause ein.",
+      "sentence_en": "She's inviting us to her place."
+    },
+    {
+      "de": "kommen",
+      "en": "to come",
+      "sentence_de": "Kommst du zur Party am Samstag?",
+      "sentence_en": "Are you coming to the party on Saturday?"
+    },
+    {
+      "de": "vorbeikommen",
+      "en": "to come by / drop by",
+      "sentence_de": "Kann ich heute Nachmittag vorbeikommen?",
+      "sentence_en": "Can I come by this afternoon?"
+    },
+    {
+      "de": "besuchen",
+      "en": "to visit",
+      "sentence_de": "Ich besuche meine Freunde in Berlin.",
+      "sentence_en": "I'm visiting my friends in Berlin."
+    },
+    {
+      "de": "empfangen",
+      "en": "to receive / welcome",
+      "sentence_de": "Die Gastgeberin empfing uns herzlich.",
+      "sentence_en": "The hostess welcomed us warmly."
+    },
+    {
+      "de": "begrüßen",
+      "en": "to greet",
+      "sentence_de": "Wir begrüßen alle Gäste persönlich.",
+      "sentence_en": "We greet all guests personally."
+    },
+    {
+      "de": "sich vorstellen",
+      "en": "to introduce oneself",
+      "sentence_de": "Darf ich mich vorstellen? Ich heiße Thomas.",
+      "sentence_en": "May I introduce myself? My name is Thomas."
+    },
+    {
+      "de": "jemanden vorstellen",
+      "en": "to introduce someone",
+      "sentence_de": "Ich stelle dir meinen Freund vor.",
+      "sentence_en": "I'd like to introduce you to my friend."
+    },
+    {
+      "de": "reden / sprechen",
+      "en": "to talk / speak",
+      "sentence_de": "Wir reden über das Wochenende.",
+      "sentence_en": "We're talking about the weekend."
+    },
+    {
+      "de": "sich unterhalten",
+      "en": "to have a conversation",
+      "sentence_de": "Wir unterhalten uns über unsere Urlaubspläne.",
+      "sentence_en": "We're chatting about our vacation plans."
+    },
+    {
+      "de": "plaudern",
+      "en": "to chat",
+      "sentence_de": "Wir plaudern bei Kaffee und Kuchen.",
+      "sentence_en": "We're chatting over coffee and cake."
+    },
+    {
+      "de": "smalltalken",
+      "en": "to make small talk",
+      "sentence_de": "Wir smalltalken, während wir auf den Rest warten.",
+      "sentence_en": "We're making small talk while waiting for the others."
+    },
+    {
+      "de": "fragen",
+      "en": "to ask",
+      "sentence_de": "Ich frage nach ihren Reiseerfahrungen.",
+      "sentence_en": "I ask about her travel experiences."
+    },
+    {
+      "de": "antworten",
+      "en": "to answer",
+      "sentence_de": "Sie antwortet lächelnd auf meine Frage.",
+      "sentence_en": "She answers my question with a smile."
+    },
+    {
+      "de": "erzählen",
+      "en": "to tell / narrate",
+      "sentence_de": "Er erzählt von seiner Kindheit in Italien.",
+      "sentence_en": "He tells about his childhood in Italy."
+    },
+    {
+      "de": "zuhören",
+      "en": "to listen",
+      "sentence_de": "Ein guter Freund hört aufmerksam zu.",
+      "sentence_en": "A good friend listens attentively."
+    },
+    {
+      "de": "lachen",
+      "en": "to laugh",
+      "sentence_de": "Wir lachen über seine lustige Geschichte.",
+      "sentence_en": "We laugh at his funny story."
+    },
+    {
+      "de": "lächeln",
+      "en": "to smile",
+      "sentence_de": "Sie lächelt mich freundlich an.",
+      "sentence_en": "She smiles at me kindly."
+    },
+    {
+      "de": "feiern",
+      "en": "to celebrate",
+      "sentence_de": "Wir feiern ihren Geburtstag in der Bar.",
+      "sentence_en": "We're celebrating her birthday at the bar."
+    },
+    {
+      "de": "trinken",
+      "en": "to drink",
+      "sentence_de": "Lass uns ein Bier trinken gehen!",
+      "sentence_en": "Let's go have a beer!"
+    },
+    {
+      "de": "essen",
+      "en": "to eat",
+      "sentence_de": "Wir essen zusammen in einem Restaurant.",
+      "sentence_en": "We're eating together at a restaurant."
+    },
+    {
+      "de": "toasten / anstoßen",
+      "en": "to toast",
+      "sentence_de": "Wir stoßen auf das neue Jahr an.",
+      "sentence_en": "We toast to the new year."
+    },
+    {
+      "de": "sich kennenlernen",
+      "en": "to get to know each other",
+      "sentence_de": "Wir haben uns auf einer Party kennengelernt.",
+      "sentence_en": "We got to know each other at a party."
+    },
+    {
+      "de": "sich anfreunden",
+      "en": "to become friends",
+      "sentence_de": "Wir haben uns schnell miteinander angefreundet.",
+      "sentence_en": "We quickly became friends."
+    },
+    {
+      "de": "sich verbinden",
+      "en": "to connect",
+      "sentence_de": "Gemeinsame Interessen verbinden uns.",
+      "sentence_en": "Common interests connect us."
+    },
+    {
+      "de": "sich austauschen",
+      "en": "to exchange (ideas)",
+      "sentence_de": "Wir tauschen uns über unsere Erfahrungen aus.",
+      "sentence_en": "We exchange our experiences."
+    },
+    {
+      "de": "sich verhalten",
+      "en": "to behave",
+      "sentence_de": "Es ist wichtig, sich in Gesellschaft korrekt zu verhalten.",
+      "sentence_en": "It's important to behave correctly in society."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "gesellig",
+      "en": "sociable",
+      "sentence_de": "Er ist ein sehr geselliger Mensch.",
+      "sentence_en": "He is a very sociable person."
+    },
+    {
+      "de": "freundlich",
+      "en": "friendly",
+      "sentence_de": "Die Leute hier sind sehr freundlich.",
+      "sentence_en": "The people here are very friendly."
+    },
+    {
+      "de": "herzlich",
+      "en": "warm / cordial",
+      "sentence_de": "Sie begrüßten uns herzlich.",
+      "sentence_en": "They welcomed us warmly."
+    },
+    {
+      "de": "offen",
+      "en": "open",
+      "sentence_de": "Ein offener Mensch findet leicht neue Freunde.",
+      "sentence_en": "An open person makes new friends easily."
+    },
+    {
+      "de": "zurückhaltend",
+      "en": "reserved",
+      "sentence_de": "Manche Leute sind anfangs etwas zurückhaltend.",
+      "sentence_en": "Some people are a bit reserved at first."
+    },
+    {
+      "de": "schüchtern",
+      "en": "shy",
+      "sentence_de": "Schüchterne Menschen brauchen länger, um Kontakte zu knüpfen.",
+      "sentence_en": "Shy people take longer to make contacts."
+    },
+    {
+      "de": "aufgeschlossen",
+      "en": "open-minded",
+      "sentence_de": "Aufgeschlossene Menschen sind gute Gesprächspartner.",
+      "sentence_en": "Open-minded people are good conversation partners."
+    },
+    {
+      "de": "extrovertiert",
+      "en": "extroverted",
+      "sentence_de": "Extrovertierte Menschen lieben gesellige Anlässe.",
+      "sentence_en": "Extroverted people love social events."
+    },
+    {
+      "de": "introvertiert",
+      "en": "introverted",
+      "sentence_de": "Introvertierte Menschen brauchen manchmal Ruhe.",
+      "sentence_en": "Introverted people sometimes need quiet."
+    },
+    {
+      "de": "gesprächig",
+      "en": "talkative",
+      "sentence_de": "Nach ein paar Gläsern Wein wird sie sehr gesprächig.",
+      "sentence_en": "After a few glasses of wine she becomes very talkative."
+    },
+    {
+      "de": "unterhaltsam",
+      "en": "entertaining",
+      "sentence_de": "Seine Geschichten sind immer unterhaltsam.",
+      "sentence_en": "His stories are always entertaining."
+    },
+    {
+      "de": "witzig",
+      "en": "funny",
+      "sentence_de": "Er hat einen witzigen Humor.",
+      "sentence_en": "He has a funny sense of humor."
+    },
+    {
+      "de": "angenehm",
+      "en": "pleasant",
+      "sentence_de": "Die Gesellschaft war sehr angenehm.",
+      "sentence_en": "The company was very pleasant."
+    },
+    {
+      "de": "unangenehm",
+      "en": "unpleasant",
+      "sentence_de": "Die Stille war für einen Moment unangenehm.",
+      "sentence_en": "The silence was unpleasant for a moment."
+    },
+    {
+      "de": "herzlich",
+      "en": "cordial / hearty",
+      "sentence_de": "Ein herzlicher Empfang macht den Besuch schön.",
+      "sentence_en": "A cordial reception makes the visit nice."
+    },
+    {
+      "de": "distriziert",
+      "en": "distant / aloof",
+      "sentence_de": "Er wirkte etwas distanziert zu Beginn.",
+      "sentence_en": "He seemed a bit aloof at first."
+    },
+    {
+      "de": "vertraut",
+      "en": "familiar / close",
+      "sentence_de": "Wir sind ein vertrauter Freundeskreis.",
+      "sentence_en": "We are a close circle of friends."
+    },
+    {
+      "de": "neu (Bekanntschaft)",
+      "en": "new (acquaintance)",
+      "sentence_de": "Sie ist eine neue Bekanntschaft von mir.",
+      "sentence_en": "She is a new acquaintance of mine."
+    },
+    {
+      "de": "alt (Freund)",
+      "en": "old (friend)",
+      "sentence_de": "Er ist ein alter Freund aus der Schulzeit.",
+      "sentence_en": "He is an old friend from school days."
+    },
+    {
+      "de": "interessant",
+      "en": "interesting",
+      "sentence_de": "Das Gespräch war sehr interessant.",
+      "sentence_en": "The conversation was very interesting."
+    },
+    {
+      "de": "langweilig",
+      "en": "boring",
+      "sentence_de": "Die Party war leider etwas langweilig.",
+      "sentence_en": "Unfortunately the party was a bit boring."
+    },
+    {
+      "de": "lebhaft",
+      "en": "lively",
+      "sentence_de": "Auf der Feier herrschte eine lebhafte Atmosphäre.",
+      "sentence_en": "There was a lively atmosphere at the celebration."
+    },
+    {
+      "de": "respektvoll",
+      "en": "respectful",
+      "sentence_de": "Wir sollten immer respektvoll miteinander umgehen.",
+      "sentence_en": "We should always treat each other respectfully."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "gemeinsam",
+      "en": "together",
+      "sentence_de": "Wir unternehmen gemeinsam viele Aktivitäten.",
+      "sentence_en": "We do many activities together."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Wir treffen uns regelmäßig zum Kaffee.",
+      "sentence_en": "We meet regularly for coffee."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Wir gehen oft gemeinsam aus.",
+      "sentence_en": "We often go out together."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Wir sehen uns leider selten.",
+      "sentence_en": "Unfortunately we see each other rarely."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich gehe gerne zu Partys.",
+      "sentence_en": "I enjoy going to parties."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Ich gehe ungern zu großen Veranstaltungen.",
+      "sentence_en": "I reluctantly go to large events."
+    },
+    {
+      "de": "herzlich",
+      "en": "warmly",
+      "sentence_de": "Wir wurden herzlich empfangen.",
+      "sentence_en": "We were warmly received."
+    },
+    {
+      "de": "freundlich",
+      "en": "in a friendly way",
+      "sentence_de": "Sie lächelte mich freundlich an.",
+      "sentence_en": "She smiled at me in a friendly way."
+    },
+    {
+      "de": "offen",
+      "en": "openly",
+      "sentence_de": "Er sprach offen über seine Gefühle.",
+      "sentence_en": "He spoke openly about his feelings."
+    },
+    {
+      "de": "neugierig",
+      "en": "curiously",
+      "sentence_de": "Die Kinder schauten neugierig auf die Gäste.",
+      "sentence_en": "The children looked curiously at the guests."
+    },
+    {
+      "de": "gespannt",
+      "en": "eagerly / with anticipation",
+      "sentence_de": "Ich warte gespannt auf seine Antwort.",
+      "sentence_en": "I'm eagerly waiting for his answer."
+    },
+    {
+      "de": "laut",
+      "en": "loudly",
+      "sentence_de": "Auf dem Fest wurde laut gesungen.",
+      "sentence_en": "People sang loudly at the festival."
+    },
+    {
+      "de": "leise",
+      "en": "quietly",
+      "sentence_de": "Er sprach leise, damit ihn niemand hört.",
+      "sentence_en": "He spoke quietly so no one would hear him."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Die Zeit verging schnell bei den guten Gesprächen.",
+      "sentence_en": "Time passed quickly during the good conversations."
+    },
+    {
+      "de": "lange",
+      "en": "for a long time",
+      "sentence_de": "Wir haben lange über alte Zeiten geredet.",
+      "sentence_en": "We talked about old times for a long time."
+    },
+    {
+      "de": "kurz",
+      "en": "briefly",
+      "sentence_de": "Ich habe sie nur kurz auf der Party gesehen.",
+      "sentence_en": "I only saw her briefly at the party."
+    },
+    {
+      "de": "zufällig",
+      "en": "by chance / accidentally",
+      "sentence_de": "Wir trafen uns zufällig im Café.",
+      "sentence_en": "We met by chance at the café."
+    },
+    {
+      "de": "absichtlich",
+      "en": "deliberately / on purpose",
+      "sentence_de": "Er hat mich absichtlich nicht eingeladen.",
+      "sentence_en": "He deliberately didn't invite me."
+    },
+    {
+      "de": "meistens",
+      "en": "mostly",
+      "sentence_de": "Meistens verbringe ich meine Zeit mit Freunden.",
+      "sentence_en": "I mostly spend my time with friends."
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "sentence_de": "Manchmal gehe ich alleine aus.",
+      "sentence_en": "Sometimes I go out alone."
+    },
+    {
+      "de": "zwanglos",
+      "en": "casually / informally",
+      "sentence_de": "Wir haben uns zwanglos zu einem Kaffee getroffen.",
+      "sentence_en": "We met casually for coffee."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich treffe mich heute Abend mit ein paar Freunden in der Kneipe.",
+      "en": "I'm meeting up with a few friends at the pub tonight."
+    },
+    {
+      "de": "Magst du gerne auf Partys gehen und neue Leute kennenlernen?",
+      "en": "Do you enjoy going to parties and meeting new people?"
+    },
+    {
+      "de": "Ein freundliches Lächeln und Augenkontakt sind beim ersten Treffen sehr wichtig.",
+      "en": "A friendly smile and eye contact are very important at a first meeting."
+    },
+    {
+      "de": "Wir haben uns über unsere gemeinsamen Interessen unterhalten und viel gelacht.",
+      "en": "We talked about our common interests and laughed a lot."
+    },
+    {
+      "de": "Es ist immer schön, alte Freunde nach langer Zeit wiederzusehen.",
+      "en": "It's always nice to see old friends after a long time."
+    },
+    {
+      "de": "Kann ich meinen neuen Kollegen zu deiner Party mitbringen?",
+      "en": "Can I bring my new colleague to your party?"
+    },
+    {
+      "de": "Smalltalk ist anfangs vielleicht ungewohnt, aber mit etwas Übung wird es leichter.",
+      "en": "Small talk may feel unfamiliar at first, but with practice it gets easier."
+    },
+    {
+      "de": "Ein guter Gastgeber sorgt dafür, dass sich alle Gäste wohlfühlen.",
+      "en": "A good host makes sure that all guests feel comfortable."
+    },
+    {
+      "de": "Bei einem angenehmen Gespräch ist es wichtig, auch mal zuzuhören und nicht nur selbst zu reden.",
+      "en": "In a pleasant conversation, it's important to listen as well and not just talk about yourself."
+    },
+    {
+      "de": "Wir haben uns verabredet, um gemeinsam ins Kino zu gehen.",
+      "en": "We made plans to go to the cinema together."
+    },
+    {
+      "de": "Kontakte knüpfen fällt manchen Menschen leichter als anderen.",
+      "en": "Making contacts comes easier to some people than to others."
+    },
+    {
+      "de": "Auf der Feier gab es ein reichhaltiges Buffet und viele interessante Gespräche.",
+      "en": "At the celebration there was a rich buffet and many interesting conversations."
+    },
+    {
+      "de": "Es ist wichtig, in der Gesellschaft respektvoll und höflich zu sein.",
+      "en": "It's important to be respectful and polite in company."
+    },
+    {
+      "de": "Durch gemeinsame Aktivitäten wie Sport oder Musik lernt man schnell neue Leute kennen.",
+      "en": "Through shared activities like sports or music, you quickly get to know new people."
+    },
+    {
+      "de": "Ich freue mich schon auf das Wiedersehen mit meinen Freunden am Wochenende.",
+      "en": "I'm already looking forward to seeing my friends again this weekend."
+    }
+  ]
+}

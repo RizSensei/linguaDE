@@ -1,0 +1,739 @@
+{
+  "theme": "Daily Routine",
+  "words": [
+    {
+      "de": "der Tagesablauf",
+      "en": "daily routine",
+      "sentence_de": "Mein Tagesablauf ist jeden Tag ziemlich ähnlich.",
+      "sentence_en": "My daily routine is pretty similar every day."
+    },
+    {
+      "de": "der Morgen",
+      "en": "morning",
+      "sentence_de": "Der Morgen ist meine Lieblingszeit des Tages.",
+      "sentence_en": "Morning is my favorite time of day."
+    },
+    {
+      "de": "der Vormittag",
+      "en": "late morning",
+      "sentence_de": "Am Vormittag bin ich am produktivsten.",
+      "sentence_en": "I'm most productive in the late morning."
+    },
+    {
+      "de": "der Mittag",
+      "en": "noon",
+      "sentence_de": "Um Mittag mache ich immer eine Pause.",
+      "sentence_en": "I always take a break at noon."
+    },
+    {
+      "de": "der Nachmittag",
+      "en": "afternoon",
+      "sentence_de": "Am Nachmittag gehe ich oft spazieren.",
+      "sentence_en": "In the afternoon I often go for a walk."
+    },
+    {
+      "de": "der Abend",
+      "en": "evening",
+      "sentence_de": "Abends lese ich gerne ein Buch.",
+      "sentence_en": "In the evening I like to read a book."
+    },
+    {
+      "de": "die Nacht",
+      "en": "night",
+      "sentence_de": "Nachts schlafe ich tief und fest.",
+      "sentence_en": "At night I sleep deeply and soundly."
+    },
+    {
+      "de": "die Stunde",
+      "en": "hour",
+      "sentence_de": "Ich schlafe etwa acht Stunden pro Nacht.",
+      "sentence_en": "I sleep about eight hours a night."
+    },
+    {
+      "de": "die Minute",
+      "en": "minute",
+      "sentence_de": "Ich brauche nur fünf Minuten für die Dusche.",
+      "sentence_en": "I only need five minutes for the shower."
+    },
+    {
+      "de": "die Gewohnheit",
+      "en": "habit",
+      "sentence_de": "Morgens Kaffee zu trinken ist meine feste Gewohnheit.",
+      "sentence_en": "Drinking coffee in the morning is my fixed habit."
+    },
+    {
+      "de": "die Routine",
+      "en": "routine",
+      "sentence_de": "Eine feste Routine gibt mir Struktur.",
+      "sentence_en": "A fixed routine gives me structure."
+    },
+    {
+      "de": "das Aufwachen",
+      "en": "waking up",
+      "sentence_de": "Das Aufwachen fällt mir manchmal schwer.",
+      "sentence_en": "Waking up is sometimes difficult for me."
+    },
+    {
+      "de": "das Aufstehen",
+      "en": "getting up",
+      "sentence_de": "Das Aufstehen um 6 Uhr ist eine Herausforderung.",
+      "sentence_en": "Getting up at 6 AM is a challenge."
+    },
+    {
+      "de": "die Dusche",
+      "en": "shower",
+      "sentence_de": "Ich nehme jeden Morgen eine kalte Dusche.",
+      "sentence_en": "I take a cold shower every morning."
+    },
+    {
+      "de": "das Zähneputzen",
+      "en": "brushing teeth",
+      "sentence_de": "Zähneputzen gehört zu meiner Morgenroutine.",
+      "sentence_en": "Brushing teeth is part of my morning routine."
+    },
+    {
+      "de": "das Frühstück",
+      "en": "breakfast",
+      "sentence_de": "Ein gesundes Frühstück gibt mir Energie für den Tag.",
+      "sentence_en": "A healthy breakfast gives me energy for the day."
+    },
+    {
+      "de": "das Anziehen",
+      "en": "getting dressed",
+      "sentence_de": "Ich überlege morgens immer, was ich anziehen soll.",
+      "sentence_en": "I always think about what to wear in the morning."
+    },
+    {
+      "de": "die Kleidung",
+      "en": "clothing",
+      "sentence_de": "Ich lege meine Kleidung am Abend vorher bereit.",
+      "sentence_en": "I lay out my clothes the evening before."
+    },
+    {
+      "de": "der Weg",
+      "en": "route / commute",
+      "sentence_de": "Der Weg zur Arbeit dauert etwa 30 Minuten.",
+      "sentence_en": "The commute to work takes about 30 minutes."
+    },
+    {
+      "de": "die Arbeit",
+      "en": "work",
+      "sentence_de": "Ich beginne meine Arbeit um 8 Uhr.",
+      "sentence_en": "I start my work at 8 AM."
+    },
+    {
+      "de": "die Schule",
+      "en": "school",
+      "sentence_de": "Die Kinder gehen um 7:30 Uhr zur Schule.",
+      "sentence_en": "The children go to school at 7:30 AM."
+    },
+    {
+      "de": "das Büro",
+      "en": "office",
+      "sentence_de": "Im Büro trinke ich meinen zweiten Kaffee.",
+      "sentence_en": "At the office I drink my second coffee."
+    },
+    {
+      "de": "die Pause",
+      "en": "break",
+      "sentence_de": "In der Pause esse ich einen Snack.",
+      "sentence_en": "During the break I eat a snack."
+    },
+    {
+      "de": "die Mittagspause",
+      "en": "lunch break",
+      "sentence_de": "Die Mittagspause ist von 12 bis 13 Uhr.",
+      "sentence_en": "The lunch break is from 12 to 1 PM."
+    },
+    {
+      "de": "das Mittagessen",
+      "en": "lunch",
+      "sentence_de": "Zum Mittagessen gibt es heute Suppe.",
+      "sentence_en": "There's soup for lunch today."
+    },
+    {
+      "de": "das Feierabend",
+      "en": "end of work (quitting time)",
+      "sentence_de": "Um 17 Uhr mache ich Feierabend.",
+      "sentence_en": "I finish work at 5 PM."
+    },
+    {
+      "de": "die Freizeit",
+      "en": "leisure / free time",
+      "sentence_de": "In meiner Freizeit treffe ich Freunde.",
+      "sentence_en": "In my free time I meet friends."
+    },
+    {
+      "de": "das Hobby",
+      "en": "hobby",
+      "sentence_de": "Mein Hobby ist Fotografie.",
+      "sentence_en": "My hobby is photography."
+    },
+    {
+      "de": "das Sport",
+      "en": "sports",
+      "sentence_de": "Ich mache dreimal pro Woche Sport.",
+      "sentence_en": "I do sports three times a week."
+    },
+    {
+      "de": "das Abendessen",
+      "en": "dinner / supper",
+      "sentence_de": "Wir essen um 19 Uhr zu Abend.",
+      "sentence_en": "We have dinner at 7 PM."
+    },
+    {
+      "de": "das Fernsehen",
+      "en": "television",
+      "sentence_de": "Nach dem Abendessen schaue ich manchmal fern.",
+      "sentence_en": "After dinner I sometimes watch TV."
+    },
+    {
+      "de": "die Nachrichten",
+      "en": "news",
+      "sentence_de": "Ich schaue die Nachrichten um 20 Uhr.",
+      "sentence_en": "I watch the news at 8 PM."
+    },
+    {
+      "de": "das Lesen",
+      "en": "reading",
+      "sentence_de": "Lesen hilft mir, vor dem Schlafen zu entspannen.",
+      "sentence_en": "Reading helps me relax before sleep."
+    },
+    {
+      "de": "das Handy",
+      "en": "mobile phone",
+      "sentence_de": "Ich checke mein Handy gleich nach dem Aufwachen.",
+      "sentence_en": "I check my phone right after waking up."
+    },
+    {
+      "de": "die Toilette",
+      "en": "toilet / bathroom",
+      "sentence_de": "Morgenroutine beginnt immer auf der Toilette.",
+      "sentence_en": "Morning routine always starts on the toilet."
+    },
+    {
+      "de": "das Putzen",
+      "en": "cleaning",
+      "sentence_de": "Ich putze am Samstag die ganze Wohnung.",
+      "sentence_en": "I clean the whole apartment on Saturday."
+    },
+    {
+      "de": "die Hausarbeit",
+      "en": "housework",
+      "sentence_de": "Die Hausarbeit teile ich mit meinem Partner.",
+      "sentence_en": "I share the housework with my partner."
+    },
+    {
+      "de": "das Einkaufen",
+      "en": "shopping",
+      "sentence_de": "Einkaufen erledige ich immer nach der Arbeit.",
+      "sentence_en": "I always do the shopping after work."
+    },
+    {
+      "de": "die Erledigungen",
+      "en": "errands",
+      "sentence_de": "Heute habe ich viele Erledigungen.",
+      "sentence_en": "I have a lot of errands today."
+    },
+    {
+      "de": "das Schlafengehen",
+      "en": "going to bed",
+      "sentence_de": "Um 22:30 Uhr gehe ich ins Bett.",
+      "sentence_en": "I go to bed at 10:30 PM."
+    },
+    {
+      "de": "der Wecker",
+      "en": "alarm clock",
+      "sentence_de": "Der Wecker klingelt um 6 Uhr.",
+      "sentence_en": "The alarm clock rings at 6 AM."
+    },
+    {
+      "de": "das Einschlafen",
+      "en": "falling asleep",
+      "sentence_de": "Das Einschlafen dauert bei mir meist nicht lange.",
+      "sentence_en": "Falling asleep usually doesn't take me long."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "aufwachen",
+      "en": "to wake up",
+      "sentence_de": "Ich wache jeden Tag um 6 Uhr auf.",
+      "sentence_en": "I wake up every day at 6 AM."
+    },
+    {
+      "de": "aufstehen",
+      "en": "to get up",
+      "sentence_de": "Ich stehe sofort auf, wenn der Wecker klingelt.",
+      "sentence_en": "I get up immediately when the alarm rings."
+    },
+    {
+      "de": "sich die Zähne putzen",
+      "en": "to brush one's teeth",
+      "sentence_de": "Ich putze mir die Zähne nach dem Frühstück.",
+      "sentence_en": "I brush my teeth after breakfast."
+    },
+    {
+      "de": "sich waschen",
+      "en": "to wash oneself",
+      "sentence_de": "Ich wasche mein Gesicht mit kaltem Wasser.",
+      "sentence_en": "I wash my face with cold water."
+    },
+    {
+      "de": "duschen",
+      "en": "to shower",
+      "sentence_de": "Ich dusche jeden Morgen.",
+      "sentence_en": "I shower every morning."
+    },
+    {
+      "de": "frühstücken",
+      "en": "to have breakfast",
+      "sentence_de": "Wir frühstücken immer gemeinsam.",
+      "sentence_en": "We always have breakfast together."
+    },
+    {
+      "de": "sich anziehen",
+      "en": "to get dressed",
+      "sentence_de": "Ich ziehe mich in aller Ruhe an.",
+      "sentence_en": "I get dressed calmly."
+    },
+    {
+      "de": "sich umziehen",
+      "en": "to change clothes",
+      "sentence_de": "Nach der Arbeit ziehe ich mich um.",
+      "sentence_en": "After work I change clothes."
+    },
+    {
+      "de": "gehen",
+      "en": "to go",
+      "sentence_de": "Ich gehe um 7:30 Uhr aus dem Haus.",
+      "sentence_en": "I leave the house at 7:30 AM."
+    },
+    {
+      "de": "fahren",
+      "en": "to drive / travel",
+      "sentence_de": "Ich fahre mit dem Zug zur Arbeit.",
+      "sentence_en": "I take the train to work."
+    },
+    {
+      "de": "kommen",
+      "en": "to come",
+      "sentence_de": "Ich komme um 18 Uhr nach Hause.",
+      "sentence_en": "I come home at 6 PM."
+    },
+    {
+      "de": "arbeiten",
+      "en": "to work",
+      "sentence_de": "Ich arbeite von 8 bis 17 Uhr.",
+      "sentence_en": "I work from 8 AM to 5 PM."
+    },
+    {
+      "de": "lernen",
+      "en": "to study / learn",
+      "sentence_de": "Meine Tochter lernt jeden Abend für die Schule.",
+      "sentence_en": "My daughter studies for school every evening."
+    },
+    {
+      "de": "essen",
+      "en": "to eat",
+      "sentence_de": "Wir essen um 12 Uhr zu Mittag.",
+      "sentence_en": "We have lunch at 12 PM."
+    },
+    {
+      "de": "trinken",
+      "en": "to drink",
+      "sentence_de": "Ich trinke viel Wasser über den Tag.",
+      "sentence_en": "I drink a lot of water throughout the day."
+    },
+    {
+      "de": "pausieren",
+      "en": "to take a break",
+      "sentence_de": "Ich pausiere um 10 Uhr für 15 Minuten.",
+      "sentence_en": "I take a break at 10 AM for 15 minutes."
+    },
+    {
+      "de": "sich ausruhen",
+      "en": "to rest",
+      "sentence_de": "Am Wochenende ruhe ich mich aus.",
+      "sentence_en": "On weekends I rest."
+    },
+    {
+      "de": "einkaufen",
+      "en": "to go shopping",
+      "sentence_de": "Ich kaufe nach der Arbeit ein.",
+      "sentence_en": "I go shopping after work."
+    },
+    {
+      "de": "kochen",
+      "en": "to cook",
+      "sentence_de": "Ich koche heute Abend Pasta.",
+      "sentence_en": "I'm cooking pasta tonight."
+    },
+    {
+      "de": "aufräumen",
+      "en": "to tidy up",
+      "sentence_de": "Ich räume jeden Abend mein Zimmer auf.",
+      "sentence_en": "I tidy up my room every evening."
+    },
+    {
+      "de": "putzen",
+      "en": "to clean",
+      "sentence_de": "Ich putze am Wochenende das Bad.",
+      "sentence_en": "I clean the bathroom on weekends."
+    },
+    {
+      "de": "fernsehen",
+      "en": "to watch TV",
+      "sentence_de": "Wir sehen abends gerne fern.",
+      "sentence_en": "We like to watch TV in the evening."
+    },
+    {
+      "de": "lesen",
+      "en": "to read",
+      "sentence_de": "Ich lese vor dem Einschlafen.",
+      "sentence_en": "I read before falling asleep."
+    },
+    {
+      "de": "schreiben",
+      "en": "to write",
+      "sentence_de": "Ich schreibe manchmal Tagebuch.",
+      "sentence_en": "I sometimes write in a diary."
+    },
+    {
+      "de": "telefonieren",
+      "en": "to talk on the phone",
+      "sentence_de": "Ich telefoniere abends mit meiner Mutter.",
+      "sentence_en": "I talk on the phone with my mother in the evening."
+    },
+    {
+      "de": "entspannen",
+      "en": "to relax",
+      "sentence_de": "Am Abend entspanne ich mich mit einem Buch.",
+      "sentence_en": "In the evening I relax with a book."
+    },
+    {
+      "de": "schlafen",
+      "en": "to sleep",
+      "sentence_de": "Ich schlafe um 22:30 Uhr ein.",
+      "sentence_en": "I fall asleep at 10:30 PM."
+    },
+    {
+      "de": "sich hinlegen",
+      "en": "to lie down",
+      "sentence_de": "Ich lege mich aufs Sofa und ruhe mich aus.",
+      "sentence_en": "I lie down on the sofa and rest."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "früh",
+      "en": "early",
+      "sentence_de": "Ich stehe früh auf.",
+      "sentence_en": "I get up early."
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "sentence_de": "Am Wochenende stehe ich spät auf.",
+      "sentence_en": "On weekends I get up late."
+    },
+    {
+      "de": "morgendlich",
+      "en": "morning (habit)",
+      "sentence_de": "Meine morgendliche Routine dauert 45 Minuten.",
+      "sentence_en": "My morning routine takes 45 minutes."
+    },
+    {
+      "de": "abendlich",
+      "en": "evening (habit)",
+      "sentence_de": "Die abendliche Routine ist mir sehr wichtig.",
+      "sentence_en": "The evening routine is very important to me."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Das ist meine tägliche Gewohnheit.",
+      "sentence_en": "That is my daily habit."
+    },
+    {
+      "de": "wöchentlich",
+      "en": "weekly",
+      "sentence_de": "Ich habe eine wöchentliche Besprechung.",
+      "sentence_en": "I have a weekly meeting."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regular",
+      "sentence_de": "Regelmäßige Bewegung ist wichtig.",
+      "sentence_en": "Regular exercise is important."
+    },
+    {
+      "de": "unregelmäßig",
+      "en": "irregular",
+      "sentence_de": "Mein Schlafrhythmus ist unregelmäßig.",
+      "sentence_en": "My sleep rhythm is irregular."
+    },
+    {
+      "de": "hektisch",
+      "en": "hectic",
+      "sentence_de": "Der Morgen war heute sehr hektisch.",
+      "sentence_en": "The morning was very hectic today."
+    },
+    {
+      "de": "entspannt",
+      "en": "relaxed",
+      "sentence_de": "Das Wochenende beginnt entspannt.",
+      "sentence_en": "The weekend starts relaxed."
+    },
+    {
+      "de": "stressig",
+      "en": "stressful",
+      "sentence_de": "Meine Arbeit ist manchmal sehr stressig.",
+      "sentence_en": "My work is sometimes very stressful."
+    },
+    {
+      "de": "produktiv",
+      "en": "productive",
+      "sentence_de": "Morgens bin ich am produktivsten.",
+      "sentence_en": "I'm most productive in the morning."
+    },
+    {
+      "de": "langsam",
+      "en": "slow",
+      "sentence_de": "Ich bin morgens immer etwas langsam.",
+      "sentence_en": "I'm always a bit slow in the morning."
+    },
+    {
+      "de": "schnell",
+      "en": "fast",
+      "sentence_de": "Ich dusche schnell, weil ich wenig Zeit habe.",
+      "sentence_en": "I shower quickly because I have little time."
+    },
+    {
+      "de": "fest (Routine)",
+      "en": "fixed (routine)",
+      "sentence_de": "Ich habe eine feste Morgenroutine.",
+      "sentence_en": "I have a fixed morning routine."
+    },
+    {
+      "de": "flexibel",
+      "en": "flexible",
+      "sentence_de": "Am Wochenende ist mein Tagesablauf flexibel.",
+      "sentence_en": "On weekends my daily routine is flexible."
+    },
+    {
+      "de": "anstrengend",
+      "en": "tiring / strenuous",
+      "sentence_de": "Der Tag war sehr anstrengend.",
+      "sentence_en": "The day was very tiring."
+    },
+    {
+      "de": "erholsam",
+      "en": "restful",
+      "sentence_de": "Ein erholsamer Schlaf ist wichtig.",
+      "sentence_en": "Restful sleep is important."
+    },
+    {
+      "de": "voll (Tag)",
+      "en": "full (day)",
+      "sentence_de": "Heute habe ich einen vollen Tag.",
+      "sentence_en": "I have a full day today."
+    },
+    {
+      "de": "leer (Tag)",
+      "en": "empty / free (day)",
+      "sentence_de": "Heute habe ich einen leeren Tag ohne Termine.",
+      "sentence_en": "Today I have a free day without appointments."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "morgens",
+      "en": "in the morning",
+      "sentence_de": "Morgens trinke ich immer Kaffee.",
+      "sentence_en": "In the morning I always drink coffee."
+    },
+    {
+      "de": "vormittags",
+      "en": "in the late morning",
+      "sentence_de": "Vormittags arbeite ich konzentriert.",
+      "sentence_en": "In the late morning I work concentratedly."
+    },
+    {
+      "de": "mittags",
+      "en": "at noon",
+      "sentence_de": "Mittags mache ich eine Pause.",
+      "sentence_en": "At noon I take a break."
+    },
+    {
+      "de": "nachmittags",
+      "en": "in the afternoon",
+      "sentence_de": "Nachmittags gehe ich oft spazieren.",
+      "sentence_en": "In the afternoon I often go for a walk."
+    },
+    {
+      "de": "abends",
+      "en": "in the evening",
+      "sentence_de": "Abends schaue ich fern.",
+      "sentence_en": "In the evening I watch TV."
+    },
+    {
+      "de": "nachts",
+      "en": "at night",
+      "sentence_de": "Nachts schlafe ich in der Regel gut.",
+      "sentence_en": "At night I usually sleep well."
+    },
+    {
+      "de": "früh",
+      "en": "early",
+      "sentence_de": "Ich gehe früh ins Bett.",
+      "sentence_en": "I go to bed early."
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "sentence_de": "Am Wochenende stehe ich spät auf.",
+      "sentence_en": "On weekends I get up late."
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "sentence_de": "Ich mache täglich Sport.",
+      "sentence_en": "I do sports daily."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich putze regelmäßig die Wohnung.",
+      "sentence_en": "I clean the apartment regularly."
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "sentence_de": "Ich frühstücke selten warm.",
+      "sentence_en": "I rarely have a warm breakfast."
+    },
+    {
+      "de": "immer",
+      "en": "always",
+      "sentence_de": "Ich putze mir immer die Zähne.",
+      "sentence_en": "I always brush my teeth."
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "sentence_de": "Manchmal schlafe ich länger.",
+      "sentence_en": "Sometimes I sleep longer."
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "sentence_de": "Ich koche oft frisch.",
+      "sentence_en": "I often cook fresh."
+    },
+    {
+      "de": "nie",
+      "en": "never",
+      "sentence_de": "Ich frühstücke nie ohne Kaffee.",
+      "sentence_en": "I never have breakfast without coffee."
+    },
+    {
+      "de": "gerne",
+      "en": "gladly",
+      "sentence_de": "Ich stehe gerne früh auf.",
+      "sentence_en": "I like to get up early."
+    },
+    {
+      "de": "ungern",
+      "en": "reluctantly",
+      "sentence_de": "Ich räume ungern auf.",
+      "sentence_en": "I reluctantly tidy up."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Ich dusche schnell, wenn ich spät dran bin.",
+      "sentence_en": "I shower quickly when I'm running late."
+    },
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Am Sonntag mache ich alles langsam.",
+      "sentence_en": "On Sunday I do everything slowly."
+    },
+    {
+      "de": "gewohnheitsmäßig",
+      "en": "habitually",
+      "sentence_de": "Ich mache das gewohnheitsmäßig jeden Tag.",
+      "sentence_en": "I do that habitually every day."
+    },
+    {
+      "de": "normalerweise",
+      "en": "normally",
+      "sentence_de": "Normalerweise stehe ich um 6 Uhr auf.",
+      "sentence_en": "Normally I get up at 6 AM."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Mein Tagesablauf beginnt jeden Tag um 6 Uhr mit dem Klingeln des Weckers.",
+      "en": "My daily routine starts every day at 6 AM with the alarm clock ringing."
+    },
+    {
+      "de": "Nach dem Aufstehen putze ich mir die Zähne und dusche mich.",
+      "en": "After getting up I brush my teeth and take a shower."
+    },
+    {
+      "de": "Ich frühstücke immer mit meiner Familie, bevor wir alle losgehen.",
+      "en": "I always have breakfast with my family before we all leave."
+    },
+    {
+      "de": "Um 8 Uhr fahre ich mit dem Auto zur Arbeit und bin um 8:30 Uhr im Büro.",
+      "en": "At 8 AM I drive to work and I'm at the office by 8:30 AM."
+    },
+    {
+      "de": "Die Mittagspause von 12 bis 13 Uhr verbringe ich meistens mit Kollegen.",
+      "en": "I usually spend my lunch break from 12 to 1 PM with colleagues."
+    },
+    {
+      "de": "Gegen 17 Uhr mache ich Feierabend und fahre nach Hause.",
+      "en": "Around 5 PM I finish work and drive home."
+    },
+    {
+      "de": "Nach der Arbeit gehe ich ins Fitnessstudio oder mache einen Spaziergang.",
+      "en": "After work I go to the gym or take a walk."
+    },
+    {
+      "de": "Das Abendessen koche ich meistens selbst – heute gibt es Pasta.",
+      "en": "I usually cook dinner myself – today there's pasta."
+    },
+    {
+      "de": "Am Abend entspanne ich mich mit einem Buch oder einer Serie.",
+      "en": "In the evening I relax with a book or a series."
+    },
+    {
+      "de": "Vor dem Schlafengehen lese ich noch 20 Minuten und schalte das Handy aus.",
+      "en": "Before going to bed I read for another 20 minutes and turn off my phone."
+    },
+    {
+      "de": "Mein Tagesablauf ist recht strukturiert, was mir hilft, produktiv zu sein.",
+      "en": "My daily routine is quite structured, which helps me be productive."
+    },
+    {
+      "de": "Am Wochenende sieht mein Tagesablauf ganz anders aus – ich stehe später auf und mache nur, worauf ich Lust habe.",
+      "en": "On weekends my daily routine looks completely different – I get up later and just do what I feel like."
+    },
+    {
+      "de": "Regelmäßige Pausen helfen mir, den ganzen Tag über konzentriert zu bleiben.",
+      "en": "Regular breaks help me stay focused throughout the day."
+    },
+    {
+      "de": "Ich versuche, jeden Abend zur gleichen Zeit ins Bett zu gehen, um meinen Schlafrhythmus zu halten.",
+      "en": "I try to go to bed at the same time every evening to maintain my sleep rhythm."
+    },
+    {
+      "de": "Ein guter Tagesablauf gibt mir Sicherheit und hilft mir, Stress zu vermeiden.",
+      "en": "A good daily routine gives me security and helps me avoid stress."
+    }
+  ]
+}

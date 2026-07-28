@@ -1,0 +1,727 @@
+{
+  "theme": "Money and Payments",
+  "words": [
+    {
+      "de": "das Geld",
+      "en": "money",
+      "sentence_de": "Geld ist nicht alles, aber es erleichtert das Leben.",
+      "sentence_en": "Money isn't everything, but it makes life easier."
+    },
+    {
+      "de": "die Zahlung",
+      "en": "payment",
+      "sentence_de": "Die Zahlung muss bis morgen erfolgen.",
+      "sentence_en": "The payment must be made by tomorrow."
+    },
+    {
+      "de": "die Währung",
+      "en": "currency",
+      "sentence_de": "Die Währung in Deutschland ist der Euro.",
+      "sentence_en": "The currency in Germany is the euro."
+    },
+    {
+      "de": "der Euro",
+      "en": "euro",
+      "sentence_de": "Ein Euro besteht aus 100 Cent.",
+      "sentence_en": "One euro consists of 100 cents."
+    },
+    {
+      "de": "der Cent",
+      "en": "cent",
+      "sentence_de": "Das kostet nur 99 Cent.",
+      "sentence_en": "That costs only 99 cents."
+    },
+    {
+      "de": "der Betrag",
+      "en": "amount",
+      "sentence_de": "Der Betrag wird von deinem Konto abgebucht.",
+      "sentence_en": "The amount will be debited from your account."
+    },
+    {
+      "de": "der Preis",
+      "en": "price",
+      "sentence_de": "Der Preis ist inklusive Mehrwertsteuer.",
+      "sentence_en": "The price is inclusive of VAT."
+    },
+    {
+      "de": "die Kosten",
+      "en": "costs",
+      "sentence_de": "Die Kosten für die Reparatur sind hoch.",
+      "sentence_en": "The costs for the repair are high."
+    },
+    {
+      "de": "die Ausgabe",
+      "en": "expenditure / expense",
+      "sentence_de": "Ich muss meine Ausgaben besser kontrollieren.",
+      "sentence_en": "I need to control my expenses better."
+    },
+    {
+      "de": "die Einnahme",
+      "en": "income / revenue",
+      "sentence_de": "Die Einnahmen sind diesen Monat gestiegen.",
+      "sentence_en": "Income has increased this month."
+    },
+    {
+      "de": "das Gehalt",
+      "en": "salary",
+      "sentence_de": "Mein Gehalt wird am Monatsende überwiesen.",
+      "sentence_en": "My salary is transferred at the end of the month."
+    },
+    {
+      "de": "der Lohn",
+      "en": "wages",
+      "sentence_de": "Der Lohn wird stündlich bezahlt.",
+      "sentence_en": "Wages are paid hourly."
+    },
+    {
+      "de": "das Bargeld",
+      "en": "cash",
+      "sentence_de": "Ich habe kein Bargeld mehr dabei.",
+      "sentence_en": "I don't have any cash left on me."
+    },
+    {
+      "de": "der Geldschein",
+      "en": "banknote / bill",
+      "sentence_de": "Ein 50-Euro-Schein ist der häufigste Geldschein.",
+      "sentence_en": "A 50-euro bill is the most common banknote."
+    },
+    {
+      "de": "die Münze",
+      "en": "coin",
+      "sentence_de": "Die 2-Euro-Münze ist sehr verbreitet.",
+      "sentence_en": "The 2-euro coin is very common."
+    },
+    {
+      "de": "das Kleingeld",
+      "en": "small change / coins",
+      "sentence_de": "Hast du Kleingeld für den Automaten?",
+      "sentence_en": "Do you have small change for the machine?"
+    },
+    {
+      "de": "das Portemonnaie / die Geldbörse",
+      "en": "wallet / purse",
+      "sentence_de": "Ich habe mein Portemonnaie zu Hause vergessen.",
+      "sentence_en": "I forgot my wallet at home."
+    },
+    {
+      "de": "die Karte (EC-Karte / Girocard)",
+      "en": "debit card",
+      "sentence_de": "Ich bezahle mit der EC-Karte.",
+      "sentence_en": "I'm paying with my debit card."
+    },
+    {
+      "de": "die Kreditkarte",
+      "en": "credit card",
+      "sentence_de": "Kreditkarten werden weltweit akzeptiert.",
+      "sentence_en": "Credit cards are accepted worldwide."
+    },
+    {
+      "de": "die PIN",
+      "en": "PIN",
+      "sentence_de": "Bitte geben Sie Ihre PIN ein.",
+      "sentence_en": "Please enter your PIN."
+    },
+    {
+      "de": "das Konto",
+      "en": "account",
+      "sentence_de": "Ich habe ein Konto bei der Sparkasse.",
+      "sentence_en": "I have an account at the savings bank."
+    },
+    {
+      "de": "die Bank",
+      "en": "bank",
+      "sentence_de": "Die Bank ist von 9 bis 16 Uhr geöffnet.",
+      "sentence_en": "The bank is open from 9 AM to 4 PM."
+    },
+    {
+      "de": "der Geldautomat",
+      "en": "ATM",
+      "sentence_de": "Am Geldautomaten kann ich Geld abheben.",
+      "sentence_en": "I can withdraw money at the ATM."
+    },
+    {
+      "de": "die Überweisung",
+      "en": "transfer",
+      "sentence_de": "Ich habe die Überweisung gestern getätigt.",
+      "sentence_en": "I made the transfer yesterday."
+    },
+    {
+      "de": "die Lastschrift",
+      "en": "direct debit",
+      "sentence_de": "Die Miete wird per Lastschrift eingezogen.",
+      "sentence_en": "The rent is collected by direct debit."
+    },
+    {
+      "de": "der Dauerauftrag",
+      "en": "standing order",
+      "sentence_de": "Der Dauerauftrag wird jeden Monat ausgeführt.",
+      "sentence_en": "The standing order is executed every month."
+    },
+    {
+      "de": "die Rechnung",
+      "en": "invoice / bill",
+      "sentence_de": "Kann ich die Rechnung per Überweisung bezahlen?",
+      "sentence_en": "Can I pay the invoice by transfer?"
+    },
+    {
+      "de": "der Beleg",
+      "en": "receipt",
+      "sentence_de": "Bitte bewahren Sie den Beleg für Ihre Unterlagen auf.",
+      "sentence_en": "Please keep the receipt for your records."
+    },
+    {
+      "de": "die Quittung",
+      "en": "receipt",
+      "sentence_de": "Ich habe die Quittung für die Rückgabe verloren.",
+      "sentence_en": "I lost the receipt for the return."
+    },
+    {
+      "de": "das Wechselgeld",
+      "en": "change (money returned)",
+      "sentence_de": "Stimmt das Wechselgeld?",
+      "sentence_en": "Is the change correct?"
+    },
+    {
+      "de": "der Rabatt",
+      "en": "discount",
+      "sentence_de": "Mit dem Gutschein bekomme ich 20 % Rabatt.",
+      "sentence_en": "With the voucher I get a 20% discount."
+    },
+    {
+      "de": "das Angebot",
+      "en": "offer / deal",
+      "sentence_de": "Das Angebot ist gültig bis Ende des Monats.",
+      "sentence_en": "The offer is valid until the end of the month."
+    },
+    {
+      "de": "die Steuer",
+      "en": "tax",
+      "sentence_de": "Die Mehrwertsteuer beträgt 19 %.",
+      "sentence_en": "The value-added tax is 19%."
+    },
+    {
+      "de": "die Gebühr",
+      "en": "fee",
+      "sentence_de": "Für die Kontoführung fällt eine monatliche Gebühr an.",
+      "sentence_en": "There is a monthly fee for account management."
+    },
+    {
+      "de": "die Zinsen (Pl.)",
+      "en": "interest",
+      "sentence_de": "Die Zinsen für das Sparkonto sind sehr niedrig.",
+      "sentence_en": "The interest on the savings account is very low."
+    },
+    {
+      "de": "der Kredit",
+      "en": "loan",
+      "sentence_de": "Wir haben einen Kredit für das Haus aufgenommen.",
+      "sentence_en": "We took out a loan for the house."
+    },
+    {
+      "de": "die Schulden (Pl.)",
+      "en": "debts",
+      "sentence_de": "Er hat hohe Schulden bei der Bank.",
+      "sentence_en": "He has high debts with the bank."
+    },
+    {
+      "de": "die Rente",
+      "en": "pension",
+      "sentence_de": "Mit 67 Jahren bekomme ich Rente.",
+      "sentence_en": "I'll get a pension at 67."
+    },
+    {
+      "de": "das Taschengeld",
+      "en": "pocket money",
+      "sentence_de": "Die Kinder bekommen 20 Euro Taschengeld im Monat.",
+      "sentence_en": "The children get 20 euros pocket money per month."
+    },
+    {
+      "de": "die Spende",
+      "en": "donation",
+      "sentence_de": "Ich habe eine Spende an eine Hilfsorganisation gemacht.",
+      "sentence_en": "I made a donation to a charity organization."
+    },
+    {
+      "de": "der Wechselkurs",
+      "en": "exchange rate",
+      "sentence_de": "Der Wechselkurs zwischen Euro und Dollar ist günstig.",
+      "sentence_en": "The exchange rate between euros and dollars is favorable."
+    },
+    {
+      "de": "das Guthaben",
+      "en": "balance (credit)",
+      "sentence_de": "Mein Kontoguthaben beträgt 500 Euro.",
+      "sentence_en": "My account balance is 500 euros."
+    },
+    {
+      "de": "das Minus (Konto)",
+      "en": "overdraft / negative balance",
+      "sentence_de": "Mein Konto ist im Minus.",
+      "sentence_en": "My account is overdrawn."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "bezahlen",
+      "en": "to pay",
+      "sentence_de": "Ich bezahle mit meiner Kreditkarte.",
+      "sentence_en": "I'm paying with my credit card."
+    },
+    {
+      "de": "zahlen",
+      "en": "to pay",
+      "sentence_de": "Bitte zahlen Sie an der Kasse.",
+      "sentence_en": "Please pay at the checkout."
+    },
+    {
+      "de": "ausgeben",
+      "en": "to spend",
+      "sentence_de": "Ich gebe zu viel Geld für Essen aus.",
+      "sentence_en": "I spend too much money on food."
+    },
+    {
+      "de": "sparen",
+      "en": "to save",
+      "sentence_de": "Ich spare für einen Urlaub in Japan.",
+      "sentence_en": "I'm saving for a vacation in Japan."
+    },
+    {
+      "de": "verdienen",
+      "en": "to earn",
+      "sentence_de": "Sie verdient 3.000 Euro im Monat.",
+      "sentence_en": "She earns 3,000 euros per month."
+    },
+    {
+      "de": "überweisen",
+      "en": "to transfer",
+      "sentence_de": "Ich überweise das Geld auf dein Konto.",
+      "sentence_en": "I'm transferring the money to your account."
+    },
+    {
+      "de": "einzahlen",
+      "en": "to deposit",
+      "sentence_de": "Ich zahle 100 Euro auf mein Sparkonto ein.",
+      "sentence_en": "I'm depositing 100 euros into my savings account."
+    },
+    {
+      "de": "abheben",
+      "en": "to withdraw",
+      "sentence_de": "Ich hebe 50 Euro vom Geldautomaten ab.",
+      "sentence_en": "I'm withdrawing 50 euros from the ATM."
+    },
+    {
+      "de": "buchen",
+      "en": "to book / to post (transaction)",
+      "sentence_de": "Die Bank bucht die Gebühr monatlich ab.",
+      "sentence_en": "The bank debits the fee monthly."
+    },
+    {
+      "de": "abbuchen",
+      "en": "to debit",
+      "sentence_de": "Der Betrag wird von meinem Konto abgebucht.",
+      "sentence_en": "The amount will be debited from my account."
+    },
+    {
+      "de": "gutschreiben",
+      "en": "to credit",
+      "sentence_de": "Die Zinsen werden jährlich gutgeschrieben.",
+      "sentence_en": "Interest is credited annually."
+    },
+    {
+      "de": "kosten",
+      "en": "to cost",
+      "sentence_de": "Das Buch kostet 25 Euro.",
+      "sentence_en": "The book costs 25 euros."
+    },
+    {
+      "de": "verzinsen",
+      "en": "to earn interest",
+      "sentence_de": "Das Sparkonto wird mit 2 % verzinst.",
+      "sentence_en": "The savings account earns 2% interest."
+    },
+    {
+      "de": "investieren",
+      "en": "to invest",
+      "sentence_de": "Ich investiere in Aktien.",
+      "sentence_en": "I'm investing in stocks."
+    },
+    {
+      "de": "leihen",
+      "en": "to lend / borrow",
+      "sentence_de": "Kannst du mir 20 Euro leihen?",
+      "sentence_en": "Can you lend me 20 euros?"
+    },
+    {
+      "de": "schulden",
+      "en": "to owe",
+      "sentence_de": "Er schuldet mir noch 100 Euro.",
+      "sentence_en": "He still owes me 100 euros."
+    },
+    {
+      "de": "verleihen",
+      "en": "to lend (to someone)",
+      "sentence_de": "Ich verleihe ihm mein Auto nicht.",
+      "sentence_en": "I'm not lending him my car."
+    },
+    {
+      "de": "zurückzahlen",
+      "en": "to pay back",
+      "sentence_de": "Ich muss den Kredit in Raten zurückzahlen.",
+      "sentence_en": "I have to pay back the loan in installments."
+    },
+    {
+      "de": "sparen",
+      "en": "to save",
+      "sentence_de": "Wir sparen für das neue Auto.",
+      "sentence_en": "We're saving for the new car."
+    },
+    {
+      "de": "rechnen",
+      "en": "to calculate",
+      "sentence_de": "Ich rechne die Gesamtsumme aus.",
+      "sentence_en": "I'm calculating the total amount."
+    },
+    {
+      "de": "wechseln (Geld)",
+      "en": "to change (money)",
+      "sentence_de": "Wo kann ich Euro in Dollar wechseln?",
+      "sentence_en": "Where can I change euros into dollars?"
+    },
+    {
+      "de": "unterschreiben",
+      "en": "to sign",
+      "sentence_de": "Bitte unterschreiben Sie den Vertrag.",
+      "sentence_en": "Please sign the contract."
+    },
+    {
+      "de": "verhandeln",
+      "en": "to negotiate",
+      "sentence_de": "Wir verhandeln über den Preis.",
+      "sentence_en": "We're negotiating about the price."
+    },
+    {
+      "de": "stornieren",
+      "en": "to cancel",
+      "sentence_de": "Die Zahlung wurde storniert.",
+      "sentence_en": "The payment was canceled."
+    },
+    {
+      "de": "prämieren",
+      "en": "to reward",
+      "sentence_de": "Die Bank prämiert treue Kunden.",
+      "sentence_en": "The bank rewards loyal customers."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "sentence_de": "Das Restaurant ist sehr teuer.",
+      "sentence_en": "The restaurant is very expensive."
+    },
+    {
+      "de": "günstig",
+      "en": "cheap / affordable",
+      "sentence_de": "Das Hotel ist günstig und gut.",
+      "sentence_en": "The hotel is cheap and good."
+    },
+    {
+      "de": "kostenlos",
+      "en": "free (of charge)",
+      "sentence_de": "Der Eintritt ist für Kinder kostenlos.",
+      "sentence_en": "Entry is free for children."
+    },
+    {
+      "de": "preiswert",
+      "en": "reasonably priced",
+      "sentence_de": "Das Essen ist preiswert und lecker.",
+      "sentence_en": "The food is reasonably priced and delicious."
+    },
+    {
+      "de": "überteuert",
+      "en": "overpriced",
+      "sentence_de": "Die Ware ist völlig überteuert.",
+      "sentence_en": "The goods are completely overpriced."
+    },
+    {
+      "de": "sparsam",
+      "en": "frugal / economical",
+      "sentence_de": "Meine Großmutter ist sehr sparsam.",
+      "sentence_en": "My grandmother is very frugal."
+    },
+    {
+      "de": "großzügig",
+      "en": "generous",
+      "sentence_de": "Er ist ein großzügiger Mensch.",
+      "sentence_en": "He is a generous person."
+    },
+    {
+      "de": "geizig",
+      "en": "stingy / miserly",
+      "sentence_de": "Mein Onkel ist sehr geizig.",
+      "sentence_en": "My uncle is very stingy."
+    },
+    {
+      "de": "flüssig (Geld)",
+      "en": "liquid (cash / funds)",
+      "sentence_de": "Ich habe im Moment keine flüssigen Mittel.",
+      "sentence_en": "I don't have any liquid funds at the moment."
+    },
+    {
+      "de": "bar",
+      "en": "cash (payment)",
+      "sentence_de": "Ich zahle bar, nicht mit Karte.",
+      "sentence_en": "I'm paying cash, not with a card."
+    },
+    {
+      "de": "virtuell (Geld)",
+      "en": "virtual (money)",
+      "sentence_de": "Kryptowährungen sind virtuelles Geld.",
+      "sentence_en": "Cryptocurrencies are virtual money."
+    },
+    {
+      "de": "digital (Zahlung)",
+      "en": "digital (payment)",
+      "sentence_de": "Digitale Zahlungen werden immer beliebter.",
+      "sentence_en": "Digital payments are becoming more popular."
+    },
+    {
+      "de": "monatlich",
+      "en": "monthly",
+      "sentence_de": "Die Miete wird monatlich gezahlt.",
+      "sentence_en": "The rent is paid monthly."
+    },
+    {
+      "de": "jährlich",
+      "en": "annually",
+      "sentence_de": "Die Steuererklärung wird jährlich abgegeben.",
+      "sentence_en": "The tax return is filed annually."
+    },
+    {
+      "de": "fix (Kosten)",
+      "en": "fixed (costs)",
+      "sentence_de": "Die Fixkosten sind jeden Monat gleich.",
+      "sentence_en": "Fixed costs are the same every month."
+    },
+    {
+      "de": "variabel (Kosten)",
+      "en": "variable (costs)",
+      "sentence_de": "Die variablen Kosten schwanken monatlich.",
+      "sentence_en": "Variable costs fluctuate monthly."
+    },
+    {
+      "de": "bezahlt",
+      "en": "paid",
+      "sentence_de": "Die Rechnung ist bereits bezahlt.",
+      "sentence_en": "The invoice has already been paid."
+    },
+    {
+      "de": "unbezahlt",
+      "en": "unpaid",
+      "sentence_de": "Die Rechnung ist noch unbezahlt.",
+      "sentence_en": "The invoice is still unpaid."
+    },
+    {
+      "de": "steuerfrei",
+      "en": "tax-free",
+      "sentence_de": "Der Betrag ist steuerfrei.",
+      "sentence_en": "The amount is tax-free."
+    },
+    {
+      "de": "gebührenfrei",
+      "en": "free of charge / no fees",
+      "sentence_de": "Die Kontoführung ist gebührenfrei.",
+      "sentence_en": "Account management is free of charge."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "bar",
+      "en": "in cash",
+      "sentence_de": "Ich bezahle bar.",
+      "sentence_en": "I'm paying in cash."
+    },
+    {
+      "de": "mit Karte",
+      "en": "by card",
+      "sentence_de": "Ich bezahle mit Karte.",
+      "sentence_en": "I'm paying by card."
+    },
+    {
+      "de": "online",
+      "en": "online",
+      "sentence_de": "Ich kaufe online ein und bezahle per Überweisung.",
+      "sentence_en": "I shop online and pay by transfer."
+    },
+    {
+      "de": "sofort",
+      "en": "immediately",
+      "sentence_de": "Die Zahlung wird sofort ausgeführt.",
+      "sentence_en": "The payment is executed immediately."
+    },
+    {
+      "de": "pünktlich",
+      "en": "on time",
+      "sentence_de": "Bitte bezahlen Sie Ihre Rechnung pünktlich.",
+      "sentence_en": "Please pay your invoice on time."
+    },
+    {
+      "de": "verspätet",
+      "en": "late",
+      "sentence_de": "Ich habe die Miete verspätet bezahlt.",
+      "sentence_en": "I paid the rent late."
+    },
+    {
+      "de": "monatlich",
+      "en": "monthly",
+      "sentence_de": "Die Rate wird monatlich abgebucht.",
+      "sentence_en": "The installment is debited monthly."
+    },
+    {
+      "de": "jährlich",
+      "en": "annually",
+      "sentence_de": "Die Gebühr wird jährlich erhoben.",
+      "sentence_en": "The fee is charged annually."
+    },
+    {
+      "de": "ausreichend",
+      "en": "sufficiently",
+      "sentence_de": "Ich habe nicht ausreichend Geld dabei.",
+      "sentence_en": "I don't have sufficient money with me."
+    },
+    {
+      "de": "genug",
+      "en": "enough",
+      "sentence_de": "Hast du genug Bargeld für den Einkauf?",
+      "sentence_en": "Do you have enough cash for the shopping?"
+    },
+    {
+      "de": "teuer",
+      "en": "expensively",
+      "sentence_de": "Dieses Auto ist teuer zu unterhalten.",
+      "sentence_en": "This car is expensive to maintain."
+    },
+    {
+      "de": "günstig",
+      "en": "cheaply",
+      "sentence_de": "Wir haben die Flüge günstig gebucht.",
+      "sentence_en": "We booked the flights cheaply."
+    },
+    {
+      "de": "kostenlos",
+      "en": "for free",
+      "sentence_de": "Der Versand ist kostenlos.",
+      "sentence_en": "Shipping is free."
+    },
+    {
+      "de": "gemeinsam (zahlen)",
+      "en": "together (pay)",
+      "sentence_de": "Wir zahlen die Rechnung gemeinsam.",
+      "sentence_en": "We're paying the bill together."
+    },
+    {
+      "de": "getrennt (zahlen)",
+      "en": "separately (pay)",
+      "sentence_de": "Wir zahlen getrennt.",
+      "sentence_en": "We're paying separately."
+    },
+    {
+      "de": "extra",
+      "en": "extra",
+      "sentence_de": "Die Versandkosten kommen extra dazu.",
+      "sentence_en": "Shipping costs come extra."
+    },
+    {
+      "de": "inklusive",
+      "en": "inclusive",
+      "sentence_de": "Alle Preise sind inklusive MwSt.",
+      "sentence_en": "All prices are inclusive of VAT."
+    },
+    {
+      "de": "exklusive",
+      "en": "exclusive",
+      "sentence_de": "Die Miete ist exklusive Nebenkosten.",
+      "sentence_en": "The rent is exclusive of utilities."
+    },
+    {
+      "de": "ungefähr",
+      "en": "approximately",
+      "sentence_de": "Die Reparatur kostet ungefähr 500 Euro.",
+      "sentence_en": "The repair costs approximately 500 euros."
+    },
+    {
+      "de": "genau",
+      "en": "exactly",
+      "sentence_de": "Der Betrag ist genau 47,30 Euro.",
+      "sentence_en": "The amount is exactly 47.30 euros."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Ich überprüfe regelmäßig meine Kontoauszüge.",
+      "sentence_en": "I check my bank statements regularly."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich möchte bitte den Betrag mit meiner Kreditkarte bezahlen.",
+      "en": "I would like to pay the amount by credit card, please."
+    },
+    {
+      "de": "Das kostet insgesamt 47 Euro und 50 Cent.",
+      "en": "That costs 47 euros and 50 cents in total."
+    },
+    {
+      "de": "Kannst du mir bitte den Beleg für meine Steuererklärung geben?",
+      "en": "Can you please give me the receipt for my tax return?"
+    },
+    {
+      "de": "Ich hebe jeden Monat 200 Euro vom Geldautomaten ab.",
+      "en": "I withdraw 200 euros from the ATM every month."
+    },
+    {
+      "de": "Die Miete wird per Dauerauftrag am ersten des Monats überwiesen.",
+      "en": "The rent is transferred by standing order on the first of the month."
+    },
+    {
+      "de": "Sparen ist wichtig, um Rücklagen für schlechte Zeiten zu haben.",
+      "en": "Saving is important to have reserves for bad times."
+    },
+    {
+      "de": "Kann ich die Rechnung in Raten bezahlen?",
+      "en": "Can I pay the invoice in installments?"
+    },
+    {
+      "de": "Die Bank erhebt eine Gebühr von 5 Euro für die Überweisung.",
+      "en": "The bank charges a fee of 5 euros for the transfer."
+    },
+    {
+      "de": "Ich habe Schulden, weil ich über meine Verhältnisse gelebt habe.",
+      "en": "I have debts because I lived beyond my means."
+    },
+    {
+      "de": "In Deutschland ist der Euro die offizielle Währung.",
+      "en": "In Germany, the euro is the official currency."
+    },
+    {
+      "de": "Beim Einkaufen sollte man immer einen Preisvergleich machen.",
+      "en": "When shopping, you should always compare prices."
+    },
+    {
+      "de": "Viele Geschäfte akzeptieren heutzutage kontaktloses Bezahlen mit der Karte.",
+      "en": "Many shops nowadays accept contactless payment by card."
+    },
+    {
+      "de": "Ich verdiene genug Geld, aber ich muss besser mit meinen Ausgaben planen.",
+      "en": "I earn enough money, but I need to plan my expenses better."
+    },
+    {
+      "de": "Der Rabatt ist nur gültig, wenn du den Gutschein vorzeigst.",
+      "en": "The discount is only valid if you show the voucher."
+    },
+    {
+      "de": "Geld allein macht nicht glücklich, aber es gibt Sicherheit und Freiheit.",
+      "en": "Money alone doesn't make you happy, but it gives security and freedom."
+    }
+  ]
+}

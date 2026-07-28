@@ -1,0 +1,721 @@
+{
+  "theme": "Cooking",
+  "words": [
+    {
+      "de": "das Kochen",
+      "en": "cooking",
+      "sentence_de": "Kochen ist für mich die perfekte Entspannung.",
+      "sentence_en": "Cooking is the perfect relaxation for me."
+    },
+    {
+      "de": "der Koch / die Köchin",
+      "en": "cook",
+      "sentence_de": "Mein Bruder ist ein ausgezeichneter Koch.",
+      "sentence_en": "My brother is an excellent cook."
+    },
+    {
+      "de": "die Küche",
+      "en": "kitchen",
+      "sentence_de": "Die Küche ist das Herzstück des Hauses.",
+      "sentence_en": "The kitchen is the heart of the home."
+    },
+    {
+      "de": "das Rezept",
+      "en": "recipe",
+      "sentence_de": "Ich folge dem Rezept Schritt für Schritt.",
+      "sentence_en": "I follow the recipe step by step."
+    },
+    {
+      "de": "die Zutat",
+      "en": "ingredient",
+      "sentence_de": "Alle Zutaten sind frisch und regional.",
+      "sentence_en": "All ingredients are fresh and regional."
+    },
+    {
+      "de": "das Gericht",
+      "en": "dish",
+      "sentence_de": "Pasta ist mein Lieblingsgericht.",
+      "sentence_en": "Pasta is my favorite dish."
+    },
+    {
+      "de": "die Mahlzeit",
+      "en": "meal",
+      "sentence_de": "Das Abendessen ist die Hauptmahlzeit des Tages.",
+      "sentence_en": "Dinner is the main meal of the day."
+    },
+    {
+      "de": "der Geschmack",
+      "en": "taste",
+      "sentence_de": "Der Geschmack ist sehr intensiv und würzig.",
+      "sentence_en": "The taste is very intense and spicy."
+    },
+    {
+      "de": "das Gewürz",
+      "en": "spice",
+      "sentence_de": "Gewürze geben dem Gericht die richtige Note.",
+      "sentence_en": "Spices give the dish the right note."
+    },
+    {
+      "de": "das Salz",
+      "en": "salt",
+      "sentence_de": "Salz ist das wichtigste Gewürz.",
+      "sentence_en": "Salt is the most important spice."
+    },
+    {
+      "de": "der Pfeffer",
+      "en": "pepper",
+      "sentence_de": "Frisch gemahlener Pfeffer ist am besten.",
+      "sentence_en": "Freshly ground pepper is the best."
+    },
+    {
+      "de": "das Öl",
+      "en": "oil",
+      "sentence_de": "Ich brate das Gemüse in Olivenöl.",
+      "sentence_en": "I fry the vegetables in olive oil."
+    },
+    {
+      "de": "die Butter",
+      "en": "butter",
+      "sentence_de": "Butter macht das Essen cremig und lecker.",
+      "sentence_en": "Butter makes the food creamy and delicious."
+    },
+    {
+      "de": "das Mehl",
+      "en": "flour",
+      "sentence_de": "Für den Teig brauche ich Weizenmehl.",
+      "sentence_en": "I need wheat flour for the dough."
+    },
+    {
+      "de": "der Zucker",
+      "en": "sugar",
+      "sentence_de": "Der Kuchen braucht 200 Gramm Zucker.",
+      "sentence_en": "The cake needs 200 grams of sugar."
+    },
+    {
+      "de": "das Ei",
+      "en": "egg",
+      "sentence_de": "Für den Teig brauche ich drei Eier.",
+      "sentence_en": "I need three eggs for the batter."
+    },
+    {
+      "de": "die Milch",
+      "en": "milk",
+      "sentence_de": "Frische Milch macht den Kaffee cremig.",
+      "sentence_en": "Fresh milk makes the coffee creamy."
+    },
+    {
+      "de": "das Wasser",
+      "en": "water",
+      "sentence_de": "Das Nudelwasser muss stark salzen.",
+      "sentence_en": "The pasta water needs a lot of salt."
+    },
+    {
+      "de": "der Topf",
+      "en": "pot",
+      "sentence_de": "Der Topf ist groß genug für die Suppe.",
+      "sentence_en": "The pot is large enough for the soup."
+    },
+    {
+      "de": "die Pfanne",
+      "en": "pan",
+      "sentence_de": "Ich brate die Eier in der Pfanne.",
+      "sentence_en": "I fry the eggs in the pan."
+    },
+    {
+      "de": "der Herd",
+      "en": "stove",
+      "sentence_de": "Der Herd ist noch heiß von der Suppe.",
+      "sentence_en": "The stove is still hot from the soup."
+    },
+    {
+      "de": "der Backofen",
+      "en": "oven",
+      "sentence_de": "Der Backofen ist auf 180 Grad vorgeheizt.",
+      "sentence_en": "The oven is preheated to 180 degrees."
+    },
+    {
+      "de": "die Mikrowelle",
+      "en": "microwave",
+      "sentence_de": "Ich wärme das Essen in der Mikrowelle auf.",
+      "sentence_en": "I heat the food in the microwave."
+    },
+    {
+      "de": "das Messer",
+      "en": "knife",
+      "sentence_de": "Ein scharfes Messer ist das A und O beim Kochen.",
+      "sentence_en": "A sharp knife is essential when cooking."
+    },
+    {
+      "de": "das Schneidebrett",
+      "en": "cutting board",
+      "sentence_de": "Ich schneide die Zwiebel auf dem Schneidebrett.",
+      "sentence_en": "I cut the onion on the cutting board."
+    },
+    {
+      "de": "der Schneebesen",
+      "en": "whisk",
+      "sentence_de": "Mit dem Schneebesen schlägst du die Sahne steif.",
+      "sentence_en": "With the whisk you whip the cream."
+    },
+    {
+      "de": "der Pfannenwender",
+      "en": "spatula",
+      "sentence_de": "Mit dem Pfannenwender wendest du die Bratkartoffeln.",
+      "sentence_en": "With the spatula you turn the fried potatoes."
+    },
+    {
+      "de": "die Schüssel",
+      "en": "bowl",
+      "sentence_de": "Ich mische den Salat in einer großen Schüssel.",
+      "sentence_en": "I mix the salad in a large bowl."
+    },
+    {
+      "de": "das Gemüse",
+      "en": "vegetables",
+      "sentence_de": "Frisches Gemüse ist gesund und lecker.",
+      "sentence_en": "Fresh vegetables are healthy and delicious."
+    },
+    {
+      "de": "das Obst",
+      "en": "fruit",
+      "sentence_de": "Obst ist eine natürliche Süßigkeit.",
+      "sentence_en": "Fruit is a natural candy."
+    },
+    {
+      "de": "das Fleisch",
+      "en": "meat",
+      "sentence_de": "Das Fleisch sollte gut durchgebraten sein.",
+      "sentence_en": "The meat should be well done."
+    },
+    {
+      "de": "der Fisch",
+      "en": "fish",
+      "sentence_de": "Fisch ist reich an Omega-3-Fettsäuren.",
+      "sentence_en": "Fish is rich in omega-3 fatty acids."
+    },
+    {
+      "de": "die Pasta",
+      "en": "pasta",
+      "sentence_de": "Pasta geht immer und ist schnell zubereitet.",
+      "sentence_en": "Pasta always works and is quick to prepare."
+    },
+    {
+      "de": "der Reis",
+      "en": "rice",
+      "sentence_de": "Reis ist eine Beilage für viele Gerichte.",
+      "sentence_en": "Rice is a side dish for many meals."
+    },
+    {
+      "de": "die Kartoffel",
+      "en": "potato",
+      "sentence_de": "Kartoffeln sind ein Grundnahrungsmittel.",
+      "sentence_en": "Potatoes are a staple food."
+    },
+    {
+      "de": "die Zwiebel",
+      "en": "onion",
+      "sentence_de": "Zwiebeln verleihen vielen Gerichten eine würzige Basis.",
+      "sentence_en": "Onions give many dishes a savory base."
+    },
+    {
+      "de": "der Knoblauch",
+      "en": "garlic",
+      "sentence_de": "Knoblauch ist in der italienischen Küche sehr wichtig.",
+      "sentence_en": "Garlic is very important in Italian cuisine."
+    },
+    {
+      "de": "die Tomate",
+      "en": "tomato",
+      "sentence_de": "Tomaten sind die Basis für viele Soßen.",
+      "sentence_en": "Tomatoes are the base for many sauces."
+    },
+    {
+      "de": "die Soße",
+      "en": "sauce",
+      "sentence_de": "Die Soße macht das Gericht erst perfekt.",
+      "sentence_en": "The sauce makes the dish perfect."
+    },
+    {
+      "de": "die Suppe",
+      "en": "soup",
+      "sentence_de": "Eine heiße Suppe wärmt an kalten Tagen.",
+      "sentence_en": "A hot soup warms you on cold days."
+    },
+    {
+      "de": "der Salat",
+      "en": "salad",
+      "sentence_de": "Ein frischer Salat passt zu fast jedem Hauptgericht.",
+      "sentence_en": "A fresh salad goes with almost every main course."
+    },
+    {
+      "de": "der Nachtisch / das Dessert",
+      "en": "dessert",
+      "sentence_de": "Zum Nachtisch gibt es Tiramisu.",
+      "sentence_en": "For dessert there's tiramisu."
+    }
+  ],
+  "verbs": [
+    {
+      "de": "kochen",
+      "en": "to cook",
+      "sentence_de": "Ich koche heute Abend Lasagne.",
+      "sentence_en": "I'm cooking lasagna tonight."
+    },
+    {
+      "de": "braten",
+      "en": "to fry / roast",
+      "sentence_de": "Ich brate das Fleisch in der Pfanne.",
+      "sentence_en": "I fry the meat in the pan."
+    },
+    {
+      "de": "backen",
+      "en": "to bake",
+      "sentence_de": "Meine Oma bäckt den besten Kuchen.",
+      "sentence_en": "My grandma bakes the best cake."
+    },
+    {
+      "de": "schneiden",
+      "en": "to cut",
+      "sentence_de": "Ich schneide die Zwiebeln in kleine Würfel.",
+      "sentence_en": "I cut the onions into small cubes."
+    },
+    {
+      "de": "schälen",
+      "en": "to peel",
+      "sentence_de": "Kannst du die Kartoffeln schälen?",
+      "sentence_en": "Can you peel the potatoes?"
+    },
+    {
+      "de": "würfeln",
+      "en": "to dice",
+      "sentence_de": "Ich würfle das Gemüse für die Suppe.",
+      "sentence_en": "I dice the vegetables for the soup."
+    },
+    {
+      "de": "reiben",
+      "en": "to grate",
+      "sentence_de": "Ich reibe den Käse für die Pizza.",
+      "sentence_en": "I grate the cheese for the pizza."
+    },
+    {
+      "de": "mischen",
+      "en": "to mix",
+      "sentence_de": "Ich mische die Zutaten in einer Schüssel.",
+      "sentence_en": "I mix the ingredients in a bowl."
+    },
+    {
+      "de": "rühren",
+      "en": "to stir",
+      "sentence_de": "Rühre die Soße, damit sie nicht anbrennt.",
+      "sentence_en": "Stir the sauce so it doesn't burn."
+    },
+    {
+      "de": "schlagen (Eier/Sahne)",
+      "en": "to beat (eggs/cream)",
+      "sentence_de": "Ich schlage die Eier schaumig.",
+      "sentence_en": "I beat the eggs until frothy."
+    },
+    {
+      "de": "kneten",
+      "en": "to knead",
+      "sentence_de": "Der Teig muss gut geknetet werden.",
+      "sentence_en": "The dough needs to be kneaded well."
+    },
+    {
+      "de": "rollen (Teig)",
+      "en": "to roll (dough)",
+      "sentence_de": "Ich rolle den Teig mit einem Nudelholz aus.",
+      "sentence_en": "I roll out the dough with a rolling pin."
+    },
+    {
+      "de": "würzen",
+      "en": "to season",
+      "sentence_de": "Würze das Gericht mit Salz und Pfeffer.",
+      "sentence_en": "Season the dish with salt and pepper."
+    },
+    {
+      "de": "salzen",
+      "en": "to salt",
+      "sentence_de": "Vergiss nicht, das Nudelwasser zu salzen.",
+      "sentence_en": "Don't forget to salt the pasta water."
+    },
+    {
+      "de": "pfeffern",
+      "en": "to pepper",
+      "sentence_de": "Pfeffere das Steak nach deinem Geschmack.",
+      "sentence_en": "Pepper the steak to your taste."
+    },
+    {
+      "de": "abschmecken",
+      "en": "to season to taste",
+      "sentence_de": "Schmecke die Soße noch einmal ab.",
+      "sentence_en": "Season the sauce to taste once more."
+    },
+    {
+      "de": "anbraten",
+      "en": "to brown / sauté",
+      "sentence_de": "Ich brate die Zwiebeln kurz an.",
+      "sentence_en": "I sauté the onions briefly."
+    },
+    {
+      "de": "dünsten",
+      "en": "to steam / braise",
+      "sentence_de": "Das Gemüse wird schonend gedünstet.",
+      "sentence_en": "The vegetables are gently steamed."
+    },
+    {
+      "de": "köcheln lassen",
+      "en": "to simmer",
+      "sentence_de": "Lass die Soße 20 Minuten köcheln.",
+      "sentence_en": "Let the sauce simmer for 20 minutes."
+    },
+    {
+      "de": "aufkochen",
+      "en": "to bring to a boil",
+      "sentence_de": "Die Milch wird zum Kochen gebracht.",
+      "sentence_en": "The milk is brought to a boil."
+    },
+    {
+      "de": "abgießen",
+      "en": "to drain",
+      "sentence_de": "Die Nudeln abgießen und warmhalten.",
+      "sentence_en": "Drain the pasta and keep warm."
+    },
+    {
+      "de": "servieren",
+      "en": "to serve",
+      "sentence_de": "Das Gericht wird heiß serviert.",
+      "sentence_en": "The dish is served hot."
+    },
+    {
+      "de": "anrichten",
+      "en": "to plate / arrange",
+      "sentence_de": "Ich richte den Salat auf einem großen Teller an.",
+      "sentence_en": "I arrange the salad on a large plate."
+    },
+    {
+      "de": "probieren / kosten",
+      "en": "to taste / try",
+      "sentence_de": "Kostest du die Suppe, ob sie gut gewürzt ist?",
+      "sentence_en": "Will you taste the soup to see if it's well seasoned?"
+    },
+    {
+      "de": "abdecken",
+      "en": "to cover (with a lid)",
+      "sentence_de": "Decke den Topf mit dem Deckel ab.",
+      "sentence_en": "Cover the pot with the lid."
+    },
+    {
+      "de": "umrühren",
+      "en": "to stir",
+      "sentence_de": "Rühre den Teig gut um, bis er glatt ist.",
+      "sentence_en": "Stir the batter well until it's smooth."
+    }
+  ],
+  "adjectives": [
+    {
+      "de": "lecker",
+      "en": "delicious / tasty",
+      "sentence_de": "Das Essen schmeckt sehr lecker.",
+      "sentence_en": "The food tastes very delicious."
+    },
+    {
+      "de": "herzhaft",
+      "en": "savory / hearty",
+      "sentence_de": "Ein herzhafter Eintopf wärmt den Körper.",
+      "sentence_en": "A hearty stew warms the body."
+    },
+    {
+      "de": "süß",
+      "en": "sweet",
+      "sentence_de": "Der Kuchen ist schön süß.",
+      "sentence_en": "The cake is nicely sweet."
+    },
+    {
+      "de": "sauer",
+      "en": "sour",
+      "sentence_de": "Zitronen schmecken sauer.",
+      "sentence_en": "Lemons taste sour."
+    },
+    {
+      "de": "salzig",
+      "en": "salty",
+      "sentence_de": "Die Suppe ist mir zu salzig.",
+      "sentence_en": "The soup is too salty for me."
+    },
+    {
+      "de": "scharf",
+      "en": "spicy / hot",
+      "sentence_de": "Das Curry ist sehr scharf.",
+      "sentence_en": "The curry is very spicy."
+    },
+    {
+      "de": "bitter",
+      "en": "bitter",
+      "sentence_de": "Schwarzer Kaffee ist leicht bitter.",
+      "sentence_en": "Black coffee is slightly bitter."
+    },
+    {
+      "de": "frisch",
+      "en": "fresh",
+      "sentence_de": "Ich kaufe nur frische Zutaten.",
+      "sentence_en": "I only buy fresh ingredients."
+    },
+    {
+      "de": "gesund",
+      "en": "healthy",
+      "sentence_de": "Gemüse ist sehr gesund.",
+      "sentence_en": "Vegetables are very healthy."
+    },
+    {
+      "de": "ungesund",
+      "en": "unhealthy",
+      "sentence_de": "Fast Food ist meist ungesund.",
+      "sentence_en": "Fast food is usually unhealthy."
+    },
+    {
+      "de": "vegan",
+      "en": "vegan",
+      "sentence_de": "Ich koche heute ein veganes Gericht.",
+      "sentence_en": "I'm cooking a vegan dish today."
+    },
+    {
+      "de": "vegetarisch",
+      "en": "vegetarian",
+      "sentence_de": "Vegetarische Gerichte sind vielseitig.",
+      "sentence_en": "Vegetarian dishes are diverse."
+    },
+    {
+      "de": "glutenfrei",
+      "en": "gluten-free",
+      "sentence_de": "Für Allergiker gibt es glutenfreie Nudeln.",
+      "sentence_en": "There are gluten-free pasta for allergy sufferers."
+    },
+    {
+      "de": "laktosefrei",
+      "en": "lactose-free",
+      "sentence_de": "Ich trinke laktosefreie Milch.",
+      "sentence_en": "I drink lactose-free milk."
+    },
+    {
+      "de": "fettarm",
+      "en": "low-fat",
+      "sentence_de": "Hühnerbrust ist ein fettarmes Fleisch.",
+      "sentence_en": "Chicken breast is a low-fat meat."
+    },
+    {
+      "de": "reichhaltig",
+      "en": "rich / abundant",
+      "sentence_de": "Die Soße ist sehr reichhaltig.",
+      "sentence_en": "The sauce is very rich."
+    },
+    {
+      "de": "kalorienarm",
+      "en": "low-calorie",
+      "sentence_de": "Salat ist ein kalorienarmes Essen.",
+      "sentence_en": "Salad is a low-calorie food."
+    },
+    {
+      "de": "würzig",
+      "en": "spicy (aromatic)",
+      "sentence_de": "Die Suppe ist sehr würzig und lecker.",
+      "sentence_en": "The soup is very spicy and delicious."
+    },
+    {
+      "de": "langweilig",
+      "en": "boring (taste)",
+      "sentence_de": "Das Essen schmeckt etwas langweilig.",
+      "sentence_en": "The food tastes a bit boring."
+    },
+    {
+      "de": "aufwendig (Gericht)",
+      "en": "elaborate (dish)",
+      "sentence_de": "Das Gericht ist sehr aufwendig zuzubereiten.",
+      "sentence_en": "The dish is very elaborate to prepare."
+    }
+  ],
+  "adverbs": [
+    {
+      "de": "langsam",
+      "en": "slowly",
+      "sentence_de": "Das Fleisch sollte langsam gegart werden.",
+      "sentence_en": "The meat should be cooked slowly."
+    },
+    {
+      "de": "schnell",
+      "en": "quickly",
+      "sentence_de": "Pasta ist schnell zubereitet.",
+      "sentence_en": "Pasta is quick to prepare."
+    },
+    {
+      "de": "regelmäßig",
+      "en": "regularly",
+      "sentence_de": "Rühre die Soße regelmäßig um.",
+      "sentence_en": "Stir the sauce regularly."
+    },
+    {
+      "de": "gut",
+      "en": "well",
+      "sentence_de": "Das Fleisch ist gut durchgebraten.",
+      "sentence_en": "The meat is well done."
+    },
+    {
+      "de": "schlecht",
+      "en": "badly / poorly",
+      "sentence_de": "Das Gericht ist schlecht gewürzt.",
+      "sentence_en": "The dish is poorly seasoned."
+    },
+    {
+      "de": "sorgfältig",
+      "en": "carefully",
+      "sentence_de": "Die Zutaten müssen sorgfältig abgewogen werden.",
+      "sentence_en": "The ingredients must be carefully weighed."
+    },
+    {
+      "de": "aufwändig",
+      "en": "elaborately",
+      "sentence_de": "Der Kuchen ist aufwändig zu backen.",
+      "sentence_en": "The cake is elaborately baked."
+    },
+    {
+      "de": "einfach",
+      "en": "simply / easily",
+      "sentence_de": "Das Gericht ist einfach zuzubereiten.",
+      "sentence_en": "The dish is easy to prepare."
+    },
+    {
+      "de": "kalt",
+      "en": "cold (serve/eat)",
+      "sentence_de": "Der Salat wird kalt serviert.",
+      "sentence_en": "The salad is served cold."
+    },
+    {
+      "de": "warm",
+      "en": "warm (serve/eat)",
+      "sentence_de": "Die Suppe wird warm gegessen.",
+      "sentence_en": "The soup is eaten warm."
+    },
+    {
+      "de": "heiß",
+      "en": "hot (serve/eat)",
+      "sentence_de": "Die Soße wird heiß serviert.",
+      "sentence_en": "The sauce is served hot."
+    },
+    {
+      "de": "gleichmäßig",
+      "en": "evenly",
+      "sentence_de": "Die Zwiebeln gleichmäßig braten.",
+      "sentence_en": "Fry the onions evenly."
+    },
+    {
+      "de": "fein",
+      "en": "finely",
+      "sentence_de": "Die Kräuter fein hacken.",
+      "sentence_en": "Chop the herbs finely."
+    },
+    {
+      "de": "grob",
+      "en": "coarsely",
+      "sentence_de": "Das Gemüse grob schneiden.",
+      "sentence_en": "Cut the vegetables coarsely."
+    },
+    {
+      "de": "gründlich",
+      "en": "thoroughly",
+      "sentence_de": "Das Gemüse gründlich waschen.",
+      "sentence_en": "Wash the vegetables thoroughly."
+    },
+    {
+      "de": "zweimal",
+      "en": "twice",
+      "sentence_de": "Den Teig zweimal backen.",
+      "sentence_en": "Bake the dough twice."
+    },
+    {
+      "de": "zuletzt",
+      "en": "last",
+      "sentence_de": "Die Kräuter werden zuletzt hinzugefügt.",
+      "sentence_en": "The herbs are added last."
+    },
+    {
+      "de": "am besten",
+      "en": "best",
+      "sentence_de": "Das Gericht schmeckt am besten frisch.",
+      "sentence_en": "The dish tastes best fresh."
+    },
+    {
+      "de": "nach (dem Rezept)",
+      "en": "according to (the recipe)",
+      "sentence_de": "Ich koche nach dem Rezept meiner Oma.",
+      "sentence_en": "I cook according to my grandma's recipe."
+    },
+    {
+      "de": "selbst (gemacht)",
+      "en": "homemade",
+      "sentence_de": "Selbstgemachte Pizza schmeckt am besten.",
+      "sentence_en": "Homemade pizza tastes best."
+    }
+  ],
+  "sentences": [
+    {
+      "de": "Ich liebe es, neue Rezepte auszuprobieren und kreativ in der Küche zu sein.",
+      "en": "I love trying new recipes and being creative in the kitchen."
+    },
+    {
+      "de": "Für die Pasta brauchen wir Tomaten, Knoblauch, Zwiebeln und frische Kräuter.",
+      "en": "For the pasta we need tomatoes, garlic, onions and fresh herbs."
+    },
+    {
+      "de": "Zuerst schneide ich das Gemüse, dann brate ich es in der Pfanne an.",
+      "en": "First I cut the vegetables, then I sauté them in the pan."
+    },
+    {
+      "de": "Das Fleisch sollte vor dem Braten mit Salz und Pfeffer gewürzt werden.",
+      "en": "The meat should be seasoned with salt and pepper before frying."
+    },
+    {
+      "de": "Ich lasse die Soße mindestens 30 Minuten bei niedriger Hitze köcheln.",
+      "en": "I let the sauce simmer on low heat for at least 30 minutes."
+    },
+    {
+      "de": "Der Kuchen ist fertig, wenn er goldbraun ist und eine angenehme Duftnote verbreitet.",
+      "en": "The cake is ready when it's golden brown and gives off a pleasant aroma."
+    },
+    {
+      "de": "Beim Kochen ist es wichtig, alle Zutaten vorher abzumessen und bereitzustellen.",
+      "en": "When cooking, it's important to measure and prepare all ingredients beforehand."
+    },
+    {
+      "de": "Vergiss nicht, den Ofen auf 180 Grad vorzuheizen, bevor du den Kuchen backst.",
+      "en": "Don't forget to preheat the oven to 180 degrees before baking the cake."
+    },
+    {
+      "de": "Ein guter Koch weiß, dass die Präsentation des Essens fast so wichtig ist wie der Geschmack.",
+      "en": "A good cook knows that the presentation of the food is almost as important as the taste."
+    },
+    {
+      "de": "Für ein vegetarisches Gericht kannst du das Fleisch einfach durch Tofu oder Linsen ersetzen.",
+      "en": "For a vegetarian dish, you can simply replace the meat with tofu or lentils."
+    },
+    {
+      "de": "Das Geheimnis einer guten Soße ist die richtige Balance zwischen Süße, Säure und Salz.",
+      "en": "The secret of a good sauce is the right balance between sweetness, acidity and salt."
+    },
+    {
+      "de": "Nach dem Kochen lasse ich das Fleisch noch einige Minuten ruhen, bevor ich es schneide.",
+      "en": "After cooking, I let the meat rest for a few minutes before cutting it."
+    },
+    {
+      "de": "Frische Kräuter wie Basilikum und Petersilie geben dem Gericht eine besondere Note.",
+      "en": "Fresh herbs like basil and parsley give the dish a special touch."
+    },
+    {
+      "de": "Beim Kochen kann man seiner Kreativität freien Lauf lassen und eigene Variationen kreieren.",
+      "en": "When cooking, you can let your creativity run wild and create your own variations."
+    },
+    {
+      "de": "Das schönste Kompliment für einen Koch ist, wenn die Gäste nach einer Nachschlag fragen.",
+      "en": "The best compliment for a cook is when the guests ask for seconds."
+    }
+  ]
+}
